@@ -31,11 +31,14 @@ __Según lo expuesto, la variable c es global y las variables y, f y d son local
 
 ## Iniciación de una variable
 
-Las **variables globales son iniciadas por omisión por el compilador**: las variables numéricas con 0 y los caracteres con ‘/0’. También pueden ser iniciadas explícitamente, como hemos hecho en el ejemplo anterior con la variable c. En cambio, las variables locales no son inicializadas por el compilador, por lo tanto, depende de nosotros iniciarlas o no.
+Las **variables globales son iniciadas por omisión por el compilador**: las variables numéricas con **0** y los caracteres con **‘/0’**. También pueden ser iniciadas explícitamente, como hemos hecho en el ejemplo anterior con la variable **c**. En cambio, las **variables locales no son inicializadas por el compilador, por lo tanto, depende de nosotros iniciarlas o no**.
 
+## Expresiones Numéricas
+
+Una expresión es un conjunto de operandos unidos mediante operadores para especificar una operación determinada. Cuando todas las expresiones se evalúan retornan un valor. Por ejemplo:
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDYxMTg0OSwxMDU2NzkxMTA1XX0=
+eyJoaXN0b3J5IjpbLTE2ODEzNTEwOTAsMTA1Njc5MTEwNV19
 -->

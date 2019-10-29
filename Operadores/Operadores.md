@@ -1,4 +1,4 @@
-# Operadores
+# Operadores 
 
 Los **operadores** son funciones a las cuales se les ha asignado un símbolo que indican cómo se manipulan los datos. 
 
@@ -15,5 +15,6 @@ Se pueden clasificar en los siguientes grupos:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTM4Mzk0OCwxMTkwODA1NDg0XX0=
+eyJoaXN0b3J5IjpbMTY4MDgwMzg0NiwxNjcxMzgzOTQ4LDExOT
+A4MDU0ODRdfQ==
 -->

@@ -1,6 +1,8 @@
 # Comentarios
 
-Un comentario es un mensaje que se encuentra en el código fuente. ***Añadiendo comentarios se hace más fácil la comprensión de un programa para el programador, la finalidad de los comentarios es explicar el código fuente o incluir mensajes importantes.*** El compilador soporta dos tipos de comentarios:
+Un comentario es un mensaje que se encuentra en el código fuente. ***Añadiendo comentarios se hace más fácil la comprensión de un programa para el programador, la finalidad de los comentarios es explicar el código fuente o incluir mensajes importantes.*** 
+
+El compilador soporta dos tipos de comentarios:
 
 >**Comentario tradicional:** Un comentario tradicional empieza con los caracteres __/*__ y finaliza con __*/__. Estos comentarios pueden ocupar más de una línea, pero no pueden anidarse, y pueden aparecer en cualquier lugar donde se permita aparecer un espacio en blanco. 
 
@@ -18,5 +20,5 @@ Un comentario es un mensaje que se encuentra en el código fuente. ***Añadiendo
 //Este es otro comentario de una sola línea
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTM4NjM5Ml19
+eyJoaXN0b3J5IjpbODYxNTc4ODEyLDIwMjUzODYzOTJdfQ==
 -->

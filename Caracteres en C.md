@@ -35,6 +35,7 @@ main(){
 	   printf(“Hola Mundo.\n”);
     }    	
 ```
+Los espacios en blanco en exceso son ignorados.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTgyOTU2NCwtMzQ5NTk5MjExXX0=
+eyJoaXN0b3J5IjpbLTk2MTUyMDk4OSwtMzQ5NTk5MjExXX0=
 -->

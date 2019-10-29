@@ -35,10 +35,17 @@ Las **variables globales son iniciadas por omisión por el compilador**: las var
 
 ## Expresiones Numéricas
 
-Una expresión es un conjunto de operandos unidos mediante operadores para especificar una operación determinada. Cuando todas las expresiones se evalúan retornan un valor. Por ejemplo:
+Una expresión es un conjunto de operandos unidos mediante operadores para especificar una operación determinada. Cuando todas las expresiones se evalúan retornan un valor. 
 
+Por ejemplo:
 
+```c
+t + 1
+sum + c
+cantidad * precio
+x = 7 * sqrt(t) – x / 2
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODEzNTEwOTAsMTA1Njc5MTEwNV19
+eyJoaXN0b3J5IjpbLTE4MDY4NDY3NzUsMTA1Njc5MTEwNV19
 -->

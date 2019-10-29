@@ -36,6 +36,14 @@ main(){
     }    	
 ```
 Los espacios en blanco en exceso son ignorados.
+
+# CARACTERES ESPECIALES Y SIGNOS DE PUNTUACIÓN
+
+Este grupo de caracteres se utilizan de diferentes formas, para indicar que un identificador es una función o una matriz; para especificar una determinada operación aritmética lógica o de relación, etc. 
+
+Son los siguientes:
+
+***, . ; : ¿ ‘ “ ( ) [ ] { } < ! | / \ ~ + # % & ^ * - =***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTUyMDk4OSwtMzQ5NTk5MjExXX0=
+eyJoaXN0b3J5IjpbMTAzNDM3NTU2MSwtMzQ5NTk5MjExXX0=
 -->

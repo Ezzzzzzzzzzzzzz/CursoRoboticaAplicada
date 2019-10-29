@@ -4,16 +4,16 @@ Los **operadores** son funciones a las cuales se les ha asignado un símbolo que
 
 Se pueden clasificar en los siguientes grupos: 
 
->- aritméticos,
->- relacionales 
->- lógicos
->- unitarios,
->- a nivel de bits
->- de asignación, 
->- operador condicional
+>- Aritméticos,
+>- Relacionales 
+>- Lógicos
+>- Unitarios,
+>- A nivel de bits
+>- De asignación, 
+>- Operador condicional
 >- etc.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTcxNTQ3NiwxMTkwODA1NDg0XX0=
+eyJoaXN0b3J5IjpbMTY3MTM4Mzk0OCwxMTkwODA1NDg0XX0=
 -->

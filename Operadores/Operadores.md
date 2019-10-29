@@ -5,8 +5,9 @@ Los **operadores aritméticos** los utilizamos para realizar **operaciones matem
 
 Operador	|	Operación 
 ------------ 	|	-----------
-      +      	
++            |    ***Suma*** Los operandos pueden ser enteros o reales 	
+-            |	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTAwOTM2MCwxNjcxMzgzOTQ4LDExOT
-A4MDU0ODRdfQ==
+eyJoaXN0b3J5IjpbLTczNzQyNjEwLDE2NzEzODM5NDgsMTE5MD
+gwNTQ4NF19
 -->

@@ -12,7 +12,7 @@ char caracter = ‘t’;
 char caracter = 116; // la ‘t’ es el decimal 116 en ASCII
 char caracter = 0x74; // la ‘t’ es en hexadecimal 0074
 char caracter = 0164; // la ‘t’ en octal es 0164
-``
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzIyNTk5OF19
+eyJoaXN0b3J5IjpbLTE1MTc3MTIwNjIsLTM1MzIyNTk5OF19
 -->

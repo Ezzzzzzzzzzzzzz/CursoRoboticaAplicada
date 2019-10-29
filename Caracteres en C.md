@@ -19,7 +19,7 @@ Dígitos enteros
 
 Carácter de subrayado “**_**”
 
-El compilador trata las letras mayúsculas y minúsculas como caracteres diferentes. Por ejemplo los identificadores de la constante de Euler **e*** y **E** son diferentes.
+El compilador trata las letras mayúsculas y minúsculas como caracteres diferentes. Por ejemplo los identificadores de la constante de Euler ***e*** y **E** son diferentes.
 
 # ESPACIOS EN BLANCO
 
@@ -47,6 +47,6 @@ Son los siguientes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTg0NDQ1MSwxMzYyMTI4NDkzLDkwOD
+eyJoaXN0b3J5IjpbMTM2MjEyODQ5MywxMzYyMTI4NDkzLDkwOD
 c2MTgzMywtODU1NjkwMTM1XX0=
 -->

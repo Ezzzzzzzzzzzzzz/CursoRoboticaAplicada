@@ -32,7 +32,7 @@ main() { printf(“Hola Mundo.\n”); }
 Puede escribirse de una forma más legible así:
 ```c
 main(){
-	   printf(“Hola Mundo.\n”);
+	printf(“Hola Mundo.\n”);
     }    	
 ```
 Los espacios en blanco en exceso son ignorados.
@@ -47,5 +47,6 @@ Son los siguientes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4NzYxODMzLC04NTU2OTAxMzVdfQ==
+eyJoaXN0b3J5IjpbMTM2MjEyODQ5Myw5MDg3NjE4MzMsLTg1NT
+Y5MDEzNV19
 -->

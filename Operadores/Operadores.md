@@ -1,7 +1,9 @@
 # Operadores
 
 Los **operadores** son funciones a las cuales se les ha asignado un símbolo que indican cómo se manipulan los datos. 
+
 Se pueden clasificar en los siguientes grupos: 
+
 >- aritméticos,
 >- relacionales 
 >- lógicos
@@ -13,5 +15,5 @@ Se pueden clasificar en los siguientes grupos:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDgwNTQ4NF19
+eyJoaXN0b3J5IjpbLTU1OTcxNTQ3NiwxMTkwODA1NDg0XX0=
 -->

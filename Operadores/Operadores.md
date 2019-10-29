@@ -20,10 +20,10 @@ n = t / b; // El resultado es 3 del tipo int
 n = t % b; // El resultado es 1 del tipo int
 y = t / b; // El resultado es 3 de tipo int. Se convierte a float
 para ser asignado a y
-n = x / y; // El resultado es 0.666667 de tipo float. Se convierte
-a int para asignarlo a n (n = 0)
+n = x / y; // El resultado es 0.666667 de tipo float. Se convierte a int para asignarlo a n (n = 0)
 ```
+Cuando en una operación aritmética los operandos son de diferentes tipos, ambos son convertidos al tipo del operando de precisión más alta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkzNTI5NTIsMTY3MTM4Mzk0OCwxMT
-kwODA1NDg0XX0=
+eyJoaXN0b3J5IjpbNDQ4NTI3NzM0LDE2NzEzODM5NDgsMTE5MD
+gwNTQ4NF19
 -->

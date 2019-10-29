@@ -5,10 +5,11 @@ Los **operadores aritméticos** los utilizamos para realizar **operaciones matem
 
 Operador	|	Operación 
 ------------ 	|	-----------
-+            |    ***Suma.***  Los operandos pueden ser enteros o reales 	
++            |    ***Suma.***  Los operandos pueden ser enteros o reales. 	
 -            |    ***Resta.*** Los operandos pueden ser enteros o reales.
-*         |      ***Multiplicación.***   Los operand
+*         |      ***Multiplicación.***   Los operandos pueden ser enteros o reales.
+/    |  ***División.*** Los operandos pueden ser enteros o reales. Si ambos operandos son enteros el resultado es entero, en el rest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDcwODg4OCwxNjcxMzgzOTQ4LDExOT
+eyJoaXN0b3J5IjpbMTgyNDk2NDA3NSwxNjcxMzgzOTQ4LDExOT
 A4MDU0ODRdfQ==
 -->

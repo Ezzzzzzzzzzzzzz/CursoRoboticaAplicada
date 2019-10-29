@@ -27,7 +27,7 @@ Los **espacios en blanco**, **el tabulador** (todos los tipos), **avance de pág
 
 Por ejemplo:
 ```c
-    main() { printf(“Hola Mundo.\n”); }
+main() { printf(“Hola Mundo.\n”); }
 ```
 Puede escribirse de una forma más legible así:
 ```c
@@ -47,5 +47,5 @@ Son los siguientes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTY5MDEzNV19
+eyJoaXN0b3J5IjpbOTA4NzYxODMzLC04NTU2OTAxMzVdfQ==
 -->

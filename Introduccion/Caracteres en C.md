@@ -7,15 +7,15 @@ Son los siguientes:
 
 Las letras mayúsculas del alfabeto inglés:
 
- **A B C D E F G H I J K L M N O P Q R S T U V W X Y Z**
+ >**A B C D E F G H I J K L M N O P Q R S T U V W X Y Z**
 
 Las letras minúsculas del alfabeto inglés:
 
- **a b c d e f g h i j k l m n o p q r s t u v w x y z**
+ >**a b c d e f g h i j k l m n o p q r s t u v w x y z**
 
 Dígitos enteros
 
- **0 1 2 3 4 5 6 7 8 9 ...**
+ >**0 1 2 3 4 5 6 7 8 9 ...**
 
 Carácter de subrayado “**_**”
 
@@ -43,9 +43,9 @@ Este grupo de caracteres se utilizan de diferentes formas, para indicar que un i
 
 Son los siguientes:
 
-**, . ; : ¿ ‘ “ ( ) [ ] { } < ! | / \ ~ + # % & ^ * - =**
+>**, . ; : ¿ ‘ “ ( ) [ ] { } < ! | / \ ~ + # % & ^ * - =**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjEyODQ5M119
+eyJoaXN0b3J5IjpbMTMxMzczODE2MV19
 -->

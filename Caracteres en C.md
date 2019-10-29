@@ -30,13 +30,11 @@ Por ejemplo:
     main() { printf(“Hola Mundo.\n”); }
 
 Puede escribirse de una forma más legible así:
-
-	
-	main(){
-printf(“Hola Mundo.\n”);
-}
-	
-
+```
+main(){
+	   printf(“Hola Mundo.\n”);
+    }    	
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU3ODUzMDIsLTM0OTU5OTIxMV19
+eyJoaXN0b3J5IjpbLTEzNDMyMDAwNjQsLTM0OTU5OTIxMV19
 -->

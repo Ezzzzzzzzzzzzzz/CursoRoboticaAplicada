@@ -29,9 +29,11 @@ Una _variable declarada fuera de todo bloque_ se dice que es **global** porque e
 
 __Según lo expuesto, la variable c es global y las variables y, f y d son locales.__
 
+## Iniciación de una variable
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Njc5MTEwNV19
+eyJoaXN0b3J5IjpbMjEyNDc1NjcwMCwxMDU2NzkxMTA1XX0=
 -->

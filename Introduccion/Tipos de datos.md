@@ -22,8 +22,8 @@ Los tipos de datos se clasifican como: ***tipos primitivos*** y ***tipos derivad
 
 Se les llama primitivos porque están definidos por el compilador. Hay siete tipos primitivos de datos que se clasifican en: **variables tipo enteros** y **variables tipo reales**.
 
-- Variables tipo enteros: **char**, **short**, **int**, **long** y **enum**.
-- Variables tipos reales: **float** y **double**.
+> Variables tipo enteros: **char**, **short**, **int**, **long** y **enum**.
+> Variables tipos reales: **float** y **double**.
 
 Cada tipo primitivo abarca un rango diferente de los valores positivos y negativos.
 
@@ -31,5 +31,5 @@ El tipo de datos que se seleccione para declarar las variables de un determinado
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNTAxMjQ1XX0=
+eyJoaXN0b3J5IjpbLTk1NjUyMzgwOSwyNDA1MDEyNDVdfQ==
 -->

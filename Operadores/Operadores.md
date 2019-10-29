@@ -12,11 +12,18 @@ ___*___                   |      ***Multiplicación.***   Los operandos pueden s
 ***%***       | ***Modulo.*** Los operandos tienen que ser enteros.
 
 El siguiente ejemplo muestra cómo utilizar estos operadores.
-
-
-
-
+```c
+int t =10, b = 3, n;
+float x = 2.0F, y;
+y = x + t; // El resultado es 12.0 de tipo float
+n = t / b; // El resultado es 3 del tipo int
+n = t % b; // El resultado es 1 del tipo int
+y = t / b; // El resultado es 3 de tipo int. Se convierte a float
+para ser asignado a y
+n = x / y; // El resultado es 0.666667 de tipo float. Se convierte
+a int para asignarlo a n (n = 0)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0ODQ2MTU5LDE2NzEzODM5NDgsMTE5MD
-gwNTQ4NF19
+eyJoaXN0b3J5IjpbLTEwODkzNTI5NTIsMTY3MTM4Mzk0OCwxMT
+kwODA1NDg0XX0=
 -->

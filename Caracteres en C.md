@@ -43,7 +43,9 @@ Este grupo de caracteres se utilizan de diferentes formas, para indicar que un i
 
 Son los siguientes:
 
-***, . ; : ¿ ‘ “ ( ) [ ] { } < ! | / \ ~ + # % & ^ * - =***
+**, . ; : ¿ ‘ “ ( ) [ ] { } < ! | / \ ~ + # % & ^ * - =**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDM3NTU2MSwtMzQ5NTk5MjExXX0=
+eyJoaXN0b3J5IjpbLTg1NTY5MDEzNV19
 -->

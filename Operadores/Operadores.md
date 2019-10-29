@@ -3,9 +3,10 @@
 
 Los **operadores aritméticos** los utilizamos para realizar **operaciones matemáticas** y son los siguientes:
 
-Operador	|	Operació
-
+Operador	|	Operación 
+------------ 	|	-----------
+      +      	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA5ODk1NjYsMTY3MTM4Mzk0OCwxMT
-kwODA1NDg0XX0=
+eyJoaXN0b3J5IjpbLTIyNTAwOTM2MCwxNjcxMzgzOTQ4LDExOT
+A4MDU0ODRdfQ==
 -->

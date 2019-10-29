@@ -1,20 +1,11 @@
-# Operadores 
+# Operadores aritméticos
 
-Los **operadores** son funciones a las cuales se les ha asignado un símbolo que indican cómo se manipulan los datos. 
 
-Se pueden clasificar en los siguientes grupos: 
+Los **operadores aritméticos** los utilizamos para realizar **operaciones matemáticas** y son los siguientes:
 
->- Aritméticos,
->- Relacionales 
->- Lógicos
->- Unitarios,
->- A nivel de bits
->- De asignación, 
->- Operador condicional
->- etc.
-
+Operador	|	Operació
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDgwMzg0NiwxNjcxMzgzOTQ4LDExOT
-A4MDU0ODRdfQ==
+eyJoaXN0b3J5IjpbLTE3MjA5ODk1NjYsMTY3MTM4Mzk0OCwxMT
+kwODA1NDg0XX0=
 -->

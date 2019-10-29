@@ -18,7 +18,7 @@ variable2 = variable1 + variable2;
 ```
 La declaración anterior le dice al compilador que **variable1**, **variable2** y **resultado** son del tipo entero (**int**).
 
-Los tipos de datos se clasifican como: **tipos primitivos** y **tipos derivados**.
+Los tipos de datos se clasifican como: ***tipos primitivos*** y ***tipos derivados***.
 
 Se les llama primitivos porque están definidos por el compilador. Hay siete tipos primitivos de datos que se clasifican en: **variables tipo enteros** y **variables tipo reales**.
 
@@ -27,9 +27,9 @@ Se les llama primitivos porque están definidos por el compilador. Hay siete tip
 
 Cada tipo primitivo abarca un rango diferente de los valores positivos y negativos.
 
-: El tipo de datos que se seleccione para declarar las variables de un determinado programa dependerá del rango y del tipo de valores que vayan a almacenar cada una de ellas, así como si son enteros o fracciones.
+El tipo de datos que se seleccione para declarar las variables de un determinado programa dependerá del rango y del tipo de valores que vayan a almacenar cada una de ellas, así como si son enteros o fracciones.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzM4MDA5OSw4NzcyMzU3NDddfQ==
+eyJoaXN0b3J5IjpbMjQwNTAxMjQ1LDg3NzIzNTc0N119
 -->

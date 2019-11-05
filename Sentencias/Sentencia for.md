@@ -12,6 +12,7 @@ La sentencia **for** se evalúa de la siguiente forma:
 1. A **val1** se le asigna un valor constante o el valor de alguna otra variable.
 2. Se evalúa la condición:
 >a. Si la **condición 1 es verdadera respecto a val1**, se ejecuta la sentencia respecto a **condición 2** y así sucesivamente dependiendo de esta.
+
 >b. **Si la condición 1 es falsa respecto a val1**, la sentencia for termina.
 
 Ahora veremos algunos ejemplos, _el primer ejemplo nos imprimirá los valores desde el 0 al 100_, existen dos modos de hacer esto y depende de la **condición 1**.
@@ -37,5 +38,5 @@ for(int i = 100; i >= 1 ; i--){
 Este ejemplo es similar a los anteriores pero al revés, **empieza en el número 100 y se hace un decremento en 1 cuando se evalúa la condición 1**, como en las explicaciones anteriores.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE2OTkyNzZdfQ==
+eyJoaXN0b3J5IjpbLTM2OTIzMzcyMiwtMTg1MTY5OTI3Nl19
 -->

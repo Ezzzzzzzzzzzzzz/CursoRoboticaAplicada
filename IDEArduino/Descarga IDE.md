@@ -17,8 +17,10 @@
 
 Para instalar el Entorno de Desarrollo Integrado (IDE), se debe ejecutar el archivo previamente descargado que se encuentra en nuestra carpeta de Descargas y ejecutar el archivo ___arduino-1.8.-xx-.exe___, aparecerá una ventana la cual nos indica los términos y condiciones del programa, nosotros daremos clic en ___I Agree___ y después aparecerá otra ventana y daremos clic en ___Next___.
 
+![IAgree](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/IDEArduino/IDEArduino_004.JPG)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1MDA0MjQ4LC0xNTU4MDg4ODkzLC0xMT
+eyJoaXN0b3J5IjpbMTcwMTczNjUyLC0xNTU4MDg4ODkzLC0xMT
 gwNzMyMjcwLDkyMTMyMjk4OCw4OTA1MTU2NzksNjY1ODIyNjMx
 LC0xNDI5NDA2NzAxLC00MTA1MDk0ODVdfQ==
 -->

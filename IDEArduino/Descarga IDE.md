@@ -1,4 +1,4 @@
-# Descarga e instalacion de IDE Arduino
+# Descarga de IDE Arduino
 
 **Este programa lo descargaremos de Internet**, accediendo a [Arduino.cc](https://www.arduino.cc/) y luego realizar los siguientes pasos:
 - Una vez en la página ya sea la de iremos a **software>download**, como ilustra la siguiente imagen:
@@ -13,9 +13,12 @@
 
 ![just download](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/IDEArduino/IDEArduino_003.jpg)
 
+# Instalación de IDE Arduino
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA3MzIyNzAsOTIxMzIyOTg4LDg5MD
-UxNTY3OSw2NjU4MjI2MzEsLTE0Mjk0MDY3MDEsLTQxMDUwOTQ4
-NV19
+eyJoaXN0b3J5IjpbLTE1NTgwODg4OTMsLTExODA3MzIyNzAsOT
+IxMzIyOTg4LDg5MDUxNTY3OSw2NjU4MjI2MzEsLTE0Mjk0MDY3
+MDEsLTQxMDUwOTQ4NV19
 -->

@@ -14,8 +14,9 @@ También cuenta con **6 pines analógicos**, como lo dice su nombre **podremos h
 
 ![SeñalAnalogica](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Arduino/Se%C3%B1alAnalogica.JPG)
 
-Recordemos que cada pin trabaja con voltajes de 0 a 5 volts CC, además que la máxima corriente por pin es de 40mA, si utilizaremos un actuador que pide más corriente que la entregada por un pin es necesario usar un transistor de potencia, pero eso se verá más adelante. 
-La tarjeta consta de un regulador de voltaje, un 7805 conectado al Jack y al pin vin de la tarjeta con su respectivo diodo de protección, pero esto no evita el tener precaución y no invertir la polaridad en los pines de alimentación haciendo un cortocircuito.
+Recordemos que **cada pin trabaja con voltajes de 0 a 5 volts CC**, además que la **máxima corriente por pin es de 40mA**, _si utilizaremos un actuador que pide más corriente que la entregada por un pin es necesario usar un transistor de potencia_, pero eso se verá más adelante. 
+
+La tarjeta consta de un **regulador de voltaje**, un **7805 conectado al Jack** y al pin **Vin** de la tarjeta con su respectivo diodo de protección, pero esto no evita el tener precaución y no invertir la polaridad en los pines de alimentación haciendo un cortocircuito.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODQ5MzU0NSw0ODIzMTQwODNdfQ==
+eyJoaXN0b3J5IjpbLTE4MjMxNDg5MzUsNDgyMzE0MDgzXX0=
 -->

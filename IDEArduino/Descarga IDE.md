@@ -15,10 +15,10 @@
 
 # Instalación de IDE Arduino
 
-
+Para instalar el Entorno de Desarrollo Integrado (IDE), se debe ejecutar el archivo previamente descargado que se encuentra en nuestra carpeta de Descargas y ejecutar el archivo _arduino-**.exe_, aparecerá una ventana la cual nos indica los términos y condiciones del programa, nosotros daremos clic en I Agree y después aparecerá otra ventana y daremos clic en Next.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTgwODg4OTMsLTExODA3MzIyNzAsOT
-IxMzIyOTg4LDg5MDUxNTY3OSw2NjU4MjI2MzEsLTE0Mjk0MDY3
-MDEsLTQxMDUwOTQ4NV19
+eyJoaXN0b3J5IjpbLTIxNDUyMjcyOTksLTE1NTgwODg4OTMsLT
+ExODA3MzIyNzAsOTIxMzIyOTg4LDg5MDUxNTY3OSw2NjU4MjI2
+MzEsLTE0Mjk0MDY3MDEsLTQxMDUwOTQ4NV19
 -->

@@ -21,6 +21,9 @@ Recordemos que **cada pin trabaja con voltajes de 0 a 5 volts CC**, además que 
 La tarjeta consta de un **regulador de voltaje**, un **7805 conectado al Jack** y al pin **Vin** de la tarjeta con su respectivo diodo de protección, pero esto no evita el tener precaución y no invertir la polaridad en los pines de alimentación haciendo un cortocircuito.
 
 PIN   |    NOMBRE     |     DESCRIPCIÓN   
+:-----:  | :--------:  |   :------:
+2   |  PIN 07/RX    |  Pin I/O, entrada de dato, comunicación serial.
+3   |  PIN 1/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjgyNDM3MjQsNDgyMzE0MDgzXX0=
+eyJoaXN0b3J5IjpbMTY4NjE5OTQwMiw0ODIzMTQwODNdfQ==
 -->

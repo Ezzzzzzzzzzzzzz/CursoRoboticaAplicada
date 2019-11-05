@@ -10,8 +10,10 @@
 ![SeleccionaOS](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/IDEArduino/IDEArduino_002.jpg)
 
 - Inmediatamente saldrá la pantalla para **descargar el archivo**, este tendrá el nombre de _Contribute to the Arduino Software_... y daremos clic en ***just download*** (solo descargar).
+![just download](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/IDEArduino/IDEArduino_003.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMzIyOTg4LDg5MDUxNTY3OSw2NjU4Mj
-I2MzEsLTE0Mjk0MDY3MDEsLTQxMDUwOTQ4NV19
+eyJoaXN0b3J5IjpbLTIzNjkyNjI4Miw5MjEzMjI5ODgsODkwNT
+E1Njc5LDY2NTgyMjYzMSwtMTQyOTQwNjcwMSwtNDEwNTA5NDg1
+XX0=
 -->

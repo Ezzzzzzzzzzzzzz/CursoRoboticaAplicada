@@ -7,8 +7,10 @@
 
 - Aparecerá una nueva ventana en la cual usando el scroll nos deslizaremos hacia abajo y **seleccionaremos el tipo de IDE a emplear ya sea que tengamos Windows, Linux o MAC OS**.
 
+![SeleccionaOS](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/IDEArduino/IDEArduino_002.jpg)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNTE1Njc5LDY2NTgyMjYzMSwtMTQyOT
-QwNjcwMSwtNDEwNTA5NDg1XX0=
+eyJoaXN0b3J5IjpbOTkxMjc4NjY4LDg5MDUxNTY3OSw2NjU4Mj
+I2MzEsLTE0Mjk0MDY3MDEsLTQxMDUwOTQ4NV19
 -->

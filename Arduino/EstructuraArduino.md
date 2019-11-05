@@ -22,8 +22,11 @@ La tarjeta consta de un **regulador de voltaje**, un **7805 conectado al Jack** 
 
 PIN   |    NOMBRE     |     DESCRIPCIÓN   
 :-----:  | :--------:  |   :------:
-2   |  PIN 07/RX    |  Pin I/O, entrada de dato, comunicación serial.
-3   |  PIN 1/
+2   |  PIN 0/RX    |  Pin I/O, entrada de dato, comunicación serial.
+3   |  PIN 1/TX     |  Pin I/O salida dato, comunicación serial
+4   | PIN 2/INT0     |  Pin I/O, resistencia pull up, interrupción ext.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjE5OTQwMiw0ODIzMTQwODNdfQ==
+eyJoaXN0b3J5IjpbLTUxMDYwNDc1NSw0ODIzMTQwODNdfQ==
 -->

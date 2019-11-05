@@ -6,11 +6,13 @@ Aquí se presenta una imagen de la estructura, recordemos que usa un microcontro
 
 ![EstructuraArduino](https://circuito.cdn.prismic.io/circuito/8e3a980f0f964cc539b4cbbba2654bb660db6f52_arduino-uno-pinout-diagram.png)
 
-Nuestra tarjeta tiene **14 pines digitales del 0 al 13**, de los cuales podemos **leer y enviar señales digitales que van de 0 a 5 volts**, además entre esos pines se cuenta con **6 pines PWM** los cuales los veremos más adelante, aquí una imagen de señal digital:
+Nuestra tarjeta tiene **14 pines digitales del 0 al 13**, de los cuales podemos **leer y enviar señales digitales que van de 0 a 5 volts**, además entre esos pines se cuenta con **6 pines PWM** los cuales los veremos más adelante, aquí una imagen de **señal digital**:
 
 ![SeñalDigital](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Arduino/Se%C3%B1alDigital.JPG)
 
-También cuenta con **6 pines analógicos**, como lo dice su nombre podremos hacer lecturas analógicas igualmente de 0 a 5 volts, estos pines también se pueden usar como digitales por medio del convertidor analógico digital, aquí una imagen de señal analógica:
+También cuenta con **6 pines analógicos**, como lo dice su nombre **podremos hacer lecturas analógicas igualmente de 0 a 5 volts**, estos pines **también se pueden usar como digitales por medio del convertidor analógico digital**, aquí una imagen de **señal analógica**:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzMyMDA0NDYsNDgyMzE0MDgzXX0=
+eyJoaXN0b3J5IjpbMTUyNzY3Mjk5MCw0ODIzMTQwODNdfQ==
 -->

@@ -9,9 +9,9 @@
 
 ![SeleccionaOS](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/IDEArduino/IDEArduino_002.jpg)
 
-- Inmediatamente saldrá la pantalla para **descargar el archivo**, este tendrá el nombre de arduino- ... y daremos clic en **guardar archivo**.
+- Inmediatamente saldrá la pantalla para **descargar el archivo**, este tendrá el nombre de _Contribute to the Arduino Software_... y daremos clic en **guardar archivo**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgwNTk5NDEsODkwNTE1Njc5LDY2NT
-gyMjYzMSwtMTQyOTQwNjcwMSwtNDEwNTA5NDg1XX0=
+eyJoaXN0b3J5IjpbNzQ3MzM5NzEwLDg5MDUxNTY3OSw2NjU4Mj
+I2MzEsLTE0Mjk0MDY3MDEsLTQxMDUwOTQ4NV19
 -->

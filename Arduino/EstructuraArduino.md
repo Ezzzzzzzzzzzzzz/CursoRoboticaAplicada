@@ -19,6 +19,8 @@ También cuenta con **6 pines analógicos**, como lo dice su nombre **podremos h
 Recordemos que **cada pin trabaja con voltajes de 0 a 5 volts CC**, además que la **máxima corriente por pin es de 40mA**, _si utilizaremos un actuador que pide más corriente que la entregada por un pin es necesario usar un transistor de potencia_, pero eso se verá más adelante. 
 
 La tarjeta consta de un **regulador de voltaje**, un **7805 conectado al Jack** y al pin **Vin** de la tarjeta con su respectivo diodo de protección, pero esto no evita el tener precaución y no invertir la polaridad en los pines de alimentación haciendo un cortocircuito.
+
+PIN   |    NOMBRE     |     DESCRIPCIÓN   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjQ3ODM3NSw0ODIzMTQwODNdfQ==
+eyJoaXN0b3J5IjpbLTE1NjgyNDM3MjQsNDgyMzE0MDgzXX0=
 -->

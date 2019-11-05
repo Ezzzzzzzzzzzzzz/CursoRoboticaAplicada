@@ -26,8 +26,9 @@ PIN   |    NOMBRE     |     DESCRIPCIÓN
 3   |  PIN 1/TX     |  Pin I/O salida dato, comunicación serial
 4   | PIN 2/INT0     |  Pin I/O, resistencia pull up, interrupción ext.
 5   | PIN 3/INT1/PWM  | Pin I/O, resistencia pull up, interrupción ext.
-6  | PIN 4/
+6  | PIN 4/T0    |  Pin I/O, resistencia pull up, entrada de reloj TIMER0.
+11 | PIN 5/T1/PWM  | Pin I/O, resistencia 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5OTI2ODg3LDQ4MjMxNDA4M119
+eyJoaXN0b3J5IjpbLTE3OTk2NzkxODcsNDgyMzE0MDgzXX0=
 -->

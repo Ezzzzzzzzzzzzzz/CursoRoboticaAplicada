@@ -19,8 +19,14 @@ Para instalar el Entorno de Desarrollo Integrado (IDE), se debe ejecutar el arch
 
 ![IAgree](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/IDEArduino/IDEArduino_004.JPG)
 
+![Next](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/IDEArduino/IDEArduino_005.JPG)
+
+Aparecerá una nueva ventana en donde se muestra el lugar donde se va a instalar el IDE, nosotros no
+modificaremos nada y la dejaremos como está, daremos clic en Install y empezará la instalación,
+esperaremos unos minutos a que termine la instalación, nos aparecerá la ventana de los controladores le
+daremos en Siguiente y a lo que nos pida instalar yfinalmente cuando se termine de instalar presionamos Close y tendremos nuestra IDE instalada.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTczNjUyLC0xNTU4MDg4ODkzLC0xMT
-gwNzMyMjcwLDkyMTMyMjk4OCw4OTA1MTU2NzksNjY1ODIyNjMx
-LC0xNDI5NDA2NzAxLC00MTA1MDk0ODVdfQ==
+eyJoaXN0b3J5IjpbLTIxNDU4MzA1NjMsLTE1NTgwODg4OTMsLT
+ExODA3MzIyNzAsOTIxMzIyOTg4LDg5MDUxNTY3OSw2NjU4MjI2
+MzEsLTE0Mjk0MDY3MDEsLTQxMDUwOTQ4NV19
 -->

@@ -32,21 +32,21 @@ PIN   |    NOMBRE     |     DESCRIPCIÓN
 13   |  **PIN 7/AIN1**  | Pin I/O, resistencia pull up, comparador. 
 14  |  **PIN 8/CLK0**  | Pin I/O, resistencia pull up, salida 1/4 frecuencia osc. 
 15   |  **PIN 9/PC1A/PWM**  |  Pin I/O, resistencia pull up, salida reloj TIMER1, PWM salida o entrada.
-16  |PIN 10/OC1A/PWM  | Pin I/O, resistencia pull up, salida reloj TIMER1, PWM salida o entrada. 
-17  | PIN 11/OC2A/PWM  | Pin I/O, resistencia pull up, salida de reloj TIMER2, PWM salida o entrada.
-18 | PIN 12 | Pin I/O, resistencia pull up, MISO.
-19  |  PIN 13/LED  |  Pin I/O, resistencia física, LED.
-23   |  A0/ADC0  | Pin I/O, entrada comparador analógico. 
-24  |  A1/ADC1   |  Pin I/O, entrada comparador analógico.
-25  |  A2/ADC2   | Pin I/O, entrada comparador analógico.
-26   | A3/ADC3   | Pin I/O, entrada comparador analógico.
-27  | A4/ADC4/SDA  | Pin I/O, entrada comparador analógico, interfaz i^2^c.
-28   | A5/ADC5/SCL  |  Pin I/O, entrada comparador analógico, interfaz i^2^c.
+16  |**PIN 10/OC1A/PWM**  | Pin I/O, resistencia pull up, salida reloj TIMER1, PWM salida o entrada. 
+17  | **PIN 11/OC2A/PWM**  | Pin I/O, resistencia pull up, salida de reloj TIMER2, PWM salida o entrada.
+18 | **PIN 12** | Pin I/O, resistencia pull up, MISO.
+19  |  **PIN 13/LED**  |  Pin I/O, resistencia física, LED.
+23   |  **A0/ADC0**  | Pin I/O, entrada comparador analógico. 
+24  |  **A1/ADC1**   |  Pin I/O, entrada comparador analógico.
+25  |  **A2/ADC2**   | Pin I/O, entrada comparador analógico.
+26   | **A3/ADC3**   | Pin I/O, entrada comparador analógico.
+27  | **A4/ADC4/SDA**  | Pin I/O, entrada comparador analógico, interfaz i^2^c.
+28   | **A5/ADC5/SCL**  |  Pin I/O, entrada comparador analógico, interfaz i^2^c.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjM2NjkxLC00NzMxMjg2MCw0ODIzMT
+eyJoaXN0b3J5IjpbNTgwNjI0OTE1LC00NzMxMjg2MCw0ODIzMT
 QwODNdfQ==
 -->

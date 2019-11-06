@@ -22,16 +22,16 @@ La tarjeta consta de un **regulador de voltaje**, un **7805 conectado al Jack** 
 
 PIN   |    NOMBRE     |     DESCRIPCIÓN   
 :-----:  | :--------:  |   :------:
-2   |  PIN 0/RX    |  Pin I/O, entrada de dato, comunicación serial.
-3   |  PIN 1/TX     |  Pin I/O salida dato, comunicación serial
-4   | PIN 2/INT0     |  Pin I/O, resistencia pull up, interrupción ext.
-5   | PIN 3/INT1/PWM  | Pin I/O, resistencia pull up, interrupción ext.
-6  | PIN 4/T0    |  Pin I/O, resistencia pull up, entrada de reloj TIMER0.
-11 | PIN 5/T1/PWM  | Pin I/O, resistencia pull up, salida reloj TIMER 0, PWM salida o entrada.
-12  | PIN 6/AIN0/PWM   |  Pin I/O, resistencia pull up, salida reloj TIMER0, comparador, PWM salida o entrada.
-13   |  PIN 7/AIN1  | Pin I/O, resistencia pull up, comparador. 
-14  |  PIN 8/CLK0  | Pin I/O, resistencia pull up, salida 1/4 frecuencia osc. 
-15   |  PIN 9/PC1A/PWM  |  Pin I/O, resistencia pull up, salida reloj TIMER1, PWM salida o entrada.
+2   |  **PIN 0/RX**    |  Pin I/O, entrada de dato, comunicación serial.
+3   |  **PIN 1/TX**     |  Pin I/O salida dato, comunicación serial
+4   | **PIN 2/INT0**     |  Pin I/O, resistencia pull up, interrupción ext.
+5   | **PIN 3/INT1/PWM**  | Pin I/O, resistencia pull up, interrupción ext.
+6  | **PIN 4/T0**    |  Pin I/O, resistencia pull up, entrada de reloj TIMER0.
+11 | **PIN 5/T1/PWM**  | Pin I/O, resistencia pull up, salida reloj TIMER 0, PWM salida o entrada.
+12  | **PIN 6/AIN0/PWM**   |  Pin I/O, resistencia pull up, salida reloj TIMER0, comparador, PWM salida o entrada.
+13   |  **PIN 7/AIN1**  | Pin I/O, resistencia pull up, comparador. 
+14  |  **PIN 8/CLK0**  | Pin I/O, resistencia pull up, salida 1/4 frecuencia osc. 
+15   |  **PIN 9/PC1A/PWM**  |  Pin I/O, resistencia pull up, salida reloj TIMER1, PWM salida o entrada.
 16  |PIN 10/OC1A/PWM  | Pin I/O, resistencia pull up, salida reloj TIMER1, PWM salida o entrada. 
 17  | PIN 11/OC2A/PWM  | Pin I/O, resistencia pull up, salida de reloj TIMER2, PWM salida o entrada.
 18 | PIN 12 | Pin I/O, resistencia pull up, MISO.
@@ -47,6 +47,6 @@ PIN   |    NOMBRE     |     DESCRIPCIÓN
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Mjg1OTQxMSwtNDczMTI4NjAsNDgyMz
-E0MDgzXX0=
+eyJoaXN0b3J5IjpbMTY5MjM2NjkxLC00NzMxMjg2MCw0ODIzMT
+QwODNdfQ==
 -->

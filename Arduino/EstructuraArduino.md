@@ -28,8 +28,25 @@ PIN   |    NOMBRE     |     DESCRIPCIÓN
 5   | PIN 3/INT1/PWM  | Pin I/O, resistencia pull up, interrupción ext.
 6  | PIN 4/T0    |  Pin I/O, resistencia pull up, entrada de reloj TIMER0.
 11 | PIN 5/T1/PWM  | Pin I/O, resistencia pull up, salida reloj TIMER 0, PWM salida o entrada.
+12  | PIN 6/AIN0/PWM   |  Pin I/O, resistencia pull up, salida reloj TIMER0, comparador, PWM salida o entrada.
+13   |  PIN 7/AIN1  | Pin I/O, resistencia pull up, comparador. 
+14  |  PIN 8/CLK0  | Pin I/O, resistencia pull up, salida 1/4 frecuencia osc. 
+15   |  PIN 9/PC1A/PWM  |  Pin I/O, resistencia pull up, salida reloj TIMER1, PWM salida o entrada.
+16  |PIN 10/OC1A/PWM  | Pin I/O, resistencia pull up, salida reloj TIMER1, PWM salida o entrada. 
+17  | PIN 11/OC2A/PWM  | Pin I/O, resistencia pull up, salida de reloj TIMER2, PWM salida o entrada.
+18 | PIN 12 | Pin I/O, resistencia pull up, MISO.
+19  |  PIN 13/LED  |  Pin I/O, resistencia física, LED.
+23   |  A0/ADC0  | Pin I/O, entrada comparador analógico. 
+24  |  A1/ADC1   |  Pin I/O, entrada comparador analógico.
+25  |  A2/ADC2   | Pin I/O, entrada comparador analógico.
+26   | A3/ADC3   | Pin I/O, entrada comparador analógico.
+27  | A4/ADC4/SDA  | Pin I/O, entrada comparador analógico, interfaz i^2^c.
+28   | A5/ADC5/SCL  |  Pin I/O, entrada comparador analógico, interfaz i^2^c.
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzEyODYwLDQ4MjMxNDA4M119
+eyJoaXN0b3J5IjpbMTc1Mjg1OTQxMSwtNDczMTI4NjAsNDgyMz
+E0MDgzXX0=
 -->

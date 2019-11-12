@@ -55,7 +55,13 @@ Para definir o escribir una salida usamos la función **digitalWrite**, **esta f
 digitalWrite([PIN],[HIGH/LOW]);
 ```
 >Donde **HIGH** será **5v** y **LOW** será **0v**
+
+```c
+loop(){
+	digitalWrite(2, HIHG);
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjAxNTEyODgsLTU1NTMxNzMwNCwtOD
+eyJoaXN0b3J5IjpbLTE1MDgxMjk1MjUsLTU1NTMxNzMwNCwtOD
 EzMTk0ODk1XX0=
 -->

@@ -2,7 +2,7 @@
 
 Primero explicaremos qué es una señal digital y como podremos trabajar con una en nuestra tarjeta Arduino.
 
-### ¿Qué es algo digital?
+## ¿Qué es algo digital?
 
 - Digital.
 - Solo dos valores.
@@ -15,7 +15,7 @@ Ejemplos:
 
 ![SeñalDigital](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Arduino/Se%C3%B1alDigital.JPG)
 
-### ¿Qué quiere decir esto? 
+## ¿Qué quiere decir esto? 
 
 **Que solo tendremos pulsos de 0v y 5v por un determinado tiempo 1s, 1/2s, etc.**
 
@@ -30,8 +30,10 @@ Se debe de tener en consideración que **Arduino tomará como un pulso alto o 1 
 
 ![opvoltaje](https://cdn.sparkfun.com/assets/7/9/3/a/c/5V-logic-levels_fixed.png)
 
+## Configuración de los pines digitales
 
+Esta parte es muy importante ya que veremos las **“palabras reservadas”** del lenguaje de programación de Arduino, estas nos servirán para poder poner un pin ya sea como entrada o salida, en este caso se ven los actuadores digitales así que los pines serán usados solo como salida, y esto es esencial ya que uniendo esto con los siguientes temas veremos que, podemos hacer muchas cosas interesantes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Nzg1ODkzNiwtNTU1MzE3MzA0LC04MT
-MxOTQ4OTVdfQ==
+eyJoaXN0b3J5IjpbMzc5MTA2NTgxLC01NTUzMTczMDQsLTgxMz
+E5NDg5NV19
 -->

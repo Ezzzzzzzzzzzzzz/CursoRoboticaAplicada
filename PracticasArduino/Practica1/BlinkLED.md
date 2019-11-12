@@ -11,9 +11,10 @@ Es muy importante que usted escriba el código para que pueda aprender correctam
 > - Protoboard 
 > - Jumpers (cables) 
 
+## Circuito
 
 ![BlinkLED](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/BlinkLED.JPG)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzMjYxOTg4LC01Njk5OTU1NjFdfQ==
+eyJoaXN0b3J5IjpbLTE1OTc0NjcxNDYsLTU2OTk5NTU2MV19
 -->

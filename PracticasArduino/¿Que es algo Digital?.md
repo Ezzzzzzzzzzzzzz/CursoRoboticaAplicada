@@ -35,17 +35,26 @@ Se debe de tener en consideración que **Arduino tomará como un pulso alto o 1 
 Esta parte es muy importante ya que veremos las **“palabras reservadas”** del lenguaje de programación de Arduino, estas **nos servirán para poder poner un pin ya sea como entrada o salida**, en este caso se ven los actuadores digitales así que los pines serán usados solo como salida, y esto es esencial ya que uniendo esto con los siguientes temas veremos que, podemos hacer muchas cosas interesantes.
 
 Los pines pueden usarse como entrada o salida.
-- Para definir su funcionamiento, en entrada o salida emplearemos la función **pinMode()**
+>Para definir su funcionamiento, en entrada o salida emplearemos la función **pinMode()**
 
 ```c
 pinMode([PIN/ALIAS],[INPUT/OUTPUT]);
 ```
-- Donde **INPUT** – es de enterada y **OUTPUT** – es de salida.
+>Donde **INPUT** – es de enterada y **OUTPUT** – es de salida.
 
 Como bien ya se ha mencionada varias veces y no está de más decirlo de nuevo, **la salida será de 0v o 5v**, aquí tenemos un ejemplo un poco más concreto.
 
-
+>Los pines los configuramos dentro del **setup(){}**
+```c
+setup(){
+	pinMode(2,OUTPUT);
+}
+```
+Para definir o escribir una salida usamos la función **digitalWrite**, **esta función enviará un pulso alto o bajo:
+o Ejemplo:
+ digitalWrite([PIN],[HIGH/LOW]);
+ Donde HIGH será 5v y LOW será 0v
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzgxMzY0NCwtNTU1MzE3MzA0LC04MT
+eyJoaXN0b3J5IjpbMTAwNDI1MjI0NiwtNTU1MzE3MzA0LC04MT
 MxOTQ4OTVdfQ==
 -->

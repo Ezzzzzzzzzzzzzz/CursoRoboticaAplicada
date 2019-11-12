@@ -7,7 +7,7 @@ Es importante seguir estas recomendaciones, ya que si no lo hace podría dañar 
 >V = R*I       (despejando) -->     R= V/I	  
 
 >R=5 [V]/0.02 [A]
->
+
 >R = 250 Ω ≈ 220Ω∼270 Ω
 
 Ahora veremos un ejemplo de la **corriente de entrada** en nuestra tarjeta, supongamos que queremos usar un pulsador, veremos qué resistencia debemos colocarle la cual será la mínima,como ya sabemos la corriente máxima de entrada es de **40mA**:
@@ -30,5 +30,5 @@ Como hemos mencionado es el mismo valor que debe colocarse para estar al límite
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5Mjc1MzI3LC0zNzk5MTQ2NjVdfQ==
+eyJoaXN0b3J5IjpbLTI4MTYzNjcyNSwtMzc5OTE0NjY1XX0=
 -->

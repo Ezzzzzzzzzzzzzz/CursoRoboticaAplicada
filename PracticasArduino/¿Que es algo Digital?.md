@@ -58,10 +58,11 @@ digitalWrite([PIN],[HIGH/LOW]);
 
 ```c
 loop(){
-	digitalWrite(2, HIHG);
+	digitalWrite(2, HIGH);
 }
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgxMjk1MjUsLTU1NTMxNzMwNCwtOD
-EzMTk0ODk1XX0=
+eyJoaXN0b3J5IjpbLTU3NDg5Nzk2MSwtNTU1MzE3MzA0LC04MT
+MxOTQ4OTVdfQ==
 -->

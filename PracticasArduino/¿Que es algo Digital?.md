@@ -50,11 +50,12 @@ setup(){
 	pinMode(2,OUTPUT);
 }
 ```
-Para definir o escribir una salida usamos la función **digitalWrite**, **esta función enviará un pulso alto o bajo:
-o Ejemplo:
- digitalWrite([PIN],[HIGH/LOW]);
- Donde HIGH será 5v y LOW será 0v
+Para definir o escribir una salida usamos la función **digitalWrite**, **esta función enviará un pulso alto o bajo**:
+```c
+digitalWrite([PIN],[HIGH/LOW]);
+```
+>Donde **HIGH** será **5v** y **LOW** será **0v**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDI1MjI0NiwtNTU1MzE3MzA0LC04MT
-MxOTQ4OTVdfQ==
+eyJoaXN0b3J5IjpbLTEyMjAxNTEyODgsLTU1NTMxNzMwNCwtOD
+EzMTk0ODk1XX0=
 -->

@@ -12,6 +12,8 @@ Es muy importante que usted escriba el código para que pueda aprender correctam
 > - Jumpers (cables) 
 
 
+![BlinkLED](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/BlinkLED.JPG)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTk5NTU2MV19
+eyJoaXN0b3J5IjpbODMzMjYxOTg4LC01Njk5OTU1NjFdfQ==
 -->

@@ -28,8 +28,8 @@ El **Arduino UNO tiene 14 pines digitales**, cada uno de estos para:
 
 Se debe de tener en consideración que **Arduino tomará como un pulso alto o 1 a partir de 3v** y como un **pulso bajo o 0 a partir de 2v (valores aproximados)**.
 
-![opvoltaje](https://cdn.sparkfun.com/assets/7/9/3/a/c/5V-logic-levels_fixed.png)
+![opvoltaje](https://cdn.sparkfun.com/assets/7/9/3/a/c/5V-logic-levels_fixed.png =100x10)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA3NjY0MjAsLTU1NTMxNzMwNCwtOD
-EzMTk0ODk1XX0=
+eyJoaXN0b3J5IjpbOTA2Njk5MzQzLC01NTUzMTczMDQsLTgxMz
+E5NDg5NV19
 -->

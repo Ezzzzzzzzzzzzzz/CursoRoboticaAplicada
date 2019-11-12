@@ -26,7 +26,9 @@ El **Arduino UNO tiene 14 pines digitales**, cada uno de estos para:
 - **Voltajes de trabajo de 0v o 5v.**
 - **Corriente máxima por pin de 40mA.**
 
-Se debe de tener en consideración que **Arduino tomará como un pulso alto o 1 a partir de 3v y como un pulso bajo o 0 a partir de 2v (valores aproximados).
+Se debe de tener en consideración que **Arduino tomará como un pulso alto o 1 a partir de 3v** y como un **pulso bajo o 0 a partir de 2v (valores aproximados)**.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MDIwMjgsLTgxMzE5NDg5NV19
+eyJoaXN0b3J5IjpbLTU1NTMxNzMwNCwtODEzMTk0ODk1XX0=
 -->

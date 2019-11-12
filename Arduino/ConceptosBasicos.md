@@ -4,17 +4,17 @@ Es importante seguir estas recomendaciones, ya que si no lo hace podría dañar 
 
 1. **No sobrepase los niveles de corriente**, tanto de entrada como de salida, recuerde que las tarjetas Arduino **entregan un máximo de 40mA por pin**. Así mismo también **soporta una corriente máxima de 40mA** de lectura, esto quiere decir que **puede encender un led con una resistencia de 220 Ω**.  El **voltaje de salida de los pines** de la tarjeta Arduino **es de 5V** y **la corriente que requiere un led para encenderlo es de 20mA** así que, veamos qué resistencia necesitamos para encenderlo correctamente:
 
-V = R*I       (despejando) -->     R= V/I	  
+>V = R*I       (despejando) -->     R= V/I	  
 
-R=5 [V]/0.02 [A]
-R = 250 Ω ≈ 220Ω∼270 Ω
+>R=5 [V]/0.02 [A]
+>R = 250 Ω ≈ 220Ω∼270 Ω
 
 Ahora veremos un ejemplo de la **corriente de entrada** en nuestra tarjeta, supongamos que queremos usar un pulsador, veremos qué resistencia debemos colocarle la cual será la mínima,como ya sabemos la corriente máxima de entrada es de **40mA**:
 
-V = R*I       (despejando) -->     R= V/I	
+>V = R*I       (despejando) -->     R= V/I	
 
-R=5 [V]/0.04 [A]
-R = 125 Ω ≈ 120Ω∼150 Ω
+>R=5 [V]/0.04 [A]
+>R = 125 Ω ≈ 120Ω∼150 Ω
 
 Como hemos mencionado es el mismo valor que debe colocarse para estar al límite de la capacidad soportada por el la Arduino, pero esto no es aconsejable por lo que, en la mayoría de los casos se usa una resistencia de **1KΩ** a **10KΩ**, así nuestra tarjeta trabaja perfecta y tranquilamente con **5mA**.
 
@@ -28,5 +28,5 @@ Como hemos mencionado es el mismo valor que debe colocarse para estar al límite
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODk1MDQ2NzksLTM3OTkxNDY2NV19
+eyJoaXN0b3J5IjpbLTE1OTk5OTg3MDksLTM3OTkxNDY2NV19
 -->

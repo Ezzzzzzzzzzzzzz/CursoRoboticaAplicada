@@ -12,7 +12,28 @@ Vamos a leer un pulsador y por medio de una condición vamos a prender y apagar 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Boton%26LED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Boton%26LED.JPG)
 
+## Codigo
+```c
+#define LED 2 //Damos un alias a nuestro pin 2
+#define Boton 3
+
+void setup()
+{
+  pinMode(LED, OUTPUT);
+  pinMode(Boton, INPUT);
+}
+void loop()
+{
+  if(digitalRead(Boton) == HIGH){
+    digitalWrite(LED, HIGH);
+  }
+  else{
+   digitalWrite(LED, LOW); 
+  }
+}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTkxOTkwOSwtNjAzMTQ3NjY5XX0=
+eyJoaXN0b3J5IjpbLTE3NzI5NTUzODcsMTQyOTkxOTkwOSwtNj
+AzMTQ3NjY5XX0=
 -->

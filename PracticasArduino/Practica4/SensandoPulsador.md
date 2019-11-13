@@ -15,16 +15,17 @@ Vamos a leer un pulsador y por medio de una condición vamos a prender y apagar 
 ## Codigo
 ```c
 #define LED 2 //Damos un alias a nuestro pin 2
-#define Boton 3
+#define Boton 3 //Damos un alias a nuestro pin 3
 
 void setup()
 {
-  pinMode(LED, OUTPUT);
-  pinMode(Boton, INPUT);
+  pinMode(LED, OUTPUT); // Definimos el pin LED como salida.
+  pinMode(Boton, INPUT); // Definimos el pin Boton como entrada. 
 }
 void loop()
 {
-  if(digitalRead(Boton) == HIGH){
+// Definimos nuestra secuencia.
+  if(digitalRead(Boton) == HIGH){ // Utilizamos la sentencia condicional 
     digitalWrite(LED, HIGH);
   }
   else{
@@ -34,6 +35,6 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI5NTUzODcsMTQyOTkxOTkwOSwtNj
-AzMTQ3NjY5XX0=
+eyJoaXN0b3J5IjpbMTk4MDcyOTY0MCwxNDI5OTE5OTA5LC02MD
+MxNDc2NjldfQ==
 -->

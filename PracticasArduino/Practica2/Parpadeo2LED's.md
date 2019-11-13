@@ -18,13 +18,12 @@ Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos leds 
 
 void setup()
 {
-  pinMode(LED1, OUTPUT);
-  pinMode(LED2, OUTPUT);
+  pinMode(LED1, OUTPUT);	// Definimos el pin LED1 como salida
+  pinMode(LED2, OUTPUT);	// Definimos el pin LED2 como salida
 }
-
-void loop()
+void loop()		// Definimos nuestra secuencia.
 {
-  digitalWrite(LED1, HIGH);
+  digitalWrite(LED1, HIGH);	
   digitalWrite(LED2, HIGH);
   delay(100); // Wait for 1000 millisecond(s)
   
@@ -36,6 +35,6 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Njk4NjIxOCwtMTQyNDM2NTkyNiwtNz
-MwNzk3ODY0XX0=
+eyJoaXN0b3J5IjpbMzIxMDcwMzAzLC0xNDI0MzY1OTI2LC03Mz
+A3OTc4NjRdfQ==
 -->

@@ -40,7 +40,9 @@ Aquí mostramos la conexión de cada una:
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/PullDown%26Pullup.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/PullDown%26Pullup.JPG)
 
 Esta configuración sirve solo para sensores donde solo tenemos dos estados **ALTO** o **BAJO**.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzgzNjYwNyw0MTI2NTcwOTksMTE4Nj
-U1OTk0NV19
+eyJoaXN0b3J5IjpbLTE0ODMwNzQ2NjEsNDEyNjU3MDk5LDExOD
+Y1NTk5NDVdfQ==
 -->

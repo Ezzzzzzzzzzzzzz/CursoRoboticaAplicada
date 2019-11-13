@@ -25,16 +25,16 @@ void setup()
 void loop()
 {
 // Definimos nuestra secuencia.
-  if(digitalRead(Boton) == HIGH){ // Utilizamos la sentencia condicional 
-    digitalWrite(LED, HIGH);
+  if(digitalRead(Boton) == HIGH){ // Utilizamos la sentencia condicional "if".
+    digitalWrite(LED, HIGH); // Si la condición SI se cumple el LED se enciende.
   }
   else{
-   digitalWrite(LED, LOW); 
+   digitalWrite(LED, LOW); // Si la condición NO se cumple el LED permanecera apagado.
   }
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDcyOTY0MCwxNDI5OTE5OTA5LC02MD
+eyJoaXN0b3J5IjpbLTUxNjIwMjk4NywxNDI5OTE5OTA5LC02MD
 MxNDc2NjldfQ==
 -->

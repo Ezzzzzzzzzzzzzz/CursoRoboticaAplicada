@@ -49,8 +49,10 @@ void loop()
 }
 ```
 
+## Explicación 
 
+Como habrán notado tenemos unas cuantas modificaciones muy interesantes, **primero creamos una variable global del tipo entero llamada pausa con un valor de 100**, esta variable nos servirá para cambiar el tiempo en que cambian de estado los led's, **si disminuimos el valor aumenta la velocidad cuando prenden y se apagan, o sea se “mueven” más rápido, si aumentan el valor es más lento**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODU2MDYxMywxMDA0NzU5NDMyLDQxNT
+eyJoaXN0b3J5IjpbLTczODYwNjQ4OSwxMDA0NzU5NDMyLDQxNT
 g1ODU2MCwtMjc5NTk2NjM1XX0=
 -->

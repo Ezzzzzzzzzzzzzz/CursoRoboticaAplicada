@@ -11,7 +11,10 @@ En esta práctica se harán las famosas luces del auto fantástico, este nombre 
 
 ## Circuito
 
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/Practica3.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/Practica3.JPG)
 
+## Código
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTU5NjYzNV19
+eyJoaXN0b3J5IjpbNDE1ODU4NTYwLC0yNzk1OTY2MzVdfQ==
 -->

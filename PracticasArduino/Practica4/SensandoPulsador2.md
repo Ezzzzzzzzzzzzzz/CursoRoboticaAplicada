@@ -56,8 +56,14 @@ Primero **almacenamos en ``push_lee`` la lectura que se le hace al pulsador**, a
 
 Después dentro del ``if()`` viene un ``delay()``, **es un pequeño tiempo llamado antirrebote y es el tiempo en que tardamos presionando el pulsador**, al terminar este ``if()`` se le asigna a la variable ``estadoAnterior`` el valor de ``push_lee``.
 
-Ahora bien, explicaremos la operación estadoLed = 1 – estadoLed, como el pulsador están en modo pull-down al presionar nosotros el pulsador el valor de la variable push_lee cambia a uno, después entra al if donde las dos condiciones se evalúan y se encuentran verdaderas ya que se cumple la primera al presionar el pulsador y la segunda se cumple pues le dimos el valor de cero, por consiguiente entra al if donde tenemos la operación estadoLed = 1 – estadoLed.
+Ahora bien, explicaremos la operación ``estadoLed = 1 – estadoLed``, **como el pulsador están en modo _pull-down_ al presionar nosotros el pulsador el valor de la variable ``push_lee`` cambia a uno**, después entra al ``if()`` donde las dos condiciones se evalúan y se encuentran verdaderas ya que se cumple la primera al presionar el pulsador y la segunda se cumple pues le dimos el valor de cero, por consiguiente entra al ``if()`` donde tenemos la operación ``estadoLed = 1 – estadoLed``.
+Como la variable estadoLed tiene valor cero porque así lo hemos puesto al principio entonces tenemos
+que estadoLed = 1 – 0, eso nos da el valor de uno en estadoLed, y ahora en la variable estadoAnterior
+fuera del if tiene un valor cero ya que el valor de uno lo toma únicamente cuando presionamos el pulsador
+y cuando se suelta toma el valor de cero nuevamente, después de esto entra el segundo if, como el
+estadoLed vale uno y no se ha cambiado este valor permanece en ese if yprende el led hasta que se vuelva a presiona el pulsador cambiará de estado porque ahora se tendrá: estadoLed = 1 – 1, que es cero y entra en el else ya que no se cumple la primera condición y se apaga el led, y así es como se hace para que un pulsador funcione como switch, como ya se mencionó esto no sirve solo para pulsadores, sino para muchas más aplicaciones que se verán más adelante.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzE5NDM3MSwtOTU4MDYxOTY2XX0=
+eyJoaXN0b3J5IjpbLTkxOTY5MzkzNiwtOTU4MDYxOTY2XX0=
 -->

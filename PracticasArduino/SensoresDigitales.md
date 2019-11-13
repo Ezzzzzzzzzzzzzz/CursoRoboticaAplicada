@@ -36,8 +36,9 @@ En la configuración de **resistencia pull-down** en el estado de reposo **tendr
 Aquí mostramos la conexión de cada una:
 
 ![](http://4.bp.blogspot.com/-KAkM3oZ1rhI/U7zrMdebhtI/AAAAAAAAA28/w66cXzjAIgI/s1600/resistenciaspullupypulldown.jpg)
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/PullDown%26Pullup.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/PullDown%26Pullup.JPG)
 Esta configuración sirve solo para sensores donde solo tenemos dos estados **ALTO** o **BAJO**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyNjU3MDk5LDExODY1NTk5NDVdfQ==
+eyJoaXN0b3J5IjpbLTkyMzQyNzg1LDQxMjY1NzA5OSwxMTg2NT
+U5OTQ1XX0=
 -->

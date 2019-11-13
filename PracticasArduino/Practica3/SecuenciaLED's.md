@@ -55,9 +55,9 @@ Como habrán notado tenemos unas cuantas modificaciones muy interesantes, **prim
 
 Lo siguiente es configurar los pines como salida y aquí vemos lo interesante, **no usamos la palabra reservada ``#define`` para darle un alias a cada pin de Arduino**, donde conectamos los led's, **los usaremos como números y los configuraremos de “golpe” como salidas**, esto lo hacemos con un ``for()`` que ya se vio su funcionamiento en un tema anterior, **en la _condición 1_ este inicia en el pin 0 y en la _condición 2_ ponemos que nuestra variable sea menor que 5 ya que será de 0 a 4 los pines a utilizar, y en la _condición 3_ hacemos el incremento en 1**, dentro del ``for()`` usamos el ``pinMode()`` y le pasamos la variable del ``for()``, la ponemos como ``OUTPUT`` y es así como configuramos los pines como salida de “golpe” .
 
-Ahora en el **``loop`` ponemos nuestro programa de ejecución**, de nuevo usamos un ``for()`` como el del ``setup()``, y adentro del ``for()`` ponemos la sentencia que hace que prenda el led con digitalWrite(), a esta función le pasamos como primer parámetro la variable del for y enviamos un alto, el led prenderá durante el tiempo de la variable pausa y después de ese tiempo se apagará ese mismo pin, así sucesivamente, después se le da un tiempo con un delay(), de nuevo le pasamos como parámetro la variable pausa y esto servirá para darle un tiempo para hacer el cambio al segundo for.
+Ahora en el **``loop`` ponemos nuestro programa de ejecución**, de nuevo usamos un ``for()`` como el del ``setup()``, y adentro del ``for()`` ponemos la sentencia que hace que prenda el led con ``digitalWrite()``, a esta función le pasamos como primer parámetro la variable del ``for()`` y enviamos un alto, el led prenderá durante el tiempo de la variable pausa y después de ese tiempo se apagará ese mismo pin, así sucesivamente, después se le da un tiempo con un ``delay(), de nuevo le pasamos como parámetro la variable pausa y esto servirá para darle un tiempo para hacer el cambio al segundo for.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU1MjE2LDEwMDQ3NTk0MzIsNDE1OD
-U4NTYwLC0yNzk1OTY2MzVdfQ==
+eyJoaXN0b3J5IjpbNzQ0MTAzOTIxLC0yMDc1NTIxNiwxMDA0Nz
+U5NDMyLDQxNTg1ODU2MCwtMjc5NTk2NjM1XX0=
 -->

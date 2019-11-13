@@ -46,7 +46,12 @@ void loop()
   }
 }
 ```
+## Explicación
+Creamos tres variables del tipo int, una para almacenarla lectura del pulsador que es push_lee, estadoLed
+para almacenar el estado que entrará en el if para que prenda o apague el led, incluso cualquier otro
+actuador que veremos más adelante.
+La variable estadoAnterior almacenará el estado anterior del pulsador, estas tres variables se igualan a cero para tener un valor por defecto, ya en el setup() se configuran los pines como entrada y salida respectivamente, ahora viene lo más interesante que es nuestro programa de ejecución que sirve para usar un pulsador como un switch.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODA2MTk2Nl19
+eyJoaXN0b3J5IjpbNzA3NjQyMjMxLC05NTgwNjE5NjZdfQ==
 -->

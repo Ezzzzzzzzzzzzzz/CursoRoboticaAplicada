@@ -15,8 +15,42 @@ En esta práctica se harán las famosas luces del auto fantástico, este nombre 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/Practica3.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/Practica3.JPG)
 
 ## Código
- 
+ ```c
+ int pausa = 100;
+
+void setup()
+{
+// Inicializamos los pines de 0 al 6 como OUTPUT con un ciclo "for"
+  for(int pinLED = 0; pinLED < 5; pinLED++){
+    pinMode(pinLED, OUTPUT);
+  }
+}
+
+void loop()
+{
+  // Encendemos y apagamos en un loop desde el pin 0 hasta el pin 6
+  for(int pinLED = 0; pinLED < 5; pinLED++){
+    // Pone el pinLED en HIGH encendiendo el LED 
+    digitalWrite(pinLED, HIGH);
+    delay(pausa);
+    // Pone el pinLED en LOW apagando el LED
+    digitalWrite(pinLED, LOW);
+  }
+  delay(pausa);
+  // Encendemos y apagamos en otro loop desde el pin 6 hasta el pin 2
+  for(int pinLED = 4; pinLED >= 0; pinLED--){
+    // Pone el pinLED en HIGH encendiendo el LED 
+    digitalWrite(pinLED, HIGH);
+    delay(pausa);
+    // Pone el pinLED en LOW apagando el LED 
+    digitalWrite(pinLED, LOW);
+  }
+  delay(pausa);
+}
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDc1OTQzMiw0MTU4NTg1NjAsLTI3OT
-U5NjYzNV19
+eyJoaXN0b3J5IjpbMTMwODU2MDYxMywxMDA0NzU5NDMyLDQxNT
+g1ODU2MCwtMjc5NTk2NjM1XX0=
 -->

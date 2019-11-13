@@ -9,7 +9,10 @@ Vamos a leer un pulsador y por medio de una condición vamos a prender y apagar 
 > - Resistencia de 10 kOhm's
 > - Protoboard
 > - Jumpers
+## Circuito
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Boton%26LED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Boton%26LED.JPG)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzE0NzY2OV19
+eyJoaXN0b3J5IjpbMTQyOTkxOTkwOSwtNjAzMTQ3NjY5XX0=
 -->

@@ -12,7 +12,30 @@ Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos leds 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG)
 
+```c
+#define LED1 4	// Damos un alias a nuestro pin 4
+#define LED2 5	// Damos un alias a nuestro pin 5
+
+void setup()
+{
+  pinMode(LED1, OUTPUT);
+  pinMode(LED2, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED1, HIGH);
+  digitalWrite(LED2, HIGH);
+  delay(100); // Wait for 1000 millisecond(s)
+  
+  digitalWrite(LED1, LOW);
+  digitalWrite(LED2, LOW);
+  delay(100); // Wait for 1000 millisecond(s)
+}
+
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQzNjU5MjYsLTczMDc5Nzg2NF19
+eyJoaXN0b3J5IjpbMTk1Njk4NjIxOCwtMTQyNDM2NTkyNiwtNz
+MwNzk3ODY0XX0=
 -->

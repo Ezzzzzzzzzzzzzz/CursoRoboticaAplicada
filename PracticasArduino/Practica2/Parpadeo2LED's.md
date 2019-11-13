@@ -10,9 +10,9 @@ Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos leds 
 > - Jumpers
 
 ## Circuito
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDc5Nzg2NF19
+eyJoaXN0b3J5IjpbLTE0MjQzNjU5MjYsLTczMDc5Nzg2NF19
 -->

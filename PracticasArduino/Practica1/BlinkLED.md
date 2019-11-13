@@ -34,11 +34,11 @@ Recordando lo que se vio en capítulos pasados usamos la palabra reservada ``#de
 
 Ahora dentro de ``void setup()`` **configuramos nuestro pin como salida ya que enviaremos señales digitales de ALTO o BAJO**, esto se hace mediante la función ``pinMode()`` que en su traducción al español sería “pin en modo de” , **esta función recibe dos parámetros, uno que es el ALIAS o PIN y la otra parte** que sería la palabra reservada ``INPUT`` u ``OUTPUT``, en este caso usamos la segunda que es ``OUTPUT``, ya que enviaremos pulsos y por eso lo configuramos como salida.
 
-Lo siguiente será configurar nuestro programa de ejecución, esto entra en void loop(), lo  que escribamos dentro de él se ejecutara infinitamente hasta que nosotros cortemos el ciclo por algún otro medio. Como queremos hacer el clásico blink, lo que quiere decir hacer prender y apagar un led por un determinado tiempo, tenemos que enviar un pulso ALTO, para este caso usaremos la función digitalWrite() que traducida al español será “escribe en digital un”, como pueden observar también recibe dos parámetros, uno es el ALIAS o PIN y la otra parte lo que queremos escribir, un ALTO o un BAJO y
+Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``void loop()``, lo  que escribamos dentro de él se ejecutara infinitamente hasta que nosotros cortemos el ciclo por algún otro medio. Como queremos hacer el clásico **blink**, lo que quiere decir hacer prender y apagar un led por un determinado tiempo, tenemos que enviar un pulso ALTO, para este caso usaremos la función digitalWrite() que traducida al español será “escribe en digital un”, como pueden observar también recibe dos parámetros, uno es el ALIAS o PIN y la otra parte lo que queremos escribir, un ALTO o un BAJO y
 esto se hace mediante HIGH o LOW, en nuestro caso como queremos que prenda el led enviará un alto por un determinado
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Njg2Mzg3NSwtMTU5NzQ2NzE0NiwtNT
-Y5OTk1NTYxXX0=
+eyJoaXN0b3J5IjpbLTExMDU0OTI0MTMsMTY3Njg2Mzg3NSwtMT
+U5NzQ2NzE0NiwtNTY5OTk1NTYxXX0=
 -->

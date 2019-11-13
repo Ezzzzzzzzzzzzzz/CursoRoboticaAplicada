@@ -30,12 +30,12 @@ void loop(){ //Definimos nuestra secuencia.
 ```
 ## Explicación 
 
-Recordando lo que se vio en capítulos pasados usamos la palabra reservada **#define para darle un alias a nuestro pin 2**, el cual es LED, _esto para tener un código mucho más limpio e identificar lo que conectamos en cada pin de nuestro Arduino_, por eso ``#define LED 2``. **Todo esto se hace arriba del void setup()**, también en esta parte se definen las variables para almacenar datos, o sea variables globales.
+Recordando lo que se vio en capítulos pasados usamos la palabra reservada ``#define`` **para darle un alias a nuestro pin 2**, el cual es LED, _esto para tener un código mucho más limpio e identificar lo que conectamos en cada pin de nuestro Arduino_, por eso ``#define LED 2``. Todo esto se hace arriba del ``void setup()``, también en esta parte se definen las variables para almacenar datos, o sea variables globales.
 
 Ahora dentro de **void setup()** configuramos nuestro pin como salida ya que enviaremos señales digitales de ALTO o BAJO, esto se hace mediante la función pinMode() que en su traducción al español sería “pin en modo de” , esta función recibe dos parámetros, uno que es el ALIAS o PIN y la otra parte que sería la palabra reservada INPUT u OUTPUT, en este caso usamos la segunda que es OUTPUT, ya que enviaremos pulsos y por eso lo configuramos como salida.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA3OTA1NDgsLTE1OTc0NjcxNDYsLT
-U2OTk5NTU2MV19
+eyJoaXN0b3J5IjpbLTg4MDY0ODU5NiwtMTU5NzQ2NzE0NiwtNT
+Y5OTk1NTYxXX0=
 -->

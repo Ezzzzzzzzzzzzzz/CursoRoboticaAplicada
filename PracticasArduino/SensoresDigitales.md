@@ -41,8 +41,8 @@ Aquí mostramos la conexión de cada una:
 
 Esta configuración sirve solo para sensores donde solo tenemos dos estados **ALTO** o **BAJO**.
 
-
+[https://www.tinkercad.com/things/1uoO6OjK4vj-copy-of-resistor-pull-up-e-pull-down/editel?tenant=circuits](https://www.tinkercad.com/things/1uoO6OjK4vj-copy-of-resistor-pull-up-e-pull-down/editel?tenant=circuits)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODMwNzQ2NjEsNDEyNjU3MDk5LDExOD
+eyJoaXN0b3J5IjpbLTE1NjMyODM3NzIsNDEyNjU3MDk5LDExOD
 Y1NTk5NDVdfQ==
 -->

@@ -24,15 +24,15 @@ void setup()
 void loop() // Definimos nuestra secuencia.
 {
   digitalWrite(LED1, HIGH); // Mandamos un ALTO a nuestro LED1
-  digitalWrite(LED2, HIGH);	// Mandamos un ALTO a nuestro LED2
+  digitalWrite(LED2, HIGH); // Mandamos un ALTO a nuestro LED2
   delay(100); // Tiempo en el que los LED´s permanecen encendidos "un segundo".
   digitalWrite(LED1, LOW); // Mandamos un BAJO a nuestro LED1
   digitalWrite(LED2, LOW); // Mandamos un BAJO a nuestro LED2
-  delay(100); // Tiempo en el que los LED´s permanecen encendidos "un segundo".
+  delay(100); // Tiempo en el que los LED´s permanecen apagados "un segundo".
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTc0MDI2NSwtMTQyNDM2NTkyNiwtNz
-MwNzk3ODY0XX0=
+eyJoaXN0b3J5IjpbLTIwODQ0NTM3MzEsLTE0MjQzNjU5MjYsLT
+czMDc5Nzg2NF19
 -->

@@ -30,10 +30,10 @@ void loop(){ //Definimos nuestra secuencia.
 ```
 ## Explicación 
 
-Recordando lo que se vio en capítulos pasados usamos la palabra reservada #define para darle un alias a nuestro pin 2, el cual es LED, esto para tener un código mucho más limpio e identificar lo que conectamos en cada pin de nuestro Arduino, por eso #define LED 2. Todo esto se hace arriba del void setup(), también en esta parte se definen las variables para almacenar datos, o sea variables globales.
+Recordando lo que se vio en capítulos pasados usamos la palabra reservada **#define para darle un alias a nuestro pin 2**, el cual es LED, _esto para tener un código mucho más limpio e identificar lo que conectamos en cada pin de nuestro Arduino_, por eso **#define LED 2**. **Todo esto se hace arriba del void setup(), también en esta parte se definen las variables para almacenar datos, o sea variables globales.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Njc0NjI3NiwtMTU5NzQ2NzE0NiwtNT
+eyJoaXN0b3J5IjpbLTc3OTA4NzIzMiwtMTU5NzQ2NzE0NiwtNT
 Y5OTk1NTYxXX0=
 -->

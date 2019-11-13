@@ -54,7 +54,10 @@ La variable ``estadoAnterior`` **almacenará el estado anterior del pulsador**, 
 
 Primero **almacenamos en ``push_lee`` la lectura que se le hace al pulsador**, ahora escribiremos un ``if()`` **en el cual tendremos dos condiciones unidas por un ``AND`` o sea un ``&&``**, la primera condición nos dice que al estado de ``push_lee`` debe ser uno y se hace la comparación además de que este estado debe ser verdadero y esto se cumple cuando presionamos el pulsador, la segunda condición dice que el ``estadoAnterior`` debe ser cero y esto es verdad ya que al principio nosotros le dimos un valor de cero, después tiene una operación muy interesante la cual es ``estadoLed = 1 – estadoLed``, esta se explicará más adelante.
 
+Después dentro del ``if()`` viene un ``delay()``, **es un pequeño tiempo llamado antirrebote y es el tiempo en que tardamos presionando el pulsador**, al terminar este ``if()`` se le asigna a la variable ``estadoAnterior`` el valor de ``push_lee``.
+
+Ahora bien, explicaremos la operación estadoLed = 1 – estadoLed, como el pulsador están en modo pull-down al presionar nosotros el pulsador el valor de la variable push_lee cambia a uno, después entra al if donde las dos condiciones se evalúan y se encuentran verdaderas ya que se cumple la primera al presionar el pulsador y la segunda se cumple pues le dimos el valor de cero, por consiguiente entra al if donde tenemos la operación estadoLed = 1 – estadoLed.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2Nzk5MzIsLTk1ODA2MTk2Nl19
+eyJoaXN0b3J5IjpbMTY5NzE5NDM3MSwtOTU4MDYxOTY2XX0=
 -->

@@ -52,8 +52,9 @@ Creamos tres variables del tipo ``int``, una **para almacenarla lectura del puls
 
 La variable ``estadoAnterior`` **almacenará el estado anterior del pulsador**, estas tres variables se igualan a cero para tener un valor por defecto, ya en el ``setup()`` se configuran los pines como entrada y salida respectivamente, ahora viene lo más interesante que es nuestro programa de ejecución que sirve para usar un pulsador como un switch.
 
-Primero **almacenamos en ``push_lee`` la lectura que se le hace al pulsador**, ahora escribiremos un ``if()`` **en el cual tendremos dos condiciones unidas por un AND o sea un &&, la primera condición nos dice que al estado de push_lee debe ser uno y se hace la comparación además de que este estado debe ser verdadero y esto se cumple cuando presionamos el pulsador, la segunda condición dice que el estado anterior debe ser cero y esto es verdad ya que al principio nosotros le dimos un valor de cero, después tiene una operación muy interesante la cual es estadoLed = 1 – estadoLed, esta se explicará más adelante.
+Primero **almacenamos en ``push_lee`` la lectura que se le hace al pulsador**, ahora escribiremos un ``if()`` **en el cual tendremos dos condiciones unidas por un ``AND`` o sea un ``&&``**, la primera condición nos dice que al estado de ``push_lee`` debe ser uno y se hace la comparación además de que este estado debe ser verdadero y esto se cumple cuando presionamos el pulsador, la segunda condición dice que el ``estadoAnterior`` debe ser cero y esto es verdad ya que al principio nosotros le dimos un valor de cero, después tiene una operación muy interesante la cual es ``estadoLed = 1 – estadoLed``, esta se explicará más adelante.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwMTIyMzcwLC05NTgwNjE5NjZdfQ==
+eyJoaXN0b3J5IjpbOTk2Nzk5MzIsLTk1ODA2MTk2Nl19
 -->

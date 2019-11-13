@@ -40,6 +40,5 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5MDU5MzI0LDE5Njk4NTE2NTksMTY3Nj
-g2Mzg3NSwtMTU5NzQ2NzE0NiwtNTY5OTk1NTYxXX0=
+eyJoaXN0b3J5IjpbNTE5MDU5MzI0XX0=
 -->

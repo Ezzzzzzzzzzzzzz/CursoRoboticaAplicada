@@ -25,7 +25,17 @@ Tenemos algunas cuestiones antes de comenzar para que no haya algún error cuand
 
 ## Resistencia de Pull up & Pull down
 
+Las resistencias pull-up o pull-down se usan para establecer el estado lógico de la lectura que haremos de nuestro sensor y ésta sea correcta, como es el caso si usamos pulsadores, dip switch, sensores IR, etc.
 
+Como bien lo dice su nombre, dependiendo de la configuración que hagamos tendremos un estado alto por default o un estado bajo también por default, cuando nuestro sensor esté en reposo y cuando activemos el sensor cambiará el estado de éste y se usan resistencias de 1k a 10k, y esto se explicó anteriormente.
+
+En la configuración de resistencia pull-up en el estado de reposo tendremos un estado de 5V (HIGH), en cambio cuando activamos nuestro sensor se deriva toda la corriente a tierra y la caída de tención es de 0v (LOW).
+
+En la configuración de resistencia pull-down en el estado de reposo tendremos un estado de 0V (LOW), en cambio cuando activamos nuestro sensor dejará pasar la corriente y tendremos una diferencia de potencial de 5v (LOW).
+
+Aquí mostramos la conexión de cada una:
+
+!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA0NjIxODcsMTE4NjU1OTk0NV19
+eyJoaXN0b3J5IjpbLTE4MzU1ODA0MzYsMTE4NjU1OTk0NV19
 -->

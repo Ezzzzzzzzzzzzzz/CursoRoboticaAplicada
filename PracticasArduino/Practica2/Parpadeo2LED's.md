@@ -1,6 +1,6 @@
 # Parpadeo de dos LED's
 
-Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos leds simultáneamente, la explicación es similar a la anterior solo que ahora son dos leds, se recomienda que ustedes aparte de esto aumente más leds, tres, cuatro, etc., y jueguen con los tiempos del ``delay()``.
+Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos led´s simultáneamente, la explicación es similar a la anterior solo que ahora son dos led's, se recomienda que ustedes aparte de esto aumente más led´s, tres, cuatro, etc., y jueguen con los tiempos del ``delay()``.
 
 ## Materiales
 > - Arduino UNO
@@ -33,6 +33,6 @@ void loop() // Definimos nuestra secuencia.
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ0NTM3MzEsLTE0MjQzNjU5MjYsLT
-czMDc5Nzg2NF19
+eyJoaXN0b3J5IjpbMzU2NzYwNTU0LC0yMDg0NDUzNzMxLC0xND
+I0MzY1OTI2LC03MzA3OTc4NjRdfQ==
 -->

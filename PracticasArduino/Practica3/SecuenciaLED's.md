@@ -52,7 +52,10 @@ void loop()
 ## Explicación 
 
 Como habrán notado tenemos unas cuantas modificaciones muy interesantes, **primero creamos una variable global del tipo entero llamada pausa con un valor de 100**, esta variable nos servirá para cambiar el tiempo en que cambian de estado los led's, **si disminuimos el valor aumenta la velocidad cuando prenden y se apagan, o sea se “mueven” más rápido, si aumentan el valor es más lento**.
+
+Lo siguiente es configurar los pines como salida y aquí vemos lo interesante, no usamos la palabra reservada define para darle un alias a cada pin de Arduino, donde conectamos los leds, los usaremos como números y los configuraremos de “golpe” como salidas, esto lo hacemos con un for que ya se vio su funcionamiento en un capítulo anterior, este inicia en el pin 2 y en la condición 1 ponemos que nuestra variable sea menor que 7 ya que será de 2 a 6 los pines a utilizar, y en la condición 2 hacemos el incremento en 1, dentro del for usamos el pinMode() y le pasamos la variable del for, la ponemos como OUTPUT y es así como configuramos los pines como salida de “golpe” .
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODYwNjQ4OSwxMDA0NzU5NDMyLDQxNT
+eyJoaXN0b3J5IjpbMTAxNzAyOTU3MywxMDA0NzU5NDMyLDQxNT
 g1ODU2MCwtMjc5NTk2NjM1XX0=
 -->

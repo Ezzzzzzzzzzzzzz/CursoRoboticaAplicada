@@ -23,7 +23,9 @@ Tenemos algunas cuestiones antes de comenzar para que no haya algún error cuand
   - El **pin 13** no es recomendable usarlo en la tarjeta para lectura:
     * **Tiene una resistencia propia física**.
 
+## Resistencia de Pull up & Pull down
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjU1OTk0NV19
+eyJoaXN0b3J5IjpbLTEzMjA0NjIxODcsMTE4NjU1OTk0NV19
 -->

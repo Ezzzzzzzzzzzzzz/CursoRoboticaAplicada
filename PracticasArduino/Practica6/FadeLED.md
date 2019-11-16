@@ -10,7 +10,9 @@ En esta práctica **enviaremos valores analógicos para poder controlar la lumin
 > - Jumpers
 
 ## Circuito
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/FadeLED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/FadeLED.JPG)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODA1NTEzMV19
+eyJoaXN0b3J5IjpbLTk3NDM1NTM3NSwtMjE4MDU1MTMxXX0=
 -->

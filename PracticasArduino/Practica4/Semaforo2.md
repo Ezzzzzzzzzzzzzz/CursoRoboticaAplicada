@@ -1,6 +1,6 @@
 # Semáforo no. 2
 
-Esta práctica tiene como objetivo conocer salidas digitales para la creación de secuencias de salida con led´s.
+Esta práctica tiene como objetivo crear el control para dos semáforos en un cruce. **Utiliza los conocimientos adquiridos en los temas y practicas anteriores**. 
 
 ## Material 
 > - Arduino
@@ -13,5 +13,5 @@ Esta práctica tiene como objetivo conocer salidas digitales para la creación d
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo2.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDI0NTk0NF19
+eyJoaXN0b3J5IjpbLTc2NDIyNDA4MywxNTMwMjQ1OTQ0XX0=
 -->

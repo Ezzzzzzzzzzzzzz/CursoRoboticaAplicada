@@ -12,7 +12,10 @@ En esta práctica **enviaremos valores analógicos para poder controlar la lumin
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/FadeLED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/FadeLED.JPG)
 
+## Código
+```c
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDM1NTM3NSwtMjE4MDU1MTMxXX0=
+eyJoaXN0b3J5IjpbMTEwMDE2NDY1MywtMjE4MDU1MTMxXX0=
 -->

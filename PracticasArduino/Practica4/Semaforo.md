@@ -27,35 +27,32 @@ void setup()
   pinMode(Rojo, OUTPUT);
   pinMode(Amarillo, OUTPUT);
   pinMode(Verde, OUTPUT);
-
 }
-
 void loop()
 {
-digitalWrite(Verde, HIGH);
-digitalWrite(Amarillo, LOW);
-digitalWrite(Rojo, LOW);
-delay(tiempo);
-digitalWrite(Verde, LOW);
-digitalWrite(Amarillo, HIGH);
-digitalWrite(Rojo, LOW);
-delay(parpadeo);
-digitalWrite(Verde, LOW);
-digitalWrite(Amarillo, LOW);
-digitalWrite(Rojo, LOW);
-delay(parpadeo);
-digitalWrite(Verde, LOW);
-digitalWrite(Amarillo, HIGH);
-digitalWrite(Rojo, LOW);
-delay(parpadeo);
-digitalWrite(Verde, LOW);
-digitalWrite(Amarillo, LOW);
-digitalWrite(Rojo, HIGH);
-delay(tiempo);
+  digitalWrite(Verde, HIGH);
+  digitalWrite(Amarillo, LOW);
+  digitalWrite(Rojo, LOW);
+  delay(tiempo);
+  digitalWrite(Verde, LOW);
+  digitalWrite(Amarillo, HIGH);
+  digitalWrite(Rojo, LOW);
+  delay(parpadeo);
+  digitalWrite(Verde, LOW);
+  digitalWrite(Amarillo, LOW);
+  digitalWrite(Rojo, LOW);
+  delay(parpadeo);
+  digitalWrite(Verde, LOW);
+  digitalWrite(Amarillo, HIGH);
+  digitalWrite(Rojo, LOW);
+  delay(parpadeo);
+  digitalWrite(Verde, LOW);
+  digitalWrite(Amarillo, LOW);
+  digitalWrite(Rojo, HIGH);
+  delay(tiempo);
 }
-
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwNzY3ODc3LDk5MjU3MDY1OV19
+eyJoaXN0b3J5IjpbLTE4NTU4NTIxMDksOTkyNTcwNjU5XX0=
 -->

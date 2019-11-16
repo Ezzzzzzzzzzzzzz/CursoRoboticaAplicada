@@ -1,7 +1,5 @@
 # ¿Que es algo analógico?
 
-Ya vimos como censar valores analógicos, pero ahora veremos como “escribir” valores analógicos, o sea
-enviar valores analógicos.
 ¿Qué es algo analógico?
 - Analógico:
   + **Valores continuos en un rango**.
@@ -13,14 +11,14 @@ enviar valores analógicos.
 
 ![](https://cursos.mcielectronics.cl/wp-content/uploads/2014/09/022.png)
 
-Arduino no tiene salidas propiamente analógicas ya que los microcontroladores son dispositivos digitales.
-- Se utiliza PWM, Modulación por Ancho de Pulso que es:
+**Arduino no tiene salidas propiamente analógicas ya que los microcontroladores son dispositivos digitales.**
+- Se utiliza **PWM**, **Modulación por Ancho de Pulso** que es:
   + Una señal cuadrada entre 0 y 5 volts.
   + Esta señal cambia rápidamente entre esos dos valores.
-  + Simula voltajes analógicos entre 0 y 5 volts.
+  + **Simula voltajes analógicos entre 0 y 5 volts**.
   + Tiene una resolución de 8 bits.
 
-En la siguiente imagen se muestra una gráfica de los ciclos de PWM:
+En la siguiente imagen se muestra una gráfica de los ciclos de **PWM**:
 
 ![](https://i.pinimg.com/originals/ec/79/c9/ec79c97752fb5d8b9250dcafd4f514b0.png)
 
@@ -30,7 +28,7 @@ o con **~**.
 Para escribir con estos pines usamos la función ``analogWrite([pin/alias],[valor/variable]);``, en valor o variable como bien comentamos solo recibe valores que estén entre **0** y **255**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ1MTUxODEsMTE4MjMxMDE1OCwxND
-QxMzg2NTUzLC05MzM1OTQ0NTEsLTE3NjkwNjE1NzksNTE4MzY1
-NDRdfQ==
+eyJoaXN0b3J5IjpbODYwNjYwMTk2LDExODIzMTAxNTgsMTQ0MT
+M4NjU1MywtOTMzNTk0NDUxLC0xNzY5MDYxNTc5LDUxODM2NTQ0
+XX0=
 -->

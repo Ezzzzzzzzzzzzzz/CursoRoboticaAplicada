@@ -11,7 +11,6 @@ Esta práctica tiene como objetivo conocer salidas digitales para la creación d
 
 ## Circuito
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyNTcwNjU5XX0=
+eyJoaXN0b3J5IjpbMTMwMzk0MzIyMSw5OTI1NzA2NTldfQ==
 -->

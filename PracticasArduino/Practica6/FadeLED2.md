@@ -37,7 +37,7 @@ void loop()
   }
 }
 ```
-Revisa las **[sentencias de control](https://classroom.google.com/w/NDY3MjU0MTQyMDla/tc/NDY4MDUwNDkzMjBa?hl=es)** y los [**operadores de relación**](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) para poder completar la practica.
+**Si necesitas ayuda**, revisa las **[sentencias de control](https://classroom.google.com/w/NDY3MjU0MTQyMDla/tc/NDY4MDUwNDkzMjBa?hl=es)** y los [**operadores de relación**](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) para poder completar la practica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjQwODAwOCwtMTQ2ODUwMjAyNF19
+eyJoaXN0b3J5IjpbMjEyMDY5MDQ0NSwtMTQ2ODUwMjAyNF19
 -->

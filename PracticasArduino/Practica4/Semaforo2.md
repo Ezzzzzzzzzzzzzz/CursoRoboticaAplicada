@@ -12,6 +12,9 @@ Esta práctica tiene como objetivo crear el control para dos semáforos en un cr
 ## Circuito
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo2.JPG)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDIyNDA4MywxNTMwMjQ1OTQ0XX0=
+eyJoaXN0b3J5IjpbLTk0MTQwNDA3LC03NjQyMjQwODMsMTUzMD
+I0NTk0NF19
 -->

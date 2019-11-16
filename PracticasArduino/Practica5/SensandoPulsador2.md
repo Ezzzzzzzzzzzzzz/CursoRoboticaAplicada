@@ -1,4 +1,4 @@
-# Sensando un pulsador no. 2
+# Censando un pulsador no. 2
 Vamos a leer un pulsador y por medio de una condición vamos a prender y apagar un led, **esta práctica será la base para poder leer cualquier otro sensor con solo dos estados que son ALTO o BAJO** y poder utilizarlo dependiendo de nuestras necesidades, abajo se muestra el código, material y explicación de la práctica.
 
 ## Material
@@ -62,6 +62,6 @@ Como la variable ``estadoLed`` tiene valor cero porque así lo hemos puesto al p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODk5ODYzNywtMTQwMjM1MDk2NSwxMD
-QyNTcxMDk3LC0xOTkwNzkwODU1XX0=
+eyJoaXN0b3J5IjpbMzgxODIxODI3LC0yMzg5OTg2MzcsLTE0MD
+IzNTA5NjUsMTA0MjU3MTA5NywtMTk5MDc5MDg1NV19
 -->

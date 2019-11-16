@@ -8,7 +8,7 @@ enviar valores analógicos.
   + Ejemplo: 
     * Todos los valores entre 0 y 5 volts, esto en resolución de 10 bits serán valores entre 0 a 1024.
     * **La señal eléctrica de los toma corrientes de tu casa.**
-![](https://arsumrep.com/wp-content/uploads/2016/01/AG1228.png  | width=100)
+![](https://arsumrep.com/wp-content/uploads/2016/01/AG1228.png|width=100px)
 
 ![](https://cursos.mcielectronics.cl/wp-content/uploads/2014/09/022.png)
 
@@ -23,5 +23,5 @@ En la siguiente imagen se muestra una gráfica de los ciclos de PWM:
 
 ![](https://i.pinimg.com/originals/ec/79/c9/ec79c97752fb5d8b9250dcafd4f514b0.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MTQ3NDcxLDUxODM2NTQ0XX0=
+eyJoaXN0b3J5IjpbLTE3NjkwNjE1NzksNTE4MzY1NDRdfQ==
 -->

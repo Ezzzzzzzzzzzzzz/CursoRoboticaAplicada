@@ -14,8 +14,22 @@ En esta práctica **enviaremos valores analógicos para poder controlar la lumin
 
 ## Código
 ```c
+#define Led 5;
+int Brillo;
+int Tiempo = 15;
 
-
+void setup()
+{
+  pinMode(Led, OUTPUT);
+}
+void loop()
+{
+  for(Brillo = 0; Brillo < 256; Brillo++){
+    	analogWrite(Led, Brillo);
+    	delay(Tiempo);
+  }
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDE2NDY1MywtMjE4MDU1MTMxXX0=
+eyJoaXN0b3J5IjpbMTI0ODk3NDc5MSwtMjE4MDU1MTMxXX0=
 -->

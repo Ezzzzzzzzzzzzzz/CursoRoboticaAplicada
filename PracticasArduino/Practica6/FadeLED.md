@@ -36,12 +36,12 @@ void loop()
 
 El funcionamiento es muy simple primero se define el pin para el LED, después en el ``setup()`` se pone el LED como salida, en el ``loop()`` se crea un ``for()`` que ira desde **0** a **255**, recordemos que **la resolución del PWM es de 8 bits**.
 
-Dentro del ``for()`` usamos ``analogWrite()``, donde recibe como parámetro el LED y los valores del ``for()`` que ira incrementando de uno en uno y esto se almacena en el la variable ***i***, se le da un ``delay()`` de **15**, ósea que cada **15 milisegundos** se ira incrementando la variable i.
+Dentro del ``for()`` usamos ``analogWrite()``, donde recibe como parámetro el LED y los valores del ``for()`` que ira incrementando de uno en uno y esto se almacena en el la variable ***i***, se le da un ``delay()`` de **15**, ósea que cada **15 milisegundos** se ira incrementando la variable ***i***.
 
-Gracias a los dos for vemos como incrementa y decrementa el brillo del led, si usamos un multímetro, veremos cómo aumenta y disminuye el voltaje entre los rangos de 0 a 5 volts. 
+Gracias al  ``for()`` vemos como incrementa el brillo del led, si usamos un multímetro, veremos cómo aumenta y  el voltaje entre los rangos de 0 a 5 volts. 
 
-Y es así como manejamos el PWM, lo que hace es que envía pulsos muy rápidos y eso hace que se emule un valor analógico y eso se hace como ya vimos con analogWrite.
+Y es así como manejamos el **PWM**, **lo que hace es que envía pulsos muy rápidos y eso hace que se emule un valor analógico** y eso se hace como ya vimos con ``analogWrite()``.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDc0NDk3NiwtMTY3NzAxODEwMiwtMj
-E4MDU1MTMxXX0=
+eyJoaXN0b3J5IjpbLTEwNDQwNzU2MjAsLTE2NzcwMTgxMDIsLT
+IxODA1NTEzMV19
 -->

@@ -10,7 +10,7 @@ Vamos a leer un pulsador y por medio de una condición vamos a prender y apagar 
 > - Protoboard
 > - Jumpers
 ## Circuito
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Boton%26LED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Boton%26LED.JPG)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/BotonLED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/BotonLED.JPG)
 
 ## Codigo
 ```c
@@ -35,5 +35,5 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjIwMjk4N119
+eyJoaXN0b3J5IjpbMjAxNDEyODAzOSwtNTE2MjAyOTg3XX0=
 -->

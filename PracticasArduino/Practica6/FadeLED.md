@@ -31,6 +31,13 @@ void loop()
   }
 }
 ```
+
+## Explicación 
+
+El funcionamiento es muy simple primero se define el pin para el LED, después en el setup se pone el LED como salida, en el loop se crea un for que ira desde 0 a 255, recordemos que la resolución del PWM es de 8 bits.
+
+Dentro del for usamos analogWrite, donde recibe como parámetro el LED y los valores del for que ira incrementando de uno en uno y esto se almacena en el la variable i, se le da un delay de 10, ósea que cada 10 milisegundo se ira incrementando la variable i.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcwMTgxMDIsLTIxODA1NTEzMV19
+eyJoaXN0b3J5IjpbLTExNjA3MzYxMDIsLTE2NzcwMTgxMDIsLT
+IxODA1NTEzMV19
 -->

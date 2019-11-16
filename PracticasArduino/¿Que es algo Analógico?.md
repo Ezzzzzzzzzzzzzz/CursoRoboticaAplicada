@@ -25,12 +25,12 @@ En la siguiente imagen se muestra una gráfica de los ciclos de **PWM**:
 El **Arduino UNO tiene 6 salidas PWM**, las cuales son los pines **3**, **5**, **6**, **9**, **10**, **11** y están marcados con PWM
 o con **~**. 
 
-!
+![](https://www.electronicwings.com/public/images/user_images/images/Arduino/Arduino_basics/Arduino_PWM/arduino%20pwm%20pins.png)
 
 Para escribir con estos pines usamos la función ``analogWrite([pin/alias],[valor/variable]);``, en valor o variable como bien comentamos solo recibe valores que estén entre **0** y **255**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5NDI1Njc1LDg2MDY2MDE5NiwxMTgyMz
-EwMTU4LDE0NDEzODY1NTMsLTkzMzU5NDQ1MSwtMTc2OTA2MTU3
-OSw1MTgzNjU0NF19
+eyJoaXN0b3J5IjpbMTU0NjU1OTQ4Niw4NjA2NjAxOTYsMTE4Mj
+MxMDE1OCwxNDQxMzg2NTUzLC05MzM1OTQ0NTEsLTE3NjkwNjE1
+NzksNTE4MzY1NDRdfQ==
 -->

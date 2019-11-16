@@ -30,12 +30,13 @@ void loop()
     	delay(Tiempo);
 	
 	/***************************
-	 * Escribe tu codigo AQUI!!
-	 ***************************/
+	 * Escribe tu codigo AQUI!! *
+	 **************************
+	 */
   }
 }
 ```
 Revisa las **[sentencias de control](https://classroom.google.com/w/NDY3MjU0MTQyMDla/tc/NDY4MDUwNDkzMjBa?hl=es)** y los [**operadores de relación**](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) para poder completar la practica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg1MDIwMjRdfQ==
+eyJoaXN0b3J5IjpbMTAzMjQ5NzkyMCwtMTQ2ODUwMjAyNF19
 -->

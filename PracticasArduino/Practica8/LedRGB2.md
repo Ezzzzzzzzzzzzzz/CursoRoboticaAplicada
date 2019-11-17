@@ -13,11 +13,15 @@ Esto puede ser usado con tiras de leds o leds RGB de alta potencia, **uniendo es
 > - Jumpers
 
 ## Circuito
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/RGBPots.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/RGBPots.JPG)
 
 ## Código
+```c
 
+
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA2MjY4MzFdfQ==
+eyJoaXN0b3J5IjpbLTE2NTE3Mjg3MzAsLTE4NjA2MjY4MzFdfQ
+==
 -->

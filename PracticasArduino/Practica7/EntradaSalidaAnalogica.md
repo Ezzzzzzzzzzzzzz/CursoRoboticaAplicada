@@ -39,7 +39,9 @@ void loop()
 }
 ```
 
+## Explicación
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTUwODk0NDMsMTc2NDQ4ODA1NCw5Nz
-U2MzA2MTQsNzg0MDgzMjU0XX0=
+eyJoaXN0b3J5IjpbMTc0Njc5Nzg4OCwxNzY0NDg4MDU0LDk3NT
+YzMDYxNCw3ODQwODMyNTRdfQ==
 -->

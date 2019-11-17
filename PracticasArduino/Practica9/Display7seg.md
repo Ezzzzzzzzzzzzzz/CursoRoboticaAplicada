@@ -19,14 +19,10 @@ Como puede ver es muy simple entender los diagramas, en **cátodo común** para 
 
 La tabla indica que, si queremos que se muestre en nuestro **display ánodo común**, entonces **el número 1** se tiene que enviar a los segmentos **1001110**, como ya se vio anteriormente el **1** representa un **HIGH** y el **0** un **LOW**.
 
-Para mostrar números largos de más de un digito se usan Display de 2, 3, 4, etc. dígitos, pero se usa el
-multiplexado que en simples palabras engaña a la vista prendiendo y apagando el Display muy
-rápidamente para que se vea que se forma un número compuesto, aunque en verdad primero saca un
-numero en todos los Display pero se apaga en los que no debe aparecer ese número y así sucesivamente
-con los demás. 
-Para las prácticas que se mostrarán es necesario el uso de un módulo Display de 7 segmentos y 4 dígitos, para que pueda apreciar el uso correctamente, este módulo usted puede hacerlo de manera casera siguiendo el siguiente tutorial:
+Para mostrar números largos de más de un digito se usan Display de 2, 3, 4, etc. dígitos, pero se usa el **multiplexado** que en simples palabras engaña a la vista prendiendo y apagando el display muy rápidamente para que se vea que se forma un número compuesto, aunque en verdad primero saca un numero en todos los display pero se apaga en los que no debe aparecer ese número y así sucesivamente con los demás.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MzkwODc0LDE3NTg5MDM3MDVdfQ==
+eyJoaXN0b3J5IjpbLTk3ODIzNjg5NSwxNzU4OTAzNzA1XX0=
 -->

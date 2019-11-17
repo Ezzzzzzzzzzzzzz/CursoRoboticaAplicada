@@ -57,7 +57,9 @@ void color(int red, int green, int blue){
 ```
 
 ## Explicación
+El código es bastante simple, pero hemos agregado unas cuantas cosas extras, como por ejemplo **usar una función**, esto ya se vio en los primeros temas. 
 
+Primero definimos los pines a usar, en este caso no usamos #define para cambiar un poco el código, y en lugar del #define usamos variables del tipo entero, esto se explicó en los temas anteriores, se creó una
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTYyMzUxMSw5NzcwNDg0NTNdfQ==
+eyJoaXN0b3J5IjpbNzc2NTk5NDA1LDk3NzA0ODQ1M119
 -->

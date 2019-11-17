@@ -12,7 +12,11 @@ En la siguiente imagen tenemos una representación gráfica de valores digitales
 
 ![](http://www.sound-pixel.com/files/content/Ejemplos%20de%20sonido.png)
 
-
+Como bien ya explicamos Arduino es un dispositivo digital, pero ahora leeremos valores analógico que se encuentran en rangos continuos y es necesario convertir el valor analógico a digital, pero esto Arduino lo hará por nosotros.
+- Arduino UNO tiene 6 puertos analógicos:
+  + A0 al A5.
+  + Son puertos de entrada analógica y/o entrada y salida digital.
+o El microcontrolador tiene un transductor que convierte la señal analógica a digital.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0NzQ5ODM0XX0=
+eyJoaXN0b3J5IjpbMTI0MzcxMTM0NiwyNzQ3NDk4MzRdfQ==
 -->

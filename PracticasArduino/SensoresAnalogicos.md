@@ -13,10 +13,10 @@ En la siguiente imagen tenemos una representación gráfica de valores digitales
 ![](http://www.sound-pixel.com/files/content/Ejemplos%20de%20sonido.png)
 
 Como bien ya explicamos Arduino es un dispositivo digital, pero ahora leeremos valores analógico que se encuentran en rangos continuos y es necesario convertir el valor analógico a digital, pero esto Arduino lo hará por nosotros.
-- Arduino UNO tiene 6 puertos analógicos:
-  + A0 al A5.
+- **Arduino UNO tiene 6 puertos analógicos:**
+  + **A0 al A5.**
   + Son puertos de entrada analógica y/o entrada y salida digital.
-  + El microcontrolador tiene un transductor que convierte la señal analógica a digital.
+  + El microcontrolador tiene un transductor que convierte la señal analógica a digital (**ADC**).
 
 La entrada del valor analógico tiene que estar entre 0 y 5 volts, gracias al transductor los valores continuos entre 0 y 5 voltios son convertidos a un número entero, gracias al bootloader Arduino está pre configurado a un resolución de 10 bits, eso quiere decir que, si tienes 0 volts tendremos un valor de 0, y si tenemos 5 volts tendremos un valor de 1023, esto nos quiere decir que el valor de 2.5 volts es 512.
 
@@ -32,5 +32,5 @@ Como se mencionó nos regresará un valor entre 0 y 1023, esto gracias a la conv
 
 A continuación se verán algunas prácticas que como ya se mencionó serán la base para realizar muchos proyectos uniendo lo ya visto.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg4NzkzMjIsMjc0NzQ5ODM0XX0=
+eyJoaXN0b3J5IjpbLTE2MDA2MTM4NjUsMjc0NzQ5ODM0XX0=
 -->

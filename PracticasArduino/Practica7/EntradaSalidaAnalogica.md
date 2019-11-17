@@ -40,12 +40,14 @@ void loop()
 ```
 
 ## Explicación
-La explicación es bastante simple, se definieron los pines a usar, en este caso el **5** y **A1**, se creó una variable para almacenar los datos del potenciómetro ``POT``, en el ``setup()`` inicializamos los pines y cargamos el ``Serial.begin();`` para visualizar los datos.
+La explicación es bastante simple, se definieron los pines a usar, en este caso el **5** y **A1**, se creó una variable para almacenar los datos del potenciómetro ``POT``, en el ``setup()`` inicializamos los pines y cargamos el ``Serial.begin()`` para visualizar los datos.
 
-En el ``loop()`` leemos los datos del potenciómetro y se almacenan en la variable valor, después con el uso del Serial.println imprimimos esos valores. Y se preguntarán, ¿por qué se divide entre 4?, es muy simple, recuerden que la resolución del Arduino para el ADC es de 10 bits así que nos entregará un máximo de 1024 - 1, pero la resolución del PWM es de 8 bits y acepta un valor máximo de 255, así que 1023/4 = 255, por eso se divide entre 4 para obtener el valor máximo de la resolución del PWM. Esto también se hace en la función analogWrite, pues es ahí donde enviaremos esos valores al LED para que aumente y disminuya su brillo cada 100 milisegundos por medio del potenciómetro, esto con ayuda del delay. Ahora pueden mover el potenciómetro y podrán apreciar cómo cambia el brillo del led, además de visualizar los datos en el monitor serial.
+En el ``loop()`` leemos los datos del potenciómetro y se almacenan en la variable ``potVal``, después con el uso del ``Serial.print()`` imprimimos esos valores. 
+
+Y si se preguntarán, ¿por qué se divide entre 4?, es muy simple. Recuerden que la resolución del Arduino para el **ADC** es de **10 bits así que nos entregará un máximo de 1024 - 1, pero la resolución del PWM es de 8 bits y acepta un valor máximo de 255, así que 1023/4 = 255, por eso se divide entre 4 para obtener el valor máximo de la resolución del PWM. Esto también se hace en la función analogWrite, pues es ahí donde enviaremos esos valores al LED para que aumente y disminuya su brillo cada 100 milisegundos por medio del potenciómetro, esto con ayuda del delay. Ahora pueden mover el potenciómetro y podrán apreciar cómo cambia el brillo del led, además de visualizar los datos en el monitor serial.
 
 Con esto vemos cómo podemos manipular el PWM con sensores, en este caso un potenciómetro y como siempre esto es la base para proyectos más avanzados.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTM3MTk1MiwxNzQ2Nzk3ODg4LDE3Nj
+eyJoaXN0b3J5IjpbLTY3MTE1NzE1MCwxNzQ2Nzk3ODg4LDE3Nj
 Q0ODgwNTQsOTc1NjMwNjE0LDc4NDA4MzI1NF19
 -->

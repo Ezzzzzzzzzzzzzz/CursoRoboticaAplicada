@@ -17,11 +17,41 @@ Esto puede ser usado con tiras de leds o leds RGB de alta potencia, **uniendo es
 
 ## Código
 ```c
+#define pinRed 11
+#define pinGreen 9
+#define pinBlue 10
+#define potRed A2
+#define potBlue A1
+#define potGreen A0
 
 
+int potValR = 0;
+int potValG = 0;
+int potValB = 0;
+
+void setup()
+{
+  pinMode(potRed, INPUT);
+  pinMode(potGreen, INPUT);
+  pinMode(potBlue, INPUT);
+  pinMode(pinRed, OUTPUT);
+  pinMode(pinGreen, OUTPUT);
+  pinMode(pinBlue, OUTPUT);
+}
+
+void loop()
+{
+  
+}
+
+// Función para generar colores
+void color(int red, int green, int blue){
+  analogWrite(pinRed, red);
+  analogWrite(pinGreen, green);
+  analogWrite(pinBlue, blue);
+}
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE3Mjg3MzAsLTE4NjA2MjY4MzFdfQ
-==
+eyJoaXN0b3J5IjpbMTExODUwNzMyOCwtMTg2MDYyNjgzMV19
 -->

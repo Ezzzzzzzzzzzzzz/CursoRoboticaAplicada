@@ -59,7 +59,7 @@ void loop()
     // Genera un numero aleatorio entre 1 y 6
     int randomNumber = random(1, 7);
     // Ponemos los pines en estado correcto para mostrar el numero randomNumber
-    for(int j = 0; j < 7; j++ ){   
+    for(int j = 0; j < 7; j++){   
       digitalWrite(j, numero[randomNumber][j]);
     }
    delay(500); 
@@ -67,5 +67,5 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjYxODE0OSw4MDk5ODgxMzhdfQ==
+eyJoaXN0b3J5IjpbLTE1NzQ2MDQ1NDMsODA5OTg4MTM4XX0=
 -->

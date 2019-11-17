@@ -59,12 +59,9 @@ void color(int red, int green, int blue){
 ## Explicación
 El código es bastante simple, pero hemos agregado unas cuantas cosas extras, como por ejemplo **usar una función**.
 
-Primero definimos los pines a usar, con ``#define``, esto se explicó en los temas anteriores, se creó una  variable del tipo global llamada pausa para usar un delay universal, si se cambia el valor de esta variable
-cambiará la velocidad de cambio en todo el programa.
-En el setup se configuran los pines como salida, no pasamos a la explicación del loop ya que para eso
-primero debemos explicar la función color.
-Se creó una función del tipo void ya que no regresará ningún valor y es llamada color, esta función recibirá
-tres parámetros del tipo entero que serán valores enteros o variables con un valor entre 0 y 255, estos parámetros pasan a la función analogWrite, en simples palabras, la función color se encarga de manipular los colores del led RGB.
+Primero definimos los pines a usar, con ``#define``, esto se explicó en los temas anteriores, se creó una  variable del tipo global llamada **pausa** para usar un ``delay()`` universal, _si se cambia el valor de esta variable cambiará la velocidad de cambio en todo el programa_. En el ``setup()`` se configuran los pines como salida, no pasamos a la explicación del loop ya que para eso primero debemos explicar la función color. 
+
+Se creó una función del tipo void ya que no regresará ningún valor y es llamada color, esta función recibirá tres parámetros del tipo entero que serán valores enteros o variables con un valor entre 0 y 255, estos parámetros pasan a la función analogWrite, en simples palabras, la función color se encarga de manipular los colores del led RGB.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjk2NTIwOSw5NzcwNDg0NTNdfQ==
+eyJoaXN0b3J5IjpbNjE5MTY5MzY5LDk3NzA0ODQ1M119
 -->

@@ -1,4 +1,4 @@
-# Fade de un LED
+# (PWM) Fade de un LED 
 
 En esta práctica **enviaremos valores analógicos para poder controlar la luminiscencia de un led**, abajo se muestra el código, material y explicación de la práctica.
 
@@ -42,6 +42,6 @@ Gracias al  ``for()`` vemos como incrementa el brillo del led, si usamos un mult
 
 Y es así como manejamos el **PWM**, **lo que hace es que envía pulsos muy rápidos y eso hace que se emule un valor analógico** y eso se hace como ya vimos con ``analogWrite()``.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQwNzU2MjAsLTE2NzcwMTgxMDIsLT
-IxODA1NTEzMV19
+eyJoaXN0b3J5IjpbLTgyOTkwMzYxMSwtMTA0NDA3NTYyMCwtMT
+Y3NzAxODEwMiwtMjE4MDU1MTMxXX0=
 -->

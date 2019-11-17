@@ -24,19 +24,17 @@ Esto puede ser usado con tiras de leds o leds RGB de alta potencia, **uniendo es
 #define potBlue A1
 #define potGreen A0
 
-
 int potValR = 0;
 int potValG = 0;
 int potValB = 0;
 
 void setup()
 {
-  pinMode(potRed, INPUT);
-  pinMode(potGreen, INPUT);
-  pinMode(potBlue, INPUT);
-  pinMode(pinRed, OUTPUT);
-  pinMode(pinGreen, OUTPUT);
-  pinMode(pinBlue, OUTPUT);
+ /*
+  ***************************
+  * Agrega la configuración *
+  ***************************
+  */
 }
 
 void loop()
@@ -53,5 +51,5 @@ void color(int red, int green, int blue){
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODUwNzMyOCwtMTg2MDYyNjgzMV19
+eyJoaXN0b3J5IjpbLTUyOTA2MDUwOCwtMTg2MDYyNjgzMV19
 -->

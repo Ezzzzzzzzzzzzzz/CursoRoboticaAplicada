@@ -11,7 +11,10 @@ Ya se vio como aumentar o disminuir el brillo de un led con **PWM** y con el uso
 > - Jumpers
 
 ## Circuito
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/PWMPot.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/PWMPot.JPG)
 
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NjMwNjE0LDc4NDA4MzI1NF19
+eyJoaXN0b3J5IjpbMTM0NDc0NDUyNyw5NzU2MzA2MTQsNzg0MD
+gzMjU0XX0=
 -->

@@ -44,7 +44,7 @@ void loop()
   delay(pausa);
   color(204, 0, 51); //#CC0033
   delay(pausa);
-  color(0, 0, 0);  //Apagado
+  color(0, 0, 0); //Apagado
   delay(pausa);
 }
 
@@ -65,5 +65,5 @@ Primero definimos los pines a usar, con ``#define``, esto se explicó en los tem
 
 Ya en el ``loop()``, mandamos llamar a la función varias veces para poder hacer funcionar el led **RGB**, hacemos mezcla de colores con los colores básicos, **rojo (red)**, **verde (green)** y **azul (blue)**.  Con esto ya deben saber cómo usar la función ``analogWrite()`` y hacer manipulación del **PWM**, también a unir los temas anteriores entre sí. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjIwMDg2Nyw5NzcwNDg0NTNdfQ==
+eyJoaXN0b3J5IjpbLTE5ODc1MjAwMzUsOTc3MDQ4NDUzXX0=
 -->

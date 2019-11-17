@@ -54,6 +54,10 @@ void color(int red, int green, int blue){
 }
 ```
 
+Juega con los valores de PWM  de los tres potenciómetros para obtener tus colores preferidos, junto con la siguiente tabla.
+
+![](http://www.winkhel.com/images/coloresRGB.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTUzODc5NSwtMTg2MDYyNjgzMV19
+eyJoaXN0b3J5IjpbLTcxNzIxMTI1NywxNjA5NTM4Nzk1LC0xOD
+YwNjI2ODMxXX0=
 -->

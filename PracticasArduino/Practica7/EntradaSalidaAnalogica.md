@@ -40,11 +40,12 @@ void loop()
 ```
 
 ## Explicación
-La explicación es bastante simple, se definieron los pines a usar, en este caso el 3 y A0,se creó una variable
-para almacenar los datos del potenciómetro, en el setup inicializamos los pines y cargamos el Serial para
-visualizar los datos.
-En el loop leemos los datos del potenciómetro y se almacenan en la varíale valor, después con el uso del Serial.println imprimimos esos valores. Y se preguntarán, ¿por qué se divide entre 4?, es muy simple, recuerden que la resolución del Arduino para el ADC es de 10 bits así que nos entregará un máximo de 1024 - 1, pero la resolución del PWM es de 8 bits y acepta un valor máximo de 255,
+La explicación es bastante simple, se definieron los pines a usar, en este caso el 3 y A0,se creó una variable para almacenar los datos del potenciómetro, en el setup inicializamos los pines y cargamos el Serial para visualizar los datos.
+
+En el loop leemos los datos del potenciómetro y se almacenan en la varíale valor, después con el uso del Serial.println imprimimos esos valores. Y se preguntarán, ¿por qué se divide entre 4?, es muy simple, recuerden que la resolución del Arduino para el ADC es de 10 bits así que nos entregará un máximo de 1024 - 1, pero la resolución del PWM es de 8 bits y acepta un valor máximo de 255, así que 1023/4 = 255, por eso se divide entre 4 para obtener el valor máximo de la resolución del PWM. Esto también se hace en la función analogWrite, pues es ahí donde enviaremos esos valores al LED para que aumente y disminuya su brillo cada 100 milisegundos por medio del potenciómetro, esto con ayuda del delay. Ahora pueden mover el potenciómetro y podrán apreciar cómo cambia el brillo del led, además de visualizar los datos en el monitor serial.
+
+Con esto vemos cómo podemos manipular el PWM con sensores, en este caso un potenciómetro y como siempre esto es la base para proyectos más avanzados.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDczMTc0MjcsMTc0Njc5Nzg4OCwxNz
+eyJoaXN0b3J5IjpbLTIwODczMjUwNjMsMTc0Njc5Nzg4OCwxNz
 Y0NDg4MDU0LDk3NTYzMDYxNCw3ODQwODMyNTRdfQ==
 -->

@@ -24,9 +24,15 @@ Para mostrar números largos de más de un dígito se usan Display de 2, 3, 4, e
 ## Material
 > - Arduino
 > - Resistencias de 220 Ohm's
-> - Display de 7 segmentos cotod
+> - Display de 7 segmentos cátodo común
+> - Protoboard
+> - Jumpers
+
+## Circuito
+
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc3Mzg3ODcsLTk3ODIzNjg5NSwxNz
-U4OTAzNzA1XX0=
+eyJoaXN0b3J5IjpbMzYyNjAwMDc3LC05NzgyMzY4OTUsMTc1OD
+kwMzcwNV19
 -->

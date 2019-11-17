@@ -29,10 +29,61 @@ Para mostrar números largos de más de un dígito se usan Display de 2, 3, 4, e
 > - Jumpers
 
 ## Circuito
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/Display7seg.md](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/Display7seg.md)
 
- 
+## Código
+```c
+const int a = 0;
+const int b = 1;
+const int c = 2;
+const int d = 3;
+const int e = 4;
+const int f = 5;
+const int g = 6;
+
+void setup()
+{
+	pinMode(a, OUTPUT);
+	pinMode(b, OUTPUT);
+	pinMode(c, OUTPUT);
+	pinMode(d, OUTPUT);  
+	pinMode(e, OUTPUT);
+  	pinMode(f, OUTPUT);
+  	pinMode(g, OUTPUT);
+}
+
+void loop()
+{
+	digitalWrite (a, HIGH);
+	digitalWrite (b, HIGH);
+	digitalWrite (c, HIGH);
+	digitalWrite (d, HIGH);
+	digitalWrite (e, HIGH);
+	digitalWrite (f, HIGH);
+	digitalWrite (g, LOW);
+	delay(1000);
+  
+	digitalWrite (a, LOW);
+	digitalWrite (b, HIGH);
+	digitalWrite (c, HIGH);
+	digitalWrite (d, LOW);
+	digitalWrite (e, LOW);
+	digitalWrite (f, LOW);
+	digitalWrite (g, LOW);
+	delay(1000);
+  
+  	digitalWrite (a, HIGH);
+	digitalWrite (b, HIGH);
+	digitalWrite (c, LOW);
+	digitalWrite (d, HIGH);
+	digitalWrite (e, HIGH);
+	digitalWrite (f, LOW);
+	digitalWrite (g, HIGH);
+	delay(1000)  
+}
+``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyNjAwMDc3LC05NzgyMzY4OTUsMTc1OD
-kwMzcwNV19
+eyJoaXN0b3J5IjpbLTE2NDY4MTI4NDAsMzYyNjAwMDc3LC05Nz
+gyMzY4OTUsMTc1ODkwMzcwNV19
 -->

@@ -24,9 +24,13 @@ Podemos cambiar el valor del voltaje de referencia por un valor menor a 5V conec
 
 Para poder sensar los valores analógicos ya comentamos debemos de conectar el sensor a cualquier pin desde A0 al A5 y ya en el código para leer esos valores tendremos que usar lo siguiente:
 - Para leer un pin analógico usamos:
-+ analogRead([numpin/alias]);
-o Nos regresa un valor entre 0 y 1023.
-o Usamos la comunicación serial para ver su valor.
+  + ``analogRead([numpin/alias]);``
+  + Nos regresa un valor entre 0 y 1023.
+  + Usamos la comunicación serial para ver su valor.
+
+Como se mencionó nos regresará un valor entre 0 y 1023, esto gracias a la conversión de 10 bits. En el tema anterior vimos el uso del Serial para ver los datos y lo volveremos a hacer con los sensores analógicos.
+
+A continuación se verán algunas prácticas que como ya se mencionó serán la base para realizar muchos proyectos uniendo lo ya visto.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTI4NzE2NiwyNzQ3NDk4MzRdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjg4NzkzMjIsMjc0NzQ5ODM0XX0=
 -->

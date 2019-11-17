@@ -28,9 +28,7 @@ Para poder censar los valores analógicos ya comentamos debemos de conectar el s
   + Nos regresa un valor entre 0 y 1023.
   + Usamos la comunicación serial para ver su valor.
 
-Como se mencionó nos regresará un valor entre **0** y 1023, esto gracias a la conversión de 10 bits. En el tema anterior vimos el uso del Serial para ver los datos y lo volveremos a hacer con los sensores analógicos.
-
-A continuación se verán algunas prácticas que como ya se mencionó serán la base para realizar muchos proyectos uniendo lo ya visto.
+Como se mencionó nos regresará un valor entre **0** y **1023**, esto gracias a la conversión de **10 bits**. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDgyNTI3MywyNzQ3NDk4MzRdfQ==
+eyJoaXN0b3J5IjpbNDc0NDQyMTM2LDI3NDc0OTgzNF19
 -->

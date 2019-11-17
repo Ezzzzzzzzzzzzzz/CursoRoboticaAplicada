@@ -15,10 +15,31 @@ Ya se vio como aumentar o disminuir el brillo de un led con **PWM** y con el uso
 
 ## Código
 ```c 
+#define LED 5
+#define POT A1
 
+int Brillo;
+int potVal;
 
+void setup()
+{
+  Serial.begin(9600);  // Monitor serial
+  pinMode(LED, OUTPUT);
+  pinMode(POT, INPUT);
+}
+void loop()
+{
+  potVal = analogRead(POT);
+  Brillo = potVal/4;
+  Serial.print("Valor POT: ");
+  Serial.print(potVal);
+  Serial.print(" | Valor PWM: ");
+  Serial.println(Brillo); 
+  analogWrite(LED, Brillo);
+}
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDQ4ODA1NCw5NzU2MzA2MTQsNzg0MD
-gzMjU0XX0=
+eyJoaXN0b3J5IjpbLTExNTUwODk0NDMsMTc2NDQ4ODA1NCw5Nz
+U2MzA2MTQsNzg0MDgzMjU0XX0=
 -->

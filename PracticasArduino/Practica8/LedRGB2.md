@@ -39,7 +39,11 @@ void setup()
 
 void loop()
 {
-  
+  /*
+   **************************
+   * Escribe tu código aqui *
+   **************************
+   */
 }
 
 // Función para generar colores
@@ -51,5 +55,5 @@ void color(int red, int green, int blue){
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTA2MDUwOCwtMTg2MDYyNjgzMV19
+eyJoaXN0b3J5IjpbMTYwOTUzODc5NSwtMTg2MDYyNjgzMV19
 -->

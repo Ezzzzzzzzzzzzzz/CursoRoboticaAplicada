@@ -15,6 +15,12 @@ A cada uno de los segmentos que forman el display se les denomina **a**, **b**, 
 > - Protoboard
 > - Jumpers
 
+## Circuito
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica10/Dadoelec.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica10/Dadoelec.JPG)
+
+## Código
+```c
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5OTg4MTM4XX0=
+eyJoaXN0b3J5IjpbLTU1NDU1NTgxMCw4MDk5ODgxMzhdfQ==
 -->

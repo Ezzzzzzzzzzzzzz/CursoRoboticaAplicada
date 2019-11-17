@@ -18,7 +18,7 @@ Ya se vio como aumentar o disminuir el brillo de un led con **PWM** y con el uso
 #define LED 5
 #define POT A1
 
-int Brillo;
+int brillo;
 int potVal;
 
 void setup()
@@ -34,8 +34,8 @@ void loop()
   Serial.print("Valor POT: ");
   Serial.print(potVal);
   Serial.print(" | Valor PWM: ");
-  Serial.println(Brillo); 
-  analogWrite(LED, Brillo);
+  Serial.println(brillo); 
+  analogWrite(LED, brillo);
 }
 ```
 
@@ -44,7 +44,7 @@ La explicación es bastante simple, se definieron los pines a usar, en este caso
 
 En el ``loop()`` leemos los datos del potenciómetro y se almacenan en la variable ``potVal``, después con el uso del ``Serial.print()`` imprimimos esos valores. 
 
-Y si se preguntarán, ¿por qué se divide entre 4?, es muy simple. Recuerden que la resolución del Arduino para el **ADC** es de **10 bits** así que nos entregará un máximo de **1024 - 1**, pero la resolución del **PWM** es de **8 bits y acepta un valor máximo de 255**, así que **1023/4 = 255**, **por eso se divide entre 4 para obtener el valor máximo de la resolución del PWM**. 
+Y si se preguntarán, ¿por qué se divide entre 4?, es muy simple. Recuerden que la resolución del Arduino para el **ADC** es de **10 bits** así que nos entregará un máximo de **1024 - 1**, pero la resolución del **PWM** es de **8 bits y acepta un valor máximo de 255**, así que **1023/4 = 255**, **por eso se divide entre 4 para obtener el valor máximo de la resolución del PWM** y es . 
 
 En la función ``analogWrite()``, es donde enviaremos esos valores al **LED** para que aumente y disminuya su brillo cada por medio del potenciómetro.
 
@@ -52,6 +52,6 @@ En la función ``analogWrite()``, es donde enviaremos esos valores al **LED** pa
 
 Con esto vemos cómo podemos manipular el **PWM** con sensores, en este caso un potenciómetro y como siempre esto es la base para proyectos más avanzados.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3NTU2MjQ5LDE3NDY3OTc4ODgsMTc2ND
-Q4ODA1NCw5NzU2MzA2MTQsNzg0MDgzMjU0XX0=
+eyJoaXN0b3J5IjpbLTg3ODg2NDg2MCwxNzQ2Nzk3ODg4LDE3Nj
+Q0ODgwNTQsOTc1NjMwNjE0LDc4NDA4MzI1NF19
 -->

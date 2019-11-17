@@ -34,7 +34,7 @@ byte numero[10][8] =
   {1, 0, 1, 1, 1, 1, 1, 0}, //6
   {1, 1, 1, 0, 0, 0, 0, 0}, //7
   {1, 1, 1, 1, 1, 1, 1, 0}, //8
-  {1, 1, 1, 0, 0, 1, 1, 0} //9     
+  {1, 1, 1, 0, 0, 1, 1, 0}  //9     
 };
 
 void setup()
@@ -67,5 +67,5 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzAzOTU3OSw4MDk5ODgxMzhdfQ==
+eyJoaXN0b3J5IjpbLTg1NjYxODE0OSw4MDk5ODgxMzhdfQ==
 -->

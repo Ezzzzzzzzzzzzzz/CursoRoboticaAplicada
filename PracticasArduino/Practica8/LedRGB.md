@@ -31,18 +31,18 @@ void loop()
   // Colores basicos
   color(255, 0, 0);	//Rojo
   delay(pausa);
-  color(0, 255, 0);	//Verde
+  color(0, 255, 0); //Verde
   delay(pausa);
   color(0, 0, 255);	//Azul
   delay(pausa);
   // Colores mezclados
-  color(255, 255, 255);	//Blanco
+  color(255, 255, 255); //Blanco
   delay(pausa);
-  color(255, 0, 255);  //Magenta
+  color(255, 0, 255); //Magenta
   delay(pausa);
-  color(0, 255, 255);  //Cian
+  color(0, 255, 255); //Cian
   delay(pausa);
-  color(204, 0, 51);  //#CC0033
+  color(204, 0, 51); //#CC0033
   delay(pausa);
   color(0, 0, 0);  //Apagado
   delay(pausa);
@@ -65,5 +65,5 @@ Primero definimos los pines a usar, con ``#define``, esto se explicó en los tem
 
 Ya en el ``loop()``, mandamos llamar a la función varias veces para poder hacer funcionar el led **RGB**, hacemos mezcla de colores con los colores básicos, **rojo (red)**, **verde (green)** y **azul (blue)**.  Con esto ya deben saber cómo usar la función ``analogWrite()`` y hacer manipulación del **PWM**, también a unir los temas anteriores entre sí. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA4NTUyNjksOTc3MDQ4NDUzXX0=
+eyJoaXN0b3J5IjpbMTA2MjIwMDg2Nyw5NzcwNDg0NTNdfQ==
 -->

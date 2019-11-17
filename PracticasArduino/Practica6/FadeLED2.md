@@ -1,4 +1,4 @@
-# Fade de un LED no.2
+# (PWM) Fade de un LED no.2
 
 En esta práctica  **COMPLETA** el código para poder controlar la luminiscencia de un led de **encendido** y de **apagado**.
 
@@ -39,5 +39,6 @@ void loop()
 ```
 **Si necesitas ayuda**, revisa las **[sentencias de control](https://classroom.google.com/w/NDY3MjU0MTQyMDla/tc/NDY4MDUwNDkzMjBa?hl=es)** y los [**operadores de relación**](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) para poder completar la practica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDY5MDQ0NSwtMTQ2ODUwMjAyNF19
+eyJoaXN0b3J5IjpbLTI4NzcwMzUxOCwyMTIwNjkwNDQ1LC0xND
+Y4NTAyMDI0XX0=
 -->

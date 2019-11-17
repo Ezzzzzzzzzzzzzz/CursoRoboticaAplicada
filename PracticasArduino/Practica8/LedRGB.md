@@ -63,7 +63,7 @@ Primero definimos los pines a usar, con ``#define``, esto se explicó en los tem
 
 **Se creó una función del tipo ``void`` ya que no regresará ningún valor y es llamada ``color()``, esta función recibirá tres parámetros del tipo entero que serán valores enteros o variables con un valor entre 0 y 255, estos parámetros pasan a la función ``analogWrite()``, _en simples palabras, la función color se encarga de manipular los colores del led RGB_**.
 
-Ya en el ``loop()``, mandamos llamar a la función varias veces para poder hacer funcionar el led **RGB**, hacemos mezcla de colores con los colores básicos, **rojo (red)**, **verde (green)** y **azul (blue)**.  Con esto ya deben saber cómo usar la función ``analogWrite y hacer manipulación del PWM, también a unir los temas anteriores entre sí. A continuación veremos control y manejo de cargas, donde aprenderemos a manipular los 110 o 220 volts alternos de la instalación eléctrica residencial, además de manipular más voltaje directo con el uso de transistores y optoacopladores.
+Ya en el ``loop()``, mandamos llamar a la función varias veces para poder hacer funcionar el led **RGB**, hacemos mezcla de colores con los colores básicos, **rojo (red)**, **verde (green)** y **azul (blue)**.  Con esto ya deben saber cómo usar la función ``analogWrite()`` y hacer manipulación del **PWM**, también a unir los temas anteriores entre sí. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTUwODY2MSw5NzcwNDg0NTNdfQ==
+eyJoaXN0b3J5IjpbLTEzNDA4NTUyNjksOTc3MDQ4NDUzXX0=
 -->

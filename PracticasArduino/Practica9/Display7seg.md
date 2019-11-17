@@ -22,9 +22,11 @@ La tabla indica que, si queremos que se muestre en nuestro **display ánodo com�
 Para mostrar números largos de más de un dígito se usan Display de 2, 3, 4, etc. dígitos, pero se usa el **multiplexado** que en simples palabras engaña a la vista prendiendo y apagando el display muy rápidamente para que se vea que se forma un número compuesto, aunque en verdad primero saca un numero en todos los display pero se apaga en los que no debe aparecer ese número y así sucesivamente con los demás.
 
 ## Material
-
+> - Arduino
+> - Resistencias de 220 Ohm's
+> - Display de 7 segmentos cotod
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM4NDQ2MTQsLTk3ODIzNjg5NSwxNz
+eyJoaXN0b3J5IjpbLTExOTc3Mzg3ODcsLTk3ODIzNjg5NSwxNz
 U4OTAzNzA1XX0=
 -->

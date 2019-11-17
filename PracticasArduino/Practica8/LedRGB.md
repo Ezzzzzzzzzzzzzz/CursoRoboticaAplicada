@@ -10,8 +10,12 @@ En esta práctica se implementa lo visto anteriormente para controlar un **led R
 > - Jumpers
 
 ## Circuito
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/LedRGB.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/LedRGB.JPG)
 
+## Código
+```c
 
+``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3MDQ4NDUzXX0=
+eyJoaXN0b3J5IjpbLTc5Njg1MTI3MSw5NzcwNDg0NTNdfQ==
 -->

@@ -40,8 +40,11 @@ void loop()
 ```
 
 ## Explicación
-
+La explicación es bastante simple, se definieron los pines a usar, en este caso el 3 y A0,se creó una variable
+para almacenar los datos del potenciómetro, en el setup inicializamos los pines y cargamos el Serial para
+visualizar los datos.
+En el loop leemos los datos del potenciómetro y se almacenan en la varíale valor, después con el uso del Serial.println imprimimos esos valores. Y se preguntarán, ¿por qué se divide entre 4?, es muy simple, recuerden que la resolución del Arduino para el ADC es de 10 bits así que nos entregará un máximo de 1024 - 1, pero la resolución del PWM es de 8 bits y acepta un valor máximo de 255,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Njc5Nzg4OCwxNzY0NDg4MDU0LDk3NT
-YzMDYxNCw3ODQwODMyNTRdfQ==
+eyJoaXN0b3J5IjpbLTE2MDczMTc0MjcsMTc0Njc5Nzg4OCwxNz
+Y0NDg4MDU0LDk3NTYzMDYxNCw3ODQwODMyNTRdfQ==
 -->

@@ -20,7 +20,52 @@ A cada uno de los segmentos que forman el display se les denomina **a**, **b**, 
 
 ## Código
 ```c
+#define push 8
 
+// Array multidimensional para mostrar los numeros
+byte numero[10][8] =
+{
+  {1, 1, 1, 1, 1, 1, 0, 0}, //0
+  {0, 1, 1, 0, 0, 0, 0, 0}, //1
+  {1, 1, 0, 1, 1, 0, 1, 0}, //2
+  {1, 1, 1, 1, 0, 0, 1, 0}, //3
+  {0, 1, 1, 0, 0, 1, 1, 0}, //4
+  {1, 0, 1, 1, 0, 1, 1, 0}, //5
+  {1, 0, 1, 1, 1, 1, 1, 0}, //6
+  {1, 1, 1, 0, 0, 0, 0, 0}, //7
+  {1, 1, 1, 1, 1, 1, 1, 0}, //8
+  {1, 1, 1, 0, 0, 1, 1, 0} //9     
+};
+
+void setup()
+{
+  // Ponemos los pines de los segmentos en modo OUTPUT (salida)
+  for(int i = 0; i < 7; i++){
+    pinMode(i, OUTPUT);
+  }
+  // Ponemos el pin del pulsador en modo INPUT (entrada)
+  pinMode(push, INPUT);
+  
+  // Inicializamos la función randomSeed()
+  randomSeed(analogRead(0));
+}
+void loop()
+{
+  // Leemos el valor del pulsador
+  int val = digitalRead(push);
+  
+  // Si esta pulsado
+  if(val == HIGH){
+    // Genera un numero aleatorio entre 1 y 6
+    int randomNumber = random(1, 7);
+    // Ponemos los pines en estado correcto para mostrar el numero randomNumber
+    for(int j = 0; j < 7; j++ ){   
+      digitalWrite(j, numero[randomNumber][j]);
+    }
+   delay(500); 
+  }
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDU1NTgxMCw4MDk5ODgxMzhdfQ==
+eyJoaXN0b3J5IjpbLTIzNzAzOTU3OSw4MDk5ODgxMzhdfQ==
 -->

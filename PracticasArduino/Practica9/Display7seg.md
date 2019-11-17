@@ -29,7 +29,7 @@ Para mostrar números largos de más de un dígito se usan Display de 2, 3, 4, e
 > - Jumpers
 
 ## Circuito
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/Display7seg.md](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/Display7seg.md)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/Disp7seg.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/Disp7seg.JPG)
 
 ## Código
 ```c
@@ -84,6 +84,6 @@ void loop()
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY4MTI4NDAsMzYyNjAwMDc3LC05Nz
-gyMzY4OTUsMTc1ODkwMzcwNV19
+eyJoaXN0b3J5IjpbLTMxNTk1MTIzNiwtMTY0NjgxMjg0MCwzNj
+I2MDAwNzcsLTk3ODIzNjg5NSwxNzU4OTAzNzA1XX0=
 -->

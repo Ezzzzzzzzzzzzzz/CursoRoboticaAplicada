@@ -61,7 +61,9 @@ El código es bastante simple, pero hemos agregado unas cuantas cosas extras, co
 
 Primero definimos los pines a usar, con ``#define``, esto se explicó en los temas anteriores, se creó una  variable del tipo global llamada **pausa** para usar un ``delay()`` universal, _si se cambia el valor de esta variable cambiará la velocidad de cambio en todo el programa_. En el ``setup()`` se configuran los pines como salida. 
 
-**Se creó una función del tipo ``void`` ya que no regresará ningún valor y es llamada ``color()``, esta función recibirá tres parámetros del tipo entero que serán valores enteros o variables con un valor entre 0 y 255**, estos parámetros pasan a la función ``analogWrite()``, _en simples palabras, la función color se encarga de manipular los colores del led RGB_.
+**Se creó una función del tipo ``void`` ya que no regresará ningún valor y es llamada ``color()``, esta función recibirá tres parámetros del tipo entero que serán valores enteros o variables con un valor entre 0 y 255, estos parámetros pasan a la función ``analogWrite()``, _en simples palabras, la función color se encarga de manipular los colores del led RGB_**.
+
+Ya en el ``loop()``, mandamos llamar a la función varias veces para poder hacer funcionar el led **RGB**, hacemos mezcla de colores con los colores básicos, **rojo**, verde y azul. Los valores de la función pueden ser manipulados con tres potenciómetros para poder hacer la mezcla de colores, esto se le deja al lector hacerlo. Con esta última práctica cerramos el tema de actuadores analógicos, con esto ya deben saber cómo usar la función analogWrite y hacer manipulación del PWM, también a unir los temas anteriores entre sí. A continuación veremos control y manejo de cargas, donde aprenderemos a manipular los 110 o 220 volts alternos de la instalación eléctrica residencial, además de manipular más voltaje directo con el uso de transistores y optoacopladores.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTg3ODE1MSw5NzcwNDg0NTNdfQ==
+eyJoaXN0b3J5IjpbLTE4NjgyNjA2ODgsOTc3MDQ4NDUzXX0=
 -->

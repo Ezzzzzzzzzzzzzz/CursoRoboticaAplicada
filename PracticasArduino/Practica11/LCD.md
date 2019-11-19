@@ -26,6 +26,31 @@ Función   |    Descripción
 ## Conexión
  ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCD.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCD.JPG)
 
+## Código #1
+```c
+#include<LiquidCrystal.h> //Importa la libreria
+
+LiquidCrystal lcd(7, 6, 5, 4, 3, 2); // Pines donde esta conectado el modulo LCD
+
+void setup()
+{
+  lcd.begin(16, 2); // Inocializa el display de 16 columnas y 2 lineas
+}
+void loop()
+{
+  lcd.setCursor(0, 0); // Ubica el cursor en la columna 0, linea 0.
+  lcd.print("Hola, han pasado"); // Escribe texto en la pantalla
+  lcd.setCursor(0, 1); // Ubica el cursor en la columna 0, linea 1.
+  lcd.print(millis()/1000); // Imprime el valor en segundos que envia la función millis().
+  lcd.print(" seg."); // Imprime a continuación la abreviatura de segundos.
+}
+```
+
+## Código #2
+```c
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDk3NTcwMCwxMzY3NzgwNTI0XX0=
+eyJoaXN0b3J5IjpbMjgzMzIxNzQ0LC04OTA5NzU3MDAsMTM2Nz
+c4MDUyNF19
 -->

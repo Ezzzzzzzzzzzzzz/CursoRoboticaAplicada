@@ -13,7 +13,9 @@ Muy bien, ahora veremos cómo censar un **LM35** y cuando llegue a una temperatu
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensorTEMP.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensorTEMP.JPG)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mjk1NDYxNSwtMTU2MDkwODYzNywtMT
-A2NzA0NDQ3MV19
+eyJoaXN0b3J5IjpbMTI4Nzc2MjM4NywxOTgyOTU0NjE1LC0xNT
+YwOTA4NjM3LC0xMDY3MDQ0NDcxXX0=
 -->

@@ -104,7 +104,7 @@ void loop()
   lcd.setCursor(0, 0); // Ubica el cursor en la columna 0, linea 0.
   lcd.print("Prueba scroll"); // Escribe texto 
   lcd.scrollDisplayLeft(); // funcion que desplaza los caracteres hacia la izquierda
-  delay(500); // Demora un segundo  
+  delay(500); // Demora medio segundo  
 }
 ```
 
@@ -124,7 +124,7 @@ void loop()
   lcd.setCursor(0, 0); // Ubica el cursor en la columna 0, linea 0.
   lcd.print("Prueba scroll"); // Escribe texto 
   lcd.scrollDisplayRight(); // funcion que desplaza los caracteres hacia la derecha
-  delay(500); // Demora un segundo  
+  delay(500); // Demora medio segundo  
 }
 
 ```
@@ -132,7 +132,7 @@ void loop()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4ODY0NDU0LDU5NzU0MDMyMCwtMTEwMT
-I2ODUwMywyODMzMjE3NDQsLTg5MDk3NTcwMCwxMzY3NzgwNTI0
-XX0=
+eyJoaXN0b3J5IjpbLTQxOTQxNDA4NCw1OTc1NDAzMjAsLTExMD
+EyNjg1MDMsMjgzMzIxNzQ0LC04OTA5NzU3MDAsMTM2Nzc4MDUy
+NF19
 -->

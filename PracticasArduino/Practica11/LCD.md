@@ -48,9 +48,29 @@ void loop()
 
 ## Código #2
 ```c
+#include<LiquidCrystal.h> //Importa la libreria
 
+LiquidCrystal lcd(7, 6, 5, 4, 3, 2); // Pines donde esta conectado el modulo LCD
+
+void setup()
+{
+  lcd.begin(16, 2); // Inocializa el display de 16 columnas y 2 lineas
+}
+
+void loop()
+{
+  lcd.setCursor(0, 0); // Ubica el cursor en la columna 0, linea 0.
+  lcd.print("Alarma ACTIVA!!!! "); // Escribe texto 
+  lcd.display(); // Muestra el texto
+  delay(500); // Demora de medio segundo
+  lcd.noDisplay(); // Oculta el texto
+  delay(500); // Demora de medio segundo
+}
 ```
+
+## Codigo #3
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzMzIxNzQ0LC04OTA5NzU3MDAsMTM2Nz
-c4MDUyNF19
+eyJoaXN0b3J5IjpbLTExMDEyNjg1MDMsMjgzMzIxNzQ0LC04OT
+A5NzU3MDAsMTM2Nzc4MDUyNF19
 -->

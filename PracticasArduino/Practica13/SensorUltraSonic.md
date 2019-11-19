@@ -17,7 +17,13 @@ El funcionamiento interno del sensor ultrasónico es bastante complejo, pero exp
 > - Protoboard
 
 ## Conexión
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica13/SensorUltra.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica13/SensorUltra.JPG)
 
+## Código 
+```c
+
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjU5MDMwN119
+eyJoaXN0b3J5IjpbMTY4MjIwNDU2MSwxMjgyNTkwMzA3XX0=
 -->

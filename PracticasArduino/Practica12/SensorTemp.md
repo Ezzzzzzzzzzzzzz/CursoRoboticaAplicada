@@ -50,7 +50,11 @@ void loop()
   delay(50);
 }
 ```
+## Explicación
+Primero definimos los pines que usaremos y las variables para almacenar los valores, esto ya se ha hecho muchas veces anteriormente, se definen dos variables, una donde almacenaremos los valores del **ADC** y otra para almacenar la temperatura. 
+
+Como bien se mencionó anteriormente, **se recomienda leer la hoja de datos del sensor, ya que aquí viene una información muy importante la cual nos dice que nos dará 10mV por cada grado centígrado, esto es fundamental para el funcionamiento, veamos un ejemplo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTIyODg4Nyw0ODQwOTM2MjUsMTk4Mj
+eyJoaXN0b3J5IjpbLTI5MTEwNzA0Nyw0ODQwOTM2MjUsMTk4Mj
 k1NDYxNSwtMTU2MDkwODYzNywtMTA2NzA0NDQ3MV19
 -->

@@ -14,8 +14,38 @@ Muy bien, ahora veremos cómo censar un **LM35** y cuando llegue a una temperatu
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensorTEMP.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensorTEMP.JPG)
 
+## Código
+```c
+#define LM35 A0
+#define LED 2
 
+float temp = 0; // Variables globales tipo float (punto decimal)
+float sensVal = 0;
+
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(LM35, INPUT);
+  pinMode(LED, OUTPUT);
+}
+void loop()
+{
+  
+  sensVal = (analogRead(LM35) - 20) * 0.48876;
+  temp = sensVal - 40;
+  
+  if(temp > 35){
+    digitalWrite(LED, HIGH);
+  }
+  else{
+   digitalWrite(LED, LOW); 
+  }
+  Serial.println(temp);
+  Serial.println(LM35);
+  delay(50);
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Nzc2MjM4NywxOTgyOTU0NjE1LC0xNT
-YwOTA4NjM3LC0xMDY3MDQ0NDcxXX0=
+eyJoaXN0b3J5IjpbLTExMDkwMjYxNzgsMTk4Mjk1NDYxNSwtMT
+U2MDkwODYzNywtMTA2NzA0NDQ3MV19
 -->

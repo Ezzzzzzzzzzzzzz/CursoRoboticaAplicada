@@ -57,7 +57,9 @@ void loop()
 }
 
 ```
+##  Explicación
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjkzMjk5OCwxNjgyMjA0NTYxLDEyOD
-I1OTAzMDddfQ==
+eyJoaXN0b3J5IjpbMTM4MzY3Mjg1LDE2ODIyMDQ1NjEsMTI4Mj
+U5MDMwN119
 -->

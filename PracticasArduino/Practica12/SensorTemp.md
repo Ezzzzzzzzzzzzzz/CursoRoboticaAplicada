@@ -33,7 +33,7 @@ void loop()
   
   sensVal = (analogRead(LM35) - 20) * 0.48876;
   temp = sensVal - 40;
-  
+  //EL CALCULO DE LA TEMPERATURA SOLO APLICA A ESTA PRACTICA, ES NECESARIO REVISAR EL DATASHEET DE CADA SENSOR EN UN CIRCUITO REAL
   if(temp > 35){
     digitalWrite(LED, HIGH);
   }
@@ -46,6 +46,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkwMjYxNzgsMTk4Mjk1NDYxNSwtMT
-U2MDkwODYzNywtMTA2NzA0NDQ3MV19
+eyJoaXN0b3J5IjpbMjg1NDczODAzLDE5ODI5NTQ2MTUsLTE1Nj
+A5MDg2MzcsLTEwNjcwNDQ0NzFdfQ==
 -->

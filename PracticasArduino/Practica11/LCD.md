@@ -24,7 +24,8 @@ Función   |    Descripción
 > - Protoboard
 
 ## Conexión
- 
+ ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCD.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCD.JPG)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Nzc4MDUyNF19
+eyJoaXN0b3J5IjpbLTg5MDk3NTcwMCwxMzY3NzgwNTI0XX0=
 -->

@@ -88,7 +88,10 @@ void loop()
   delay(500); // Demora de medio segundo
 }
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3NTQwMzIwLC0xMTAxMjY4NTAzLDI4Mz
-MyMTc0NCwtODkwOTc1NzAwLDEzNjc3ODA1MjRdfQ==
+eyJoaXN0b3J5IjpbLTM0NzkzNzk2LDU5NzU0MDMyMCwtMTEwMT
+I2ODUwMywyODMzMjE3NDQsLTg5MDk3NTcwMCwxMzY3NzgwNTI0
+XX0=
 -->

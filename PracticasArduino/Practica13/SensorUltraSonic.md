@@ -21,9 +21,43 @@ El funcionamiento interno del sensor ultrasónico es bastante complejo, pero exp
 
 ## Código 
 ```c
+#define trig 10 // Trigger pin 10
+#define eco 9 // Echo pin 9
+#define led 3 // Led pin 3
 
+int tiempo; // Variable global tiempo.
+int distancia; // Variable global distancia.
+
+void setup()
+{
+  pinMode(trig, OUTPUT); // Configuramos trigger como salida.
+  pinMode(eco, INPUT); // Configuramos eco como entrada.
+  pinMode(led, OUTPUT);
+  
+  Serial.begin(9600); // Inicializamos el monitor serial.
+}
+void loop()
+{
+  digitalWrite(trig, HIGH); // Generación del pulso a enviar al pin conectado a trigger del sensor
+  delay(10);
+  digitalWrite(trig, LOW);
+  
+  tiempo = pulseIn(eco, HIGH); // Con pulseIn se espera un pulso alto en Eco
+  
+  distancia = tiempo/58.2;
+  Serial.print(distancia); // Envio del valor de la distancia por monitor serial.
+  Serial.println(" cm");
+  delay(200);
+  
+  if(distancia <= 20 && distancia >= 0){ // Si la distancia esta entre 0 y 20 cm 
+   digitalWrite(led, HIGH); // Enciende el led
+   delay(distancia * 10); // Demora proporcionalmente a la distancia.
+   digitalWrite(led, LOW);
+  }
+}
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjIwNDU2MSwxMjgyNTkwMzA3XX0=
+eyJoaXN0b3J5IjpbMTQyMjkzMjk5OCwxNjgyMjA0NTYxLDEyOD
+I1OTAzMDddfQ==
 -->

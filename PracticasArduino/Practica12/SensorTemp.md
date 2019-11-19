@@ -47,11 +47,10 @@ void loop()
    digitalWrite(LED, LOW); 
   }
   Serial.println(temp);
-  Serial.println(LM35);
   delay(50);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MDkzNjI1LDE5ODI5NTQ2MTUsLTE1Nj
-A5MDg2MzcsLTEwNjcwNDQ0NzFdfQ==
+eyJoaXN0b3J5IjpbMTU5MTIyODg4Nyw0ODQwOTM2MjUsMTk4Mj
+k1NDYxNSwtMTU2MDkwODYzNywtMTA2NzA0NDQ3MV19
 -->

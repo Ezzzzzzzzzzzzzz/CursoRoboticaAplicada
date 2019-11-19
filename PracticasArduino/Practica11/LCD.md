@@ -108,10 +108,31 @@ void loop()
 }
 ```
 
+## Código #5
+```c
+#include<LiquidCrystal.h> //Importa la libreria
+
+LiquidCrystal lcd(7, 6, 5, 4, 3, 2); // Pines donde esta conectado el modulo LCD
+
+void setup()
+{
+  lcd.begin(16, 2); // Inocializa el display de 16 columnas y 2 lineas
+}
+
+void loop()
+{
+  lcd.setCursor(0, 0); // Ubica el cursor en la columna 0, linea 0.
+  lcd.print("Prueba scroll"); // Escribe texto 
+  lcd.scrollDisplayRight(); // funcion que desplaza los caracteres hacia la derecha
+  delay(500); // Demora un segundo  
+}
+
+```
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYyOTYxNzcsNTk3NTQwMzIwLC0xMT
-AxMjY4NTAzLDI4MzMyMTc0NCwtODkwOTc1NzAwLDEzNjc3ODA1
-MjRdfQ==
+eyJoaXN0b3J5IjpbOTY4ODY0NDU0LDU5NzU0MDMyMCwtMTEwMT
+I2ODUwMywyODMzMjE3NDQsLTg5MDk3NTcwMCwxMzY3NzgwNTI0
+XX0=
 -->

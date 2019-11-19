@@ -58,8 +58,8 @@ void loop()
 
 ```
 ##  Explicación
-
+Ahora explicaremos cómo funciona el código junto al sensor para poder medir la distancia. Primero definimos los dos pines del sensor ``trig`` y ``echo``, después definimos dos variables, en una se almacenará el tiempo ``de regreso de la onda ultrasónica que viaja por el aire y en la otra almacenará la distancia. En el setup ponemos los pines tanto de entrada y salida respectivamente, además escribimos Serial.begin(9600), esto nos servirá para iniciar la comunicación serial para poder ver la distancia, más adelante se explicará la comunicación Serial con profundidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzY3Mjg1LDE2ODIyMDQ1NjEsMTI4Mj
-U5MDMwN119
+eyJoaXN0b3J5IjpbLTE0ODI5NjgxNzEsMTY4MjIwNDU2MSwxMj
+gyNTkwMzA3XX0=
 -->

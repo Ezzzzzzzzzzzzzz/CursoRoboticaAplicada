@@ -62,8 +62,8 @@ Ahora explicaremos cómo funciona el código junto al sensor para poder medir la
 
 Como dice la hoja de datos del sensor, **necesitamos enviar un pulso por 10 microsegundos por el ``trig``**, ahora lo que hacemos es usar ``digitalWrite()`` y enviar un pulso alto por el pin del ``trig`` por **10us**, esto se hace mediante el ``delay(10)``, después apagamos ese pulso con un ``LOW``. Después, como se dijo en la explicación del ultrasónico esa onda regresará y será leída por el ``echo``, para esto usaremos la función ``pulseIn()``, **esta función lo que hace es contar el tiempo en que hay un pulso, ya sea alto o bajo, este tiempo se divide entre 2 ya que lo dice la hoja de datos de nuestro sensor, esto es el tiempo que tarda el sonido en ir y volver**. Ahora calcularemos la distancia, sabiendo que el espacio es igual a la velocidad por el tiempo y que la velocidad del sonido es de **343m/s** donde el tiempo lo tenemos en millonésimas de segundo, hacemos la operación matemática de multiplicar el tiempo por la velocidad del sonido y esto nuevamente viene en la hoja de datos del sensor, después simplemente ese valor se almacena en la variable ``distancia``. 
 
-Después con la función Serial.println, imprimimos el valor de la distancia, ahora solo queda abrir el monitor serial en Herramientas > Monitor Serie. Bien, con esto terminamos el tema de sensores digitales, ya sabes leer señales digitales se 0 o 5v, a continuación veremos el uso de sensores analógicos.
+Después con la función ``Serial.println()``, imprimimos el valor de la distancia, ahora solo queda abrir el monitor serial en **Herramientas > Monitor Serie** en la IDE de Arduino. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODM5ODkwMCwtMTI3MzcwODAzNiwtOT
+eyJoaXN0b3J5IjpbLTI4NzE3MjU0MCwtMTI3MzcwODAzNiwtOT
 c5MzI0NTI2LDE2ODIyMDQ1NjEsMTI4MjU5MDMwN119
 -->

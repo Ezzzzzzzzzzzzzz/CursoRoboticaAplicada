@@ -2,7 +2,7 @@
 
 Muy bien, ahora veremos cómo censar un **LM35** y cuando llegue a una temperatura hacer que prenda un led, esto servirá para controlar la temperatura de algún objeto y cuando llegue a un temperatura alta accione un ventilador o algún otro actuador, es muy importante que lean la hoja de datos del **LM35** ya que allí viene descrito su funcionamiento, abajo se muestra el código, material y explicación de la práctica.
 
-![](http://www.internetdelascosas.cl/wp-content/uploads/2012/05/arduino-LM35-sensor-pines.png)
+![](http://www.learningaboutelectronics.com/images/TMP36-pinout.png)
 
 ## Material
 > - Arduino
@@ -32,8 +32,9 @@ void loop()
 {
 /*
  *************************************************************
- * EL CALCULO DE LA TEMPERATURA SOLO APLICA A ESTA PRACTICA, * 
- * ES NECESARIO REVISAR EL DATASHEET DE CADA SENSOR EN UN    *
+ * EL CALCULO DE LA TEMPERATURA SOLO APLICA A, *
+ * UN SENSOR TMP36, ES NECESARIO REVISAR 
+ * EL DATASHEET DE CADA SENSOR EN UN    *
  * CIRCUITO REAL.                                            *
  *************************************************************
  */
@@ -57,7 +58,7 @@ Como bien se mencionó anteriormente, **se recomienda leer la hoja de datos del 
 
 Así es como obtenemos la temperatura usando el sensor **LM35**, solo aplicamos estos cálculos en la programación, usamos ``analogRead()`` para leer el valor que envía el sensor al Arduino y lo almacenamos en la variable ``sensVal``, después aplicando la fórmula anterior obtendremos la temperatura y esta la almacenamos en la variable ``temp``, una vez hecho eso **creamos una condicional** que si la temperatura llega a ser más de 35 grados se prenderá el led o lo que ustedes quieran accionar, en caso contrario el led permanece apagado, después imprimimos la temperatura por medio del ``Serial()`` y la visualizamos en nuestro **monitor serial**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4OTg5NDExLDI4NTk3NTQxMiwxOTk3Mz
-UwMzg4LDQ4NDA5MzYyNSwxOTgyOTU0NjE1LC0xNTYwOTA4NjM3
-LC0xMDY3MDQ0NDcxXX0=
+eyJoaXN0b3J5IjpbLTExNDI0MjEyMjIsMjg1OTc1NDEyLDE5OT
+czNTAzODgsNDg0MDkzNjI1LDE5ODI5NTQ2MTUsLTE1NjA5MDg2
+MzcsLTEwNjcwNDQ0NzFdfQ==
 -->

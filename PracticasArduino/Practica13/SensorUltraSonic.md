@@ -1,8 +1,6 @@
-# Sensor Ultrasonico
+# Sensor Ultrasónico
 
 Ya vimos los sensores más simples que solo envían una señal por acción ya sea un 1 o un 0 digital, ahora veremos otros sensores digitales que funcionan similarmente. Este ejemplo se hará con el sensor **ultrasónico HC-SR04**, aquí se verán una cuantas funciones nuevas que se explicarán más adelante cuando se explique el funcionamiento del código, abajo se muestra el código, material y explicación de la práctica.
-
-Explicación del ultrasónico:
 
 El funcionamiento interno del sensor ultrasónico es bastante complejo, pero explicaremos lo más simple.
 
@@ -64,6 +62,7 @@ Como dice la hoja de datos del sensor, **necesitamos enviar un pulso por 10 micr
 
 Después con la función ``Serial.println()``, imprimimos el valor de la distancia, ahora solo queda abrir el monitor serial en **Herramientas > Monitor Serie** en la IDE de Arduino. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzE3MjU0MCwtMTI3MzcwODAzNiwtOT
-c5MzI0NTI2LDE2ODIyMDQ1NjEsMTI4MjU5MDMwN119
+eyJoaXN0b3J5IjpbNjU0OTcwNzY3LC0yODcxNzI1NDAsLTEyNz
+M3MDgwMzYsLTk3OTMyNDUyNiwxNjgyMjA0NTYxLDEyODI1OTAz
+MDddfQ==
 -->

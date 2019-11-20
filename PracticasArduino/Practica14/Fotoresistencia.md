@@ -7,7 +7,7 @@ Para entender como funciona este circuito y el programa que corre en la tarjeta 
 	Su comportamiento es el siguiente:
     - **Mas luz** = menor resistencia eléctrica
     - **Menos luz** = mayor resistencia eléctrica
-    - 
+    
 - **[Conversión Analógico-Digital (ADC):](https://es.wikipedia.org/wiki/Conversi%C3%B3n_anal%C3%B3gica-digital)** **Es el proceso mediante el cual se convierte una magnitud física como un voltaje, corriente, temperatura, etc. en un número binario (o señal digital)** con el propósito de facilitar su manejo por circuitos digitales como un CPU. El Arduino realiza este proceso para conocer la cantidad de luz percibida por el LDR y poder procesarla numéricamente.
 
 ## Materiales 
@@ -23,5 +23,5 @@ Para entender como funciona este circuito y el programa que corre en la tarjeta 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTc3ODQ4NV19
+eyJoaXN0b3J5IjpbMTE5ODIyODE4LDEwMTE3Nzg0ODVdfQ==
 -->

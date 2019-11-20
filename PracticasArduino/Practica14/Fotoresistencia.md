@@ -20,8 +20,7 @@ Para entender como funciona este circuito y el programa que corre en la tarjeta 
 > - Jumpers
 
 ## Conexión
-
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica14/Fotoresistencia.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica14/Fotoresistencia.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODIyODE4LDEwMTE3Nzg0ODVdfQ==
+eyJoaXN0b3J5IjpbODI2MjY1MDY2LDEwMTE3Nzg0ODVdfQ==
 -->

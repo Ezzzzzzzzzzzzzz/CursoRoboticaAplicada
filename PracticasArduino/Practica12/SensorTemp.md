@@ -56,9 +56,9 @@ Primero definimos los pines que usaremos y las variables para almacenar los valo
 
 Como bien se mencionó anteriormente, **se recomienda leer la hoja de datos del sensor, ya que aquí viene una información muy importante la cual nos dice que nos dará 10mV/°, esto es fundamental para el funcionamiento**, veamos un ejemplo.
 
-Así es como obtenemos la temperatura usando el sensor **LM35**, solo aplicamos estos cálculos en la programación, usamos ``analogRead()`` para leer el valor que envía el sensor al Arduino y lo almacenamos en la variable ``sensVal``, después aplicando la fórmula anterior obtendremos la temperatura y esta la almacenamos en la variable ``temp``, una vez hecho eso **creamos una condicional** que si la temperatura llega a ser más de 35 grados se prenderá el led o lo que ustedes quieran accionar, en caso contrario el led permanece apagado, después imprimimos la temperatura por medio del ``Serial()`` y la visualizamos en nuestro **monitor serial**.
+Así es como obtenemos la temperatura usando el sensor **TMP36**, solo aplicamos estos cálculos en la programación, usamos ``analogRead()`` para leer el valor que envía el sensor al Arduino y lo almacenamos en la variable ``sensVal``, después aplicando la fórmula anterior obtendremos la temperatura y esta la almacenamos en la variable ``temp``, una vez hecho eso **creamos una condicional** que si la temperatura llega a ser más de 35 grados se prenderá el led o lo que ustedes quieran accionar, en caso contrario el led permanece apagado, después imprimimos la temperatura por medio del ``Serial()`` y la visualizamos en nuestro **monitor serial**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyODg0NTY5LDI4NTk3NTQxMiwxOTk3Mz
+eyJoaXN0b3J5IjpbNTA1OTYwNDIyLDI4NTk3NTQxMiwxOTk3Mz
 UwMzg4LDQ4NDA5MzYyNSwxOTgyOTU0NjE1LC0xNTYwOTA4NjM3
 LC0xMDY3MDQ0NDcxXX0=
 -->

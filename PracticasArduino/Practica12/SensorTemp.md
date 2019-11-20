@@ -32,10 +32,10 @@ void loop()
 {
 /*
  *************************************************************
- * EL CALCULO DE LA TEMPERATURA SOLO APLICA A UN SENSOR   *
+ * EL CALCULO DE LA TEMPERATURA SOLO APLICA A UN SENSOR      *
  * TMP36, ES NECESARIO REVISAR EL DATASHEET DE CADA SENSOR   * 
- *  EN UN CIRCUITO.											 *
- *                                             **************************************************************
+ * EN UN CIRCUITO.											 *
+ *************************************************************
  */
   sensVal = (analogRead(LM35) - 20) * 0.48876;
   temp = sensVal - 40;
@@ -57,7 +57,7 @@ Como bien se mencionó anteriormente, **se recomienda leer la hoja de datos del 
 
 Así es como obtenemos la temperatura usando el sensor **LM35**, solo aplicamos estos cálculos en la programación, usamos ``analogRead()`` para leer el valor que envía el sensor al Arduino y lo almacenamos en la variable ``sensVal``, después aplicando la fórmula anterior obtendremos la temperatura y esta la almacenamos en la variable ``temp``, una vez hecho eso **creamos una condicional** que si la temperatura llega a ser más de 35 grados se prenderá el led o lo que ustedes quieran accionar, en caso contrario el led permanece apagado, después imprimimos la temperatura por medio del ``Serial()`` y la visualizamos en nuestro **monitor serial**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0MDQzMTc2LDI4NTk3NTQxMiwxOTk3Mz
+eyJoaXN0b3J5IjpbNDU4NDcxMzkyLDI4NTk3NTQxMiwxOTk3Mz
 UwMzg4LDQ4NDA5MzYyNSwxOTgyOTU0NjE1LC0xNTYwOTA4NjM3
 LC0xMDY3MDQ0NDcxXX0=
 -->

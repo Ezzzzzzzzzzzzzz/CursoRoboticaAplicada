@@ -17,9 +17,25 @@ Ya vimos como leer sensores digitales, ahora haremos una práctica bastante simp
 
 ## Código
 ```c
+#define LED 2
+#define Opto 3
 
+int Opto_lee;
 
+void setup() {
+  pinMode(LED, OUTPUT);
+  pinMode(Opto, INPUT);
+}
+void loop() {
+  Opto_lee = digitalRead(Opto);
+   if (Opto_lee == 1) {
+     digitalWrite(LED, HIGH);
+  } 
+  else {
+   digitalWrite(LED, LOW);
+  }
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQyMjA1MjMsLTg4MTcwNzI4N119
+eyJoaXN0b3J5IjpbLTI5NDc1MzAzOCwtODgxNzA3Mjg3XX0=
 -->

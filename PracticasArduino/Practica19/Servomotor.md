@@ -37,10 +37,30 @@ Para el ejemplo que veremos usaremos un servomotor **SG90**, ya que puede ser al
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica19/Servo.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica19/Servo.JPG)
 ## Código
+```c
+#include<Servo.h>
 
+Servo miServo; // Creando un objeto de control miServo
+
+int pos = 0; // Variable para almacenar la posición del servo
+
+void setup(){
+  miServo.attach(3); // Relaciona el objeto miServo con el pin 3
+}
+void loop(){
+  for(pos = 0; pos < 180; pos += 1){ // Va de 0 a 180 grados
+    miServo.write(pos); // Le dice al servo que vaya a la posición "pos"
+    delay(15);
+  }
+  for(pos = 180; pos >= 1; pos -= 1){
+    miServo.write(pos);
+    delay(15);
+  }
+}
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzY0ODA2OCwtMTU5Mjk5ODEyNSwtOD
-gzMzQ5Mzk2XX0=
+eyJoaXN0b3J5IjpbLTk2MDY5OTU5MSwtOTk3NjQ4MDY4LC0xNT
+kyOTk4MTI1LC04ODMzNDkzOTZdfQ==
 -->

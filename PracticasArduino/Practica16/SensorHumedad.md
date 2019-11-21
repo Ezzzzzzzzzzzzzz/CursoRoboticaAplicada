@@ -13,6 +13,12 @@ La salida digital dispara cuando el valor de humedad supera un cierto umbral, qu
 El valor concreto dependerá del tipo de suelo y la presencia de elementos químicos, como fertilizantes. Además, no todas las plantas requieren la misma humedad, por lo que lo mejor es que hagáis una pequeña calibración en el terreno real.
 
 ![](https://www.luisllamas.es/wp-content/uploads/2015/12/sensor-humedad-suelo-FC-28.png)
+
+## Conexión
+![](https://www.luisllamas.es/wp-content/uploads/2015/12/arduino-placa-sensor.png)
+
+## Referencia del sensor
+![]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzc0ODM2MV19
+eyJoaXN0b3J5IjpbMTI4MjU1NTAzLC02MjM3NDgzNjFdfQ==
 -->

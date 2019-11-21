@@ -64,7 +64,9 @@ En esta práctica leeremos un potenciómetro e imprimiremos los datos, esto ya s
 > - Jumpers
 
 ## Circuito
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/POT.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/POT.JPG)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ1NTcxMjZdfQ==
+eyJoaXN0b3J5IjpbMTAzOTA1NjM4OCwtMTI1NDU1NzEyNl19
 -->

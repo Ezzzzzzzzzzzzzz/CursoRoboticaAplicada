@@ -66,7 +66,22 @@ En esta práctica leeremos un potenciómetro e imprimiremos los datos, esto ya s
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/POT.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/POT.JPG)
 
+## Código
+```c
+#define POT A0
+int valor;
 
+void setup() {
+Serial.begin(9600);
+ pinMode(POT,INPUT);
+}
+void loop() {
+ valor = analogRead(POT);
+ Serial.print("El valor es: ");
+ Serial.println(valor);
+ delay(50);
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTA1NjM4OCwtMTI1NDU1NzEyNl19
+eyJoaXN0b3J5IjpbMTQwMjgxMjMxLC0xMjU0NTU3MTI2XX0=
 -->

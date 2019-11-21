@@ -36,6 +36,10 @@ void loop() {
   }
 }
 ```
+
+## Explicación
+Muy bien, el funcionamiento es muy simple, definimos dos pines, el **led** y el **optointerruptor** al led lo ponemos como ``OUTPUT`` y para el optointerruptor lo ponemos como ``INPUT``, también creamos una variable del tipo entero que almacenará el valor enviado por el fototransistor al pin 3, después en el loop hacemos nuestro programa de ejecución, usando digitalRead leemos el valor del pin 3 y lo almacenamos en la variable Opto_lee, después con un if hacemos una comparación lógica, si el valor digital es 1 enciende el led usando digitalWrite, en caso de que sea un valor distinto a 1 permanecerá apagado. Como vimos este es el funcionamiento de un optointerruptor que nos servirá para hacer muchos proyectos, desde una banda trasportadora hasta un seguidor de líneas.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDc1MzAzOCwtODgxNzA3Mjg3XX0=
+eyJoaXN0b3J5IjpbLTg4MDUyMDcxNiwtODgxNzA3Mjg3XX0=
 -->

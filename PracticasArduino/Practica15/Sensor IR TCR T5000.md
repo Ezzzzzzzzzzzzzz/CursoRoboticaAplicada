@@ -13,8 +13,9 @@ Los valores de estos sensores nunca serán iguales aunque sean hechos por la mis
 > - Protoboard
 
 ## Conexión
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/TCR.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/TCR.JPG)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY2MzI2NTldfQ==
+eyJoaXN0b3J5IjpbLTE2OTM5MTc5NzEsLTE1MzY2MzI2NTldfQ
+==
 -->

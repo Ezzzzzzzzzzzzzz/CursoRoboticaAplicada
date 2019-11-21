@@ -21,17 +21,23 @@ Los valores de estos sensores nunca serán iguales aunque sean hechos por la mis
 
 ## Código
 ```c
-#define TRCT A0
+#define TCRT A0
 
 int valor;
 
 void setup(){
  Serial.begin(9600);
- pinMode(TCR);
+ pinMode(TCRT, INPUT);
 } 
+void loop(){
+ valor = analogRead(TCRT);
+ Serial.print("Valor: ");
+ Serial.print(valor);
+ Serial.print();
+}
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkyODcxOTUsLTE4OTYwMDU2NjQsLT
-E1MzY2MzI2NTldfQ==
+eyJoaXN0b3J5IjpbLTIzNTAwNjAyNSwtMTg5NjAwNTY2NCwtMT
+UzNjYzMjY1OV19
 -->

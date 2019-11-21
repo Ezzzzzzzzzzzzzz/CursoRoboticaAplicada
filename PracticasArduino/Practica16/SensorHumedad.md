@@ -41,6 +41,8 @@ void loop()
 }
 ```
 ## Código #2
+Si estamos empleando la señal digital, empleamos una entrada digital para leer el estado. En el ejemplo mostramos un mensaje por la pantalla, pero igualmente en un caso real ejecutaríamos las acciones oportunas.
+
 ```c
 const int sensorPin = 10;
 
@@ -63,6 +65,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwODU5MDgsNDY4OTUwNzY1LDE5NDU5MT
-IyOCwtNjIzNzQ4MzYxXX0=
+eyJoaXN0b3J5IjpbLTIxMjMyODM5MDAsOTAwODU5MDgsNDY4OT
+UwNzY1LDE5NDU5MTIyOCwtNjIzNzQ4MzYxXX0=
 -->

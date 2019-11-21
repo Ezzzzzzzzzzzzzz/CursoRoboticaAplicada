@@ -26,6 +26,8 @@ void moverServo(int pin, int angulo) {
 ```
 Para el ejemplo que veremos usaremos un servomotor **SG90**, ya que puede ser alimentado con los **5 voltios** del Arduino sin ningún problema, _si se usan más de uno o un servomotor que requiere más amperaje que el SG90_, **es necesario que se use una fuente externa que entregue el amperaje necesario para los servomotores**.
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYNwqtMKx3JNWYgDcQOznvh-Rmd6x-5QNyMZy2n4GvDavozVEL&s)
+
 ## Material 
 > - Arduino
 > - Motor Servo SG90
@@ -35,7 +37,9 @@ Para el ejemplo que veremos usaremos un servomotor **SG90**, ya que puede ser al
 ## Conexión
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU4MTE1NTksLTE1OTI5OTgxMjUsLT
-g4MzM0OTM5Nl19
+eyJoaXN0b3J5IjpbLTYxNzY2NDc2MywtMTU5Mjk5ODEyNSwtOD
+gzMzQ5Mzk2XX0=
 -->

@@ -41,17 +41,15 @@ Para el ejemplo que veremos usaremos un servomotor **SG90**, ya que puede ser al
 
 ## Código 
 ```c 
-#include<Servo.h>
+#include<Servo.h> // Importa la libreria Servo
 #define potPin  A0
 
-Servo miServo;
-
-
+Servo miServo; // Creando un objeto de control miServo
 int val;
 
 void setup()
 {
-  miServo.attach(3);  
+  miServo.attach(3);  // Relaciona el objeto miServo con el pin 3
 }
 void loop()
 {
@@ -62,6 +60,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTMzNzIxOSw4ODE5OTIyMzksMTYwNz
-k5NzgzMSw1ODMwNzg1NzldfQ==
+eyJoaXN0b3J5IjpbNjQwMzYxNTI0LDg4MTk5MjIzOSwxNjA3OT
+k3ODMxLDU4MzA3ODU3OV19
 -->

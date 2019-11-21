@@ -15,7 +15,10 @@ Los valores de estos sensores nunca serán iguales aunque sean hechos por la mis
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/TCR.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/TCR.JPG)
 
+## Referencia del Sensor
+
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/RefTCR.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/RefTCR.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM5MTc5NzEsLTE1MzY2MzI2NTldfQ
+eyJoaXN0b3J5IjpbLTE4OTYwMDU2NjQsLTE1MzY2MzI2NTldfQ
 ==
 -->

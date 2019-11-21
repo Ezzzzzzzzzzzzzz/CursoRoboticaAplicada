@@ -17,7 +17,7 @@ Los valores de estos sensores nunca serán iguales aunque sean hechos por la mis
 
 ## Referencia del Sensor
 
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/RefTCR.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/RefTCR.JPG)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/RefTCR.JPG](https://www.luisllamas.es/wp-content/uploads/2016/06/arduino-detector-lineas-TCRT5000L-funcionamiento.png)
 
 ## Código
 ```c
@@ -44,6 +44,6 @@ delay(500);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjg0MDM1MywtMTg5NjAwNTY2NCwtMT
-UzNjYzMjY1OV19
+eyJoaXN0b3J5IjpbLTkxNjEyMDEzLDEzMTI4NDAzNTMsLTE4OT
+YwMDU2NjQsLTE1MzY2MzI2NTldfQ==
 -->

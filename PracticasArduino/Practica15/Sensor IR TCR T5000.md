@@ -18,7 +18,20 @@ Los valores de estos sensores nunca serán iguales aunque sean hechos por la mis
 ## Referencia del Sensor
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/RefTCR.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/RefTCR.JPG)
+
+## Código
+```c
+#define TRCT A0
+
+int valor;
+
+void setup(){
+ Serial.begin(9600);
+ pinMode(TCR);
+} 
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTYwMDU2NjQsLTE1MzY2MzI2NTldfQ
-==
+eyJoaXN0b3J5IjpbLTIwMTkyODcxOTUsLTE4OTYwMDU2NjQsLT
+E1MzY2MzI2NTldfQ==
 -->

@@ -57,6 +57,10 @@ void loop()
   val = map(val, 0, 1023, 0, 179); // Map() escala el valor entre 0 y 180 grados
   miServo.write(val);
   delay(15);
+  Serial.print("Valor POT: ");
+  Serial.print(POT_R);
+  Serial.print(" | Angulo Servo: ");
+  Serial.println(val);
 }
 ```
 
@@ -64,9 +68,10 @@ void loop()
 Como pueden observar el código se inicia llamando la librería del servo usando ``#include <Servo.h>``, después se definen los pines a usar; en este caso el potenciómetro y el servo al que se le asigna el nombre de `miServo`. En el `setup()` se configuran los pines con la función de la librería `attach()` enviándola al nombre del servo, se declara en qué pin está conectado el servo; en este caso en el **pin 3** como se ve en el diagrama.
 
 En la parte del ``loop()`` puede observar que se leen los datos del potenciómetro y se almacenan en una variable, después usando la función map vista anteriormente se transforman los valores del potenciómetro a valores aceptados por el servomotor, en este caso el servomotor es de **0 a 180°**, es por eso que, gracias a la función ``map()`` trasformamos a los valores de 0 a 180.
-A continuación, usando la función write de la librería Servo y enviándola al nombre del servomotor, le entregamos como parámetro la variable aux, ya que en esa variable se almacenarán los números de 0 a 180, se asigna un delay para que el servomotor no se mueva muy rápido, cuando intente mover el potenciómetro usted notará que el servomotor también se mueve desde 0 a 180°.
+A continuación, usando la función ``write()`` **de la librería Servo** y enviándola al nombre del servomotor, le entregamos como parámetro la variable `val`, ya que en esa variable se almacenarán los números de 0 a 180, se asigna un `delay` para que el servomotor no se mueva muy rápido, cuando intente mover el potenciómetro usted notará que el servomotor también se mueve desde 0 a 180°.
+
 Usando el monitor serial podemos ver los valores del potenciómetro y a qué grado se convierte cada valor, como puede ver hemos unido lo visto en sensores analógicos para mover un servomotor, también puede unir lo visto en sensores digitales para mover el servomotor, esto queda como investigación al lector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTg4NTA0Niw2NDAzNjE1MjQsODgxOT
+eyJoaXN0b3J5IjpbLTMwNjI2MjQ2Myw2NDAzNjE1MjQsODgxOT
 kyMjM5LDE2MDc5OTc4MzEsNTgzMDc4NTc5XX0=
 -->

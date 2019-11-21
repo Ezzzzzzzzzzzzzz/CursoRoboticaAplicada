@@ -13,7 +13,7 @@ Los valores de estos sensores nunca serán iguales aunque sean hechos por la mis
 > - Protoboard
 
 ## Conexión
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/TCR.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/TCR.JPG)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/TCR.JPG](https://electronicastore.net/wp-content/uploads/2016/07/Sensor-Infrarrojo-TCRT5000-Y-Arduino-510x309.jpg)
 
 ## Referencia del Sensor
 
@@ -44,6 +44,6 @@ delay(500);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjEyMDEzLDEzMTI4NDAzNTMsLTE4OT
-YwMDU2NjQsLTE1MzY2MzI2NTldfQ==
+eyJoaXN0b3J5IjpbNzcyMjc5OTczLC05MTYxMjAxMywxMzEyOD
+QwMzUzLC0xODk2MDA1NjY0LC0xNTM2NjMyNjU5XX0=
 -->

@@ -38,7 +38,7 @@ Para el ejemplo que veremos usaremos un servomotor **SG90**, ya que puede ser al
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica19/Servo.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica19/Servo.JPG)
 ## Código
 ```c
-#include<Servo.h>
+#include<Servo.h> // Importa la libreria Servo
 
 Servo miServo; // Creando un objeto de control miServo
 
@@ -61,6 +61,6 @@ void loop(){
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDY5OTU5MSwtOTk3NjQ4MDY4LC0xNT
-kyOTk4MTI1LC04ODMzNDkzOTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NjQ1OTU5NjMsLTk2MDY5OTU5MSwtOT
+k3NjQ4MDY4LC0xNTkyOTk4MTI1LC04ODMzNDkzOTZdfQ==
 -->

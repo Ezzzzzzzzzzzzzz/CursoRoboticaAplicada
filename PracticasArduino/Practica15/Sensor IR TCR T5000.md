@@ -42,9 +42,8 @@ Serial.println("Negro");
 }
 delay(500);
 }
-
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0NjQ4NTYzLC0xODk2MDA1NjY0LC0xNT
-M2NjMyNjU5XX0=
+eyJoaXN0b3J5IjpbMTMxMjg0MDM1MywtMTg5NjAwNTY2NCwtMT
+UzNjYzMjY1OV19
 -->

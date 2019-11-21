@@ -33,11 +33,18 @@ void loop(){
  valor = analogRead(TCRT);
  Serial.print("Valor: ");
  Serial.print(valor);
- Serial.print();
+ Serial.print("  | Color: ");
+if(valor < 800){
+ Serial.println("Blanco");
+}
+else{
+Serial.println("Negro");
+}
+delay(500);
 }
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTAwNjAyNSwtMTg5NjAwNTY2NCwtMT
-UzNjYzMjY1OV19
+eyJoaXN0b3J5IjpbOTY0NjQ4NTYzLC0xODk2MDA1NjY0LC0xNT
+M2NjMyNjU5XX0=
 -->

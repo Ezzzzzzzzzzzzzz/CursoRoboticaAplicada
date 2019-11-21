@@ -1,5 +1,6 @@
 # Servomotor
 En este tema se enseña el uso y manejo de motores, se recuerda que se enseñará la base del uso de estos, el uso que se le dará se deja al lector, se mostrará cómo usar un servomotor.
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7sVfi8mBSa5pGMxjgoF0jNtTX8cPWpp8nlcfMCEKY01AN7fP7iQ&s)
 
 Servomotor con Arduino
 - Se pueden controlar hasta **19 servos** usando los pines analógicos.
@@ -32,5 +33,5 @@ Para el ejemplo que veremos usaremos un servomotor **SG90**, ya que puede ser al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzM0OTM5Nl19
+eyJoaXN0b3J5IjpbMTI5MTE4NzA3MywtODgzMzQ5Mzk2XX0=
 -->

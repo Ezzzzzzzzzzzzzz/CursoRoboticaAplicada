@@ -13,7 +13,7 @@ Ya vimos como leer sensores digitales, ahora haremos una práctica bastante simp
 > - Jumpers
 
 ## Circuito
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica18/Fototransistor.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica18/Fototransistor.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTcwNzI4N119
+eyJoaXN0b3J5IjpbLTE2Njg2NDkwNzEsLTg4MTcwNzI4N119
 -->

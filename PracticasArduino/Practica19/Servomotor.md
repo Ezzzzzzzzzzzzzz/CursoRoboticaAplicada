@@ -11,6 +11,8 @@ Servomotor con Arduino
   + En ``setup()`` declararemos el pin del servo: ``[Nombre del servo].attach([pin]);``
   + Para escribir en nuestro servo usamos: ``[Nombre del servo].write([angulo]);``
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-bozdY4IIYBPh6SGEK-tc-A1e_9gdSBh71aVkVnvKyLemlZN&s)
+
 Podemos mover un servo sin librería con esta función:
 ```c
 void moverServo(int pin, int angulo) {
@@ -34,5 +36,6 @@ Para el ejemplo que veremos usaremos un servomotor **SG90**, ya que puede ser al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI5OTgxMjUsLTg4MzM0OTM5Nl19
+eyJoaXN0b3J5IjpbLTEwNTU4MTE1NTksLTE1OTI5OTgxMjUsLT
+g4MzM0OTM5Nl19
 -->

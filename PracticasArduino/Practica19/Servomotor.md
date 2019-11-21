@@ -35,11 +35,11 @@ Para el ejemplo que veremos usaremos un servomotor **SG90**, ya que puede ser al
 > - Jumpers
 
 ## Conexión
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica19/Servo.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica19/Servo.JPG)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzY2NDc2MywtMTU5Mjk5ODEyNSwtOD
+eyJoaXN0b3J5IjpbMTYxNjMxNDU2MSwtMTU5Mjk5ODEyNSwtOD
 gzMzQ5Mzk2XX0=
 -->

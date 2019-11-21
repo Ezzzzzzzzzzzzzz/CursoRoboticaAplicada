@@ -14,6 +14,12 @@ Ya vimos como leer sensores digitales, ahora haremos una práctica bastante simp
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica18/Fototransistor.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica18/Fototransistor.JPG)
+
+## Código
+```c
+
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njg2NDkwNzEsLTg4MTcwNzI4N119
+eyJoaXN0b3J5IjpbLTExOTQyMjA1MjMsLTg4MTcwNzI4N119
 -->

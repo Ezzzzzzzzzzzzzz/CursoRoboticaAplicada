@@ -18,7 +18,7 @@ El valor concreto dependerá del tipo de suelo y la presencia de elementos quím
 ![](https://www.luisllamas.es/wp-content/uploads/2015/12/arduino-placa-sensor.png)
 
 ## Referencia del sensor
-![]()
+![](https://www.luisllamas.es/wp-content/uploads/2015/12/arduino-sensor-humedad-suelo-FC-28-esquema.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjU1NTAzLC02MjM3NDgzNjFdfQ==
+eyJoaXN0b3J5IjpbMTk0NTkxMjI4LC02MjM3NDgzNjFdfQ==
 -->

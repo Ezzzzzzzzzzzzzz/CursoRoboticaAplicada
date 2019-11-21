@@ -49,6 +49,7 @@ int val;
 
 void setup()
 {
+  Serial.begin(9600);
   miServo.attach(3);  // Relaciona el objeto miServo con el pin 3
 }
 void loop()
@@ -58,7 +59,7 @@ void loop()
   miServo.write(val);
   delay(15);
   Serial.print("Valor POT: ");
-  Serial.print(POT_R);
+  Serial.print(potPin);
   Serial.print(" | Angulo Servo: ");
   Serial.println(val);
 }
@@ -72,6 +73,6 @@ A continuación, usando la función ``write()`` **de la librería Servo** y envi
 
 Usando el monitor serial podemos ver los valores del potenciómetro y a qué grado se convierte cada valor, como puede ver hemos unido lo visto en sensores analógicos para mover un servomotor, también puede unir lo visto en sensores digitales para mover el servomotor, esto queda como investigación al lector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjI2MjQ2Myw2NDAzNjE1MjQsODgxOT
+eyJoaXN0b3J5IjpbLTgwOTg5MjA2MSw2NDAzNjE1MjQsODgxOT
 kyMjM5LDE2MDc5OTc4MzEsNTgzMDc4NTc5XX0=
 -->

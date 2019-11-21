@@ -59,7 +59,10 @@ void loop()
   delay(15);
 }
 ```
+
+## Explicación
+Como pueden observar el código se inicia llamando la librería del servo usando ``#include <Servo.h>``, después se definen los pines a usar; en este caso el potenciómetro y el servo al que se le asigna el nombre de `miServo`. En el `setup()` se configuran los pines con la función de la librería `attach()` enviándola al nombre del servo, se declara en qué pin está conectado el servo; en este caso en el pin 2 como se ve en el diagrama.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwMzYxNTI0LDg4MTk5MjIzOSwxNjA3OT
-k3ODMxLDU4MzA3ODU3OV19
+eyJoaXN0b3J5IjpbMTA3OTQ5MjY4NCw2NDAzNjE1MjQsODgxOT
+kyMjM5LDE2MDc5OTc4MzEsNTgzMDc4NTc5XX0=
 -->

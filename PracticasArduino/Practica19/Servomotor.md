@@ -36,10 +36,11 @@ Para el ejemplo que veremos usaremos un servomotor **SG90**, ya que puede ser al
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica19/Servo.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica19/Servo.JPG)
+## Código
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjMxNDU2MSwtMTU5Mjk5ODEyNSwtOD
+eyJoaXN0b3J5IjpbLTk5NzY0ODA2OCwtMTU5Mjk5ODEyNSwtOD
 gzMzQ5Mzk2XX0=
 -->

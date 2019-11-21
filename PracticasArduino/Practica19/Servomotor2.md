@@ -41,9 +41,27 @@ Para el ejemplo que veremos usaremos un servomotor **SG90**, ya que puede ser al
 
 ## Código 
 ```c 
+#include<Servo.h>
+#define potPin  A0
 
+Servo miServo;
+
+
+int val;
+
+void setup()
+{
+  miServo.attach(3);  
+}
+void loop()
+{
+  val = analogRead(potPin); // Lee el valor del potenciometro (entre 0 a 1023)
+  val = map(val, 0, 1023, 0, 179); // Map() escala el valor entre 0 y 180 grados
+  miServo.write(val);
+  delay(15);
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxOTkyMjM5LDE2MDc5OTc4MzEsNTgzMD
-c4NTc5XX0=
+eyJoaXN0b3J5IjpbMTU3NTMzNzIxOSw4ODE5OTIyMzksMTYwNz
+k5NzgzMSw1ODMwNzg1NzldfQ==
 -->

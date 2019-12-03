@@ -30,7 +30,7 @@ void setup()
 void loop()
 {
   potVal = analogRead(POT);
-  Brillo = potVal/4;
+  brillo = potVal/4;
   Serial.print("Valor POT: ");
   Serial.print(potVal);
   Serial.print(" | Valor PWM: ");
@@ -52,6 +52,5 @@ En la función ``analogWrite()``, es donde enviaremos esos valores al **LED** pa
 
 Con esto vemos cómo podemos manipular el **PWM** con sensores, en este caso un potenciómetro y como siempre esto es la base para proyectos más avanzados.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTcyMTA0NywxNzQ2Nzk3ODg4LDE3Nj
-Q0ODgwNTQsOTc1NjMwNjE0LDc4NDA4MzI1NF19
+eyJoaXN0b3J5IjpbLTEzODI2MzY1OTldfQ==
 -->

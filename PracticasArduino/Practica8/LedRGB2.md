@@ -58,6 +58,5 @@ Juega con los valores de PWM  de los tres potenciómetros para obtener tus color
 
 ![](https://i.pinimg.com/originals/b9/51/8f/b9518febac2756828254365fbae0c007.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDU0OTQ4MCwtNzE3MjExMjU3LDE2MD
-k1Mzg3OTUsLTE4NjA2MjY4MzFdfQ==
+eyJoaXN0b3J5IjpbMTQzMDU0OTQ4MF19
 -->

@@ -17,7 +17,7 @@ Es muy importante que usted escriba el código para que pueda aprender correctam
 
 ## Código  
 ```c
-#define LED 4 //Damos el alias a nuestro pin 2.
+#define LED 4 //Damos el alias a nuestro pin 4.
 void setup(){
 	pinMode(LED,OUTPUT); //Definimos el pin LED como salida.
 }
@@ -40,5 +40,5 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg4NTQ3NDBdfQ==
+eyJoaXN0b3J5IjpbLTU5NTc4OTY1MCwtMTQ2ODg1NDc0MF19
 -->

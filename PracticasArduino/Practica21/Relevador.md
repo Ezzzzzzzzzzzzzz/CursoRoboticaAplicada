@@ -37,7 +37,13 @@ void Blink(int i){
 }
 ```
 ## Explicación
+Como pueden observar el código es bastante simple y no se entrará en explicación ya que se vio en temas anteriores, lo interesante es la parte electrónica, solo es un **relevador** podemos usar la alimentación del Arduino pero se recomienda usar alimentación externa de 5 volts.
+
+Como pueden ver en el código se envía un pulso por el pin 2, esto llega a la base del transistor del tipo
+npn excitándola, lo que hace que fluya mayor corriente y se magnetice la bobina del relevador, eso atrae
+el contacto interno y hace que pase el voltaje del común al normalmente abierto, lo cual hace que se pueda prender nuestro foco u otros aparatos electrónicos, usted puede hacer pruebas con radios, televisores, etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTgyMzYyNjcsMTk4MTI3NDE1OF19
+eyJoaXN0b3J5IjpbLTk0NDI2OTA2MCwtMTgxODIzNjI2NywxOT
+gxMjc0MTU4XX0=
 -->

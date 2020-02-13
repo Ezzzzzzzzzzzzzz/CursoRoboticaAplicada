@@ -16,9 +16,28 @@ En esta nueva práctica se enseñará a usar un **relevador** con Arduino y cont
 ## Conexión 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica21/RelayArduino.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica21/RelayArduino.JPG)
 ## Código
+```c
+#define Foco 4
 
+void setup()
+{
+  pinMode(Foco, OUTPUT);
+}
+
+void loop()
+{
+  Blink(1000);
+}
+
+void Blink(int i){
+  digitalWrite(Foco, HIGH);
+  delay(i);
+  digitalWrite(Foco, LOW);
+  delay(i);
+}
+```
 ## Explicación
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMzQzNjQyLDE5ODEyNzQxNThdfQ==
+eyJoaXN0b3J5IjpbLTE4MTgyMzYyNjcsMTk4MTI3NDE1OF19
 -->

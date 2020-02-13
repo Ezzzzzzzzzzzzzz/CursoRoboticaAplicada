@@ -12,7 +12,7 @@ En la siguiente práctica se muestra el uso del transistor, abajo se muestra el 
 > - Jumpers
 
 ## Conexión
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica20/UsoTransistor.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica20/UsoTransistor.JPG)
 
 ## Código
 ```c
@@ -50,5 +50,5 @@ Con esto podemos observar cómo controlar voltajes mayores y también un amperaj
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTc1NzA5OCwtMTEzMTA1OTk4XX0=
+eyJoaXN0b3J5IjpbNjY0MjY2MTAyLC0xMTMxMDU5OThdfQ==
 -->

@@ -25,7 +25,7 @@ void setup()
 
 void loop()
 {
-  // Usamos el metodo Blink con un parametro de 500 ms
+  // Usamos la función Blink con un parametro de 500 ms
   Blink(500);
 }
 
@@ -50,5 +50,6 @@ Con esto podemos observar cómo controlar voltajes mayores y también un amperaj
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0MjY2MTAyLC0xMTMxMDU5OThdfQ==
+eyJoaXN0b3J5IjpbLTIwMDQ1MTU5ODgsNjY0MjY2MTAyLC0xMT
+MxMDU5OThdfQ==
 -->

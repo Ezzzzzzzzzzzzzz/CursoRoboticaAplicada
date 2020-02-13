@@ -14,11 +14,11 @@ En esta nueva práctica se enseñará a usar un **relevador** con Arduino y cont
 > - Jumpers
 
 ## Conexión 
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica21/RelayArduino.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica21/RelayArduino.JPG)
 ## Código
 
 ## Explicación
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjgwNDQ4LDE5ODEyNzQxNThdfQ==
+eyJoaXN0b3J5IjpbMzIzMzQzNjQyLDE5ODEyNzQxNThdfQ==
 -->

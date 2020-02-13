@@ -8,6 +8,8 @@ En esta nueva práctica se enseñará a usar un **relevador** con Arduino y cont
 > - Foco con extensión de AC
 > - Modulo de Relay de 5 V
 > - Fuente de 5 V
+> - Resistor de 980 Ohm´s
+> - LED 5 mm
 > - Protoboard
 > - Jumpers
 
@@ -18,5 +20,5 @@ En esta nueva práctica se enseñará a usar un **relevador** con Arduino y cont
 ## Explicación
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTI3NDE1OF19
+eyJoaXN0b3J5IjpbLTQ2MjgwNDQ4LDE5ODEyNzQxNThdfQ==
 -->

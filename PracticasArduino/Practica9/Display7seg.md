@@ -79,11 +79,12 @@ void loop()
 	digitalWrite (e, HIGH);
 	digitalWrite (f, LOW);
 	digitalWrite (g, HIGH);
-	delay(1000)  
+	delay(1000);  
 }
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTk1MTIzNiwtMTY0NjgxMjg0MCwzNj
-I2MDAwNzcsLTk3ODIzNjg5NSwxNzU4OTAzNzA1XX0=
+eyJoaXN0b3J5IjpbLTI0Njg3Nzg2NywtMzE1OTUxMjM2LC0xNj
+Q2ODEyODQwLDM2MjYwMDA3NywtOTc4MjM2ODk1LDE3NTg5MDM3
+MDVdfQ==
 -->

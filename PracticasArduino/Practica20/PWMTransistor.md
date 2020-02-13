@@ -11,7 +11,7 @@ En esta práctica se verá el control del **PWM** con el uso del **transistor** 
 > - Jumpers
 
 ## Conexión
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica20/PWMTransistor.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica20/PWMTransistor.JPG)
 
 ## Código
 ```c
@@ -47,5 +47,5 @@ Enviamos los pulsos del **PWM** por el **pin 3**, esto llega a la **base** del t
 Bien, ya hemos aprendido como usar los transistores para poder controlar actuadores que requieren un mayor **voltaje** y **amperaje**, recuerden que esto es la base del aprendizaje, se le deja al estudiante que experimente con otros componentes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE3OTkxMjRdfQ==
+eyJoaXN0b3J5IjpbMTU2MTM0MTE4LC0xMzUxNzk5MTI0XX0=
 -->

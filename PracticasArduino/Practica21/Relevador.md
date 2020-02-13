@@ -41,7 +41,12 @@ Como pueden observar el código es bastante simple y no se entrará en explicaci
 
 *Como pueden ver en el código se envía un pulso por el **pin 4**, esto llega a la base del **transistor del tipo NPN** excitándola, lo que hace que fluya mayor corriente y se magnetice la bobina del relevador, eso atrae el contacto interno y hace que pase el voltaje del común al normalmente abierto, lo cual hace que se pueda prender nuestro foco u otros aparatos electrónicos, usted puede hacer pruebas con radios, televisores, etc.*
 
+En este caso no funciona el **PWM** ya que es necesario excitar la bobina por completo, **pero si usted quiere controlar el PWM para iluminación pude investigar acerca de los MOC y TRIAC**.
+
+Con esto usted ya sabe cómo controlar voltaje de **110/220 V**, incluso ya puede hacer un estrobo uniendo esta práctica con las primeras que se vieron en actuadores digitales, además junto con lo que se verá más adelante que será el tema de la comunicación serial, usted podrá controlar los aparatos y luces de su casa o propiedad con su teléfono móvil.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzk5MjExMCwtMTgxODIzNjI2NywxOT
-gxMjc0MTU4XX0=
+eyJoaXN0b3J5IjpbNDk3ODY0OTc0LC0xODE4MjM2MjY3LDE5OD
+EyNzQxNThdfQ==
 -->

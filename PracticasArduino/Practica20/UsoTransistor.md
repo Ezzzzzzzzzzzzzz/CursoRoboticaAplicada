@@ -31,7 +31,7 @@ void loop()
 
 /**
  * Función Blink 
- * @param i -Recibe unentero en ms
+ * @param i -Recibe un entero en ms
  */
 void Blink(int i){
   digitalWrite(Trans, HIGH);
@@ -50,5 +50,5 @@ Con esto podemos observar cómo controlar voltajes mayores y también un amperaj
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzEwNTk5OF19
+eyJoaXN0b3J5IjpbMTU3MTc1NzA5OCwtMTEzMTA1OTk4XX0=
 -->

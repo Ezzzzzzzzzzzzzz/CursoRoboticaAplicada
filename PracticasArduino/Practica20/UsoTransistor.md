@@ -42,7 +42,7 @@ void Blink(int i){
 ```
 ## Explicación
 
-El código es muy fácil de entender, se definieron los pines y las variables a utilizar, lo que se hizo fue crear una función de **Blink** para que se prenda y pague el foco mediante el **pin 2**, pero esta función recibe un parámetro del tiempo que será el valor que tendrá el **delay**, ya en **loop** se llama esta función, y verán como prende y apaga el foco, *si editamos el parámetro de la función **Blink** verán que aumenta el tiempo en que prende y paga (mayor o menor velocidad).*
+El código es muy fácil de entender, se definieron los pines y las variables a utilizar, lo que se hizo fue crear una función de **Blink** para que se prenda y pague el foco mediante el **pin 2**, pero esta función recibe un parámetro del tiempo que será el valor que tendrá el ``delay``, ya en ``loop`` se llama esta función, y verán como prende y apaga el foco, *si editamos el parámetro de la función **Blink** verán que aumenta el tiempo en que prende y paga (mayor o menor velocidad).*
 
 Ahora veremos lo interesante, como pueden observar **estamos manejando voltajes mayores a 5 voltios, en este caso 12 voltios, además de una gran cantidad de amperaje, entre 500mA y 1000mA**, esto es gracias al transistor **TIP120** del tipo **NPN**, nosotros enviamos el pulso por el **pin 2** del Arduino a la **base** del transistor, que a su vez está conectada a una resistencia de 4.7k, la función de esta resistencia es limitar la corriente que consume el transistor ya que para la excitación de la base no necesita mucha, al hacer esto la base se excita y abre la llave (como se explicó anteriormente), entonces fluye la corriente del **colector** al **emisor** con un voltaje de 12 volts. Como también se pudo observar, *cuando usamos una fuente de poder externa, en todos los casos se unen los negativos tanto del Arduino y el de la fuente externa, también llamado **GND** o **tierra**.*
 
@@ -50,6 +50,6 @@ Con esto podemos observar cómo controlar voltajes mayores y también un amperaj
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ1MTU5ODgsNjY0MjY2MTAyLC0xMT
-MxMDU5OThdfQ==
+eyJoaXN0b3J5IjpbMTA2MjkwNzM3Miw2NjQyNjYxMDIsLTExMz
+EwNTk5OF19
 -->

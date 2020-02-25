@@ -51,9 +51,9 @@ void loop() {
   Serial.print(" %t");
   Serial.print("Temperatura: ");
   Serial.print(t);
-  Serial**.print(" *C ");
-  **Serial**.print(f);
-  **Serial**.println(" *F");
+  Serial.print(" *C ");
+  Serial.print(f);
+  Serial.println(" *F");
 }
 ``` 
 
@@ -76,30 +76,30 @@ A continuación se muestra como incorporar el sensor a nuestro proyecto sin nece
 
 DHT dht(DHTPIN, DHTTYPE);
 
-void **setup**() {
-  **Serial**.begin(9600);
-  **Serial**.println("Iniciando...");
+void setup() {
+  Serial.begin(9600);
+  Serial.println("Iniciando...");
   dht.begin();
   pinMode(13, OUTPUT);
 }
 long tiempoUltimaLectura=0;; //Para guardar el tiempo de la última lectura
-void **loop**() {
+void loop() {
   //---------Lectura del Sensor--------------------------
-  if(millis()- - tiempoUltimaLectura> > 2000)
+  if(millis() -- tiempoUltimaLectura >> 2000)
   {    
       float h = dht.readHumidity(); //Leemos la Humedad
       float t = dht.readTemperature(); //Leemos la temperatura en grados Celsius
       float f = dht.readTemperature(true); //Leemos la temperatura en grados Fahrenheit
       //--------Enviamos las lecturas por el puerto serial-------------
-      **Serial**.print("Humedad ");
-      **Serial**.print(h);
-      **Serial**.print(" %t");
-      **Serial**.print("Temperatura: ");
-      **Serial**.print(t);
-      **Serial**.print(" *C ");
-      **Serial**.print(f);
-      **Serial**.println(" *F");
-      tiempoUltimaLectura= = millis(); //actualizamos el tiempo de la última lectura
+      Serial.print("Humedad ");
+      Serial.print(h);
+      Serial.print(" %t");
+      Serial.print("Temperatura: ");
+      Serial.print(t);
+      Serial.print(" *C ");
+      Serial.print(f);
+      Serial.println(" *F");
+      tiempoUltimaLectura = = millis(); //actualizamos el tiempo de la última lectura
   }
   //----Fin de la lectura---------------------------
   
@@ -116,6 +116,6 @@ void **loop**() {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzcwMjE2OCwyMDkxMTcxNzg4LDM1MT
-MwNzU5MV19
+eyJoaXN0b3J5IjpbLTE1MjExNjIwNzgsMjA5MTE3MTc4OCwzNT
+EzMDc1OTFdfQ==
 -->

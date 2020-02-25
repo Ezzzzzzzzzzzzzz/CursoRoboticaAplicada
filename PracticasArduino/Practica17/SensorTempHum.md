@@ -35,23 +35,23 @@ Realizar la lectura del sensor es simple, el siguiente ejemplo muestra como leer
 
 DHT dht(DHTPIN, DHTTYPE);
 
-void **setup**() {
-  **Serial**.begin(9600);
-  **Serial**.println("Iniciando...");
+void setup() {
+  Serial.begin(9600);
+  Serial.println("Iniciando...");
   dht.begin();
 }
-void **loop**() {
+void loop() {
   delay(2000);
   float h = dht.readHumidity(); //Leemos la Humedad
   float t = dht.readTemperature(); //Leemos la temperatura en grados Celsius
   float f = dht.readTemperature(true); //Leemos la temperatura en grados Fahrenheit
   //--------Enviamos las lecturas por el puerto serial-------------
-  **Serial**.print("Humedad ");
-  **Serial**.print(h);
-  **Serial**.print(" %t");
-  **Serial**.print("Temperatura: ");
-  **Serial**.print(t);
-  **Serial**.print(" *C ");
+  Serial.print("Humedad ");
+  Serial.print(h);
+  Serial.print(" %t");
+  Serial.print("Temperatura: ");
+  Serial.print(t);
+  Serial**.print(" *C ");
   **Serial**.print(f);
   **Serial**.println(" *F");
 }
@@ -116,6 +116,6 @@ void **loop**() {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTMxODMxMiwyMDkxMTcxNzg4LDM1MT
+eyJoaXN0b3J5IjpbMTU5MzcwMjE2OCwyMDkxMTcxNzg4LDM1MT
 MwNzU5MV19
 -->

@@ -67,9 +67,8 @@ Este módulo proporciona un **termistor NTC**: tendrá una resistencia inferior 
 ![](http://sensorkit.en.joy-it.net/images/4/49/NTC-Kurve_eng.png)
 
 ```c
-`#include <math.h>`
-
-int` `sensorPin = A5;` `// Declaration of the input pin`
+#include <math.h>
+int sensorPin = A5; // Declaration of the input pin
 
 // These function translates the recorded analog measurement
 // into the right temperature in °C and gives it out.
@@ -103,7 +102,7 @@ delay(500);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU4OTg0OSwyMDI0ODQ5MTM4LDI4NT
-k3NTQxMiwxOTk3MzUwMzg4LDQ4NDA5MzYyNSwxOTgyOTU0NjE1
-LC0xNTYwOTA4NjM3LC0xMDY3MDQ0NDcxXX0=
+eyJoaXN0b3J5IjpbODQzMzE4NjAzLDIwMjQ4NDkxMzgsMjg1OT
+c1NDEyLDE5OTczNTAzODgsNDg0MDkzNjI1LDE5ODI5NTQ2MTUs
+LTE1NjA5MDg2MzcsLTEwNjcwNDQ0NzFdfQ==
 -->

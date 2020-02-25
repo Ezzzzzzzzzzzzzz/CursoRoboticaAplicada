@@ -51,17 +51,17 @@ Muy bien, el funcionamiento es muy simple, definimos dos pines, el **led** y el 
 
 ```c
 int Led = 13; // define LED pin
-int SendorPin = 3; // define photo interrupter signal pin
+int SensorPin = 3; // define photo interrupter signal pin
 int val; //define a numeric variable
 
 void setup()
 {
 	pinMode(Led, OUTPUT); // LED pin as output
-	pinMode(SendorPin, INPUT); //photo interrupter pin as input
+	pinMode(SensorPin, INPUT); //photo interrupter pin as input
 }
 void loop()
 {
-	val=digitalRead(SendorPin); //read the value of the sensor 
+	val=digitalRead(SensorPin); //read the value of the sensor 
 	if(val == HIGH) // turn on LED when sensor is blocked 
 	{
 		digitalWrite(Led,HIGH);
@@ -74,7 +74,7 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Mjc0ODkzNSwtODI4MDg1OTQ0LC0xNz
-c1NzczNDU1LDM0MDUyMjA4OCwxMTIyODgzMjg2LC04ODE3MDcy
-ODddfQ==
+eyJoaXN0b3J5IjpbLTg3MTcwNDgzOCwxMzcyNzQ4OTM1LC04Mj
+gwODU5NDQsLTE3NzU3NzM0NTUsMzQwNTIyMDg4LDExMjI4ODMy
+ODYsLTg4MTcwNzI4N119
 -->

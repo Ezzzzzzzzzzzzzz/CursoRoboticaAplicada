@@ -64,9 +64,71 @@ Rango de medición de temperatura: **-55 ° C / + 125 ° C.**
 
 Este módulo proporciona un **termistor NTC**: tendrá una resistencia inferior a temperaturas más altas.
 
+![](http://sensorkit.en.joy-it.net/images/4/49/NTC-Kurve_eng.png)
 
+```c
+`#include <math.h>`
+
+`int` `sensorPin = A5;` `// Declaration of the input pin`
+
+`// These function translates the recorded analog measurement`
+
+`// into the right temperature in °C and gives it out.`
+
+`double` `Thermistor(``int` `RawADC)`
+
+`{`
+
+`double` `Temp;`
+
+`Temp =` `log``(10000.0 * ((1024.0 / RawADC - 1)));`
+
+`Temp = 1 / (0.001129148 + (0.000234125 + (0.0000000876741 * Temp * Temp )) * Temp );`
+
+`Temp = Temp - 273.15;` `// convert from Kelvin to Celsius`
+
+`return` `Temp;`
+
+`}`
+
+`// Serial output in 9600 Baud`
+
+`void` `setup()`
+
+`{`
+
+`Serial.begin(9600);`
+
+`}`
+
+`// The program measures the current voltage value on the NTC`
+
+`// and translates it intp °C for the serial output`
+
+`void` `loop()`
+
+`{`
+
+`int` `readVal = analogRead(sensorPin);`
+
+`double` `temp = Thermistor(readVal);`
+
+`// Output on the serial interface`
+
+`Serial.print(``"Current temperature is:"``);`
+
+`Serial.print(temp);`
+
+`Serial.print(``char``(186));` `//Output <°> Symbol`
+
+`Serial.println(``"C"``);
+Serial.println(``"---------------------------------------"``);
+delay(500);
+
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1NDczMDAxLDIwMjQ4NDkxMzgsMjg1OT
-c1NDEyLDE5OTczNTAzODgsNDg0MDkzNjI1LDE5ODI5NTQ2MTUs
-LTE1NjA5MDg2MzcsLTEwNjcwNDQ0NzFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTkzNTk1NDksMjAyNDg0OTEzOCwyOD
+U5NzU0MTIsMTk5NzM1MDM4OCw0ODQwOTM2MjUsMTk4Mjk1NDYx
+NSwtMTU2MDkwODYzNywtMTA2NzA0NDQ3MV19
 -->

@@ -62,7 +62,7 @@ void **loop**() {
 
 Un problema muy común es que al hora de incluir el ejemplo anterior a nuestro proyecto debido a la pausa de los 2 segundos, todo nuestro proyecto también se vuelve lento, incluso podría afectar algunas funcionalidad de nuestro proyecto. Esto porque cada bucle demoraría 2 segundos, tiempo demasiado grande para algunos procesos.
 
-La solución es usar la función millis() de Arduino, el cual nos da el tiempo en milisegundos desde que empieza a ejecutarse el código.
+La solución es usar la función `millis()` de Arduino, el cual nos da el tiempo en milisegundos desde que empieza a ejecutarse el código.
 
 A continuación se muestra como incorporar el sensor a nuestro proyecto sin necesidad de hacer la pausa de 2 segundos.
 
@@ -85,7 +85,7 @@ void **setup**() {
 long tiempoUltimaLectura=0;; //Para guardar el tiempo de la última lectura
 void **loop**() {
   //---------Lectura del Sensor--------------------------
-  if(millis()-tiempoUltimaLectura>2000)
+  if(millis()- - tiempoUltimaLectura> > 2000)
   {    
       float h = dht.readHumidity(); //Leemos la Humedad
       float t = dht.readTemperature(); //Leemos la temperatura en grados Celsius
@@ -99,7 +99,7 @@ void **loop**() {
       **Serial**.print(" *C ");
       **Serial**.print(f);
       **Serial**.println(" *F");
-      tiempoUltimaLectura=millis(); //actualizamos el tiempo de la última lectura
+      tiempoUltimaLectura= = millis(); //actualizamos el tiempo de la última lectura
   }
   //----Fin de la lectura---------------------------
   
@@ -116,5 +116,6 @@ void **loop**() {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTE3MTc4OCwzNTEzMDc1OTFdfQ==
+eyJoaXN0b3J5IjpbLTg4OTMxODMxMiwyMDkxMTcxNzg4LDM1MT
+MwNzU5MV19
 -->

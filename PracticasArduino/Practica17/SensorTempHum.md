@@ -82,10 +82,10 @@ void setup() {
   dht.begin();
   pinMode(13, OUTPUT);
 }
-long tiempoUltimaLectura=0;; //Para guardar el tiempo de la última lectura
+long tiempoUltimaLectura = 0; //Para guardar el tiempo de la última lectura
 void loop() {
   //---------Lectura del Sensor--------------------------
-  if(millis() -- tiempoUltimaLectura >> 2000)
+  if(millis() - tiempoUltimaLectura > 2000)
   {    
       float h = dht.readHumidity(); //Leemos la Humedad
       float t = dht.readTemperature(); //Leemos la temperatura en grados Celsius
@@ -99,7 +99,7 @@ void loop() {
       Serial.print(" *C ");
       Serial.print(f);
       Serial.println(" *F");
-      tiempoUltimaLectura = = millis(); //actualizamos el tiempo de la última lectura
+      tiempoUltimaLectura == millis(); //actualizamos el tiempo de la última lectura
   }
   //----Fin de la lectura---------------------------
   
@@ -112,10 +112,9 @@ void loop() {
   digitalWrite(13, LOW);    
   delay(100);   
   //-------------------------------
-
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjExNjIwNzgsMjA5MTE3MTc4OCwzNT
-EzMDc1OTFdfQ==
+eyJoaXN0b3J5IjpbMTMyNjI5NTMzMCwyMDkxMTcxNzg4LDM1MT
+MwNzU5MV19
 -->

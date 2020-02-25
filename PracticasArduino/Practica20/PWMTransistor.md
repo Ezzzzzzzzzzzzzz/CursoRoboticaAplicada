@@ -1,5 +1,8 @@
 ## PWM con transistor
 En esta práctica se verá el control del **PWM** con el uso del **transistor** y el **foco de 12V**, abajo se muestra el código, material y explicación de la práctica.
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica20/Transistor01.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica20/Transistor01.JPG)
+
+!
 
 ## Material
 > - Arduino
@@ -47,5 +50,6 @@ Enviamos los pulsos del **PWM** por el **pin 3**, esto llega a la **base** del t
 Bien, ya hemos aprendido como usar los transistores para poder controlar actuadores que requieren un mayor **voltaje** y **amperaje**, recuerden que esto es la base del aprendizaje, se le deja al estudiante que experimente con otros componentes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTM0MTE4LC0xMzUxNzk5MTI0XX0=
+eyJoaXN0b3J5IjpbMjYxNzE2MTQ1LDE1NjEzNDExOCwtMTM1MT
+c5OTEyNF19
 -->

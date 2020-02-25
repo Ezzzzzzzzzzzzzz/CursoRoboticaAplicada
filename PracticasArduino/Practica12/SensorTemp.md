@@ -68,6 +68,7 @@ Este módulo proporciona un **termistor NTC**: tendrá una resistencia inferior 
 
 ```c
 #include <math.h>
+
 int sensorPin = A5; // Declaration of the input pin
 
 // These function translates the recorded analog measurement
@@ -102,7 +103,7 @@ delay(500);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjIxMjQ2OSwyMDI0ODQ5MTM4LDI4NT
+eyJoaXN0b3J5IjpbLTI1MjY1NzY5OSwyMDI0ODQ5MTM4LDI4NT
 k3NTQxMiwxOTk3MzUwMzg4LDQ4NDA5MzYyNSwxOTgyOTU0NjE1
 LC0xNTYwOTA4NjM3LC0xMDY3MDQ0NDcxXX0=
 -->

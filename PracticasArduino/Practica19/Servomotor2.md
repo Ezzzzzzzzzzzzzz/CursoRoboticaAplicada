@@ -18,7 +18,7 @@ Podemos mover un servo sin librería con esta función:
 ```c
 void moverServo(int pin, int angulo) {
   float pausa;
-  pausa = angulo * 2000.0/180.0+500;
+  pausa = angulo * 2000.0/180.0+ + 500;
   digitalWrite(pin,HIGH);
   delayMicroseconds(pausa);
   digitalWrite(pin,LOW);
@@ -73,6 +73,7 @@ A continuación, usando la función ``write()`` **de la librería Servo** y envi
 
 Usando el monitor serial podemos ver los valores del potenciómetro y a qué grado se convierte cada valor, como puede ver hemos unido lo visto en sensores analógicos para mover un servomotor, también puede unir lo visto en sensores digitales para mover el servomotor, esto queda como investigación al lector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTg5MjA2MSw2NDAzNjE1MjQsODgxOT
-kyMjM5LDE2MDc5OTc4MzEsNTgzMDc4NTc5XX0=
+eyJoaXN0b3J5IjpbLTE1NzA2NjAwNjgsLTgwOTg5MjA2MSw2ND
+AzNjE1MjQsODgxOTkyMjM5LDE2MDc5OTc4MzEsNTgzMDc4NTc5
+XX0=
 -->

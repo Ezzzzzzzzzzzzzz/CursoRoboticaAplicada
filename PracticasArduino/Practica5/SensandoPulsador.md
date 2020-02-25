@@ -1,6 +1,10 @@
 # Censando un pulsador
 Vamos a leer un pulsador y por medio de una condición vamos a prender y apagar un led, **esta práctica será la base para poder leer cualquier otro sensor con solo dos estados que son ALTO o BAJO** y poder utilizarlo dependiendo de nuestras necesidades, abajo se muestra el código, material y explicación de la práctica.
 
+![](http://4.bp.blogspot.com/-KAkM3oZ1rhI/U7zrMdebhtI/AAAAAAAAA28/w66cXzjAIgI/s1600/resistenciaspullupypulldown.jpg)
+
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/PullDown%26Pullup.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/PullDown%26Pullup.JPG)
+
 ## Material
 > - Arduino
 > - LED 5mm 
@@ -35,6 +39,6 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjcxMjU5OSwyMDE0MTI4MDM5LC01MT
-YyMDI5ODddfQ==
+eyJoaXN0b3J5IjpbLTMxMzYwOTM5NSwxNjk2NzEyNTk5LDIwMT
+QxMjgwMzksLTUxNjIwMjk4N119
 -->

@@ -5,7 +5,7 @@ En esta nueva práctica se enseñará a usar un **relevador** con Arduino y cont
 
 ![](https://josehervas.es/sensorizados/wp-content/uploads/2013/11/bannerpng.png)
 
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica21/Relay02.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica21/Relay02.JPG)
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica21/Relay02.JPG)
 
 ## Material
 > - Arduino
@@ -49,6 +49,6 @@ En este caso no funciona el **PWM** ya que es necesario excitar la bobina por co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU5MDAxMzYsMzg1NjQ3Mjc5LC0xOD
-E4MjM2MjY3LDE5ODEyNzQxNThdfQ==
+eyJoaXN0b3J5IjpbOTA0NzQ5NzA2LC0yMDY1OTAwMTM2LDM4NT
+Y0NzI3OSwtMTgxODIzNjI2NywxOTgxMjc0MTU4XX0=
 -->

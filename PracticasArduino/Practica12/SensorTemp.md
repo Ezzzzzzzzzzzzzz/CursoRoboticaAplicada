@@ -95,12 +95,12 @@ double Thermistor(int RawADC){
   double Temp;
   Temp = log(10000.0 * ((1024.0 / RawADC - 1)));
   Temp = 1 / (0.001129148 + (0.000234125 + (0.0000000876741 * Temp * Temp )) * Temp );
-Temp = Temp - 273.15; // convert from Kelvin to Celsius
-return Temp;
+  Temp = Temp - 273.15; // convert from Kelvin to Celsius
+  return Temp;
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0MzMyNTk1LDIwMjQ4NDkxMzgsMjg1OT
-c1NDEyLDE5OTczNTAzODgsNDg0MDkzNjI1LDE5ODI5NTQ2MTUs
-LTE1NjA5MDg2MzcsLTEwNjcwNDQ0NzFdfQ==
+eyJoaXN0b3J5IjpbLTE2ODkyMDQxNzMsMjAyNDg0OTEzOCwyOD
+U5NzU0MTIsMTk5NzM1MDM4OCw0ODQwOTM2MjUsMTk4Mjk1NDYx
+NSwtMTU2MDkwODYzNywtMTA2NzA0NDQ3MV19
 -->

@@ -66,15 +66,15 @@ void loop(){
     if(val == HIGH){
 	  digitalWrite(Led, HIGH);
 	}
-	else{
+    else{
 	  digitalWrite(Led, LOW);
 	}
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE5MzgwNzIsMzM3NDYxMTYxLDc5Mj
-EwMjI4OSwxNTcyMTg3NjYzLDE1MzQxMTkzNzIsNzcyMjc5OTcz
-LC05MTYxMjAxMywxMzEyODQwMzUzLC0xODk2MDA1NjY0LC0xNT
-M2NjMyNjU5XX0=
+eyJoaXN0b3J5IjpbLTExOTAyNDYwNjQsLTE0MDE5MzgwNzIsMz
+M3NDYxMTYxLDc5MjEwMjI4OSwxNTcyMTg3NjYzLDE1MzQxMTkz
+NzIsNzcyMjc5OTczLC05MTYxMjAxMywxMzEyODQwMzUzLC0xOD
+k2MDA1NjY0LC0xNTM2NjMyNjU5XX0=
 -->

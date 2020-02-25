@@ -2,7 +2,7 @@
 
 Ya vimos como leer sensores digitales, ahora haremos una práctica bastante simple que será la base para hacer muchos proyectos, el cual es saber manejar y leer los datos que nos manda un optointerruptor, **estos se usan en las cajas del supermercado en la banda transportadora que al bloquear la señal se detiene pero si es una señal limpia avanza la banda o también para tener un conteo se personas u objetos**, abajo se muestra el código, material y explicación de la práctica.
 
-![](https://luckyretail.com/Uploadfile/201708282/121970/121970.jpg)
+![](https://sc02.alicdn.com/kf/HTB11MnjXyzxK1RkSnaVq6xn9VXaY/231849537/HTB11MnjXyzxK1RkSnaVq6xn9VXaY.jpg)
 ## Material 
 > - Arduino
 > - LED 5mm 
@@ -42,6 +42,6 @@ void loop() {
 Muy bien, el funcionamiento es muy simple, definimos dos pines, el **led** y el **optointerruptor** al led lo ponemos como ``OUTPUT`` y para el optointerruptor lo ponemos como ``INPUT``, también creamos una variable del tipo entero que almacenará el valor enviado por el fototransistor al **pin 3**, después en el ``loop()`` hacemos nuestro programa de ejecución, usando ``digitalRead()`` leemos el valor del pin 3 y lo almacenamos en la variable ``Opto_lee``, después con un ``if()`` hacemos una comparación lógica, si el valor digital es **1 enciende el led** usando ``digitalWrite()``, en caso de que sea un valor **distinto a 1** permanecerá apagado. Como vimos este es el funcionamiento de un optointerruptor que nos servirá para hacer muchos proyectos, desde una banda transportadora hasta un seguidor de líneas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzOTM1MDgzLDM0MDUyMjA4OCwxMTIyOD
-gzMjg2LC04ODE3MDcyODddfQ==
+eyJoaXN0b3J5IjpbLTE3NzU3NzM0NTUsMzQwNTIyMDg4LDExMj
+I4ODMyODYsLTg4MTcwNzI4N119
 -->

@@ -88,7 +88,7 @@ void loop(){
   Serial.println("---------------------------------------");
   delay(500);
 }
-// Esta finción traduce lo recopilado por la medición analogica
+// Esta función traduce lo recopilado por la medición analogica
 // para obtener el valor correcto de temperatura en °C 
 double Thermistor(int RawADC){
   double Temp;
@@ -99,8 +99,8 @@ double Thermistor(int RawADC){
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTE1NTkyMCwtMTg2NzI2MzIzMywyMD
-I0ODQ5MTM4LDI4NTk3NTQxMiwxOTk3MzUwMzg4LDQ4NDA5MzYy
-NSwxOTgyOTU0NjE1LC0xNTYwOTA4NjM3LC0xMDY3MDQ0NDcxXX
-0=
+eyJoaXN0b3J5IjpbLTIwNjMxMTc3MzIsLTE4NjcyNjMyMzMsMj
+AyNDg0OTEzOCwyODU5NzU0MTIsMTk5NzM1MDM4OCw0ODQwOTM2
+MjUsMTk4Mjk1NDYxNSwtMTU2MDkwODYzNywtMTA2NzA0NDQ3MV
+19
 -->

@@ -85,9 +85,9 @@ void loop(){
   double temp = Thermistor(readVal);
 
   // Output on the serial interface
-  Serial.print("Current temperature is:");
+  Serial.print("La temperatura actual es:");
   Serial.print(temp);
-  Serial.print(char(186)); //Output <°> Symbol
+  Serial.print(char(186)); //Output <°> Simbolo
   Serial.println("C");
   Serial.println("---------------------------------------");
   delay(500);
@@ -98,12 +98,12 @@ double Thermistor(int RawADC){
   double Temp;
   Temp = log(10000.0 * ((1024.0 / RawADC - 1)));
   Temp = 1 / (0.001129148 + (0.000234125 + (0.0000000876741 * Temp * Temp )) * Temp );
-  Temp = Temp - 273.15; // convert from Kelvin to Celsius
+  Temp = Temp - 273.15; // convertir de Kelvin a Celsius
   return Temp;
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY1OTExNTIsLTE4NjcyNjMyMzMsMj
+eyJoaXN0b3J5IjpbLTEzOTE3MTg2ODUsLTE4NjcyNjMyMzMsMj
 AyNDg0OTEzOCwyODU5NzU0MTIsMTk5NzM1MDM4OCw0ODQwOTM2
 MjUsMTk4Mjk1NDYxNSwtMTU2MDkwODYzNywtMTA2NzA0NDQ3MV
 19

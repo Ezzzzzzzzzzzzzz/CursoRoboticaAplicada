@@ -74,9 +74,8 @@ int sensorPin = A5; // Declaración de la entrada
 void setup(){
 Serial.begin(9600); // Monitor Serial a 9600 Baud
 }
-
-// The program measures the current voltage value on the NTC
-// and translates it intp °C for the serial output
+// Esteprograma le el valor de corriente y voltaje en el NTC
+// y lo traduce en una variable int para los °C en el monitor serial
 void loop(){
 int readVal = analogRead(sensorPin);
 double temp = Thermistor(readVal);
@@ -101,7 +100,7 @@ return Temp;
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU2OTE5MjEsMjAyNDg0OTEzOCwyOD
-U5NzU0MTIsMTk5NzM1MDM4OCw0ODQwOTM2MjUsMTk4Mjk1NDYx
-NSwtMTU2MDkwODYzNywtMTA2NzA0NDQ3MV19
+eyJoaXN0b3J5IjpbMzE2NDUxNzEsMjAyNDg0OTEzOCwyODU5Nz
+U0MTIsMTk5NzM1MDM4OCw0ODQwOTM2MjUsMTk4Mjk1NDYxNSwt
+MTU2MDkwODYzNywtMTA2NzA0NDQ3MV19
 -->

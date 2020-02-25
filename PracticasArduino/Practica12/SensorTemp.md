@@ -72,35 +72,35 @@ Este módulo proporciona un **termistor NTC**: tendrá una resistencia inferior 
 int sensorPin = A5; // Declaración de la entrada 
 
 void setup(){
-Serial.begin(9600); // Monitor Serial a 9600 Baud
+  Serial.begin(9600); // Monitor Serial a 9600 Baud
 }
 // Esteprograma le el valor de corriente y voltaje en el NTC
 // y lo traduce en una variable int para los °C en el monitor serial
 void loop(){
-int readVal = analogRead(sensorPin);
-double temp = Thermistor(readVal);
+  int readVal = analogRead(sensorPin);
+  double temp = Thermistor(readVal);
 
-// Output on the serial interface
-Serial.print("Current temperature is:");
-Serial.print(temp);
-Serial.print(char(186)); //Output <°> Symbol
-Serial.println("C");
-Serial.println("---------------------------------------");
-delay(500);
+  // Output on the serial interface
+  Serial.print("Current temperature is:");
+  Serial.print(temp);
+  Serial.print(char(186)); //Output <°> Symbol
+  Serial.println("C");
+  Serial.println("---------------------------------------");
+  delay(500);
 }
 
 // These function translates the recorded analog measurement
 // into the right temperature in °C and gives it out.
 double Thermistor(int RawADC){
-double Temp;
-Temp = log(10000.0 * ((1024.0 / RawADC - 1)));
-Temp = 1 / (0.001129148 + (0.000234125 + (0.0000000876741 * Temp * Temp )) * Temp );
+  double Temp;
+  Temp = log(10000.0 * ((1024.0 / RawADC - 1)));
+  Temp = 1 / (0.001129148 + (0.000234125 + (0.0000000876741 * Temp * Temp )) * Temp );
 Temp = Temp - 273.15; // convert from Kelvin to Celsius
 return Temp;
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2NDUxNzEsMjAyNDg0OTEzOCwyODU5Nz
-U0MTIsMTk5NzM1MDM4OCw0ODQwOTM2MjUsMTk4Mjk1NDYxNSwt
-MTU2MDkwODYzNywtMTA2NzA0NDQ3MV19
+eyJoaXN0b3J5IjpbMjc0MzMyNTk1LDIwMjQ4NDkxMzgsMjg1OT
+c1NDEyLDE5OTczNTAzODgsNDg0MDkzNjI1LDE5ODI5NTQ2MTUs
+LTE1NjA5MDg2MzcsLTEwNjcwNDQ0NzFdfQ==
 -->

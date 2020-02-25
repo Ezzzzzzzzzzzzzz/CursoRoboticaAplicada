@@ -51,12 +51,20 @@ delay(500);
 
 ## Código
 ```c
-int Led = 13;
+#define Led 13
+#define ButtonPin 3
+
+int val;
+
+void setup(){
+	pinMode(Led, OUTPUT);
+	pinMode();
+}
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTcyMjQ3MzEsMzM3NDYxMTYxLDc5Mj
-EwMjI4OSwxNTcyMTg3NjYzLDE1MzQxMTkzNzIsNzcyMjc5OTcz
-LC05MTYxMjAxMywxMzEyODQwMzUzLC0xODk2MDA1NjY0LC0xNT
-M2NjMyNjU5XX0=
+eyJoaXN0b3J5IjpbLTM3MjM2OTAzNywzMzc0NjExNjEsNzkyMT
+AyMjg5LDE1NzIxODc2NjMsMTUzNDExOTM3Miw3NzIyNzk5NzMs
+LTkxNjEyMDEzLDEzMTI4NDAzNTMsLTE4OTYwMDU2NjQsLTE1Mz
+Y2MzI2NTldfQ==
 -->

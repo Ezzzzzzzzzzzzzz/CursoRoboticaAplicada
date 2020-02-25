@@ -77,7 +77,7 @@ double Thermistor(int RawADC)
 double Temp;
 Temp = log(10000.0 * ((1024.0 / RawADC - 1)));
 Temp = 1 / (0.001129148 + (0.000234125 + (0.0000000876741 * Temp * Temp )) * Temp );
-Temp = Temp - 273.15;` `// convert from Kelvin to Celsius
+Temp = Temp - 273.15; // convert from Kelvin to Celsius
 return Temp;
 }
 // Serial output in 9600 Baud
@@ -92,17 +92,17 @@ int readVal = analogRead(sensorPin);
 double temp = Thermistor(readVal);
 
 // Output on the serial interface
-Serial.print(``"Current temperature is:"``);
+Serial.print("Current temperature is:");
 Serial.print(temp);
-Serial.print(``char``(186));` `//Output <°> Symbol
-Serial.println(``"C"``);
-Serial.println(``"---------------------------------------"``);
+Serial.print(char(186)); //Output <°> Symbol
+Serial.println("C");
+Serial.println("---------------------------------------");
 delay(500);
 
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMzE4NjAzLDIwMjQ4NDkxMzgsMjg1OT
-c1NDEyLDE5OTczNTAzODgsNDg0MDkzNjI1LDE5ODI5NTQ2MTUs
-LTE1NjA5MDg2MzcsLTEwNjcwNDQ0NzFdfQ==
+eyJoaXN0b3J5IjpbLTI0NjIxMjQ2OSwyMDI0ODQ5MTM4LDI4NT
+k3NTQxMiwxOTk3MzUwMzg4LDQ4NDA5MzYyNSwxOTgyOTU0NjE1
+LC0xNTYwOTA4NjM3LC0xMDY3MDQ0NDcxXX0=
 -->

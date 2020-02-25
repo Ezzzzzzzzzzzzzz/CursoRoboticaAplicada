@@ -93,42 +93,29 @@ Este módulo proporciona un **termistor NTC**: tendrá una resistencia inferior 
 
 `// Serial output in 9600 Baud`
 
-`void` `setup()`
+void setup(){
+Serial.begin(9600);
+}
 
-`{`
+// The program measures the current voltage value on the NTC
+// and translates it intp °C for the serial output
+void loop(){
 
-`Serial.begin(9600);`
+int readVal = analogRead(sensorPin);
+double temp = Thermistor(readVal);
 
-`}`
-
-`// The program measures the current voltage value on the NTC`
-
-`// and translates it intp °C for the serial output`
-
-`void` `loop()`
-
-`{`
-
-`int` `readVal = analogRead(sensorPin);`
-
-`double` `temp = Thermistor(readVal);`
-
-`// Output on the serial interface`
-
-`Serial.print(``"Current temperature is:"``);`
-
-`Serial.print(temp);`
-
-`Serial.print(``char``(186));` `//Output <°> Symbol`
-
-`Serial.println(``"C"``);
+// Output on the serial interface
+Serial.print(``"Current temperature is:"``);
+Serial.print(temp);
+Serial.print(``char``(186));` `//Output <°> Symbol
+Serial.println(``"C"``);
 Serial.println(``"---------------------------------------"``);
 delay(500);
 
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTkzNTk1NDksMjAyNDg0OTEzOCwyOD
-U5NzU0MTIsMTk5NzM1MDM4OCw0ODQwOTM2MjUsMTk4Mjk1NDYx
-NSwtMTU2MDkwODYzNywtMTA2NzA0NDQ3MV19
+eyJoaXN0b3J5IjpbMTEwMDI2ODczOSwyMDI0ODQ5MTM4LDI4NT
+k3NTQxMiwxOTk3MzUwMzg4LDQ4NDA5MzYyNSwxOTgyOTU0NjE1
+LC0xNTYwOTA4NjM3LC0xMDY3MDQ0NDcxXX0=
 -->

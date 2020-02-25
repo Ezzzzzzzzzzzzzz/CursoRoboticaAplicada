@@ -47,13 +47,16 @@ delay(500);
 ## Modulo IR TCRT 5000
 
 ## Conexión 
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/TCRT5000_01.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/TCRT5000_01.JPG)
 
 ## Código
+```c
+
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1MDI5NzY4LDMzNzQ2MTE2MSw3OTIxMD
-IyODksMTU3MjE4NzY2MywxNTM0MTE5MzcyLDc3MjI3OTk3Mywt
-OTE2MTIwMTMsMTMxMjg0MDM1MywtMTg5NjAwNTY2NCwtMTUzNj
-YzMjY1OV19
+eyJoaXN0b3J5IjpbLTU3OTMxNDY1NywzMzc0NjExNjEsNzkyMT
+AyMjg5LDE1NzIxODc2NjMsMTUzNDExOTM3Miw3NzIyNzk5NzMs
+LTkxNjEyMDEzLDEzMTI4NDAzNTMsLTE4OTYwMDU2NjQsLTE1Mz
+Y2MzI2NTldfQ==
 -->

@@ -57,24 +57,24 @@ delay(500);
 int val;
 
 void setup(){
-	pinMode(Led, OUTPUT);
-	pinMode(ButtonPin, INPUT);
+   pinMode(Led, OUTPUT);
+   pinMode(ButtonPin, INPUT);
 }
 
 void loop(){
-	val = digitalRead(ButtonPin);
-	if(val == HIGH){
-		digitalWrite(Led, HIGH);
+  val = digitalRead(ButtonPin);
+    if(val == HIGH){
+	  digitalWrite(Led, HIGH);
 	}
 	else{
-		digitalWrite(Led, LOW);
+	  digitalWrite(Led, LOW);
 	}
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzcxNTA4OCwzMzc0NjExNjEsNzkyMT
-AyMjg5LDE1NzIxODc2NjMsMTUzNDExOTM3Miw3NzIyNzk5NzMs
-LTkxNjEyMDEzLDEzMTI4NDAzNTMsLTE4OTYwMDU2NjQsLTE1Mz
-Y2MzI2NTldfQ==
+eyJoaXN0b3J5IjpbLTE0MDE5MzgwNzIsMzM3NDYxMTYxLDc5Mj
+EwMjI4OSwxNTcyMTg3NjYzLDE1MzQxMTkzNzIsNzcyMjc5OTcz
+LC05MTYxMjAxMywxMzEyODQwMzUzLC0xODk2MDA1NjY0LC0xNT
+M2NjMyNjU5XX0=
 -->

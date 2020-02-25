@@ -64,13 +64,16 @@ void setup(){
 void loop(){
 	val = digitalRead(ButtonPin);
 	if(val == HIGH){
-		digitalWrite();
+		digitalWrite(Led, HIGH);
+	}
+	else{
+		digitalWrite(Led, LOW);
 	}
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODYyODAyMCwzMzc0NjExNjEsNzkyMT
+eyJoaXN0b3J5IjpbMTg0NzcxNTA4OCwzMzc0NjExNjEsNzkyMT
 AyMjg5LDE1NzIxODc2NjMsMTUzNDExOTM3Miw3NzIyNzk5NzMs
 LTkxNjEyMDEzLDEzMTI4NDAzNTMsLTE4OTYwMDU2NjQsLTE1Mz
 Y2MzI2NTldfQ==

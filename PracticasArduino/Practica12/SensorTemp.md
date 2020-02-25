@@ -69,21 +69,10 @@ Este módulo proporciona un **termistor NTC**: tendrá una resistencia inferior 
 ```c
 #include <math.h>
 
-int sensorPin = A5; // Declaration of the input pin
+int sensorPin = A5; // Declaración de la entrada 
 
-// These function translates the recorded analog measurement
-// into the right temperature in °C and gives it out.
-double Thermistor(int RawADC)
-{
-double Temp;
-Temp = log(10000.0 * ((1024.0 / RawADC - 1)));
-Temp = 1 / (0.001129148 + (0.000234125 + (0.0000000876741 * Temp * Temp )) * Temp );
-Temp = Temp - 273.15; // convert from Kelvin to Celsius
-return Temp;
-}
-// Serial output in 9600 Baud
 void setup(){
-Serial.begin(9600);
+Serial.begin(9600); // Monitor Serial a 9600 Baud
 }
 
 // The program measures the current voltage value on the NTC
@@ -99,11 +88,20 @@ Serial.print(char(186)); //Output <°> Symbol
 Serial.println("C");
 Serial.println("---------------------------------------");
 delay(500);
+}
 
+// These function translates the recorded analog measurement
+// into the right temperature in °C and gives it out.
+double Thermistor(int RawADC){
+double Temp;
+Temp = log(10000.0 * ((1024.0 / RawADC - 1)));
+Temp = 1 / (0.001129148 + (0.000234125 + (0.0000000876741 * Temp * Temp )) * Temp );
+Temp = Temp - 273.15; // convert from Kelvin to Celsius
+return Temp;
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjY1NzY5OSwyMDI0ODQ5MTM4LDI4NT
-k3NTQxMiwxOTk3MzUwMzg4LDQ4NDA5MzYyNSwxOTgyOTU0NjE1
-LC0xNTYwOTA4NjM3LC0xMDY3MDQ0NDcxXX0=
+eyJoaXN0b3J5IjpbLTE0MjU2OTE5MjEsMjAyNDg0OTEzOCwyOD
+U5NzU0MTIsMTk5NzM1MDM4OCw0ODQwOTM2MjUsMTk4Mjk1NDYx
+NSwtMTU2MDkwODYzNywtMTA2NzA0NDQ3MV19
 -->

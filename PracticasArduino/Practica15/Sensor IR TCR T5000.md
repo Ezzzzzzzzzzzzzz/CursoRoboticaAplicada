@@ -43,8 +43,17 @@ Serial.println("Negro");
 delay(500);
 }
 ```
+
+## Modulo IR TCRT 5000
+
+## Conexión 
+
+
+## Código
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3NDYxMTYxLDc5MjEwMjI4OSwxNTcyMT
-g3NjYzLDE1MzQxMTkzNzIsNzcyMjc5OTczLC05MTYxMjAxMywx
-MzEyODQwMzUzLC0xODk2MDA1NjY0LC0xNTM2NjMyNjU5XX0=
+eyJoaXN0b3J5IjpbMjY1MDI5NzY4LDMzNzQ2MTE2MSw3OTIxMD
+IyODksMTU3MjE4NzY2MywxNTM0MTE5MzcyLDc3MjI3OTk3Mywt
+OTE2MTIwMTMsMTMxMjg0MDM1MywtMTg5NjAwNTY2NCwtMTUzNj
+YzMjY1OV19
 -->

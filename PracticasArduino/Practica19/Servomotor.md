@@ -17,7 +17,7 @@ Podemos mover un servo sin librería con esta función:
 ```c
 void moverServo(int pin, int angulo) {
   float pausa;
-  pausa = angulo * 2000.0/180.0+500;
+  pausa = angulo * 2000.0/180.0+ + 500;
   digitalWrite(pin,HIGH);
   delayMicroseconds(pausa);
   digitalWrite(pin,LOW);
@@ -61,6 +61,7 @@ void loop(){
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ1OTU5NjMsLTk2MDY5OTU5MSwtOT
-k3NjQ4MDY4LC0xNTkyOTk4MTI1LC04ODMzNDkzOTZdfQ==
+eyJoaXN0b3J5IjpbLTk0NjQyOTUwMiwtMTc2NDU5NTk2MywtOT
+YwNjk5NTkxLC05OTc2NDgwNjgsLTE1OTI5OTgxMjUsLTg4MzM0
+OTM5Nl19
 -->

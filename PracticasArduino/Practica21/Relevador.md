@@ -1,7 +1,7 @@
 ## Relevador con Arduino
 En esta nueva práctica se enseñará a usar un **relevador** con Arduino y controlar los aparatos eléctricos o voltajes mayores, esto puede ser usado en la **domótica** para poder prender la luz, televisor, etc.
 
-![](https://josehervas.es/sensorizados/wp-content/uploads/2013/11/bannerpng.
+
 
 ![](https://josehervas.es/sensorizados/wp-content/uploads/2013/11/bannerpng.png)
 
@@ -49,6 +49,6 @@ En este caso no funciona el **PWM** ya que es necesario excitar la bobina por co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTk5ODY4NSwtMjA2NTkwMDEzNiwzOD
+eyJoaXN0b3J5IjpbLTE5NzYyMjc5MywtMjA2NTkwMDEzNiwzOD
 U2NDcyNzksLTE4MTgyMzYyNjcsMTk4MTI3NDE1OF19
 -->

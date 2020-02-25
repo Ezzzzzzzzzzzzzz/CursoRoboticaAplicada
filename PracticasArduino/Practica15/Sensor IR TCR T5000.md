@@ -1,4 +1,4 @@
-# Sensor IR TCR T5000
+# Sensor IR TCRT 5000
 
 La práctica de sensores analógicos será censar con el sensor TCRT5000 el cual es un sensor infrarrojo, estos sensores **son usados en los seguidores de líneas para distinguir del color blanco y negro**.
 
@@ -44,7 +44,7 @@ delay(500);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMTAyMjg5LDE1NzIxODc2NjMsMTUzND
-ExOTM3Miw3NzIyNzk5NzMsLTkxNjEyMDEzLDEzMTI4NDAzNTMs
-LTE4OTYwMDU2NjQsLTE1MzY2MzI2NTldfQ==
+eyJoaXN0b3J5IjpbMzM3NDYxMTYxLDc5MjEwMjI4OSwxNTcyMT
+g3NjYzLDE1MzQxMTkzNzIsNzcyMjc5OTczLC05MTYxMjAxMywx
+MzEyODQwMzUzLC0xODk2MDA1NjY0LC0xNTM2NjMyNjU5XX0=
 -->

@@ -99,7 +99,7 @@ void loop() {
       Serial.print(" *C ");
       Serial.print(f);
       Serial.println(" *F");
-      tiempoUltimaLectura == millis(); //actualizamos el tiempo de la última lectura
+      tiempoUltimaLectura = millis(); //actualizamos el tiempo de la última lectura
   }
   //----Fin de la lectura---------------------------
   
@@ -115,6 +115,6 @@ void loop() {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjI5NTMzMCwyMDkxMTcxNzg4LDM1MT
-MwNzU5MV19
+eyJoaXN0b3J5IjpbLTE3MTY4MzY0NzcsMjA5MTE3MTc4OCwzNT
+EzMDc1OTFdfQ==
 -->

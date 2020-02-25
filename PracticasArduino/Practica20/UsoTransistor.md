@@ -2,6 +2,8 @@
 Esta parte se apegará más al manejo de componentes para que **controlen actuadores que requieren más voltaje o amperaje**, se emplea lo aprendido en los temas anteriores. 
 En la siguiente práctica se muestra el uso del transistor, abajo se muestra el código, material y explicación de la misma.
 
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica20/Transistor01.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica20/Transistor01.JPG)
+
 ## Material
 > - Arduino
 > - Foco 12v de CC
@@ -50,6 +52,6 @@ Con esto podemos observar cómo controlar voltajes mayores y también un amperaj
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTI1OTQxMiw2NjQyNjYxMDIsLTExMz
-EwNTk5OF19
+eyJoaXN0b3J5IjpbLTM4NzQ4NTgyMiwtMzc1MjU5NDEyLDY2ND
+I2NjEwMiwtMTEzMTA1OTk4XX0=
 -->

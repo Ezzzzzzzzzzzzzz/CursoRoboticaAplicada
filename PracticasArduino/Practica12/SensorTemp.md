@@ -66,6 +66,10 @@ Este módulo proporciona un **termistor NTC**: tendrá una resistencia inferior 
 
 ![](http://sensorkit.en.joy-it.net/images/4/49/NTC-Kurve_eng.png)
 
+## Conexión #2
+![](https://arduinomodules.info/wp-content/uploads/Arduino_KY-013_Keyes_Analog_temperature_sensor_module_connection_diagram.png)
+
+## Código #2
 ```c
 #include <math.h>
 
@@ -99,7 +103,7 @@ double Thermistor(int RawADC){
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjMxMTc3MzIsLTE4NjcyNjMyMzMsMj
+eyJoaXN0b3J5IjpbLTE1MzY1OTExNTIsLTE4NjcyNjMyMzMsMj
 AyNDg0OTEzOCwyODU5NzU0MTIsMTk5NzM1MDM4OCw0ODQwOTM2
 MjUsMTk4Mjk1NDYxNSwtMTU2MDkwODYzNywtMTA2NzA0NDQ3MV
 19

@@ -2,6 +2,8 @@
 
 Esta práctica tiene como objetivo crear el control para dos semáforos en un cruce. **Utiliza los conocimientos adquiridos en los temas y practicas anteriores**. 
 
+![](https://cebasf1.files.wordpress.com/2011/04/simple.jpg)
+
 ## Material 
 > - Arduino
 > - LED 5mm 
@@ -15,6 +17,6 @@ Esta práctica tiene como objetivo crear el control para dos semáforos en un cr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTQwNDA3LC03NjQyMjQwODMsMTUzMD
-I0NTk0NF19
+eyJoaXN0b3J5IjpbLTE2NDk4NzYxNzYsLTk0MTQwNDA3LC03Nj
+QyMjQwODMsMTUzMDI0NTk0NF19
 -->

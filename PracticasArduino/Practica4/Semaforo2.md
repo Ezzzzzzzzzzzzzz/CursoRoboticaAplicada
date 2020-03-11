@@ -4,6 +4,8 @@ Esta práctica tiene como objetivo crear el control para dos semáforos en un cr
 
 ![](https://cebasf1.files.wordpress.com/2011/04/simple.jpg)
 
+![](https://2.bp.blogspot.com/-F1ncZiJMhGk/WNBRMBcauMI/AAAAAAAAMJI/HNQwPoqqIbgzUe7cfJUKFvxVXrwhHOlcgCLcB/s1600/semaforo-1.gif)
+
 ## Material 
 > - Arduino
 > - LED 5mm 
@@ -17,6 +19,6 @@ Esta práctica tiene como objetivo crear el control para dos semáforos en un cr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk4NzYxNzYsLTk0MTQwNDA3LC03Nj
-QyMjQwODMsMTUzMDI0NTk0NF19
+eyJoaXN0b3J5IjpbLTE5NzYwNTAzNjEsLTE2NDk4NzYxNzYsLT
+k0MTQwNDA3LC03NjQyMjQwODMsMTUzMDI0NTk0NF19
 -->

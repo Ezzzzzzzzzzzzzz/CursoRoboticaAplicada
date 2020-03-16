@@ -2,7 +2,7 @@
 
 En esta práctica  **COMPLETA** el código para poder controlar la luminiscencia de un led de **encendido** y de **apagado**.
 
-![](https://lh3.googleusercontent.com/proxy/ADcqk145inXrrg_qgsWB40b0aysNUIO5FkeNVT6E3lwLgWRKfbWbtlqIz-Wlej7xW55volgjvWfsz8aX57gVYqofXZOMNYWkGm1ONnglAQTByTWUBw)
+![](https://lh3.googleusercontent.com/proxy/ysD1FGz6sHs0pygDzNCshzGlBsePXOHiq-cU9GjBENwLTayX-wR-dqVCe3CE6e6FFfZkwdjyAbIRM6yAWAdsR_aSp0cqGd1ucsjnTO4z2uIrEUCYsw)
 
 ## Materiales 
 > - Arduino
@@ -41,6 +41,6 @@ void loop()
 ```
 **Si necesitas ayuda**, revisa las **[sentencias de control](https://classroom.google.com/w/NDY3MjU0MTQyMDla/tc/NDY4MDUwNDkzMjBa?hl=es)** y los [**operadores de relación**](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) para poder completar la practica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczMTk5NzQxLC0yODc3MDM1MTgsMjEyMD
-Y5MDQ0NSwtMTQ2ODUwMjAyNF19
+eyJoaXN0b3J5IjpbNjE1MDUzMjIxLDI3MzE5OTc0MSwtMjg3Nz
+AzNTE4LDIxMjA2OTA0NDUsLTE0Njg1MDIwMjRdfQ==
 -->

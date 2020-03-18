@@ -17,6 +17,7 @@ El juego de forma aleatoria va iluminando los cuadrantes de colores, y a la vez 
 > - Jumpers (cables) 
 > - Buzzer (Bocina)
 ## Circuito
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MiniProyectos/Simon/SimonS.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MiniProyectos/Simon/SimonS.JPG)
 
 ## Código
 
@@ -24,5 +25,5 @@ El juego de forma aleatoria va iluminando los cuadrantes de colores, y a la vez 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwMTkxNDQ2XX0=
+eyJoaXN0b3J5IjpbLTE1MzI3OTAyMzYsOTMwMTkxNDQ2XX0=
 -->

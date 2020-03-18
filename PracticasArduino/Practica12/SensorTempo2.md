@@ -13,7 +13,7 @@ Muy bien, ahora veremos cómo censar un **[TMP36](http://ctms.engin.umich.edu/CT
 > - Protoboard
 
 ## Conexión
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensorTEMP.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensorTEMP.JPG)
+![htt
 
 ## Código
 ```c
@@ -52,5 +52,5 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjUwMDU3Nl19
+eyJoaXN0b3J5IjpbMTQxODUxMTIxMiwtNzMyNTAwNTc2XX0=
 -->

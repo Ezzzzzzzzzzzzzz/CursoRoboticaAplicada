@@ -21,8 +21,6 @@ El juego de forma aleatoria va iluminando los cuadrantes de colores, y a la vez 
 
 ## Código
 ```c
-//#include "pitches.h"
-
 #define NOTE_B0  31
 #define NOTE_C1  33
 #define NOTE_CS1 35
@@ -361,5 +359,6 @@ void ejecutarMelodia()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNjY0Njg3LDkzMDE5MTQ0Nl19
+eyJoaXN0b3J5IjpbLTk3MTk1MjA2NCwyMjE2NjQ2ODcsOTMwMT
+kxNDQ2XX0=
 -->

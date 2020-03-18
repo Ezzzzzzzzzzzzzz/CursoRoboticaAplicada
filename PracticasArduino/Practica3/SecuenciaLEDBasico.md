@@ -74,6 +74,8 @@ void loop()
   digitalWrite(LED7, LOW);
   delay(tiempo); 
   
+/* ************************************* */
+
   digitalWrite(LED6, HIGH);
   delay(tiempo); 
   digitalWrite(LED6, LOW);
@@ -108,5 +110,5 @@ void loop()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzNzA4Njk0XX0=
+eyJoaXN0b3J5IjpbNzI3MzYxMzc2LDczMzcwODY5NF19
 -->

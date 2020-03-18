@@ -20,10 +20,12 @@ El juego de forma aleatoria va iluminando los cuadrantes de colores, y a la vez 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MiniProyectos/Simon/SimonS.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MiniProyectos/Simon/SimonS.JPG)
 
 ## Código
+```c
 
+```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI3OTAyMzYsOTMwMTkxNDQ2XX0=
+eyJoaXN0b3J5IjpbLTE3OTg4ODU2MjEsOTMwMTkxNDQ2XX0=
 -->

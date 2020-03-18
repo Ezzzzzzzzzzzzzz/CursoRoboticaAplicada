@@ -13,44 +13,39 @@ Muy bien, ahora veremos cómo censar un **[TMP36](http://ctms.engin.umich.edu/CT
 > - Protoboard
 
 ## Conexión
-![htt
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensTemp.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensTemp.JPG)
 
 ## Código
 ```c
-#define TMP36 A0
-#define LED 2
+/*
+  Este programa faz com que o Arduino monitore a
+  Temperatura do Ambiente e caso ela fique acima
+  de um limiar de 25 C, um Buzzer será acionado
+*/
 
-float temp = 0; // Variables globales tipo float (punto decimal)
-float sensVal = 0;
+int temperatura = 0;
 
 void setup()
 {
   Serial.begin(9600);
-  pinMode(TMP36, INPUT);
-  pinMode(LED, OUTPUT);
+
+  pinMode(A0, INPUT);
+  pinMode(9, OUTPUT);
 }
+
 void loop()
 {
-/*
- *************************************************************
- * EL CALCULO DE LA TEMPERATURA SOLO APLICA A UN SENSOR      *
- * TMP36, ES NECESARIO REVISAR EL DATASHEET DE CADA SENSOR   * 
- * EN UN CIRCUITO.											 *
- *************************************************************
- */
-  sensVal = (analogRead(TMP36) - 20) * 0.48876;
-  temp = sensVal - 40;
-
-  if(temp > 35){
-    digitalWrite(LED, HIGH);
+  Serial.print("Temperatura do Ambiente: ");
+  temperatura = -40 + 0.488155 * (analogRead(A0) - 20);
+  Serial.println(temperatura);
+  if (-40 + 0.488155 * (analogRead(A0) - 20) > 28) {
+    tone(9, 440 * pow(2.0, (constrain(int(temperatura), 35, 127) - 57) / 12.0), 1000);
+  } else {
+    noTone(9);
   }
-  else{
-   digitalWrite(LED, LOW); 
-  }
-  Serial.println(temp);
-  delay(50);
+  delay(10); // Delay a little bit to improve simulation performance
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODUxMTIxMiwtNzMyNTAwNTc2XX0=
+eyJoaXN0b3J5IjpbLTM0ODc0MTExNSwtNzMyNTAwNTc2XX0=
 -->

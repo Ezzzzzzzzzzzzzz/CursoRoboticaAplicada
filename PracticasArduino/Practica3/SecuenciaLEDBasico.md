@@ -110,9 +110,11 @@ void loop()
 
 ## Bloques
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqA.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqA.JPG)
+
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqB.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqB.JPG)
+
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqC.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqC.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDk0OTQ3MywtMTI1MDEyMjkwMyw3Mj
+eyJoaXN0b3J5IjpbLTQ5NzMyMzEwMywtMTI1MDEyMjkwMyw3Mj
 czNjEzNzYsNzMzNzA4Njk0XX0=
 -->

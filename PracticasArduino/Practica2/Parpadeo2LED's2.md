@@ -14,6 +14,7 @@ Ahora, con lo aprendido anteriormente lo que realizaremos en esta segunda práct
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG)
 
+## Código
 ```c
 #define LED1 4	// Damos un alias a nuestro pin 4
 #define LED2 5	// Damos un alias a nuestro pin 5
@@ -32,7 +33,9 @@ void loop() // Definimos nuestra secuencia.
 	 */
 }
 ```
+## Bloques 
 
+#????
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzE5OTMxXX0=
+eyJoaXN0b3J5IjpbLTE4MTIzODkxMjYsLTY5MzE5OTMxXX0=
 -->

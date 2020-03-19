@@ -35,7 +35,8 @@ void loop() // Definimos nuestra secuencia.
 ```
 ## Bloques 
 
-#????
+# ????
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTIzODkxMjYsLTY5MzE5OTMxXX0=
+eyJoaXN0b3J5IjpbLTE5MzIzNjE5OTAsLTE4MTIzODkxMjYsLT
+Y5MzE5OTMxXX0=
 -->

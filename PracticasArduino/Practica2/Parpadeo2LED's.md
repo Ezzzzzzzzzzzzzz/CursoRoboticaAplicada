@@ -12,8 +12,6 @@ Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos led´
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG)
 
-## Bloques
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Prac2_bloq.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Prac2_bloq.JPG)
 ## Código
 ```c
 #define LED1 4	// Damos un alias a nuestro pin 4
@@ -34,8 +32,9 @@ void loop() // Definimos nuestra secuencia.
   delay(100); // Tiempo en el que los LED´s permanecen apagados "un segundo".
 }
 ```
-
+## Bloques
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Prac2_bloq.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Prac2_bloq.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjI5ODI5NCwzNTY3NjA1NTQsLTIwOD
-Q0NTM3MzEsLTE0MjQzNjU5MjYsLTczMDc5Nzg2NF19
+eyJoaXN0b3J5IjpbLTEyMzE2NzYxNTAsMzU2NzYwNTU0LC0yMD
+g0NDUzNzMxLC0xNDI0MzY1OTI2LC03MzA3OTc4NjRdfQ==
 -->

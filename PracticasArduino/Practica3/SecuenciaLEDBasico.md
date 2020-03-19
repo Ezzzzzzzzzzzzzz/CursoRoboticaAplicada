@@ -109,17 +109,8 @@ void loop()
 ```
 
 ## Bloques
-|![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqA.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqA.JPG)|
-|:----------:|
-|
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqB.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqB.JPG)
-|
-|:-------------------:|
-|
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqC.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqC.JPG)
-|
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqA.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqA.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjY0NjYxOCwtMTI1MDEyMjkwMyw3Mj
-czNjEzNzYsNzMzNzA4Njk0XX0=
+eyJoaXN0b3J5IjpbMTExMjM4OTY2MywxMjM2NjQ2NjE4LC0xMj
+UwMTIyOTAzLDcyNzM2MTM3Niw3MzM3MDg2OTRdfQ==
 -->

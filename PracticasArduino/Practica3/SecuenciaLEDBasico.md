@@ -118,8 +118,8 @@ void loop()
 |
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqC.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqC.JPG)
 |
-|::|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3ODEyMTAsLTEyNTAxMjI5MDMsNzI3Mz
-YxMzc2LDczMzcwODY5NF19
+eyJoaXN0b3J5IjpbMTIzNjY0NjYxOCwtMTI1MDEyMjkwMyw3Mj
+czNjEzNzYsNzMzNzA4Njk0XX0=
 -->

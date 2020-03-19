@@ -28,6 +28,9 @@ void loop(){ //Definimos nuestra secuencia.
 	delay(1000); //Tiempo en que permanece el LED apagado “un segundo”.
 }
 ```
+## Bloques 
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/Pract1_Bloq.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/Pract1_Bloq.JPG)
+
 ## Explicación 
 
 Recordando lo que se vio en capítulos pasados usamos la palabra reservada ``#define`` **para darle un alias a nuestro pin 2**, el cual es LED, _esto para tener un código mucho más limpio e identificar lo que conectamos en cada pin de nuestro Arduino_, por eso ``#define LED 2``. Todo esto se hace arriba del ``void setup()``, también en esta parte se definen las variables para almacenar datos, o sea variables globales.
@@ -40,5 +43,6 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTc4OTY1MCwtMTQ2ODg1NDc0MF19
+eyJoaXN0b3J5IjpbLTE1NDMwMzgxMjcsLTU5NTc4OTY1MCwtMT
+Q2ODg1NDc0MF19
 -->

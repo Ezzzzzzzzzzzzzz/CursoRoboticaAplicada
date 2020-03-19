@@ -108,7 +108,8 @@ void loop()
 }
 ```
 
-
+## Bloques
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MzYxMzc2LDczMzcwODY5NF19
+eyJoaXN0b3J5IjpbLTEyNTAxMjI5MDMsNzI3MzYxMzc2LDczMz
+cwODY5NF19
 -->

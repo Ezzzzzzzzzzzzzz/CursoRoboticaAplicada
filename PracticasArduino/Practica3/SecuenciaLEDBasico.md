@@ -109,8 +109,9 @@ void loop()
 ```
 
 ## Bloques
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqA.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/P2_BloqA.JPG)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjM4OTY2MywxMjM2NjQ2NjE4LC0xMj
-UwMTIyOTAzLDcyNzM2MTM3Niw3MzM3MDg2OTRdfQ==
+eyJoaXN0b3J5IjpbLTEwMzg2NDg0ODksMTExMjM4OTY2MywxMj
+M2NjQ2NjE4LC0xMjUwMTIyOTAzLDcyNzM2MTM3Niw3MzM3MDg2
+OTRdfQ==
 -->

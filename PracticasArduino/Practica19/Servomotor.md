@@ -33,6 +33,7 @@ Para el ejemplo que veremos usaremos un servomotor **SG90**, ya que puede ser al
 > - Motor Servo SG90
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica19/Servo.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica19/Servo.JPG)
@@ -61,7 +62,7 @@ void loop(){
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU5OTk3MjksLTE3NjQ1OTU5NjMsLT
-k2MDY5OTU5MSwtOTk3NjQ4MDY4LC0xNTkyOTk4MTI1LC04ODMz
-NDkzOTZdfQ==
+eyJoaXN0b3J5IjpbMjY0MDIxOTE1LC0xNDU1OTk5NzI5LC0xNz
+Y0NTk1OTYzLC05NjA2OTk1OTEsLTk5NzY0ODA2OCwtMTU5Mjk5
+ODEyNSwtODgzMzQ5Mzk2XX0=
 -->

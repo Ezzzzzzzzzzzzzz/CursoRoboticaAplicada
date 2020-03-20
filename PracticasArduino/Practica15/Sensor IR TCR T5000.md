@@ -11,6 +11,7 @@ Los valores de estos sensores nunca serán iguales aunque sean hechos por la mis
 > - TCR T5000
 > - Jumpers
 > - Protoboard
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica15/TCR.JPG](https://foto.askix.com/upload/7/17/717ad701e793e3ae8e0b64fb8dac51ca.jpg)
@@ -73,8 +74,9 @@ void loop(){
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ1OTMzOTIsLTExOTAyNDYwNjQsLT
-E0MDE5MzgwNzIsMzM3NDYxMTYxLDc5MjEwMjI4OSwxNTcyMTg3
-NjYzLDE1MzQxMTkzNzIsNzcyMjc5OTczLC05MTYxMjAxMywxMz
-EyODQwMzUzLC0xODk2MDA1NjY0LC0xNTM2NjMyNjU5XX0=
+eyJoaXN0b3J5IjpbMTY5ODU5NzYzNiwtMTg3NDU5MzM5MiwtMT
+E5MDI0NjA2NCwtMTQwMTkzODA3MiwzMzc0NjExNjEsNzkyMTAy
+Mjg5LDE1NzIxODc2NjMsMTUzNDExOTM3Miw3NzIyNzk5NzMsLT
+kxNjEyMDEzLDEzMTI4NDAzNTMsLTE4OTYwMDU2NjQsLTE1MzY2
+MzI2NTldfQ==
 -->

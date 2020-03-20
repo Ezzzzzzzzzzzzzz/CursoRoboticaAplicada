@@ -8,6 +8,7 @@ Esta práctica tiene como objetivo conocer salidas digitales para la creación d
 > - Resistencias 220 Ohm's 
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo1.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo1.JPG)
@@ -54,5 +55,6 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU4NTIxMDksOTkyNTcwNjU5XX0=
+eyJoaXN0b3J5IjpbLTE0MzY2MzY4MDEsLTE4NTU4NTIxMDksOT
+kyNTcwNjU5XX0=
 -->

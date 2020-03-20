@@ -12,6 +12,7 @@ A cada uno de los segmentos que forman el display se les denomina **a**, **b**, 
 > - Display de 7 segmentos cátodo común
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/Disp7seg.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/Disp7seg.JPG)
@@ -64,5 +65,5 @@ void lightSegments(int number){
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQwODY2MjZdfQ==
+eyJoaXN0b3J5IjpbNjk5MDc3MTYyLC0xMDI0MDg2NjI2XX0=
 -->

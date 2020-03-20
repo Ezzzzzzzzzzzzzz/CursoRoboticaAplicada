@@ -44,9 +44,8 @@ void loop()
   delay(parpadeo);
   digitalWrite(Verde, HIGH);
   delay(parpadeo);
-  
-  digitalWrite(Verde, LOW);
-  delay(parpadeo);  
+
+  digitalWrite(Verde, LOW);  
   digitalWrite(Amarillo, HIGH);
   delay(tiempo);  
   
@@ -57,6 +56,6 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg3MjQ4NTMsMTg2Nzk4NDY3LC0xOD
-U1ODUyMTA5LDk5MjU3MDY1OV19
+eyJoaXN0b3J5IjpbMjA3OTYxOTYzMiwxODY3OTg0NjcsLTE4NT
+U4NTIxMDksOTkyNTcwNjU5XX0=
 -->

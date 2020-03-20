@@ -11,6 +11,7 @@ Ya vimos como leer sensores digitales, ahora haremos una práctica bastante simp
 > - Fototransistor 
 > - Protoboard
 > - Jumpers
+> [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica18/Fototransistor.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica18/Fototransistor.JPG)
@@ -74,7 +75,7 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTcwNDgzOCwxMzcyNzQ4OTM1LC04Mj
-gwODU5NDQsLTE3NzU3NzM0NTUsMzQwNTIyMDg4LDExMjI4ODMy
-ODYsLTg4MTcwNzI4N119
+eyJoaXN0b3J5IjpbLTE0MjA3Njc3MTcsLTg3MTcwNDgzOCwxMz
+cyNzQ4OTM1LC04MjgwODU5NDQsLTE3NzU3NzM0NTUsMzQwNTIy
+MDg4LDExMjI4ODMyODYsLTg4MTcwNzI4N119
 -->

@@ -8,6 +8,7 @@ En esta práctica se implementa lo visto anteriormente para controlar un **led R
 > - Resistencias de 220 Ohm's
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/LedRGB.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/LedRGB.JPG)
@@ -65,5 +66,6 @@ Primero definimos los pines a usar, con ``#define``, esto se explicó en los tem
 
 Ya en el ``loop()``, mandamos llamar a la función varias veces para poder hacer funcionar el led **RGB**, hacemos mezcla de colores con los colores básicos, **rojo (red)**, **verde (green)** y **azul (blue)**.  Con esto ya deben saber cómo usar la función ``analogWrite()`` y hacer manipulación del **PWM**, también a unir los temas anteriores entre sí. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc1MjAwMzUsOTc3MDQ4NDUzXX0=
+eyJoaXN0b3J5IjpbLTE1MzMxNTIyMzksLTE5ODc1MjAwMzUsOT
+c3MDQ4NDUzXX0=
 -->

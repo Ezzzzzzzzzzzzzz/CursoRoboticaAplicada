@@ -54,8 +54,9 @@ void loop()
   delay(tiempo);
 }
 ```
-
+## Bloques
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo1Bloques.PNG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo1Bloques.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTYxOTYzMiwxODY3OTg0NjcsLTE4NT
-U4NTIxMDksOTkyNTcwNjU5XX0=
+eyJoaXN0b3J5IjpbNDg4OTU5MzEzLDIwNzk2MTk2MzIsMTg2Nz
+k4NDY3LC0xODU1ODUyMTA5LDk5MjU3MDY1OV19
 -->

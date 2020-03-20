@@ -11,6 +11,7 @@ Esto puede ser usado con tiras de leds o leds RGB de alta potencia, **uniendo es
 > - Resistencias de 220 Ohm's
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/RGBPots.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/RGBPots.JPG)
@@ -58,5 +59,5 @@ Juega con los valores de PWM  de los tres potenciómetros para obtener tus color
 
 ![](https://i.pinimg.com/originals/b9/51/8f/b9518febac2756828254365fbae0c007.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDU0OTQ4MF19
+eyJoaXN0b3J5IjpbODU5MDk4OTk2LDE0MzA1NDk0ODBdfQ==
 -->

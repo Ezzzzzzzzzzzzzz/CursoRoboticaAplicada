@@ -20,7 +20,7 @@ Esta práctica tiene como objetivo conocer salidas digitales para la creación d
 #define Amarillo 3
 #define Verde 2
 
-int tiempo = 1000;
+int tiempo = 2000;
 int parpadeo = 500;
 
 void setup()
@@ -28,33 +28,33 @@ void setup()
   pinMode(Rojo, OUTPUT);
   pinMode(Amarillo, OUTPUT);
   pinMode(Verde, OUTPUT);
+
 }
+
 void loop()
 {
-  digitalWrite(Verde, HIGH);
-  digitalWrite(Amarillo, LOW);
-  digitalWrite(Rojo, LOW);
-  delay(tiempo);
-  digitalWrite(Verde, LOW);
-  digitalWrite(Amarillo, HIGH);
-  digitalWrite(Rojo, LOW);
-  delay(parpadeo);
-  digitalWrite(Verde, LOW);
-  digitalWrite(Amarillo, LOW);
-  digitalWrite(Rojo, LOW);
-  delay(parpadeo);
-  digitalWrite(Verde, LOW);
-  digitalWrite(Amarillo, HIGH);
-  digitalWrite(Rojo, LOW);
-  delay(parpadeo);
-  digitalWrite(Verde, LOW);
-  digitalWrite(Amarillo, LOW);
-  digitalWrite(Rojo, HIGH);
-  delay(tiempo);
+digitalWrite(Verde, HIGH);
+digitalWrite(Rojo, LOW);
+delay(tiempo);
+digitalWrite(Verde, LOW);
+delay(parpadeo);
+digitalWrite(Verde, HIGH);
+delay(parpadeo);
+digitalWrite(Verde, LOW);
+delay(parpadeo);
+digitalWrite(Verde, HIGH);
+delay(parpadeo);
+digitalWrite(Verde, LOW);
+delay(parpadeo);  
+digitalWrite(Amarillo, HIGH);
+delay(tiempo);  
+digitalWrite(Amarillo, LOW);
+digitalWrite(Rojo, HIGH);
+delay(tiempo);
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY2MzY4MDEsLTE4NTU4NTIxMDksOT
-kyNTcwNjU5XX0=
+eyJoaXN0b3J5IjpbMTg2Nzk4NDY3LC0xODU1ODUyMTA5LDk5Mj
+U3MDY1OV19
 -->

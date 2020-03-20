@@ -8,6 +8,7 @@ En esta práctica **enviaremos valores analógicos para poder controlar la lumin
 > - Resistencias 220 Ohm's 
 > - Protoboard
 > - Jumpers
+> -[https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/FadeLED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/FadeLED.JPG)
@@ -42,6 +43,6 @@ Gracias al  ``for()`` vemos como incrementa el brillo del led, si usamos un mult
 
 Y es así como manejamos el **PWM**, **lo que hace es que envía pulsos muy rápidos y eso hace que se emule un valor analógico** y eso se hace como ya vimos con ``analogWrite()``.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTkwMzYxMSwtMTA0NDA3NTYyMCwtMT
-Y3NzAxODEwMiwtMjE4MDU1MTMxXX0=
+eyJoaXN0b3J5IjpbLTk2NzI2MzA0NSwtODI5OTAzNjExLC0xMD
+Q0MDc1NjIwLC0xNjc3MDE4MTAyLC0yMTgwNTUxMzFdfQ==
 -->

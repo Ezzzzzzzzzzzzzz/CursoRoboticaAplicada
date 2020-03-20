@@ -13,6 +13,7 @@ En la siguiente práctica se muestra el uso del transistor, abajo se muestra el 
 > - Fuente de 12 V
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica20/UsoTransistor.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica20/UsoTransistor.JPG)
@@ -53,6 +54,7 @@ Con esto podemos observar cómo controlar voltajes mayores y también un amperaj
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE3MTUxODcsLTM4NzQ4NTgyMiwtMz
-c1MjU5NDEyLDY2NDI2NjEwMiwtMTEzMTA1OTk4XX0=
+eyJoaXN0b3J5IjpbLTEzNTc0NDYxMTksLTE2MzE3MTUxODcsLT
+M4NzQ4NTgyMiwtMzc1MjU5NDEyLDY2NDI2NjEwMiwtMTEzMTA1
+OTk4XX0=
 -->

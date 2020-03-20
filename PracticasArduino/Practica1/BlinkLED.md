@@ -10,7 +10,7 @@ Es muy importante que usted escriba el código para que pueda aprender correctam
 > - Resistencia 220 Ohm's
 > - Protoboard 
 > - Jumpers (cables) 
-> - [tinkercad](https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 
@@ -44,6 +44,6 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzU3NDgyMSwtMTU0MzAzODEyNywtNT
-k1Nzg5NjUwLC0xNDY4ODU0NzQwXX0=
+eyJoaXN0b3J5IjpbLTIwMDM1NDg4OTksLTE1NDMwMzgxMjcsLT
+U5NTc4OTY1MCwtMTQ2ODg1NDc0MF19
 -->

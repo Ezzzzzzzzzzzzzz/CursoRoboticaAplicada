@@ -11,6 +11,7 @@ Muy bien, ahora veremos cómo censar un **[TMP36](http://ctms.engin.umich.edu/CT
 > - Resistencia de 220 Ohm's
 > - Jumpers
 > - Protoboard
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensTemp.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensTemp.JPG)
@@ -47,5 +48,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODc0MTExNSwtNzMyNTAwNTc2XX0=
+eyJoaXN0b3J5IjpbMTY4MTA1MjYwMSwtMzQ4NzQxMTE1LC03Mz
+I1MDA1NzZdfQ==
 -->

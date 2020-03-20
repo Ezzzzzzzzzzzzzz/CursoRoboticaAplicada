@@ -14,6 +14,7 @@ A cada uno de los segmentos que forman el display se les denomina **a**, **b**, 
 > - Resistencia de 10 kOhms
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica10/Dadoelec.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica10/Dadoelec.JPG)
@@ -67,5 +68,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ2MDQ1NDMsODA5OTg4MTM4XX0=
+eyJoaXN0b3J5IjpbMTc2OTE3MTU3MywtMTU3NDYwNDU0Myw4MD
+k5ODgxMzhdfQ==
 -->

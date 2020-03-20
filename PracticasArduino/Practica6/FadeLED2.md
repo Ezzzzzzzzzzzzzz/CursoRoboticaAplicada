@@ -10,6 +10,7 @@ En esta práctica  **COMPLETA** el código para poder controlar la luminiscencia
 > - Resistencias 220 Ohm's 
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/FadeLED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/FadeLED.JPG)
@@ -41,6 +42,5 @@ void loop()
 ```
 **Si necesitas ayuda**, revisa las **[sentencias de control](https://classroom.google.com/w/NDY3MjU0MTQyMDla/tc/NDY4MDUwNDkzMjBa?hl=es)** y los [**operadores de relación**](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) para poder completar la practica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1MDUzMjIxLDI3MzE5OTc0MSwtMjg3Nz
-AzNTE4LDIxMjA2OTA0NDUsLTE0Njg1MDIwMjRdfQ==
+eyJoaXN0b3J5IjpbLTEyNjI1NjM5OV19
 -->

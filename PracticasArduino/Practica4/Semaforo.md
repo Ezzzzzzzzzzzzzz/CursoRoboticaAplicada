@@ -35,25 +35,28 @@ void loop()
   digitalWrite(Verde, HIGH);
   digitalWrite(Rojo, LOW);
   delay(tiempo);
- digitalWrite(Verde, LOW);
- delay(parpadeo);
- digitalWrite(Verde, HIGH);
-delay(parpadeo);
-digitalWrite(Verde, LOW);
-delay(parpadeo);
-digitalWrite(Verde, HIGH);
-delay(parpadeo);
-digitalWrite(Verde, LOW);
-delay(parpadeo);  
-digitalWrite(Amarillo, HIGH);
-delay(tiempo);  
-digitalWrite(Amarillo, LOW);
-digitalWrite(Rojo, HIGH);
-delay(tiempo);
+  
+  digitalWrite(Verde, LOW);
+  delay(parpadeo);
+  digitalWrite(Verde, HIGH);
+  delay(parpadeo);
+  digitalWrite(Verde, LOW);
+  delay(parpadeo);
+  digitalWrite(Verde, HIGH);
+  delay(parpadeo);
+  
+  digitalWrite(Verde, LOW);
+  delay(parpadeo);  
+  digitalWrite(Amarillo, HIGH);
+  delay(tiempo);  
+  
+  digitalWrite(Amarillo, LOW);
+  digitalWrite(Rojo, HIGH);
+  delay(tiempo);
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk4MjI4ODcsMTg2Nzk4NDY3LC0xOD
+eyJoaXN0b3J5IjpbLTEzNzg3MjQ4NTMsMTg2Nzk4NDY3LC0xOD
 U1ODUyMTA5LDk5MjU3MDY1OV19
 -->

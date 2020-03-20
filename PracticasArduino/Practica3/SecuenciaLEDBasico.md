@@ -9,6 +9,7 @@ En esta práctica se harán las famosas luces del auto fantástico, este nombre 
 > - Resistencias 220 Ohm's
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 
@@ -111,7 +112,7 @@ void loop()
 ## Bloques
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg2NDg0ODksMTExMjM4OTY2MywxMj
-M2NjQ2NjE4LC0xMjUwMTIyOTAzLDcyNzM2MTM3Niw3MzM3MDg2
-OTRdfQ==
+eyJoaXN0b3J5IjpbMTU2MjAxODcyMywtMTAzODY0ODQ4OSwxMT
+EyMzg5NjYzLDEyMzY2NDY2MTgsLTEyNTAxMjI5MDMsNzI3MzYx
+Mzc2LDczMzcwODY5NF19
 -->

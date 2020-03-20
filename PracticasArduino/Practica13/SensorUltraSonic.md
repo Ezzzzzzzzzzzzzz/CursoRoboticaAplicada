@@ -13,6 +13,7 @@ El funcionamiento interno del sensor ultrasónico es bastante complejo, pero exp
 > - Modulo HC- SR04
 > - Jumpers
 > - Protoboard
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica13/SensorUltra.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica13/SensorUltra.JPG)
@@ -62,7 +63,7 @@ Como dice la hoja de datos del sensor, **necesitamos enviar un pulso por 10 micr
 
 Después con la función ``Serial.println()``, imprimimos el valor de la distancia, ahora solo queda abrir el monitor serial en **Herramientas > Monitor Serie** en la IDE de Arduino. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0OTcwNzY3LC0yODcxNzI1NDAsLTEyNz
-M3MDgwMzYsLTk3OTMyNDUyNiwxNjgyMjA0NTYxLDEyODI1OTAz
-MDddfQ==
+eyJoaXN0b3J5IjpbMTIwOTY3ODQyNyw2NTQ5NzA3NjcsLTI4Nz
+E3MjU0MCwtMTI3MzcwODAzNiwtOTc5MzI0NTI2LDE2ODIyMDQ1
+NjEsMTI4MjU5MDMwN119
 -->

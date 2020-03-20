@@ -35,6 +35,7 @@ Para el ejemplo que veremos usaremos un servomotor **SG90**, ya que puede ser al
 > - Potenciometro de 10 kOhom´s
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica19/PotServo.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica19/PotServo.JPG)
@@ -73,7 +74,7 @@ A continuación, usando la función ``write()`` **de la librería Servo** y envi
 
 Usando el monitor serial podemos ver los valores del potenciómetro y a qué grado se convierte cada valor, como puede ver hemos unido lo visto en sensores analógicos para mover un servomotor, también puede unir lo visto en sensores digitales para mover el servomotor, esto queda como investigación al lector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTg5MjA2MSwtODA5ODkyMDYxLDY0MD
-M2MTUyNCw4ODE5OTIyMzksMTYwNzk5NzgzMSw1ODMwNzg1Nzld
-fQ==
+eyJoaXN0b3J5IjpbMjE0NDY2OTU5MSwtODA5ODkyMDYxLC04MD
+k4OTIwNjEsNjQwMzYxNTI0LDg4MTk5MjIzOSwxNjA3OTk3ODMx
+LDU4MzA3ODU3OV19
 -->

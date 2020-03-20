@@ -18,6 +18,7 @@ Para entender como funciona este circuito y el programa que corre en la tarjeta 
 > - Resistencias de 220 Ohm's
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica14/Fotoresistencia.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica14/Fotoresistencia.JPG)
@@ -46,5 +47,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0NDc1MzQzLDEwMTE3Nzg0ODVdfQ==
+eyJoaXN0b3J5IjpbLTIwNjE4Mjg4NSw3NzQ0NzUzNDMsMTAxMT
+c3ODQ4NV19
 -->

@@ -10,6 +10,7 @@ Ahora, con lo aprendido anteriormente lo que realizaremos en esta segunda práct
 > - 2 Resistencias de 220 ohm´s 
 > - Protoboard 
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG)
@@ -37,6 +38,6 @@ void loop() // Definimos nuestra secuencia.
 
 # ????
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzIzNjE5OTAsLTE4MTIzODkxMjYsLT
-Y5MzE5OTMxXX0=
+eyJoaXN0b3J5IjpbLTU2Njg4MDU3MCwtMTkzMjM2MTk5MCwtMT
+gxMjM4OTEyNiwtNjkzMTk5MzFdfQ==
 -->

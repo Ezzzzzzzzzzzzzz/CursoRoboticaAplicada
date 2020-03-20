@@ -22,6 +22,7 @@ Función   |    Descripción
 > - Resistencia de 220 Ohm's
 > - Jumpers
 > - Protoboard
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Conexión
  ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCD.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCD.JPG)
@@ -132,7 +133,7 @@ void loop()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTQxNDA4NCw1OTc1NDAzMjAsLTExMD
-EyNjg1MDMsMjgzMzIxNzQ0LC04OTA5NzU3MDAsMTM2Nzc4MDUy
-NF19
+eyJoaXN0b3J5IjpbLTY4NjA4MTQyNCwtNDE5NDE0MDg0LDU5Nz
+U0MDMyMCwtMTEwMTI2ODUwMywyODMzMjE3NDQsLTg5MDk3NTcw
+MCwxMzY3NzgwNTI0XX0=
 -->

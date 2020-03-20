@@ -13,6 +13,7 @@ Vamos a leer un pulsador y por medio de una condición vamos a prender y apagar 
 > - Resistencia de 10 kOhm's
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/BotonLED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/BotonLED.JPG)
 
@@ -39,6 +40,6 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzYwOTM5NSwxNjk2NzEyNTk5LDIwMT
-QxMjgwMzksLTUxNjIwMjk4N119
+eyJoaXN0b3J5IjpbNzI0MDA4MjE3LC0zMTM2MDkzOTUsMTY5Nj
+cxMjU5OSwyMDE0MTI4MDM5LC01MTYyMDI5ODddfQ==
 -->

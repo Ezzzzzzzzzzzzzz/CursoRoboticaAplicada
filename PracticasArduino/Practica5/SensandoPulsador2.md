@@ -9,7 +9,7 @@ Vamos a leer un pulsador y por medio de una condición vamos a prender y apagar 
 > - Resistencia de 10 kOhm's
 > - Protoboard
 > - Jumpers
-> - 
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/BotonLED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/BotonLED.JPG)
 
@@ -63,7 +63,7 @@ Como la variable ``estadoLed`` tiene valor cero porque así lo hemos puesto al p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTEwMzkwMCwzODE4MjE4MjcsLTIzOD
-k5ODYzNywtMTQwMjM1MDk2NSwxMDQyNTcxMDk3LC0xOTkwNzkw
-ODU1XX0=
+eyJoaXN0b3J5IjpbLTE0Njk5ODE5MzcsMzgxODIxODI3LC0yMz
+g5OTg2MzcsLTE0MDIzNTA5NjUsMTA0MjU3MTA5NywtMTk5MDc5
+MDg1NV19
 -->

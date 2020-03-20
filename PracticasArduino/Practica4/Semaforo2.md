@@ -12,6 +12,7 @@ Esta práctica tiene como objetivo crear el control para dos semáforos en un cr
 > - Resistencias 220 Ohm's 
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 
@@ -45,7 +46,7 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODQxNzcwMSwtMTk3NjA1MDM2MSwtMT
-Y0OTg3NjE3NiwtOTQxNDA0MDcsLTc2NDIyNDA4MywxNTMwMjQ1
-OTQ0XX0=
+eyJoaXN0b3J5IjpbMzM1NjMzMDYzLC02Mzg0MTc3MDEsLTE5Nz
+YwNTAzNjEsLTE2NDk4NzYxNzYsLTk0MTQwNDA3LC03NjQyMjQw
+ODMsMTUzMDI0NTk0NF19
 -->

@@ -60,33 +60,8 @@ void loop()
   digitalWrite(LED4, LOW);
   delay(tiempo); 
   
-  digitalWrite(LED5, HIGH);
-  delay(tiempo); 
-  digitalWrite(LED5, LOW);
-  delay(tiempo); 
-  
-  digitalWrite(LED6, HIGH);
-  delay(tiempo); 
-  digitalWrite(LED6, LOW);
-  delay(tiempo); 
-  
-  digitalWrite(LED7, HIGH);
-  delay(tiempo); 
-  digitalWrite(LED7, LOW);
-  delay(tiempo); 
-  
 /* ************************************* */
-
-  digitalWrite(LED6, HIGH);
-  delay(tiempo); 
-  digitalWrite(LED6, LOW);
-  delay(tiempo); 
-  
-  digitalWrite(LED5, HIGH);
-  delay(tiempo); 
-  digitalWrite(LED5, LOW);
-  delay(tiempo); 
-  
+ 
   digitalWrite(LED4, HIGH);
   delay(tiempo); 
   digitalWrite(LED4, LOW);
@@ -112,7 +87,7 @@ void loop()
 ## Bloques
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjAxODcyMywtMTAzODY0ODQ4OSwxMT
-EyMzg5NjYzLDEyMzY2NDY2MTgsLTEyNTAxMjI5MDMsNzI3MzYx
-Mzc2LDczMzcwODY5NF19
+eyJoaXN0b3J5IjpbNjAwMDc4MzQxLDE1NjIwMTg3MjMsLTEwMz
+g2NDg0ODksMTExMjM4OTY2MywxMjM2NjQ2NjE4LC0xMjUwMTIy
+OTAzLDcyNzM2MTM3Niw3MzM3MDg2OTRdfQ==
 -->

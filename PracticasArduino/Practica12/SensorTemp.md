@@ -11,6 +11,7 @@ Muy bien, ahora veremos cómo censar un **[TMP36](http://ctms.engin.umich.edu/CT
 > - Resistencia de 220 Ohm's
 > - Jumpers
 > - Protoboard
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensorTEMP.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensorTEMP.JPG)
@@ -103,8 +104,8 @@ double Thermistor(int RawADC){
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE3MTg2ODUsLTE4NjcyNjMyMzMsMj
-AyNDg0OTEzOCwyODU5NzU0MTIsMTk5NzM1MDM4OCw0ODQwOTM2
-MjUsMTk4Mjk1NDYxNSwtMTU2MDkwODYzNywtMTA2NzA0NDQ3MV
-19
+eyJoaXN0b3J5IjpbLTExODYwMzk2NTcsLTEzOTE3MTg2ODUsLT
+E4NjcyNjMyMzMsMjAyNDg0OTEzOCwyODU5NzU0MTIsMTk5NzM1
+MDM4OCw0ODQwOTM2MjUsMTk4Mjk1NDYxNSwtMTU2MDkwODYzNy
+wtMTA2NzA0NDQ3MV19
 -->

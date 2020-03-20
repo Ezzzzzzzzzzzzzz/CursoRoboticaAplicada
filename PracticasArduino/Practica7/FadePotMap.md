@@ -18,6 +18,7 @@ Abajo se muestra el código, material y explicación de la práctica.
 > - Potenciometro de 10 kOhm's
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/PWMPot.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/PWMPot.JPG)
@@ -52,5 +53,5 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTg4MDEyNV19
+eyJoaXN0b3J5IjpbLTE4ODE2NzcxMjksLTc1NTg4MDEyNV19
 -->

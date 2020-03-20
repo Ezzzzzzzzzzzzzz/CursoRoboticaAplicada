@@ -17,6 +17,7 @@ En esta nueva práctica se enseñará a usar un **relevador** con Arduino y cont
 > - LED 5 mm
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Conexión 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica21/RelayArduino.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica21/RelayArduino.JPG)
@@ -50,6 +51,7 @@ En este caso no funciona el **PWM** ya que es necesario excitar la bobina por co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDQ0MzE5NSwtMjA2NTkwMDEzNiwzOD
-U2NDcyNzksLTE4MTgyMzYyNjcsMTk4MTI3NDE1OF19
+eyJoaXN0b3J5IjpbLTM0MzIyOTY4OSwxMjkwNDQzMTk1LC0yMD
+Y1OTAwMTM2LDM4NTY0NzI3OSwtMTgxODIzNjI2NywxOTgxMjc0
+MTU4XX0=
 -->

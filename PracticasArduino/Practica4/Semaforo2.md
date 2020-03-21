@@ -45,9 +45,10 @@ void loop()
 }
 ```
 ## Bloques
-![](https://www.biptrack.com/img/BIPGuy-support.gif)
+![](https://media1.giphy.com/media/cMVgEhDeKzPwI/giphy.gif?w=1400)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTgyNjQ0Miw3NTk1MjAxNjEsMzM1Nj
-MzMDYzLC02Mzg0MTc3MDEsLTE5NzYwNTAzNjEsLTE2NDk4NzYx
-NzYsLTk0MTQwNDA3LC03NjQyMjQwODMsMTUzMDI0NTk0NF19
+eyJoaXN0b3J5IjpbLTQzNzAxMDUwNCwxMTg1ODI2NDQyLDc1OT
+UyMDE2MSwzMzU2MzMwNjMsLTYzODQxNzcwMSwtMTk3NjA1MDM2
+MSwtMTY0OTg3NjE3NiwtOTQxNDA0MDcsLTc2NDIyNDA4MywxNT
+MwMjQ1OTQ0XX0=
 -->

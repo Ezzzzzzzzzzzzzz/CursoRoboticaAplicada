@@ -19,10 +19,12 @@ Es muy importante que usted escriba el código para que pueda aprender correctam
 ## Código  
 ```c
 #define LED 4 //Damos el alias a nuestro pin 4.
-void setup(){
+void setup()
+{
 	pinMode(LED,OUTPUT); //Definimos el pin LED como salida.
 }
-void loop(){ //Definimos nuestra secuencia.
+void loop()
+{ //Definimos nuestra secuencia.
 	digitalWrite(LED,HIGH); //Mandamos un ALTO al LED.
 	delay(1000); //Tiempo en que permanece el LED prendido “un segundo”.
 	digitalWrite(LED,LOW); //Mandamos un BAJO al LED.
@@ -44,6 +46,6 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM1NDg4OTksLTE1NDMwMzgxMjcsLT
-U5NTc4OTY1MCwtMTQ2ODg1NDc0MF19
+eyJoaXN0b3J5IjpbLTE3MzA4ODQxMzEsLTIwMDM1NDg4OTksLT
+E1NDMwMzgxMjcsLTU5NTc4OTY1MCwtMTQ2ODg1NDc0MF19
 -->

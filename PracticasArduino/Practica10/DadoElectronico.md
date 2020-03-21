@@ -43,7 +43,8 @@ byte numero[10][8] =
 void setup()
 {
   // Ponemos los pines de los segmentos en modo OUTPUT (salida)
-  for(int i = 0; i < 7; i++){
+  for(int i = 0; i < 7; i++)
+  {
     pinMode(i, OUTPUT);
   }
   // Ponemos el pin del pulsador en modo INPUT (entrada)
@@ -58,11 +59,13 @@ void loop()
   int val = digitalRead(push);
   
   // Si esta pulsado
-  if(val == HIGH){
+  if(val == HIGH)
+  {
     // Genera un numero aleatorio entre 1 y 6
     int randomNumber = random(1, 7);
     // Ponemos los pines en estado correcto para mostrar el numero randomNumber
-    for(int j = 0; j < 7; j++){   
+    for(int j = 0; j < 7; j++)
+    {   
       digitalWrite(j, numero[randomNumber][j]);
     }
    delay(500); 
@@ -70,6 +73,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2ODY5NDY2LDE3NjkxNzE1NzMsLTE1Nz
+eyJoaXN0b3J5IjpbODA2NTAzNDMyLDE3NjkxNzE1NzMsLTE1Nz
 Q2MDQ1NDMsODA5OTg4MTM4XX0=
 -->

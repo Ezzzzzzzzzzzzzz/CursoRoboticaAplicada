@@ -50,7 +50,8 @@ void loop()
 }
 
 // Función para generar colores
-void color(int red, int green, int blue){
+void color(int red, int green, int blue)
+{
   analogWrite(pinRed, red);
   analogWrite(pinGreen, green);
   analogWrite(pinBlue, blue);
@@ -61,6 +62,6 @@ Juega con los valores de PWM  de los tres potenciómetros para obtener tus color
 
 ![](https://i.pinimg.com/originals/b9/51/8f/b9518febac2756828254365fbae0c007.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg3MTQ1MzAsODU5MDk4OTk2LDE0Mz
-A1NDk0ODBdfQ==
+eyJoaXN0b3J5IjpbMTAxNTA0ODUyNCw4NTkwOTg5OTYsMTQzMD
+U0OTQ4MF19
 -->

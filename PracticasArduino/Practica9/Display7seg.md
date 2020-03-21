@@ -4,6 +4,8 @@ Esta practica tiene como objetivo realizar una salida visual en un display de 7 
 
 El display de 7 segmentos es un componente que se utiliza para la representación de números, es muy común encontrarlos en dispositivos electrónicos debido a su simplicidad. Está compuesto internamente por una serie de LED'S estratégicamente ubicados de tal forma que forme un número 8.
 
+![](https://thumbs.gfycat.com/FaroffGratefulAsianlion-size_restricted.gif)
+
 A cada uno de los segmentos que forman el display se les denomina **a**, **b**, **c**, **d**, **e**, **f** y **g**, están ensamblados de forma que se permita activar cada segmento por separado consiguiendo formar cualquier dígito numérico. Muchas veces aparece un octavo segmento denominado **p.d. (punto decimal)**.
 
 **Existen dos tipos de display de 7 segmentos:**
@@ -85,7 +87,7 @@ void loop()
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTcyMjkxMywtMjQ2ODc3ODY3LC0zMT
-U5NTEyMzYsLTE2NDY4MTI4NDAsMzYyNjAwMDc3LC05NzgyMzY4
-OTUsMTc1ODkwMzcwNV19
+eyJoaXN0b3J5IjpbOTY5MDg2MzczLDE0NzE3MjI5MTMsLTI0Nj
+g3Nzg2NywtMzE1OTUxMjM2LC0xNjQ2ODEyODQwLDM2MjYwMDA3
+NywtOTc4MjM2ODk1LDE3NTg5MDM3MDVdfQ==
 -->

@@ -28,7 +28,8 @@ void setup()
 }
 void loop()
 {
-  for(Brillo = 0; Brillo < 256; Brillo++){
+  for(Brillo = 0; Brillo < 256; Brillo++)
+  {
     	analogWrite(Led, Brillo);
     	delay(Tiempo);
 	
@@ -42,5 +43,5 @@ void loop()
 ```
 **Si necesitas ayuda**, revisa las **[sentencias de control](https://classroom.google.com/w/NDY3MjU0MTQyMDla/tc/NDY4MDUwNDkzMjBa?hl=es)** y los [**operadores de relación**](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) para poder completar la practica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI1NjM5OV19
+eyJoaXN0b3J5IjpbLTIxMDkwNzIxMjUsLTEyNjI1NjM5OV19
 -->

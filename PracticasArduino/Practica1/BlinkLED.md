@@ -39,7 +39,7 @@ void loop()
 
 ## Explicación 
 
-Usamos la palabra reservada ``#define`` **para darle un nombre a nuestro pin 2**, el cual es LED, _esto para tener un código mucho más limpio e identificar lo que conectamos en cada pin de nuestro Arduino_, por eso ``#define LED 2``. Todo esto se hace arriba del ``void setup()``, también en esta parte se definen las variables para almacenar datos, o sea variables globales.
+Usamos la palabra reservada ``#define`` **para darle un nombre a nuestro pin 2**, el cual es LED, _esto para tener un código mucho más limpio e identificar lo que conectamos en cada pin de nuestro Arduino_, por eso ``#define LED 4``. Todo esto se hace arriba del ``void setup()``, también en esta parte se definen las variables para almacenar datos, o sea variables globales.
 
 Ahora dentro de ``void setup()`` **configuramos nuestro pin como salida ya que enviaremos señales digitales de ALTO o BAJO**, esto se hace mediante la función ``pinMode()`` que en su traducción al español sería “pin en modo de” , **esta función recibe dos parámetros, uno que es el ALIAS o PIN y la otra parte** que sería la palabra reservada ``INPUT`` u ``OUTPUT``, en este caso usamos la segunda que es ``OUTPUT``, ya que enviaremos pulsos y por eso lo configuramos como salida.
 
@@ -49,7 +49,7 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDc1MDkwMCwyMDEyNzIxNjQwLDEzMT
+eyJoaXN0b3J5IjpbMTMxNTMyNjkyNiwyMDEyNzIxNjQwLDEzMT
 U2NTYxMzgsLTE3MzA4ODQxMzEsLTIwMDM1NDg4OTksLTE1NDMw
 MzgxMjcsLTU5NTc4OTY1MCwtMTQ2ODg1NDc0MF19
 -->

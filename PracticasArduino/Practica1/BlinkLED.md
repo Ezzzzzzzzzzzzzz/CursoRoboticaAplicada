@@ -18,11 +18,11 @@ Comenzaremos haciendo el programa clásico del **blink** que en otro lenguaje de
 
 ## Código  
 ```c
-#define LED 4 //Damos el alias a nuestro pin 4.
+#define LED 4 //Damos un nombre a nuestro pin 4.
 
 void setup()
 {
-  pinMode(LED,OUTPUT); //Definimos el pin LED como salida.
+  pinMode(LED,OUTPUT); //Definimos el pin LED como SALIDA.
 }
 void loop()
 { 
@@ -47,7 +47,7 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjQ2NTA4NSwtMTczMDg4NDEzMSwtMj
+eyJoaXN0b3J5IjpbMTMxNTY1NjEzOCwtMTczMDg4NDEzMSwtMj
 AwMzU0ODg5OSwtMTU0MzAzODEyNywtNTk1Nzg5NjUwLC0xNDY4
 ODU0NzQwXX0=
 -->

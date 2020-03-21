@@ -17,13 +17,13 @@ Ahora, con lo aprendido anteriormente lo que realizaremos en esta segunda práct
 
 ## Código
 ```c
-#define LED1 4	// Damos un alias a nuestro pin 4
-#define LED2 5	// Damos un alias a nuestro pin 5
+#define LED1 4	// Damos un nombre a nuestro pin 4
+#define LED2 5	// Damos un nombre a nuestro pin 5
 
 void setup()
 {
-  pinMode(LED1, OUTPUT); // Definimos el pin LED1 como salida
-  pinMode(LED2, OUTPUT); // Definimos el pin LED2 como salida
+  pinMode(LED1, OUTPUT); // Definimos el pin LED1 como SALIDA
+  pinMode(LED2, OUTPUT); // Definimos el pin LED2 como SALIDA
 }
 void loop() // Definimos nuestra secuencia.
 {
@@ -38,6 +38,6 @@ void loop() // Definimos nuestra secuencia.
 
 # ????
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Njg4MDU3MCwtMTkzMjM2MTk5MCwtMT
-gxMjM4OTEyNiwtNjkzMTk5MzFdfQ==
+eyJoaXN0b3J5IjpbLTE4NDg3ODE1NTgsLTU2Njg4MDU3MCwtMT
+kzMjM2MTk5MCwtMTgxMjM4OTEyNiwtNjkzMTk5MzFdfQ==
 -->

@@ -4,6 +4,8 @@ En esta práctica implementaras lo visto anteriormente para controlar un **led R
 
 Esto puede ser usado con tiras de leds o leds RGB de alta potencia, **uniendo este tema con control de cargas**.
 
+![](https://www.ebotics.com/wp-content/uploads/2018/06/proyecto2-255753.gif)
+
 ## Material
 > - Arduino
 > - LED RGB 5mm Cátodo común
@@ -59,5 +61,6 @@ Juega con los valores de PWM  de los tres potenciómetros para obtener tus color
 
 ![](https://i.pinimg.com/originals/b9/51/8f/b9518febac2756828254365fbae0c007.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5MDk4OTk2LDE0MzA1NDk0ODBdfQ==
+eyJoaXN0b3J5IjpbMTM4ODIxNDM5MCw4NTkwOTg5OTYsMTQzMD
+U0OTQ4MF19
 -->

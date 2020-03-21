@@ -26,7 +26,8 @@ void setup()
 }
 void loop()
 {
-  for(Brillo = 0; Brillo < 256; Brillo++){
+  for(Brillo = 0; Brillo < 256; Brillo++)
+  {
     	analogWrite(Led, Brillo);
     	delay(Tiempo);
   }
@@ -43,6 +44,7 @@ Gracias al  ``for()`` vemos como incrementa el brillo del led, si usamos un mult
 
 Y es así como manejamos el **PWM**, **lo que hace es que envía pulsos muy rápidos y eso hace que se emule un valor analógico** y eso se hace como ya vimos con ``analogWrite()``.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzI2MzA0NSwtODI5OTAzNjExLC0xMD
-Q0MDc1NjIwLC0xNjc3MDE4MTAyLC0yMTgwNTUxMzFdfQ==
+eyJoaXN0b3J5IjpbLTMyMTU1NjcxLC05NjcyNjMwNDUsLTgyOT
+kwMzYxMSwtMTA0NDA3NTYyMCwtMTY3NzAxODEwMiwtMjE4MDU1
+MTMxXX0=
 -->

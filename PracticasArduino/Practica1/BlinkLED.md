@@ -2,7 +2,7 @@
 
 Comenzaremos haciendo el programa clásico del **blink** que en otro lenguaje de programación sería como el **“Hola Mundo”** ya que es el primer programa que se enseña, el código será el siguiente. 
 
-**Es muy importante que usted escriba el código para que pueda aprender correctamente y se vaya acostumbrando a la programación:**
+==Es muy importante que usted escriba el código para que pueda aprender correctamente y se vaya acostumbrando a la programación:==
 
 ## Materiales
 > - 1 Arduino
@@ -46,7 +46,7 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjQ2NTQ0MywtMTczMDg4NDEzMSwtMj
+eyJoaXN0b3J5IjpbLTQ1NzQ2Mzc3OSwtMTczMDg4NDEzMSwtMj
 AwMzU0ODg5OSwtMTU0MzAzODEyNywtNTk1Nzg5NjUwLC0xNDY4
 ODU0NzQwXX0=
 -->

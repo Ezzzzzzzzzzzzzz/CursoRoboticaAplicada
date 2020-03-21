@@ -17,13 +17,13 @@ Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos led´
 
 ## Código
 ```c
-#define LED1 4	// Damos un alias a nuestro pin 4
-#define LED2 5	// Damos un alias a nuestro pin 5
+#define LED1 4	// Damos un nombre a nuestro pin 4
+#define LED2 5	// Damos un nombre a nuestro pin 5
 
 void setup()
 {
-  pinMode(LED1, OUTPUT); // Definimos el pin LED1 como salida
-  pinMode(LED2, OUTPUT); // Definimos el pin LED2 como salida
+  pinMode(LED1, OUTPUT); // Definimos el pin LED1 como SALIDA
+  pinMode(LED2, OUTPUT); // Definimos el pin LED2 como SALIDA
 }
 void loop() // Definimos nuestra secuencia.
 {
@@ -38,7 +38,7 @@ void loop() // Definimos nuestra secuencia.
 ## Bloques
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Prac2_bloq.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Prac2_bloq.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMDcwMTE4LDc5NzUyNzYwMCw1Mzc1OD
+eyJoaXN0b3J5IjpbNzUwNzk5Mjc0LDc5NzUyNzYwMCw1Mzc1OD
 k3OSwtMTIzMTY3NjE1MCwzNTY3NjA1NTQsLTIwODQ0NTM3MzEs
 LTE0MjQzNjU5MjYsLTczMDc5Nzg2NF19
 -->

@@ -56,8 +56,8 @@ void loop()
   
 }
 
-void lightSegments(int number){
- 
+void lightSegments(int number)
+{
   byte numberBit = numbers[number];
   
   for(int i = 0; i < 7; i++)
@@ -70,6 +70,6 @@ void lightSegments(int number){
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjE2MDUzMiw2OTkwNzcxNjIsLTEwMj
+eyJoaXN0b3J5IjpbMTUwNDMzMDYzNiw2OTkwNzcxNjIsLTEwMj
 QwODY2MjZdfQ==
 -->

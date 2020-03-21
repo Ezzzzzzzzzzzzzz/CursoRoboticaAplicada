@@ -19,13 +19,13 @@ Vamos a leer un pulsador y por medio de una condición vamos a prender y apagar 
 
 ## Codigo
 ```c
-#define LED 2 //Damos un alias a nuestro pin 2
-#define Boton 3 //Damos un alias a nuestro pin 3
+#define LED 2 //Damos un nombre a nuestro pin 2
+#define Boton 3 //Damos un nombre a nuestro pin 3
 
 void setup()
 {
-  pinMode(LED, OUTPUT); // Definimos el pin LED como salida.
-  pinMode(Boton, INPUT); // Definimos el pin Boton como entrada. 
+  pinMode(LED, OUTPUT); // Definimos el pin LED como SALIDA.
+  pinMode(Boton, INPUT); // Definimos el pin Boton como ENTRADA. 
 }
 void loop()
 {
@@ -42,7 +42,7 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjQzMjA5Nyw3MjQwMDgyMTcsLTMxMz
+eyJoaXN0b3J5IjpbMjA5NDgzMTM2Nyw3MjQwMDgyMTcsLTMxMz
 YwOTM5NSwxNjk2NzEyNTk5LDIwMTQxMjgwMzksLTUxNjIwMjk4
 N119
 -->

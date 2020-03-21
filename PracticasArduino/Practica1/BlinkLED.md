@@ -22,14 +22,14 @@ Comenzaremos haciendo el programa clásico del **blink** que en otro lenguaje de
 
 void setup()
 {
-	pinMode(LED,OUTPUT); //Definimos el pin LED como salida.
+  pinMode(LED,OUTPUT); //Definimos el pin LED como salida.
 }
 void loop()
 { 
-	digitalWrite(LED,HIGH); //Mandamos un ALTO al LED.
-	delay(1000); //Tiempo en que permanece el LED prendido “un segundo”.
-	digitalWrite(LED,LOW); //Mandamos un BAJO al LED.
-	delay(1000); //Tiempo en que permanece el LED apagado “un segundo”.
+  digitalWrite(LED,HIGH); //Mandamos un ALTO al LED.
+  delay(1000); //Tiempo en que permanece el LED prendido “un segundo”.
+  digitalWrite(LED,LOW); //Mandamos un BAJO al LED.
+  delay(1000); //Tiempo en que permanece el LED apagado “un segundo”.
 }
 ```
 ## Bloques 
@@ -47,7 +47,7 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjkwNDIyOTMsLTE3MzA4ODQxMzEsLT
-IwMDM1NDg4OTksLTE1NDMwMzgxMjcsLTU5NTc4OTY1MCwtMTQ2
-ODg1NDc0MF19
+eyJoaXN0b3J5IjpbLTQwNjQ2NTA4NSwtMTczMDg4NDEzMSwtMj
+AwMzU0ODg5OSwtMTU0MzAzODEyNywtNTk1Nzg5NjUwLC0xNDY4
+ODU0NzQwXX0=
 -->

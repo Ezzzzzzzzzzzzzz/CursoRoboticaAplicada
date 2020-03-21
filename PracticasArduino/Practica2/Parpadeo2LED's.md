@@ -2,6 +2,8 @@
 
 Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos led´s simultáneamente, la explicación es similar a la anterior solo que ahora son dos led's, se recomienda que ustedes aparte de esto aumente más led´s, tres, cuatro, etc., y jueguen con los tiempos del ``delay()``.
 
+![]
+
 ## Materiales
 > - Arduino UNO
 > - 2 LED´s de 5 mm
@@ -36,7 +38,7 @@ void loop() // Definimos nuestra secuencia.
 ## Bloques
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Prac2_bloq.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Prac2_bloq.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3NTI3NjAwLDUzNzU4OTc5LC0xMjMxNj
-c2MTUwLDM1Njc2MDU1NCwtMjA4NDQ1MzczMSwtMTQyNDM2NTky
-NiwtNzMwNzk3ODY0XX0=
+eyJoaXN0b3J5IjpbLTE0Nzc1ODgyNjcsNzk3NTI3NjAwLDUzNz
+U4OTc5LC0xMjMxNjc2MTUwLDM1Njc2MDU1NCwtMjA4NDQ1Mzcz
+MSwtMTQyNDM2NTkyNiwtNzMwNzk3ODY0XX0=
 -->

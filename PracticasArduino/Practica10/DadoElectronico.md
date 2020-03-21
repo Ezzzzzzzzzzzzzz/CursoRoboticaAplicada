@@ -6,6 +6,8 @@ El display de 7 segmentos es un componente que se utiliza para la representació
 
 A cada uno de los segmentos que forman el display se les denomina **a**, **b**, **c**, **d**, **e**, **f** y **g**, están ensamblados de forma que se permita activar cada segmento por separado consiguiendo formar cualquier dígito numérico. Muchas veces aparece un octavo segmento denominado **p.d. (punto decimal)**.
 
+![](https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_820/v1486403376/content-items/001/855/289/DADO_1-original.gif?1486403376)
+
 ## Material
 > - Arduino
 > - Resistencias de 220 Ohm's
@@ -68,6 +70,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTE3MTU3MywtMTU3NDYwNDU0Myw4MD
-k5ODgxMzhdfQ==
+eyJoaXN0b3J5IjpbNjc2ODY5NDY2LDE3NjkxNzE1NzMsLTE1Nz
+Q2MDQ1NDMsODA5OTg4MTM4XX0=
 -->

@@ -39,7 +39,8 @@ const byte numbers[10] =
 
 void setup()
 {
-  for(int i = 0; i < 7; i++){
+  for(int i = 0; i < 7; i++)
+  {
     pinMode(pins[i], OUTPUT);
   }
   
@@ -47,7 +48,8 @@ void setup()
 }
 void loop()
 {
-  for(int i = 0; i < 10; i++){
+  for(int i = 0; i < 10; i++)
+  {
     lightSegments(i);
     delay(1000);
   }
@@ -58,7 +60,8 @@ void lightSegments(int number){
  
   byte numberBit = numbers[number];
   
-  for(int i = 0; i < 7; i++){
+  for(int i = 0; i < 7; i++)
+  {
     int bit = bitRead(numberBit, i);
     digitalWrite(pins[i], bit);
   }
@@ -67,6 +70,6 @@ void lightSegments(int number){
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc4MjI0MjYsNjk5MDc3MTYyLC0xMD
-I0MDg2NjI2XX0=
+eyJoaXN0b3J5IjpbMTk1MjE2MDUzMiw2OTkwNzcxNjIsLTEwMj
+QwODY2MjZdfQ==
 -->

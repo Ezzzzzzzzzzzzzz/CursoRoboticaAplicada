@@ -42,7 +42,8 @@ void loop()
 }
 ```
 ![](https://media1.giphy.com/media/cMVgEhDeKzPwI/giphy.gif?w=1400)
+
 **Si necesitas ayuda**, revisa las **[sentencias de control](https://classroom.google.com/w/NDY3MjU0MTQyMDla/tc/NDY4MDUwNDkzMjBa?hl=es)** y los [**operadores de relación**](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) para poder completar la practica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTcwMTA2NywtMTI2MjU2Mzk5XX0=
+eyJoaXN0b3J5IjpbLTE3NzgxNTIzOSwtMTI2MjU2Mzk5XX0=
 -->

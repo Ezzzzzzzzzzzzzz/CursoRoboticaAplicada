@@ -33,7 +33,7 @@ int potValB = 0;
 
 void setup()
 {
- /*
+  /*
   ***************************
   * Agrega la configuración *
   ***************************
@@ -42,7 +42,7 @@ void setup()
 
 void loop()
 {
-  /*
+   /*
    **************************
    * Escribe tu código aqui *
    **************************
@@ -61,6 +61,6 @@ Juega con los valores de PWM  de los tres potenciómetros para obtener tus color
 
 ![](https://i.pinimg.com/originals/b9/51/8f/b9518febac2756828254365fbae0c007.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODIxNDM5MCw4NTkwOTg5OTYsMTQzMD
-U0OTQ4MF19
+eyJoaXN0b3J5IjpbLTE1Mzg3MTQ1MzAsODU5MDk4OTk2LDE0Mz
+A1NDk0ODBdfQ==
 -->

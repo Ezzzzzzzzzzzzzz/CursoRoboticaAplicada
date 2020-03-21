@@ -33,16 +33,19 @@ void loop()
   // Definimos nuestra secuencia.
   push_lee = digitalRead(Boton); // Almacenamos en la variable la lectura del boton.
   
-  if((push_lee == 1) && (estadoAnterior == 0)){ 
+  if((push_lee == 1) && (estadoAnterior == 0))
+  { 
     estadoLed = 1 - estadoLed;
     delay(5);
   }
   estadoAnterior = push_lee;
   
-  if(estadoLed == 1){
+  if(estadoLed == 1)
+  {
     digitalWrite(LED, HIGH);
   }
-  else{
+  else
+  {
     digitalWrite(LED, LOW); 
   }
 }
@@ -63,7 +66,7 @@ Como la variable ``estadoLed`` tiene valor cero porque así lo hemos puesto al p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njk5ODE5MzcsMzgxODIxODI3LC0yMz
-g5OTg2MzcsLTE0MDIzNTA5NjUsMTA0MjU3MTA5NywtMTk5MDc5
-MDg1NV19
+eyJoaXN0b3J5IjpbLTg0MDI5MzQzNSwtMTQ2OTk4MTkzNywzOD
+E4MjE4MjcsLTIzODk5ODYzNywtMTQwMjM1MDk2NSwxMDQyNTcx
+MDk3LC0xOTkwNzkwODU1XX0=
 -->

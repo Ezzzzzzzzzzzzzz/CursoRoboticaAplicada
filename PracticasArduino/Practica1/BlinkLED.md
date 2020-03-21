@@ -1,4 +1,4 @@
-# Blink LED
+# HOLA MUNDO!! - Blink LED
 
 Comenzaremos haciendo el programa clásico del **blink** que en otro lenguaje de programación sería como el **“Hola Mundo”** ya que es el primer programa que se enseña, el código será el siguiente. 
 
@@ -49,7 +49,7 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzAyNzEyOCwxMzE1NjU2MTM4LC0xNz
+eyJoaXN0b3J5IjpbMjAxMjcyMTY0MCwxMzE1NjU2MTM4LC0xNz
 MwODg0MTMxLC0yMDAzNTQ4ODk5LC0xNTQzMDM4MTI3LC01OTU3
 ODk2NTAsLTE0Njg4NTQ3NDBdfQ==
 -->

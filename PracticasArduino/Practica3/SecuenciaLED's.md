@@ -22,14 +22,16 @@ En esta práctica se harán las famosas luces del auto fantástico, este nombre 
 void setup()
 {
 // Inicializamos los pines de 0 al 4 como OUTPUT con un ciclo "for"
-  for(int pinLED = 0; pinLED < 5; pinLED++){
+  for(int pinLED = 0; pinLED < 5; pinLED++)
+  {
     pinMode(pinLED, OUTPUT);
   }
 }
 void loop()
 {
   // Encendemos y apagamos en un loop desde el pin 0 hasta el pin 4
-  for(int pinLED = 0; pinLED < 5; pinLED++){
+  for(int pinLED = 0; pinLED < 5; pinLED++)
+  {
     // Pone el pinLED en HIGH encendiendo el LED 
     digitalWrite(pinLED, HIGH);
     delay(pausa);
@@ -38,7 +40,8 @@ void loop()
   }
   delay(pausa);
   // Encendemos y apagamos en otro loop desde el pin 4 hasta el pin 0
-  for(int pinLED = 4; pinLED >= 0; pinLED--){
+  for(int pinLED = 4; pinLED >= 0; pinLED--)
+  {
     // Pone el pinLED en HIGH encendiendo el LED 
     digitalWrite(pinLED, HIGH);
     delay(pausa);
@@ -58,7 +61,7 @@ Lo siguiente es configurar los pines como salida y aquí vemos lo interesante, *
 Ahora en el **``loop`` ponemos nuestro programa de ejecución**, de nuevo usamos un [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md) como el del ``setup()``, y adentro del [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md) ponemos la sentencia que hace que prenda el led con ``digitalWrite()``, a esta función le pasamos como primer parámetro la variable del [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md) y enviamos un alto, el **led prenderá durante el tiempo de la variable pausa y después de ese tiempo se apagará** ese mismo pin, así sucesivamente, después se le da un tiempo con un ``delay()``, de nuevo le pasamos como parámetro la variable pausa y esto servirá para darle un tiempo para hacer el cambio al segundo [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md). En este segundo [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md) hacemos lo mismo pero ahora al revés, **empezamos en el led conectado en el pin 4 y así seguimos hasta el led 0, para que esto funcione en la _condición 1_ usamos un [``>=``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) y en la _condición 2_ se hace un decremento [``--``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Asignaci%C3%B3n.md)**, esto ya se vio en un ejemplo de un tema anterior.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTg5ODI0NywxODg2OTUxNTA3LC01NT
-UwMjQ3MzIsMTk1NjQ3NDQxNiwxODkxMDgxMzA0LDM2MDc0Njgx
-Nl19
+eyJoaXN0b3J5IjpbLTY4MDE4OTU3OSwxNjE1ODk4MjQ3LDE4OD
+Y5NTE1MDcsLTU1NTAyNDczMiwxOTU2NDc0NDE2LDE4OTEwODEz
+MDQsMzYwNzQ2ODE2XX0=
 -->

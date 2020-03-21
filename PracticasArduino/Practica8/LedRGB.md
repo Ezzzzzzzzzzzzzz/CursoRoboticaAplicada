@@ -2,6 +2,8 @@
 
 En esta práctica se implementa lo visto anteriormente para controlar un **led RGB**, _esto puede ser usado con tiras de leds o leds RGB de alta potencia, claro queda uniendo este tema con control de cargas_, este es un ejemplo para la base de lo ya comentado. Abajo se muestra el código, material y explicación de la de la práctica.
 
+![](https://dynamoelectronics.com/wp-content/uploads/2017/08/RGB-animation-funcion.gif)
+
 ## Material 
 > - Arduino
 > - LED RGB 5mm Cátodo común
@@ -66,6 +68,6 @@ Primero definimos los pines a usar, con ``#define``, esto se explicó en los tem
 
 Ya en el ``loop()``, mandamos llamar a la función varias veces para poder hacer funcionar el led **RGB**, hacemos mezcla de colores con los colores básicos, **rojo (red)**, **verde (green)** y **azul (blue)**.  Con esto ya deben saber cómo usar la función ``analogWrite()`` y hacer manipulación del **PWM**, también a unir los temas anteriores entre sí. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMxNTIyMzksLTE5ODc1MjAwMzUsOT
-c3MDQ4NDUzXX0=
+eyJoaXN0b3J5IjpbMTI0NDE0NjA4MywtMTUzMzE1MjIzOSwtMT
+k4NzUyMDAzNSw5NzcwNDg0NTNdfQ==
 -->

@@ -2,6 +2,8 @@
 
 Comenzaremos haciendo el programa clásico del **blink** que en otro lenguaje de programación sería como el **“Hola Mundo”** ya que es el primer programa que se enseña, el código será el siguiente. 
 
+![](https://theinnovativefablab.files.wordpress.com/2015/04/light_blink.gif)
+
 **Es muy importante que usted escriba el código para que pueda aprender correctamente y se vaya acostumbrando a la programación:**
 
 ## Materiales
@@ -47,7 +49,7 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTY1NjEzOCwtMTczMDg4NDEzMSwtMj
-AwMzU0ODg5OSwtMTU0MzAzODEyNywtNTk1Nzg5NjUwLC0xNDY4
-ODU0NzQwXX0=
+eyJoaXN0b3J5IjpbMTczNzAyNzEyOCwxMzE1NjU2MTM4LC0xNz
+MwODg0MTMxLC0yMDAzNTQ4ODk5LC0xNTQzMDM4MTI3LC01OTU3
+ODk2NTAsLTE0Njg4NTQ3NDBdfQ==
 -->

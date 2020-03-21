@@ -24,7 +24,7 @@ void setup()
 	pinMode(LED,OUTPUT); //Definimos el pin LED como salida.
 }
 void loop()
-{ //Definimos nuestra secuencia.
+{ 
 	digitalWrite(LED,HIGH); //Mandamos un ALTO al LED.
 	delay(1000); //Tiempo en que permanece el LED prendido “un segundo”.
 	digitalWrite(LED,LOW); //Mandamos un BAJO al LED.
@@ -46,7 +46,7 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjQ2NTQ0MywtMTczMDg4NDEzMSwtMj
-AwMzU0ODg5OSwtMTU0MzAzODEyNywtNTk1Nzg5NjUwLC0xNDY4
-ODU0NzQwXX0=
+eyJoaXN0b3J5IjpbLTIwNTA2OTQ4MTksLTE3MzA4ODQxMzEsLT
+IwMDM1NDg4OTksLTE1NDMwMzgxMjcsLTU5NTc4OTY1MCwtMTQ2
+ODg1NDc0MF19
 -->

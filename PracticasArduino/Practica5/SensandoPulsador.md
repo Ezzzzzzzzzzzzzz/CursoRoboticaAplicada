@@ -27,9 +27,8 @@ void setup()
   pinMode(LED, OUTPUT); // Definimos el pin LED como SALIDA.
   pinMode(Boton, INPUT); // Definimos el pin Boton como ENTRADA. 
 }
-void loop()
+void loop()  
 {
-// Definimos nuestra secuencia.
   if(digitalRead(Boton) == HIGH) // Utilizamos la sentencia condicional "if".
   { 
     digitalWrite(LED, HIGH); // Si la condición SI se cumple el LED se enciende.
@@ -42,7 +41,7 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDgzMTM2Nyw3MjQwMDgyMTcsLTMxMz
-YwOTM5NSwxNjk2NzEyNTk5LDIwMTQxMjgwMzksLTUxNjIwMjk4
-N119
+eyJoaXN0b3J5IjpbLTEzNDAxMTg4NDcsNzI0MDA4MjE3LC0zMT
+M2MDkzOTUsMTY5NjcxMjU5OSwyMDE0MTI4MDM5LC01MTYyMDI5
+ODddfQ==
 -->

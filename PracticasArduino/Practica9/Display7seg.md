@@ -46,48 +46,48 @@ const int g = 6;
 
 void setup()
 {
-	pinMode(a, OUTPUT);
-	pinMode(b, OUTPUT);
-	pinMode(c, OUTPUT);
-	pinMode(d, OUTPUT);  
-	pinMode(e, OUTPUT);
-  	pinMode(f, OUTPUT);
-  	pinMode(g, OUTPUT);
+  pinMode(a, OUTPUT);
+  pinMode(b, OUTPUT);
+  pinMode(c, OUTPUT);
+  pinMode(d, OUTPUT);  
+  pinMode(e, OUTPUT);
+  pinMode(f, OUTPUT);
+  pinMode(g, OUTPUT);
 }
 
 void loop()
 {
-	digitalWrite (a, HIGH);
-	digitalWrite (b, HIGH);
-	digitalWrite (c, HIGH);
-	digitalWrite (d, HIGH);
-	digitalWrite (e, HIGH);
-	digitalWrite (f, HIGH);
-	digitalWrite (g, LOW);
-	delay(1000);
+  digitalWrite (a, HIGH);
+  digitalWrite (b, HIGH);
+  digitalWrite (c, HIGH);
+  digitalWrite (d, HIGH);
+  digitalWrite (e, HIGH);
+  digitalWrite (f, HIGH);
+  digitalWrite (g, LOW);
+  delay(1000);
   
-	digitalWrite (a, LOW);
-	digitalWrite (b, HIGH);
-	digitalWrite (c, HIGH);
-	digitalWrite (d, LOW);
-	digitalWrite (e, LOW);
-	digitalWrite (f, LOW);
-	digitalWrite (g, LOW);
-	delay(1000);
+  digitalWrite (a, LOW);
+  digitalWrite (b, HIGH);
+  digitalWrite (c, HIGH);
+  digitalWrite (d, LOW);
+  digitalWrite (e, LOW);
+  digitalWrite (f, LOW);
+  digitalWrite (g, LOW);
+  delay(1000);
   
-  	digitalWrite (a, HIGH);
-	digitalWrite (b, HIGH);
-	digitalWrite (c, LOW);
-	digitalWrite (d, HIGH);
-	digitalWrite (e, HIGH);
-	digitalWrite (f, LOW);
-	digitalWrite (g, HIGH);
-	delay(1000);  
+  digitalWrite (a, HIGH);
+  digitalWrite (b, HIGH);
+  digitalWrite (c, LOW);
+  digitalWrite (d, HIGH);
+  digitalWrite (e, HIGH);
+  digitalWrite (f, LOW);
+  digitalWrite (g, HIGH);
+  delay(1000);  
 }
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5MDg2MzczLDE0NzE3MjI5MTMsLTI0Nj
+eyJoaXN0b3J5IjpbNTcwMzMzNzQxLDE0NzE3MjI5MTMsLTI0Nj
 g3Nzg2NywtMzE1OTUxMjM2LC0xNjQ2ODEyODQwLDM2MjYwMDA3
 NywtOTc4MjM2ODk1LDE3NTg5MDM3MDVdfQ==
 -->

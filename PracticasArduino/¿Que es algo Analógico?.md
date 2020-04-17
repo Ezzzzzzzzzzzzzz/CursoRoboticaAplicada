@@ -5,7 +5,7 @@
   + **Valores continuos en un rango**.
   + Ejemplo: 
     * Todos los valores entre 0 y 5 volts, esto en resolución de 10 bits serán valores entre 0 a 1024.
-    * **La señal eléctrica de los toma corrientes de tu casa.**
+    * **La señal eléctrica de los tomacorrientes de tu casa.**
     
 ![](http://dux.com.ve/Tomacorriente_Tomadecorriente_Triple_Dux-01.png) 
 
@@ -30,7 +30,7 @@ o con **~**.
 Para escribir con estos pines usamos la función ``analogWrite([pin/alias],[valor/variable]);``, en valor o variable como bien comentamos solo recibe valores que estén entre **0** y **255**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjU1OTQ4Niw4NjA2NjAxOTYsMTE4Mj
-MxMDE1OCwxNDQxMzg2NTUzLC05MzM1OTQ0NTEsLTE3NjkwNjE1
-NzksNTE4MzY1NDRdfQ==
+eyJoaXN0b3J5IjpbLTE4MzY5MjE3NjIsMTU0NjU1OTQ4Niw4Nj
+A2NjAxOTYsMTE4MjMxMDE1OCwxNDQxMzg2NTUzLC05MzM1OTQ0
+NTEsLTE3NjkwNjE1NzksNTE4MzY1NDRdfQ==
 -->

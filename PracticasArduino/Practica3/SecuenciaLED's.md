@@ -1,6 +1,7 @@
 # Secuencia de LED's
 
 En esta práctica se harán las famosas luces del auto fantástico, este nombre lo obtienen de la serie Knight Rider, ya que el “ayudante” del protagonista era un automóvil con inteligencia artificial que podía hablar y su boca era una serie de luces que se movían de izquierda a derecha, y es justo lo que haremos, por eso el nombre que se le da a la práctica, abajo se muestra el código, material y explicación de la misma.
+
 ![KITT](http://31.media.tumblr.com/tumblr_mb84bj2Cqy1rpmo4ho1_r1_500.gif)
 
 ## Materiales 
@@ -61,7 +62,7 @@ Lo siguiente es configurar los pines como salida y aquí vemos lo interesante, *
 Ahora en el **``loop`` ponemos nuestro programa de ejecución**, de nuevo usamos un [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md) como el del ``setup()``, y adentro del [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md) ponemos la sentencia que hace que prenda el led con ``digitalWrite()``, a esta función le pasamos como primer parámetro la variable del [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md) y enviamos un alto, el **led prenderá durante el tiempo de la variable pausa y después de ese tiempo se apagará** ese mismo pin, así sucesivamente, después se le da un tiempo con un ``delay()``, de nuevo le pasamos como parámetro la variable pausa y esto servirá para darle un tiempo para hacer el cambio al segundo [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md). En este segundo [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md) hacemos lo mismo pero ahora al revés, **empezamos en el led conectado en el pin 4 y así seguimos hasta el led 0, para que esto funcione en la _condición 1_ usamos un [``>=``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) y en la _condición 2_ se hace un decremento [``--``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Asignaci%C3%B3n.md)**, esto ya se vio en un ejemplo de un tema anterior.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDE4OTU3OSwxNjE1ODk4MjQ3LDE4OD
-Y5NTE1MDcsLTU1NTAyNDczMiwxOTU2NDc0NDE2LDE4OTEwODEz
-MDQsMzYwNzQ2ODE2XX0=
+eyJoaXN0b3J5IjpbLTE1OTg3MTkyMjUsMTYxNTg5ODI0NywxOD
+g2OTUxNTA3LC01NTUwMjQ3MzIsMTk1NjQ3NDQxNiwxODkxMDgx
+MzA0LDM2MDc0NjgxNl19
 -->

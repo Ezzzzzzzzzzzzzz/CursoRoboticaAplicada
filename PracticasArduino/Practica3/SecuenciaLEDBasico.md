@@ -1,6 +1,7 @@
 # Secuencia de LED's
 
 En esta práctica se harán las famosas luces del auto fantástico, este nombre lo obtienen de la serie Knight Rider, ya que el “ayudante” del protagonista era un automóvil con inteligencia artificial que podía hablar y su boca era una serie de luces que se movían de izquierda a derecha, y es justo lo que haremos, por eso el nombre que se le da a la práctica, abajo se muestra el código, material y explicación de la misma.
+
 ![KITT](http://31.media.tumblr.com/tumblr_mb84bj2Cqy1rpmo4ho1_r1_500.gif)
 
 ## Materiales 
@@ -84,8 +85,8 @@ void loop()
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/Secuen_BloqB.PNG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/Secuen_BloqB.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjMyMDk4NzksMTA0MjMxNzYzNSwxNT
-YyMDE4NzIzLC0xMDM4NjQ4NDg5LDExMTIzODk2NjMsMTIzNjY0
-NjYxOCwtMTI1MDEyMjkwMyw3MjczNjEzNzYsNzMzNzA4Njk0XX
-0=
+eyJoaXN0b3J5IjpbMjQ3NzMwMTcxLC0xMTYzMjA5ODc5LDEwND
+IzMTc2MzUsMTU2MjAxODcyMywtMTAzODY0ODQ4OSwxMTEyMzg5
+NjYzLDEyMzY2NDY2MTgsLTEyNTAxMjI5MDMsNzI3MzYxMzc2LD
+czMzcwODY5NF19
 -->

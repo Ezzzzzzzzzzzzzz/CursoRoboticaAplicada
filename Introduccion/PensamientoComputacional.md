@@ -24,8 +24,12 @@ Los elementos básicos de un diagrama de flujo son:
 
 ![](http://robolution.mx/clases/pensamiento/pensamiento_2.jpg)
 
-### Ejemplo
+### Ejemplo:
+Este es un ejemplo de un diagrama de flujo para hacer un sándwich*.
+
+![](http://robolution.mx/clases/pensamiento/pensamiento_3.jpg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTI1Mzk5MywtNTkzODk3OTM1LDE1Nz
-cxNjAzNTFdfQ==
+eyJoaXN0b3J5IjpbMTQ5MjExMjAwLC01OTM4OTc5MzUsMTU3Nz
+E2MDM1MV19
 -->

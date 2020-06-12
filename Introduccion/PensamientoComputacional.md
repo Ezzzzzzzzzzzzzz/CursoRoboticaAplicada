@@ -5,6 +5,12 @@ El **pensamiento lógico** nos ayuda a encontrar soluciones a los problemas coti
 Un ejemplo es el cubo de Rubik, se trata de un rompecabezas mecánico inventado por el escultor y profesor de arquitectura húngaro Ernó Rubik en 1974 *la resolución del cubo se hace mediante diferentes ***"métodos"*** o ***“algoritmos”****, es decir, siguiendo una serie de pasos o secuencias se resuelve el rompecabezas.
 
 ![Cubo](http://robolution.mx/clases/pensamiento/pensamiento_1.png)
+
+## Algoritmos 
+
+Para realizar una tarea es necesario seguir instrucciones sencillas y precisas. Esta serie de pasos o instrucciones los usamos en nuestras actividades diarias. Por ejemplo, para preparar un sándwich, para ir a la escuela, para hacer un pastel o para resolver un problema de matemáticas.
+
+Los robots utilizan distintos tipos de sensores para reconocer el terreno o detectar la presencia de un objeto. Cada movimiento de un robot está determinado por una serie pasos ordenados o instrucciones llamados  [algoritmos](https://www.youtube.com/watch?v=U3CGMyjzlvM).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODUyMjY2MywxNTc3MTYwMzUxXX0=
+eyJoaXN0b3J5IjpbLTU5Mzg5NzkzNSwxNTc3MTYwMzUxXX0=
 -->

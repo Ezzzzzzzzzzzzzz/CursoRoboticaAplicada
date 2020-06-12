@@ -8,10 +8,12 @@ Un ejemplo es el cubo de Rubik, se trata de un rompecabezas mecánico inventado 
 
 ## Algoritmos 
 
-**Para realizar una tarea es necesario seguir instrucciones sencillas y precisas.** Esta serie de pasos o instrucciones los usamos en nuestras actividades diarias. Por ejemplo, para preparar un sándwich, para ir a la escuela, para hacer un pastel o para resolver un problema de matemáticas.
+**Para realizar una tarea es necesario seguir instrucciones sencillas y precisas.** Esta serie de pasos o instrucciones los usamos en nuestras actividades diarias. *Por ejemplo, para preparar un sándwich, para ir a la escuela, para hacer un pastel o para resolver un problema de matemáticas.*
 
-Los robots utilizan distintos tipos de sensores para reconocer el terreno o detectar la presencia de un objeto. Cada movimiento de un robot está determinado por una serie pasos ordenados o instrucciones llamados  [algoritmos](https://www.youtube.com/watch?v=U3CGMyjzlvM).
+**Los robots utilizan distintos tipos de sensores para reconocer el terreno o detectar la presencia de un objeto. Cada movimiento de un robot está determinado por una serie pasos ordenados o instrucciones llamados  [algoritmos](https://www.youtube.com/watch?v=U3CGMyjzlvM).**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDc2MTA3MywtNTkzODk3OTM1LDE1Nz
-cxNjAzNTFdfQ==
+eyJoaXN0b3J5IjpbLTE5MDU5Mjc4ODMsLTU5Mzg5NzkzNSwxNT
+c3MTYwMzUxXX0=
 -->

@@ -12,8 +12,8 @@ Un ejemplo es el cubo de Rubik, se trata de un rompecabezas mecánico inventado 
 
 **Los robots utilizan distintos tipos de sensores para reconocer el terreno o detectar la presencia de un objeto. Cada movimiento de un robot está determinado por una serie pasos ordenados o instrucciones llamados  [algoritmos](https://www.youtube.com/watch?v=U3CGMyjzlvM).**
 
-[](https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif)
+![](https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMyMjE2MjksLTU5Mzg5NzkzNSwxNT
-c3MTYwMzUxXX0=
+eyJoaXN0b3J5IjpbLTQxMzAxNzcwMiwtNTkzODk3OTM1LDE1Nz
+cxNjAzNTFdfQ==
 -->

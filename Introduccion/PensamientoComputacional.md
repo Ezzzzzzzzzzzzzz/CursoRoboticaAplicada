@@ -29,7 +29,25 @@ Este es un ejemplo de un diagrama de flujo para hacer un sándwich*.
 
 ![](http://robolution.mx/clases/pensamiento/pensamiento_3.jpg)
 
+# Lenguaje de programación
+
+Un lenguaje de programación es un lenguaje formal que pone en práctica una serie de instrucciones o algoritmos para resolver un problema o tarea específica; un lenguaje de programación permite controlar componentes físicos y lógicos o digitales (datos).
+
+Los lenguajes de programación, se conforman por símbolos y reglas de escritura o bien por construcciones gráficas que definen la estructura y el significado de los elementos, las acciones y las expresiones de un programa.
+
+Según el reporte de Octoverse, estos son los lenguajes de programación más usados del 2018:
+
+-   JavaScript - Para desarrollo web, videojuegos, realidad virtual, realidad aumentada o robótica.
+-   Java - Desarrollo web, aplicaciones móviles, realidad virtual y videojuegos.
+-   Python - Desarrollo backend, machine learning, análisis de datos y seguridad informática.
+-   PHP - Procesador de hipertexto para desarrollo web de contenido dinámico
+-   C++ - Aplicaciones de escritorio como juegos, navegadores y sistemas operativos, también se usa en realidad virtual y realidad aumentada.
+-   C# - Desarrollo de aplicaciones de escritorio en la plataforma .NET además de programación de videojuegos, apps móviles y backend para web.
+-   TypeScript - es un superset de JavaScript desarrollado por Microsoft.
+-   Shell - programas que funcionan en línea de comandos, manipulan archivos, lectura y escritura
+-   C - Es uno de los lenguajes más antiguos y usados en el mundo, se encuentra en el núcleo de Linux, Windows, Android y macOS.
+-   Ruby - Inspirado en Python y Perl, su uso es el desarrollo web del lado del backend.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjExMjAwLC01OTM4OTc5MzUsMTU3Nz
-E2MDM1MV19
+eyJoaXN0b3J5IjpbMjgxMTEwNjY0LDE0OTIxMTIwMCwtNTkzOD
+k3OTM1LDE1NzcxNjAzNTFdfQ==
 -->

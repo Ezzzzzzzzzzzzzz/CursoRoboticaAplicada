@@ -16,12 +16,16 @@ Un ejemplo es el cubo de Rubik, se trata de un rompecabezas mecánico inventado 
 
 # Diagramas de flujo
 
-Los diagramas de flujo usan formas especiales para representar diferentes tipos de acciones o pasos en un proceso.
+**Los diagramas de flujo usan formas especiales para representar diferentes tipos de acciones o pasos en un proceso.**
 
-El diseño de un algoritmo se hace mediante diagramas denominados diagramas de flujo. En ellos se simplifica la secuencia de pasos para iniciar o dar fin a un proceso, indicar el orden de la ejecución de las operaciones (pasos) o bien para señalar toma de decisiones. Los diagramas tienen diferentes tipos de  [símbolos](https://www.smartdraw.com/flowchart/simbolos-de-diagramas-de-flujo.htm)  que indican las funciones del proceso. Los elementos básicos de un diagrama de flujo son:
+El diseño de un algoritmo se hace mediante diagramas denominados diagramas de flujo. **En ellos se simplifica la secuencia de pasos para iniciar o dar fin a un proceso, indicar el orden de la ejecución de las operaciones (pasos) o bien para señalar toma de decisiones.** Los diagramas tienen diferentes tipos de  [símbolos](https://www.smartdraw.com/flowchart/simbolos-de-diagramas-de-flujo.htm)  que indican las funciones del proceso. 
+
+Los elementos básicos de un diagrama de flujo son:
 
 ![](http://robolution.mx/clases/pensamiento/pensamiento_2.jpg)
+
+### Ejemplo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTMyNTUzMiwtNTkzODk3OTM1LDE1Nz
+eyJoaXN0b3J5IjpbLTUwNTI1Mzk5MywtNTkzODk3OTM1LDE1Nz
 cxNjAzNTFdfQ==
 -->

@@ -39,15 +39,15 @@ Según el reporte de Octoverse, estos son los lenguajes de programación más us
 
 -   JavaScript - Para desarrollo web, videojuegos, realidad virtual, realidad aumentada o robótica.
 -   Java - Desarrollo web, aplicaciones móviles, realidad virtual y videojuegos.
-**-   Python - Desarrollo backend, machine learning, análisis de datos y seguridad informática.**
+-   **Python - Desarrollo backend, machine learning, análisis de datos y seguridad informática.**
 -   PHP - Procesador de hipertexto para desarrollo web de contenido dinámico
-**-   C++ - Aplicaciones de escritorio como juegos, navegadores y sistemas operativos, también se usa en realidad virtual y realidad aumentada.**
+-   **C++ - Aplicaciones de escritorio como juegos, navegadores y sistemas operativos, también se usa en realidad virtual y realidad aumentada.**
 -   C# - Desarrollo de aplicaciones de escritorio en la plataforma .NET además de programación de videojuegos, apps móviles y backend para web.
 -   TypeScript - es un superset de JavaScript desarrollado por Microsoft.
 -   Shell - programas que funcionan en línea de comandos, manipulan archivos, lectura y escritura
 -   C - Es uno de los lenguajes más antiguos y usados en el mundo, se encuentra en el núcleo de Linux, Windows, Android y macOS.
 -   Ruby - Inspirado en Python y Perl, su uso es el desarrollo web del lado del backend.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM0Nzc0MzIsMTQ5MjExMjAwLC01OT
-M4OTc5MzUsMTU3NzE2MDM1MV19
+eyJoaXN0b3J5IjpbLTE4OTQ0ODg4OCwxNDkyMTEyMDAsLTU5Mz
+g5NzkzNSwxNTc3MTYwMzUxXX0=
 -->

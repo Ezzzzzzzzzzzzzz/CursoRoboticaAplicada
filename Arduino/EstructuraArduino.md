@@ -2,7 +2,7 @@
 
 Prácticamente veremos la tarjeta **Arduino UNO** pero en general las diferentes tarjetas de Arduino son muy similares, **cuentan con pines tanto de salida como de entrada** con los cuales podremos leer nuestros dispositivos ya sea una señal de algún sensor u otro parámetro. También **enviar señales o datos por los pines de salida** los cuales veremos cómo funcionan más adelante para usar los Actuadores analógicos y digitales. 
 
-![](https://www.robomart.com/image/catalog/RM0058/02.jpg)
+![](https://controlautomaticoeducacion.com/wp-content/uploads/ArduinoPines.jpg)
 
 Aquí se presenta una imagen de la estructura, recordemos que usa un microcontrolador **ATMEGA328** para que funcionen todos nuestros dispositivos.
 
@@ -47,6 +47,6 @@ PIN   |    NOMBRE     |     DESCRIPCIÓN
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwNjI0OTE1LC00NzMxMjg2MCw0ODIzMT
-QwODNdfQ==
+eyJoaXN0b3J5IjpbLTIxMjA2ODg0ODcsNTgwNjI0OTE1LC00Nz
+MxMjg2MCw0ODIzMTQwODNdfQ==
 -->

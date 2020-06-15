@@ -77,15 +77,13 @@ Los símbolos electrónicos son una serie de iconos dados para representar los c
 | :--------------: | :-------------------: | :-----------: |
 | **Zumbador** | Información |![](http://robolution.mx/clases/electronica_basica/electronica_f5.jpg)
 |
-
-**Interruptor**
-
-![](http://robolution.mx/clases/electronica_basica/electronica_f6.jpg)
-
+| :--------------: | :-------------------: | :-----------: |
+| **Interruptor** |  |![](http://robolution.mx/clases/electronica_basica/electronica_f6.jpg)
+|
 **Pulsador**
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_f7.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTMwMDE1LC0yMDk4ODk1Nzk5LDM3Mj
-gwMjEwNV19
+eyJoaXN0b3J5IjpbMTU2NjMwOTQwOSwtMjA5ODg5NTc5OSwzNz
+I4MDIxMDVdfQ==
 -->

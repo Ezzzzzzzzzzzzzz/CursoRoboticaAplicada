@@ -23,6 +23,8 @@ La corriente alterna es el tipo de corriente más empleado en la industria y es 
 # Voltaje
 Cuando los electrones se mueven entre los átomos en un circuito, se crea una corriente de electricidad. Es este "flujo de electrones" lo que generalmente pensamos como electricidad. La energía eléctrica almacenada en una batería es como el agua almacenada en una torre de agua.
 
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec001.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec001.JPG)
+
 Cuando le da a la energía de la batería una forma de salir, fluirá en una dirección que tenga menos energía eléctrica. La "salida" es un material conductor como el alambre de cobre.
 
 Medido en voltios (V), el voltaje mide la fuerza que hace que los electrones viajen. Dicho de otra manera, mide cuánta energía potencial existe entre dos puntos en un circuito.
@@ -31,5 +33,5 @@ Medido en voltios (V), el voltaje mide la fuerza que hace que los electrones via
 
 Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza para medir la electricidad y se define como: la oposición que se presenta al paso de la corriente. La unidad que se utiliza para medir la resistencia es el ohmio (Ω) y se se representa con la letra R.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyODAyMTA1XX0=
+eyJoaXN0b3J5IjpbLTE4NDUxNzg1OTMsMzcyODAyMTA1XX0=
 -->

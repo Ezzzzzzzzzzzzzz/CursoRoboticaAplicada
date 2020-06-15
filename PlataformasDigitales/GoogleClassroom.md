@@ -1,6 +1,6 @@
 # Google Classroom
 
-Classroom es un paquete gratuito de herramientas de productividad que incluye correo electrónico, documentos y espacio de almacenamiento. 
+**Classroom es un paquete gratuito** de herramientas de productividad que incluye correo electrónico, documentos y espacio de almacenamiento. 
 
 Google Classroom funciona con Documentos y Formularios de Google, Calendar, **Gmail** y Drive.
 
@@ -8,5 +8,5 @@ Google Classroom funciona con Documentos y Formularios de Google, Calendar, **Gm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzMwMzIzOSwxNTc5MjU2NTI5XX0=
+eyJoaXN0b3J5IjpbMjAwMzE0OTM4MywxNTc5MjU2NTI5XX0=
 -->

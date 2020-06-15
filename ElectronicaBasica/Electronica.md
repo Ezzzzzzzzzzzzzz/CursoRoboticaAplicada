@@ -55,8 +55,56 @@ Estos dispositivos de interacción, se conectan a puertos de Entrada y Salida de
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_4.jpg)
 
+### Simbolos de componentes[[-]](http://robolution.mx/clases/electronica_basica/clase.html#)
 
+Tabla de entradas y salidas
+
+Los símbolos electrónicos son una serie de iconos dados para representar los componentes reales de los circuitos electrónicos.
+
+Componente
+
+Símbolo eléctrico
+
+Fotografía
+
+**Pila**
+
+Motor
+
+![](http://robolution.mx/clases/electronica_basica/electronica_f1.jpg)
+
+**Cable**
+
+LED
+
+![](http://robolution.mx/clases/electronica_basica/electronica_f2.jpg)
+
+**Bombilla**
+
+Bocina
+
+![](http://robolution.mx/clases/electronica_basica/electronica_f3.jpg)
+
+**Motor Eléctrico**
+
+Audífonos
+
+![](http://robolution.mx/clases/electronica_basica/electronica_f4.jpg)
+
+**Zumbador**
+
+Información
+
+![](http://robolution.mx/clases/electronica_basica/electronica_f5.jpg)
+
+**Interruptor**
+
+![](http://robolution.mx/clases/electronica_basica/electronica_f6.jpg)
+
+**Pulsador**
+
+![](http://robolution.mx/clases/electronica_basica/electronica_f7.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDcwNTY3LC0yMDk4ODk1Nzk5LDM3Mj
-gwMjEwNV19
+eyJoaXN0b3J5IjpbLTIwNTIzODUwOTUsLTIwOTg4OTU3OTksMz
+cyODAyMTA1XX0=
 -->

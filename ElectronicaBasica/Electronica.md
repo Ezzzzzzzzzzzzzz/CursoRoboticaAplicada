@@ -62,7 +62,7 @@ Tabla de entradas y salidas
 Los símbolos electrónicos son una serie de iconos dados para representar los componentes reales de los circuitos electrónicos.
 
 | Componente | Símbolo eléctrico | Fotografía |
-
+| :--------------: | :-------------------: | :-----------: |
 **Pila**
 
 Motor
@@ -101,6 +101,6 @@ Información
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_f7.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTUxMTg0NywtMjA5ODg5NTc5OSwzNz
-I4MDIxMDVdfQ==
+eyJoaXN0b3J5IjpbMzc0ODI5OTY1LC0yMDk4ODk1Nzk5LDM3Mj
+gwMjEwNV19
 -->

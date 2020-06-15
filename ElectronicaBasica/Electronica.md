@@ -54,7 +54,9 @@ Un Circuito Eléctrico es un conjunto de elementos conectados entre sí por los 
 Estos dispositivos de interacción, se conectan a puertos de Entrada y Salida del  [micro:bit](https://microbit.org/es/guide/features/)  (0, 1 y 2)
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_4.jpg)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTkwMzE2NSwtMjA5ODg5NTc5OSwzNz
-I4MDIxMDVdfQ==
+eyJoaXN0b3J5IjpbLTI3NDcwNTY3LC0yMDk4ODk1Nzk5LDM3Mj
+gwMjEwNV19
 -->

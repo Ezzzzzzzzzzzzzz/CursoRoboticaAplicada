@@ -32,6 +32,8 @@ Medido en voltios (V), el voltaje mide la fuerza que hace que los electrones via
 # Resistencia
 
 Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza para medir la electricidad y se define como: la oposición que se presenta al paso de la corriente. La unidad que se utiliza para medir la resistencia es el ohmio (Ω) y se se representa con la letra R.
+
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUxNzg1OTMsMzcyODAyMTA1XX0=
+eyJoaXN0b3J5IjpbLTEwOTE2NDU2NzcsMzcyODAyMTA1XX0=
 -->

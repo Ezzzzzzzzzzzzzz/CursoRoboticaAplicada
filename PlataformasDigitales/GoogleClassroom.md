@@ -4,9 +4,9 @@ Classroom es un paquete gratuito de herramientas de productividad que incluye co
 
 Google Classroom funciona con Documentos y Formularios de Google, Calendar, **Gmail** y Drive.
 
-![](https://w7.pngwing.com/pngs/275/623/png-transparent-g-suite-google-classroom-student-student-text-class-rectangle-thumbnail.png)
+![](https://www.ujmd.edu.sv/wp-content/uploads/2020/04/Google-Clasroom.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzY4Nzg0OCwxNTc5MjU2NTI5XX0=
+eyJoaXN0b3J5IjpbMTY1NzMwMzIzOSwxNTc5MjU2NTI5XX0=
 -->

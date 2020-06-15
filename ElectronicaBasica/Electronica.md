@@ -65,12 +65,12 @@ Los símbolos electrónicos son una serie de iconos dados para representar los c
 | :--------------: | :-------------------: | :-----------: |
 | **Pila** | ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.G6ZVXoFpT52QP3eHz7wM7gAAAA%26pid%3DApi&f=1) |![](http://robolution.mx/clases/electronica_basica/electronica_f1.jpg)
 | **LED** | ![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.clipartbest.com%2Fcliparts%2F9cR%2Fb8x%2F9cRb8xdoi.jpg&f=1&nofb=1) | ![](http://robolution.mx/clases/electronica_basica/electronica_f2.jpg)
-| **Bombilla** | Bocina |![](http://robolution.mx/clases/electronica_basica/electronica_f3.jpg)
+| **Resistencia** | Bocina |![](http://robolution.mx/clases/electronica_basica/electronica_f3.jpg)
 | **Motor Eléctrico** | Audífonos |![](http://robolution.mx/clases/electronica_basica/electronica_f4.jpg)
 | **Zumbador** | Información |![](http://robolution.mx/clases/electronica_basica/electronica_f5.jpg)
 | **Interruptor** |  |![](http://robolution.mx/clases/electronica_basica/electronica_f6.jpg)
 | **Pulsador** |    |![](http://robolution.mx/clases/electronica_basica/electronica_f7.jpg)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI2ODMyNjEsNDU2MDc1NjkzLC03ND
+eyJoaXN0b3J5IjpbLTE4MDQxMzk0NjMsNDU2MDc1NjkzLC03ND
 cxNTUyMTksLTIwOTg4OTU3OTksMzcyODAyMTA1XX0=
 -->

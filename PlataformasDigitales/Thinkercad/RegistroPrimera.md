@@ -15,6 +15,9 @@
 4. Introduce tu contraseña y haz clic en **Siguiente**.
 
 ![](https://lh3.googleusercontent.com/XMlshTFv2qDZMD8s-1xz0OMC1OjC11G2GfTthWzYRMk9gGIBm7hw3_nhezxPogI3gLE=w219)
+
+5. Si todo ha salido bien deverias visualizar u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjE3NjQ4OCwxMjQwODI4NzYyXX0=
+eyJoaXN0b3J5IjpbLTIwNDM0ODYzNDQsLTk0MjE3NjQ4OCwxMj
+QwODI4NzYyXX0=
 -->

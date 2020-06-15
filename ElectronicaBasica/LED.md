@@ -12,6 +12,9 @@ Normalmente estas placas son usadas para realizar pruebas experimentales. Si la 
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_9.jpg)
 
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec007.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec007.JPG)
+
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec008.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec008.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTAyMDU5Nl19
+eyJoaXN0b3J5IjpbMTIwOTAyODUxMiwtMjY5MDIwNTk2XX0=
 -->

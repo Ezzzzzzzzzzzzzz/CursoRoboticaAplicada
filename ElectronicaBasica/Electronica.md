@@ -63,7 +63,7 @@ Los símbolos electrónicos son una serie de iconos dados para representar los c
 
 | Componente | Símbolo eléctrico | Fotografía |
 | :--------------: | :-------------------: | :-----------: |
-| **Pila** | Motor |![](http://robolution.mx/clases/electronica_basica/electronica_f1.jpg)
+| **Pila** | ![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.clipartbest.com%2Fcliparts%2Fdc7%2FoBx%2Fdc7oBxqzi.png&f=1&nofb=1) |![](http://robolution.mx/clases/electronica_basica/electronica_f1.jpg)
 | **Cable** | LED | ![](http://robolution.mx/clases/electronica_basica/electronica_f2.jpg)
 | **Bombilla** | Bocina |![](http://robolution.mx/clases/electronica_basica/electronica_f3.jpg)
 | **Motor Eléctrico** | Audífonos |![](http://robolution.mx/clases/electronica_basica/electronica_f4.jpg)
@@ -71,6 +71,6 @@ Los símbolos electrónicos son una serie de iconos dados para representar los c
 | **Interruptor** |  |![](http://robolution.mx/clases/electronica_basica/electronica_f6.jpg)
 | **Pulsador** |    |![](http://robolution.mx/clases/electronica_basica/electronica_f7.jpg)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2MDc1NjkzLC03NDcxNTUyMTksLTIwOT
-g4OTU3OTksMzcyODAyMTA1XX0=
+eyJoaXN0b3J5IjpbLTk3OTU0OTEzOCw0NTYwNzU2OTMsLTc0Nz
+E1NTIxOSwtMjA5ODg5NTc5OSwzNzI4MDIxMDVdfQ==
 -->

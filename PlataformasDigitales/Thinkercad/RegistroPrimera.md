@@ -16,8 +16,10 @@
 
 ![](https://lh3.googleusercontent.com/XMlshTFv2qDZMD8s-1xz0OMC1OjC11G2GfTthWzYRMk9gGIBm7hw3_nhezxPogI3gLE=w219)
 
-5. Si todo ha salido bien deverias visualizar u
+5. Si todo ha salido bien deberías visualizar la siguiente pantalla.
+
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PlataformasDigitales/Thinkercad/T003.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PlataformasDigitales/Thinkercad/T003.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM0ODYzNDQsLTk0MjE3NjQ4OCwxMj
-QwODI4NzYyXX0=
+eyJoaXN0b3J5IjpbLTM1NDUzNTU5MCwtOTQyMTc2NDg4LDEyND
+A4Mjg3NjJdfQ==
 -->

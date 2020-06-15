@@ -1,4 +1,4 @@
-# Google Classroom
+# Iniciar sesión por primera vez 
 
 **Classroom es un paquete gratuito** de herramientas de productividad que incluye correo electrónico, documentos y espacio de almacenamiento. 
 
@@ -6,7 +6,6 @@ Google Classroom funciona con Documentos y Formularios de Google, Calendar, **Gm
 
 ![](https://www.ujmd.edu.sv/wp-content/uploads/2020/04/Google-Clasroom.png)
 
-## Iniciar sesión por primera vez
 
 1. Ve a [classroom.google.com](https://classroom.google.com/) y haz clic en **Ir a Classroom**
 ![](https://lh3.googleusercontent.com/FDKYy7Rcd_ykSEcXdevRbEWn6vgVnJZlvXuyNzQsohnISwQCGE9v_oLHJCJUsXh8b5I=w350)
@@ -28,6 +27,6 @@ Google Classroom funciona con Documentos y Formularios de Google, Calendar, **Gm
 6. Haz clic en **Empezar**.
 ![](https://lh3.googleusercontent.com/sp125EtLxB4wBSdMmyaXLzvfrHrc1Ug643SsTMz5YRJ4MPX690fMLbpPI5UpyGkICVv-=w250)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzkyMTYzMywyMDAzMTQ5MzgzLDE1Nz
-kyNTY1MjldfQ==
+eyJoaXN0b3J5IjpbMzU5MjA3ODMxLDIwMDMxNDkzODMsMTU3OT
+I1NjUyOV19
 -->

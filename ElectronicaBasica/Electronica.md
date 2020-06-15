@@ -69,9 +69,8 @@ Los símbolos electrónicos son una serie de iconos dados para representar los c
 | **Motor Eléctrico** | Audífonos |![](http://robolution.mx/clases/electronica_basica/electronica_f4.jpg)
 | **Zumbador** | Información |![](http://robolution.mx/clases/electronica_basica/electronica_f5.jpg)
 | **Interruptor** |  |![](http://robolution.mx/clases/electronica_basica/electronica_f6.jpg)
-|
-**Pulsador** |    |![](http://robolution.mx/clases/electronica_basica/electronica_f7.jpg)|
+| **Pulsador** |    |![](http://robolution.mx/clases/electronica_basica/electronica_f7.jpg)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAyMDIyNjksLTc0NzE1NTIxOSwtMj
-A5ODg5NTc5OSwzNzI4MDIxMDVdfQ==
+eyJoaXN0b3J5IjpbNDU2MDc1NjkzLC03NDcxNTUyMTksLTIwOT
+g4OTU3OTksMzcyODAyMTA1XX0=
 -->

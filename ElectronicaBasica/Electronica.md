@@ -68,9 +68,9 @@ Los símbolos electrónicos son una serie de iconos dados para representar los c
 | **Resistencia** | ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.WkGYR5pFQULCVf5vAOQ3lQHaCw%26pid%3DApi&f=1) |![](http://robolution.mx/clases/electronica_basica/electronica_f3.jpg)
 | **Motor Eléctrico** | ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.jUHVYYBEPdBRVbN8A0LYMwHaFj%26pid%3DApi&f=1) |![](http://robolution.mx/clases/electronica_basica/electronica_f4.jpg)
 | **Zumbador** | ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.e_g4kTdRZhA7TYAYdmFvCQAAAA%26pid%3DApi&f=1) |![](http://robolution.mx/clases/electronica_basica/electronica_f5.jpg)
-| **Interruptor** |  |![](http://robolution.mx/clases/electronica_basica/electronica_f6.jpg)
-| **Pulsador** |    |![](http://robolution.mx/clases/electronica_basica/electronica_f7.jpg)|
+| **Interruptor** | ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-UaCI3wxGyFxYbrUvD20EwHaDJ%26pid%3DApi&f=1)  |![](http://robolution.mx/clases/electronica_basica/electronica_f6.jpg)
+| **Pulsador** |  ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.g1OWvcymBQNCXQ51fKmZKAAAAA%26pid%3DApi&f=1)  |![](http://robolution.mx/clases/electronica_basica/electronica_f7.jpg)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTgyNjI2MCw0NTYwNzU2OTMsLTc0Nz
+eyJoaXN0b3J5IjpbLTg4Nzg3NzYwOCw0NTYwNzU2OTMsLTc0Nz
 E1NTIxOSwtMjA5ODg5NTc5OSwzNzI4MDIxMDVdfQ==
 -->

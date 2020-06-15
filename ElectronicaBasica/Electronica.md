@@ -24,6 +24,8 @@ La corriente alterna es el tipo de corriente más empleado en la industria y es 
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_2.jpg)
 
+Medida en amperios (A), la corriente mide la cantidad de carga en un circuito durante un período de tiempo. El símbolo de corriente es I, que proviene de la intensité de courant francesa (que significa "intensidad de corriente").
+
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec003.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec003.JPG)
 
 # Voltaje
@@ -53,6 +55,6 @@ Estos dispositivos de interacción, se conectan a puertos de Entrada y Salida de
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_4.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTgwODg1NTksLTIwOTg4OTU3OTksMz
-cyODAyMTA1XX0=
+eyJoaXN0b3J5IjpbMTU1NTkwMzE2NSwtMjA5ODg5NTc5OSwzNz
+I4MDIxMDVdfQ==
 -->

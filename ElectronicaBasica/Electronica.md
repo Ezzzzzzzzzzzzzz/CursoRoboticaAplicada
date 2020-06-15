@@ -42,6 +42,17 @@ Medido en voltios (V), el voltaje mide la fuerza que hace que los electrones via
 Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza para medir la electricidad y se define como: la oposición que se presenta al paso de la corriente. La unidad que se utiliza para medir la resistencia es el ohmio (Ω) y se se representa con la letra R.
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG)
+
+
+
+# Circuitos  
+
+Un Circuito Eléctrico es un conjunto de elementos conectados entre sí por los que puede circular una corriente eléctrica. Los circuitos eléctricos son cerrados, sin embargo es posible abrirlos para interrumpir el paso de corriente mediante un interruptor, pulsador u otro elemento.
+
+Estos dispositivos de interacción, se conectan a puertos de Entrada y Salida del  [micro:bit](https://microbit.org/es/guide/features/)  (0, 1 y 2)
+
+![](http://robolution.mx/clases/electronica_basica/electronica_4.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg4OTU3OTksMzcyODAyMTA1XX0=
+eyJoaXN0b3J5IjpbLTIwNTgwODg1NTksLTIwOTg4OTU3OTksMz
+cyODAyMTA1XX0=
 -->

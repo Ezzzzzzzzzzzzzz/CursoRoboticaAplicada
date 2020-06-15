@@ -63,16 +63,10 @@ Los símbolos electrónicos son una serie de iconos dados para representar los c
 
 | Componente | Símbolo eléctrico | Fotografía |
 | :--------------: | :-------------------: | :-----------: |
-**Pila**
+| **Pila** | Motor |![](http://robolution.mx/clases/electronica_basica/electronica_f1.jpg)
+|
 
-Motor
-
-![](http://robolution.mx/clases/electronica_basica/electronica_f1.jpg)
-
-**Cable**
-
-LED
-
+| **Cable** | LED | 
 ![](http://robolution.mx/clases/electronica_basica/electronica_f2.jpg)
 
 **Bombilla**
@@ -101,6 +95,6 @@ Información
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_f7.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0ODI5OTY1LC0yMDk4ODk1Nzk5LDM3Mj
-gwMjEwNV19
+eyJoaXN0b3J5IjpbLTE0MTQ5MzU3ODUsLTIwOTg4OTU3OTksMz
+cyODAyMTA1XX0=
 -->

@@ -10,7 +10,11 @@ Utiliza una gran variedad de conocimientos, materiales y dispositivos, desde los
 
 Hay distintas maneras de generar una corriente eléctrica de hecho el planeta, la genera a partir de la fotosíntesis, las olas, el sol, el aire, etc. El cuerpo humano también es generador de corriente eléctrica.
 
-En la práctica, los dos tipos de corrientes eléctricas más comunes son: corriente directa (CD) o continua y corriente alterna (CA). La corriente directa circula siempre en un solo sentido, es decir, del polo negativo al positivo de la fuente de fuerza electromotriz (FEM) que la suministra. Esa corriente mantiene siempre fija su polaridad, como es el caso de las pilas, baterías y dinamos.
+En la práctica, los dos tipos de corrientes eléctricas más comunes son: corriente directa (CD) o continua y corriente alterna (CA). 
+
+
+
+La corriente directa circula siempre en un solo sentido, es decir, del polo negativo al positivo de la fuente de fuerza electromotriz (FEM) que la suministra. Esa corriente mantiene siempre fija su polaridad, como es el caso de las pilas, baterías y dinamos.
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_3.jpg)
 
@@ -39,5 +43,5 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzEwODY1NSwzNzI4MDIxMDVdfQ==
+eyJoaXN0b3J5IjpbODI4ODczMjEsMzcyODAyMTA1XX0=
 -->

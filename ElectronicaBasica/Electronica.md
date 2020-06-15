@@ -12,7 +12,7 @@ Hay distintas maneras de generar una corriente eléctrica de hecho el planeta, l
 
 En la práctica, los dos tipos de corrientes eléctricas más comunes son: corriente directa (CD) o continua y corriente alterna (CA). 
 
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec005.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec005.JPG)
 
 La corriente directa circula siempre en un solo sentido, es decir, del polo negativo al positivo de la fuente de fuerza electromotriz (FEM) que la suministra. Esa corriente mantiene siempre fija su polaridad, como es el caso de las pilas, baterías y dinamos.
 
@@ -43,5 +43,5 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4ODczMjEsMzcyODAyMTA1XX0=
+eyJoaXN0b3J5IjpbLTIwOTg4OTU3OTksMzcyODAyMTA1XX0=
 -->

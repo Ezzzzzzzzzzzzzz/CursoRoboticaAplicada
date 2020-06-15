@@ -70,9 +70,8 @@ Los símbolos electrónicos son una serie de iconos dados para representar los c
 | **Zumbador** | Información |![](http://robolution.mx/clases/electronica_basica/electronica_f5.jpg)
 | **Interruptor** |  |![](http://robolution.mx/clases/electronica_basica/electronica_f6.jpg)
 |
-**Pulsador** | |![](http://robolution.mx/clases/electronica_basica/electronica_f7.jpg)
-|
+**Pulsador** |    |![](http://robolution.mx/clases/electronica_basica/electronica_f7.jpg)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzE1NTIxOSwtMjA5ODg5NTc5OSwzNz
-I4MDIxMDVdfQ==
+eyJoaXN0b3J5IjpbLTIxNDAyMDIyNjksLTc0NzE1NTIxOSwtMj
+A5ODg5NTc5OSwzNzI4MDIxMDVdfQ==
 -->

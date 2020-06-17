@@ -33,15 +33,15 @@ Cuando los electrones se mueven entre los átomos en un circuito, se crea una co
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec001.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec001.JPG)
 
-Cuando le da a la energía de la batería una forma de salir, fluirá en una dirección que tenga menos energía eléctrica. La "salida" es un material conductor como el alambre de cobre.
+Cuando le da a la energía de la batería una forma de salir, fluirá en una dirección que tenga menos energía eléctrica. **La "salida" es un material conductor como el alambre de cobre**.
 
-Medido en voltios (V), el voltaje mide la fuerza que hace que los electrones viajen. Dicho de otra manera, mide cuánta energía potencial existe entre dos puntos en un circuito.
+Medido en **voltios (V)**, **el voltaje mide la fuerza que hace que los electrones viajen. Dicho de otra manera, mide cuánta energía potencial existe entre dos puntos en un circuito.**
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec002.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec002.JPG)
 
 # Resistencia
 
-Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza para medir la electricidad y se define como: la oposición que se presenta al paso de la corriente. La unidad que se utiliza para medir la resistencia es el ohmio (Ω) y se se representa con la letra R.
+Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza para medir la electricidad y se define como: **la oposición que se presenta al paso de la corriente. La unidad que se utiliza para medir la resistencia es el ohmio (Ω) y se se representa con la letra R.
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG)
 
@@ -50,7 +50,7 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjQ3MjU0NywxOTQ0Nzk3NTQxLDQ1Nj
+eyJoaXN0b3J5IjpbLTM0MTAzMzY5OSwxOTQ0Nzk3NTQxLDQ1Nj
 A3NTY5MywtNzQ3MTU1MjE5LC0yMDk4ODk1Nzk5LDM3MjgwMjEw
 NV19
 -->

@@ -6,6 +6,7 @@ Comenzaremos haciendo el programa clásico del **Blink** que en otro lenguaje de
 > - 1 Arduino
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
+## 
 ## Circuito
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T005.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T005.JPG)
@@ -30,5 +31,6 @@ void loop()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI2NTQzMjFdfQ==
+eyJoaXN0b3J5IjpbLTExNjI0ODMxNTUsLTIwNTI2NTQzMjFdfQ
+==
 -->

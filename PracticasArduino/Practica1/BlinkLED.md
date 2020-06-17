@@ -14,6 +14,9 @@ Comenzaremos haciendo el programa clásico del **blink** que en otro lenguaje de
 > - Jumpers (cables) 
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
+## Diagrama de bloques
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/DB001.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/DB001.JPG)
+
 ## Circuito
 
 ![BlinkLED](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/BlinkLED.JPG)
@@ -49,7 +52,7 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTMyNjkyNiwyMDEyNzIxNjQwLDEzMT
+eyJoaXN0b3J5IjpbLTEwMjEwNTk2MiwyMDEyNzIxNjQwLDEzMT
 U2NTYxMzgsLTE3MzA4ODQxMzEsLTIwMDM1NDg4OTksLTE1NDMw
 MzgxMjcsLTU5NTc4OTY1MCwtMTQ2ODg1NDc0MF19
 -->

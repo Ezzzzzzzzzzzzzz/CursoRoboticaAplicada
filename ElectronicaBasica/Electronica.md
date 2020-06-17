@@ -14,13 +14,13 @@ En la práctica, los dos tipos de corrientes eléctricas más comunes son: **cor
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec005.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec005.JPG)
 
-**La corriente directa circula siempre en un solo sentido**, es decir, del polo negativo al positivo de la fuente de fuerza electromotriz (FEM) que la suministra. Esa corriente mantiene siempre fija su polaridad, como es el caso de las pilas, baterías y dinamos.
+**La corriente directa circula siempre en un solo sentido**, es decir, del polo negativo al positivo de la fuente de fuerza electromotriz (FEM) que la suministra. Esa corriente mantiene siempre fija su polaridad, como es el caso de las **pilas**, **baterías** y **dinamos**.
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_3.jpg)
 
-La corriente alterna se diferencia de la directa en que cambia su sentido de circulación periódicamente y, por tanto, su polaridad. Esto ocurre tantas veces como frecuencia en hertz (Hz) tenga esa corriente. A la corriente directa (C.D.) también se le llama corriente continua (C.C.).
+**La corriente alterna se diferencia de la directa en que cambia su sentido de circulación periódicamente** y, por tanto, su polaridad. **Esto ocurre tantas veces como frecuencia en hertz (Hz)** tenga esa corriente. 
 
-La corriente alterna es el tipo de corriente más empleado en la industria y es también la que consumimos en nuestros hogares.
+La corriente alterna es el tipo de corriente más **empleado en la industria** y **es también la que consumimos en nuestros hogares**.
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_2.jpg)
 
@@ -50,6 +50,6 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Nzg5MTQ1Myw0NTYwNzU2OTMsLTc0Nz
+eyJoaXN0b3J5IjpbMTk0NDc5NzU0MSw0NTYwNzU2OTMsLTc0Nz
 E1NTIxOSwtMjA5ODg5NTc5OSwzNzI4MDIxMDVdfQ==
 -->

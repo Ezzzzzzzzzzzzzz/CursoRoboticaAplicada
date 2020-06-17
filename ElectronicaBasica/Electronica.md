@@ -24,12 +24,12 @@ La corriente alterna es el tipo de corriente más **empleado en la industria** y
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_2.jpg)
 
-Medida en amperios (A), la corriente mide la cantidad de carga en un circuito durante un período de tiempo. El símbolo de corriente es I, que proviene de la intensité de courant francesa (que significa "intensidad de corriente").
+Medida en **amperios (A)**, la corriente mide la cantidad de carga en un circuito durante un período de tiempo. El símbolo de corriente es **I**, que proviene de la *intensité de courant* francesa (que significa "intensidad de corriente").
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec003.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec003.JPG)
 
 # Voltaje
-Cuando los electrones se mueven entre los átomos en un circuito, se crea una corriente de electricidad. Es este "flujo de electrones" lo que generalmente pensamos como electricidad. La energía eléctrica almacenada en una batería es como el agua almacenada en una torre de agua.
+Cuando los electrones se mueven entre los átomos en un circuito, se crea una corriente de electricidad. Es este "flujo de electrones" lo que generalmente pensamos como electricidad. **La energía eléctrica almacenada en una batería es como el agua almacenada en una torre de agua.**
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec001.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec001.JPG)
 
@@ -50,6 +50,7 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDc5NzU0MSw0NTYwNzU2OTMsLTc0Nz
-E1NTIxOSwtMjA5ODg5NTc5OSwzNzI4MDIxMDVdfQ==
+eyJoaXN0b3J5IjpbLTQyNjQ3MjU0NywxOTQ0Nzk3NTQxLDQ1Nj
+A3NTY5MywtNzQ3MTU1MjE5LC0yMDk4ODk1Nzk5LDM3MjgwMjEw
+NV19
 -->

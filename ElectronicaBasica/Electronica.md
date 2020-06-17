@@ -1,8 +1,8 @@
 # Electrónica
 
-La electrónica es la rama de la física y especialización de la ingeniería, que estudia y emplea sistemas cuyo funcionamiento se basa en la conducción y el control del flujo de los electrones u otras partículas cargadas eléctricamente.
+**La electrónica es la rama de la física y especialización de la ingeniería**, que estudia y emplea sistemas cuyo funcionamiento **se basa en la conducción y el control del flujo de los electrones u otras partículas cargadas eléctricamente**.
 
-Utiliza una gran variedad de conocimientos, materiales y dispositivos, desde los semiconductores hasta los microchips. El diseño y la gran construcción de circuitos electrónicos para resolver problemas prácticos.
+Utiliza una gran variedad de conocimientos, materiales y dispositivos, desde los **semiconductores** hasta los **microchips**. El diseño y la gran construcción de circuitos electrónicos para resolver problemas prácticos.
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_1.png)
 
@@ -50,6 +50,6 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTU1MzIxMyw0NTYwNzU2OTMsLTc0Nz
+eyJoaXN0b3J5IjpbLTUyOTkyOTkxNyw0NTYwNzU2OTMsLTc0Nz
 E1NTIxOSwtMjA5ODg5NTc5OSwzNzI4MDIxMDVdfQ==
 -->

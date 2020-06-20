@@ -21,7 +21,7 @@ for(int i = 0; i <= 100 ; i++){
 	printf(“%d”, i);
 }
 ```
-![](https://sites.google.com/site/ticiitarraga/_/rsrc/1478433338602/01---programacion/01-1--diagramas-de-flujo/Captura%20de%20pantalla%202016-11-06%20a%20las%2012.52.31.png)
+![](https://www.okpedia.it/data/okpedia/algoritmo-funzione-for-linguaggio-c.gif)
 Como podemos ver en este ejemplo la variable **i** comienza en el valor constante **0**, **la primera condición declara que tiene que ser menor o igual a 100**, o sea que llegará al valor a 100, ahora en la **condición 2** que ya se ve vio anteriormente **hace un incremento en 1**. 
 
 Ahora en el siguiente ejemplo la **condición 1** cambia pero hace lo mismo que el primer ejemplo.
@@ -39,6 +39,6 @@ for(int i = 100; i >= 1 ; i--){
 Este ejemplo es similar a los anteriores pero al revés, **empieza en el número 100 y se hace un decremento en 1 cuando se evalúa la condición 1**, como en las explicaciones anteriores.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5Mjg1Nzg1LC0zNjkyMzM3MjIsLTE4NT
-E2OTkyNzZdfQ==
+eyJoaXN0b3J5IjpbLTE5MjU4MzExNjAsNDc5Mjg1Nzg1LC0zNj
+kyMzM3MjIsLTE4NTE2OTkyNzZdfQ==
 -->

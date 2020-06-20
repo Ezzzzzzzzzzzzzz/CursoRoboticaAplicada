@@ -3,7 +3,7 @@
 Se trata de realizar una variación sobre el ejemplo anterior de tal manera que **cuando el valor del contador llegue a 10 se ponga a cero y comience de nuevo**.
 
 
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT001.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT001.JPG)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT003.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT003.JPG)
 
 ## Material
 > - Arduino
@@ -65,5 +65,5 @@ void loop()
 ```
 ![](https://media.giphy.com/media/3o7aCXOWeyrF3Kt3LW/giphy.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjI3MDMxNV19
+eyJoaXN0b3J5IjpbLTEzNzk0ODYyOTMsMTU2MjI3MDMxNV19
 -->

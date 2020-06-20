@@ -49,8 +49,8 @@ void loop()
   estadoAnteriorBoton = valor;
 }
 ```
-
+![](https://media.giphy.com/media/8z2mlSy0xxwkw/giphy.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwMDkyMTY4LDE4OTk4MjM5OTMsMTcyOT
-MzMjQ5MV19
+eyJoaXN0b3J5IjpbLTE5NjMzNzA0ODksODkwMDkyMTY4LDE4OT
+k4MjM5OTMsMTcyOTMzMjQ5MV19
 -->

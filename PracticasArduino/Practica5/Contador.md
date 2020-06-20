@@ -1,6 +1,6 @@
 # Contador de Pulsos
 
-Se trata de contar las veces que se pulsa un botón conectado en la **pin 6** de **Arduino** a la vez que cada vez que contamos **encendemos el LED conectado en la salida 3**. El valor de la variable que almacena el número de impulsos generados se envía al PC para que se visualice en la pantalla.
+Se trata de contar las veces que se pulsa un botón conectado en la **pin 7** de **Arduino** a la vez que cada vez que contamos **encendemos el LED conectado en la salida 13**. El valor de la variable que almacena el número de impulsos generados se envía al PC para que se visualice en la pantalla.
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT001.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT001.JPG)
 
 ## Material
@@ -56,5 +56,5 @@ void loop()
 
 Creamos tres variables
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTMzMjQ5MV19
+eyJoaXN0b3J5IjpbMTg5OTgyMzk5MywxNzI5MzMyNDkxXX0=
 -->

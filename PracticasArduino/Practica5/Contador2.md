@@ -20,7 +20,7 @@ Se trata de realizar una variación sobre el ejemplo anterior de tal manera que 
 ## Codigo
 ```c
 #define LED 13 //Damos un alias a nuestro pin 13
-#define LED2 12 //Damos un alias a nuestro pin 13
+#define LED2 12 //Damos un alias a nuestro pin 12
 #define Boton 7 //Damos un alias a nuestro pin 7
 
 int valor = 0;
@@ -65,6 +65,6 @@ void loop()
 ```
 ![](https://media.giphy.com/media/3o7aCXOWeyrF3Kt3LW/giphy.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ4NzMxNDYsLTEzNzk0ODYyOTMsMT
+eyJoaXN0b3J5IjpbLTEwNjc2NDE1OTUsLTEzNzk0ODYyOTMsMT
 U2MjI3MDMxNV19
 -->

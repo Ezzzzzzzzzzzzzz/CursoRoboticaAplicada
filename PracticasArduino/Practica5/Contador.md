@@ -17,45 +17,40 @@ Se trata de contar las veces que se pulsa un botón conectado en la **pin 7** de
 
 ## Codigo
 ```c
-#define LED 2 //Damos un alias a nuestro pin 2
-#define Boton 3 //Damos un alias a nuestro pin 3
+#define LED 13 //Damos un alias a nuestro pin 2
+#define Boton 7 //Damos un alias a nuestro pin 3
 
-byte push_lee = 0; // variable tipo "byte"
-
-int estadoLed = 0;	// Variable global "estadoLed"
-int estadoAnterior = 0; // Variable global "estadoAnterior"
+int valor = 0;
+int contador = 0;
+int estadoAnteriorBoton = 0;
 
 void setup()
 {
+  Serial.begin(9600);
+  
   pinMode(LED, OUTPUT); // Definimos el pin LED como salida.
   pinMode(Boton, INPUT); // Definimos el pin Boton como entrada.
 }
+
 void loop()
 {
-  // Definimos nuestra secuencia.
-  push_lee = digitalRead(Boton); // Almacenamos en la variable la lectura del boton.
+  valor = digitalRead(Boton); // Lee el valor de la entrada digital en el pin7
+  digitalWrite(LED, valor);
   
-  if((push_lee == 1) && (estadoAnterior == 0))
-  { 
-    estadoLed = 1 - estadoLed;
-    delay(5);
-  }
-  estadoAnterior = push_lee;
-  
-  if(estadoLed == 1)
+  if(valor != estadoAnteriorBoton)
   {
-    digitalWrite(LED, HIGH);
+    if(valor == 1)
+    {
+      contador++;
+      Serial.print("Contador = ");
+      Serial.println(contador);
+    }
   }
-  else
-  {
-    digitalWrite(LED, LOW); 
-  }
+  estadoAnteriorBoton = valor;
 }
 ```
-## Explicación
 
-Creamos tres variables
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjQ3NDU4MSwxODk5ODIzOTkzLDE3Mj
-kzMzI0OTFdfQ==
+eyJoaXN0b3J5IjpbODkwMDkyMTY4LDE4OTk4MjM5OTMsMTcyOT
+MzMjQ5MV19
 -->

@@ -51,12 +51,12 @@ En este curso se trabajará con actuadores eléctricos, los cuáles serán los e
 En las áreas de electrónica, computación y robótica se han diseñado diferentes sensores que le permiten a los microcontroladores, percibir las variables relevantes de análisis y control, estos sensores tienen la capacidad de generar señales analogicas o digitales, lo que permite el análisis y el control de las variables por medio de actuadores.
 
 | ## Señal analógicas | En la naturaleza, el conjunto de señales que percibimos son analógicas, así la luz, el sonido, la energía etc, son señales que tienen una variación continua. Incluso la descomposición de la luz en el arco iris vemos cómo se realiza de una forma suave y continúa. | ![](http://robolution.mx/clases/electronica_aplicada_i/aplicada_2.jpg) |
-| :--------: 
+| :--------: | :---------: | :--------: |
 ## Señal digital
 
 Los sistemas digitales, como por ejemplo el ordenador, usan la lógica de dos estados representados por dos niveles de tensión eléctrica, uno alto, H y otro bajo, L (de High y Low, respectivamente, en inglés). Por abstracción, dichos estados se sustituyen por ceros y unos, lo que facilita la aplicación de la lógica y la aritmética binaria. Si el nivel alto se representa por 1 y el bajo por 0, se habla de lógica positiva y en caso contrario de lógica negativa.
 
 ![](http://robolution.mx/clases/electronica_aplicada_i/aplicada_1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTAxMzYzMSwyMTY4MjE1MV19
+eyJoaXN0b3J5IjpbLTIwNzExNjUxNTAsMjE2ODIxNTFdfQ==
 -->

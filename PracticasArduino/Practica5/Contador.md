@@ -2,7 +2,6 @@
 
 Se trata de contar las veces que se pulsa un botón conectado en la **pin 7** de **Arduino** a la vez que cada vez que contamos **encendemos el LED conectado en la salida 13**. El valor de la variable que almacena el número de impulsos generados se envía al PC para que se visualice en la pantalla.
 
-![](https://media.giphy.com/media/8z2mlSy0xxwkw/giphy.gif)
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT001.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT001.JPG)
 
@@ -52,8 +51,8 @@ void loop()
   estadoAnteriorBoton = valor;
 }
 ```
-
+![](https://media.giphy.com/media/8z2mlSy0xxwkw/giphy.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzEwNTYzMyw4OTAwOTIxNjgsMTg5OT
-gyMzk5MywxNzI5MzMyNDkxXX0=
+eyJoaXN0b3J5IjpbNDMyNDczODk5LDg5MDA5MjE2OCwxODk5OD
+IzOTkzLDE3MjkzMzI0OTFdfQ==
 -->

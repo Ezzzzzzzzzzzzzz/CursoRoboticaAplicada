@@ -13,7 +13,7 @@ Se trata de contar las veces que se pulsa un botón conectado en la **pin 7** de
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 ## Circuito
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/BotonLED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/BotonLED.JPG)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT002.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT002.JPG)
 
 ## Codigo
 ```c
@@ -56,5 +56,6 @@ void loop()
 
 Creamos tres variables
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTgyMzk5MywxNzI5MzMyNDkxXX0=
+eyJoaXN0b3J5IjpbLTM2MjQ3NDU4MSwxODk5ODIzOTkzLDE3Mj
+kzMzI0OTFdfQ==
 -->

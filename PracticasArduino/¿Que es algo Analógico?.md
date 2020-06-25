@@ -22,6 +22,12 @@ En la siguiente imagen se muestra una gráfica de los ciclos de **PWM**:
 
 ![](https://i.pinimg.com/originals/ec/79/c9/ec79c97752fb5d8b9250dcafd4f514b0.png)
 
+El comando analogWrite () establece el ciclo de trabajo de una onda cuadrada dependiendo del valor que le pase:
+- Escribir un valor de 0 con analogWrite () indica una onda cuadrada con un ciclo de trabajo del 0 por ciento (siempre bajo).
+■ Escribir un 255 indica una onda cuadrada con un ciclo de trabajo del 100 por ciento (siempre alto).
+■ Escribir un 127 indica una onda cuadrada con un ciclo de trabajo del 50 por ciento (mitad alta del tiempo, mitad baja del tiempo).
+
+
 El **Arduino UNO tiene 6 salidas PWM**, las cuales son los pines **3**, **5**, **6**, **9**, **10**, **11** y están marcados con PWM
 o con **~**. 
 
@@ -30,7 +36,7 @@ o con **~**.
 Para escribir con estos pines usamos la función ``analogWrite([pin/alias],[valor/variable]);``, en valor o variable como bien comentamos solo recibe valores que estén entre **0** y **255**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY5MjE3NjIsMTU0NjU1OTQ4Niw4Nj
-A2NjAxOTYsMTE4MjMxMDE1OCwxNDQxMzg2NTUzLC05MzM1OTQ0
-NTEsLTE3NjkwNjE1NzksNTE4MzY1NDRdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzMzMTA0MSwtMTgzNjkyMTc2MiwxNT
+Q2NTU5NDg2LDg2MDY2MDE5NiwxMTgyMzEwMTU4LDE0NDEzODY1
+NTMsLTkzMzU5NDQ1MSwtMTc2OTA2MTU3OSw1MTgzNjU0NF19
 -->

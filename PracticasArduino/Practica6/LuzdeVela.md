@@ -11,7 +11,7 @@ Se trata de simular el movimiento de la llama de una vela. Hacemos uso de la ins
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 
 ## Circuito
-![](PracticasArduino/Practica6/PWMVela.JPG)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/PWMVela.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/PWMVela.JPG)
 
 ## Código
 ```c
@@ -40,5 +40,5 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzk1NDM5LDc1NjA0NzUzXX0=
+eyJoaXN0b3J5IjpbLTI3MjE3NDM1MSw3NTYwNDc1M119
 -->

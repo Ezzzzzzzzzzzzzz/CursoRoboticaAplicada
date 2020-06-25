@@ -15,30 +15,26 @@ Se trata de simular el movimiento de la llama de una vela. Hacemos uso de la ins
 
 ## Código
 ```c
-#define Led 5
+#define Led 5  // Selecciona un pin que contenga PWM
 
-int Brillo;
-int Tiempo = 15;
+int val = 0; //Define y pone en cero la variable "brillo"
+int delayval= 0; //Define el intervalo de cambio del valor de salida
 
 void setup()
 {
-  pinMode(Led, OUTPUT);
+  randomSeed(0); // Inicializa el generador de numeros aleatorios 
+  pinMode(Led, OUTPUT); // Declara el pin de salida el pin5
 }
+
 void loop()
 {
-  for(Brillo = 0; Brillo < 256; Brillo++)
-  {
-    	analogWrite(Led, Brillo);
-    	delay(Tiempo);
-	
-	/*
-	 ****************************
-	 * Escribe tu codigo AQUI!! *
-	 ****************************
-	 */
-  }
+  val = random(100, 255); //Genera un numero aleatorio entre 100 y 255 que le asigna a la variable val
+  analogWrite(Led, val); // Envia ese valor a la salida del pin5
+  
+  delayval = random(50, 150); // Genera un valor aleatorio entre 50 y 150
+  delay(delayval);  
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjE3NDM1MSw3NTYwNDc1M119
+eyJoaXN0b3J5IjpbMTIxNzYxNjEzOCw3NTYwNDc1M119
 -->

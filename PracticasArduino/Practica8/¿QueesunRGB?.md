@@ -1,6 +1,6 @@
 # ¿Qué es un Led RGB?
 
-El  **led RGB (Red, Green, Blue) es un led que combina estos tres colores**  para formar más de 16 millones de tonos de luz. De esta forma, dependiendo de la tonalidad pasada como parámetro, podemos emitir un colo de luz u otro. En mBot tenemos por defecto 2 led RGB en la parte superior del robot, no obstante, se puede adquirir por separado un módulo encargado para tal fin.
+El  **led RGB (Red, Green, Blue) es un led que combina estos tres colores**  para formar más de 16 millones de tonos de luz. De esta forma, dependiendo de la tonalidad pasada como parámetro, podemos emitir un colo de luz u otro. En mBot tenemos por defecto 2 led RGB en la parte superior del robot, no obstante, sSe puede adquirir por separado un módulo encargado para tal fin.
 
 ![Led RGB en mBot](https://www.programoergosum.com/images/cursos/251-led-rgb-del-robot-mbot/led-rgb.png)
 
@@ -19,5 +19,5 @@ Ahora bien, para poder «seleccionar» un color, lo que debemos es darle más in
 
 ![LED RGB 16M de colores 2](https://i2.wp.com/saber.patagoniatec.com/wp-content/uploads/2019/07/AntiqueHeartfeltDoctorfish-size_restricted.gif?w=1080&ssl=1 "LED RGB 16M de colores 4")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc3MjQwNl19
+eyJoaXN0b3J5IjpbLTE1ODI2NjI4ODMsLTE1NTc3MjQwNl19
 -->

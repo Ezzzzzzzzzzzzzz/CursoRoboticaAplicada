@@ -9,7 +9,7 @@ Antes de nada veamos las diferencias entre RGB y CMYK. El codigo RGB es un model
 
 ![RGB vs CMYK](https://www.programoergosum.com/images/cursos/251-led-rgb-del-robot-mbot/colores-rgb-cmyk.png)
 
-RGB vs CMYK
+# RGB vs CMYK
 
 Los colores del Led RGB vienen representados con números comprendidos entre el valor 0 y el valor 255. De esta forma, para componer el color rojo pondríamos el valor máximo del rojo y el valor mínimo de los otros colores, es decir, el rojo equivale a "R=255; G=0; B=0". Y así sucesivamente con el resto de colores.
 
@@ -19,5 +19,6 @@ Ahora bien, para poder «seleccionar» un color, lo que debemos es darle más in
 
 ![LED RGB 16M de colores 2](https://i2.wp.com/saber.patagoniatec.com/wp-content/uploads/2019/07/AntiqueHeartfeltDoctorfish-size_restricted.gif?w=1080&ssl=1 "LED RGB 16M de colores 4")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI2NjI4ODMsLTE1NTc3MjQwNl19
+eyJoaXN0b3J5IjpbNjM1NjIxMjgwLC0xNTgyNjYyODgzLC0xNT
+U3NzI0MDZdfQ==
 -->

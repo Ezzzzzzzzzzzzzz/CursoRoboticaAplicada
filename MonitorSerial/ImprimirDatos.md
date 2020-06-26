@@ -1,4 +1,4 @@
-# Leer una entrada Analógica
+# Imprimir datos por Monitor Serie
 
 En esta práctica leeremos un potenciómetro e imprimiremos los datos, esto ya se vio en la parte se sensores analógicos así que será muy fácil de entender, abajo se muestra el código, material y explicación de la práctica.
 
@@ -33,5 +33,5 @@ El código ya se vio en los temas anteriores, aquí solo se explicarán las part
 
 Ahora abriremos el monitor serial, verán que abajo dice 9600 baudio, recordemos que al principio del tema se mencionó que ambos extremos deben de tener la misma velocidad, al poner ``Serial.begin()`` en el ``setup()`` se configura el Arduino y su microcontrolador a la velocidad de 9600, ahora el otro extremo será la computadora en este caso se escoge nuevamente 9600 baudios en el monitor serial. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQxMjQ5OTIsODEzNzg4MzYxXX0=
+eyJoaXN0b3J5IjpbODEzNzg4MzYxLDgxMzc4ODM2MV19
 -->

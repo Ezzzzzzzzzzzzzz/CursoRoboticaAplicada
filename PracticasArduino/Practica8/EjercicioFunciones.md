@@ -15,8 +15,16 @@ void loop() {
 	apago();
 	delay(1000);
 }
+
+void enciendo() {
+Serial.println("Enciendo...");
+}
+
+void apago(){
+Serial.println("Apago...");
+}
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzgzNzA4M119
+eyJoaXN0b3J5IjpbLTExNzY5NDgwMjUsLTE5NzgzNzA4M119
 -->

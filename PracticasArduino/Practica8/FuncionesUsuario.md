@@ -33,10 +33,10 @@ Ventajas del uso de funciones:
 
 -   **Ayuda a tener organizado el código.**
 -   **Una función codifica una tarea en un lugar de nuestro sketch, así que la función solo debe ser pensada una sola vez.**
--   Reduce la probabilidad de errores al modificar el código.
--   Hacen que el tamaño del sketch sea menor porque el código de la función es reutilizado.
--   Facilita la lectura del código.
--   Hace más sencillo reutilizar código en otros sketches.
+-   **Reduce la probabilidad de errores al modificar el código.**
+-   **Hacen que el tamaño del sketch sea menor porque el código de la función es reutilizado.**
+-   **Facilita la lectura del código.**
+-   **Hace más sencillo reutilizar código en otros sketches.**
 
 Más información: [http://arduino.cc/en/Reference/FunctionDeclaration](http://arduino.cc/en/Reference/FunctionDeclaration)
 
@@ -44,11 +44,11 @@ Más información: [http://arduino.cc/en/Reference/FunctionDeclaration](http://a
 
 Generalmente los nombres de las funciones deben ser en minúscula, con las palabras separadas por un guión bajo, aplicándose éstos tanto como sea necesario para mejorar la legibilidad.
 
-“mixedCase” (primera palabra en minúscula) es aceptado únicamente en contextos en donde éste es el estilo predominante con el objetivo de mantener la compatibilidad con versiones anteriores.
+**“mixedCase”** (primera palabra en minúscula) es aceptado únicamente en contextos en donde éste es el estilo predominante con el objetivo de mantener la compatibilidad con versiones anteriores.
 
-En el caso de las clases, los nombres deben utilizar la convención “CapWords” (palabras que comienzan con mayúsculas).
+En el caso de las clases, los nombres deben utilizar la convención **“CapWords” (palabras que comienzan con mayúsculas).**
 
 Las funciones en Arduino pueden estar dentro del mismo fichero .ino o en otro fichero con extensión .ino dentro del directorio del sketch.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NzMyNTY1LC0xNjA4MTM1NDgzXX0=
+eyJoaXN0b3J5IjpbLTc2NDY5MzYxMSwtMTYwODEzNTQ4M119
 -->

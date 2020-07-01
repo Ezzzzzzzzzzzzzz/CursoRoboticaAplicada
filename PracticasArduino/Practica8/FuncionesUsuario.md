@@ -1,8 +1,10 @@
 # Funciones definidas por el usuario
 
-Una función es un bloque de código que tiene un nombre y un conjunto de instrucciones que son ejecutadas cuando se llama a la función. Son funciones setup() y loop() de las que ya se ha hablado.
+Una función es un bloque de código que tiene un nombre y un conjunto de instrucciones que son ejecutadas cuando se llama a la función. 
 
-Las funciones de usuario pueden ser escritas para realizar tareas repetitivas y para reducir el tamaño de un programa. Segmentar el código en funciones permite crear piezas de código que hacen una determinada tarea y volver al área del código desde la que han sido llamadas.
+Son funciones **setup()** y **loop()** de las que ya se ha hablado.
+
+***Las funciones de usuario pueden ser escritas para realizar tareas repetitivas y para reducir el tamaño de un programa.*** Segmentar el código en funciones permite crear piezas de código que hacen una determinada tarea y volver al área del código desde la que han sido llamadas.
 
 ![](https://aprendiendoarduino.files.wordpress.com/2015/03/3c62c-dibujo-bmp.jpg?w=320)
 
@@ -46,5 +48,5 @@ En el caso de las clases, los nombres deben utilizar la convención “CapWords�
 
 Las funciones en Arduino pueden estar dentro del mismo fichero .ino o en otro fichero con extensión .ino dentro del directorio del sketch.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgxMzU0ODNdfQ==
+eyJoaXN0b3J5IjpbMjQxMjc0NDQ5LC0xNjA4MTM1NDgzXX0=
 -->

@@ -12,7 +12,26 @@ y = map(x, 1, 50, 50, -100);
 ```
 También es válido y funciona bien.
 
-La función **map()** usa  numero entera, por lo que no generará fracciones, cuando la matemática podría indicar que debería hacerlo. Los restos fraccionarios se truncan y no se redondean ni promedian.
+La función **map()** usa  numeros enteros, por lo que no generará fracciones, cuando la matemática podría indicar que debería hacerlo. *Los restos fraccionarios se truncan y no se redondean ni promedian.*
+
+## Sinataxis
+
+
+`map(value, fromLow, fromHigh, toLow, toHigh)`
+
+## Example Code
+
+```arduino
+/* Map an analog value to 8 bits (0 to 255) */
+void setup() {}
+
+void loop() {
+  int val = analogRead(0);
+  val = map(val, 0, 1023, 0, 255);
+  analogWrite(9, val);
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDAzODAwMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIwMjI1ODE1NDcsLTIwODg3NDY2MTJdfQ
+==
 -->

@@ -8,19 +8,21 @@ Son funciones **setup()** y **loop()** de las que ya se ha hablado.
 
 ![](https://aprendiendoarduino.files.wordpress.com/2015/03/3c62c-dibujo-bmp.jpg?w=320)
 
-Las funciones se declaran asociadas a un tipo de valor. Este valor será el que devolverá la función, por ejemplo ‘int’ se utilizará cuando la función devuelva un dato numérico de tipo entero. Si la función no devuelve ningún valor entonces se colocará delante la palabra “void”, que significa “función vacía”
+Las funciones se declaran asociadas a un tipo de valor. 
+
+Este valor será el que devolverá la función, por ejemplo **‘int’** se utilizará cuando la función devuelva un dato numérico de tipo entero. **Si la función no devuelve ningún valor entonces se colocará delante la palabra “void”, que significa “función vacía”**
 
 Sintaxis:
 ```c
 tipo nombreFunción(parámetros)
 {
-instrucciones;
+	instrucciones;
 }
 ```
 
 ![](https://www.arduino.cc/en/uploads/Reference/FuncAnatomy.png)
 
-Para llamar a una función, simplemente:
+**Para llamar a una función**, simplemente:
 ```c
 _nombreFunción(parámetros);
 ```
@@ -48,5 +50,5 @@ En el caso de las clases, los nombres deben utilizar la convención “CapWords�
 
 Las funciones en Arduino pueden estar dentro del mismo fichero .ino o en otro fichero con extensión .ino dentro del directorio del sketch.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMjc0NDQ5LC0xNjA4MTM1NDgzXX0=
+eyJoaXN0b3J5IjpbLTUwOTkxNDYwMywtMTYwODEzNTQ4M119
 -->

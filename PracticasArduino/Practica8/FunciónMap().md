@@ -14,12 +14,12 @@ También es válido y funciona bien.
 
 La función **map()** usa  numeros enteros, por lo que no generará fracciones, cuando la matemática podría indicar que debería hacerlo. *Los restos fraccionarios se truncan y no se redondean ni promedian.*
 
-## Sinataxis
+## Sintaxis
 
 
 `map(value, fromLow, fromHigh, toLow, toHigh)`
 
-## Example Code
+## Código de ejemplo
 
 ```arduino
 /* Map an analog value to 8 bits (0 to 255) */
@@ -32,6 +32,6 @@ void loop() {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI1ODE1NDcsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTE4MzcwNTE1OTEsLTIwMjI1ODE1NDcsLT
+IwODg3NDY2MTJdfQ==
 -->

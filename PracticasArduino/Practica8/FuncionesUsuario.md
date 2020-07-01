@@ -31,12 +31,12 @@ En una función que devuelve un valor siempre debe tener la instrucción **Retur
 
 Ventajas del uso de funciones:
 
--   Ayuda a tener organizado el código.
--   Una función codifica una tarea en un lugar de nuestro sketch, así que la función solo debe ser pensada una sola vez.
--   Reduce la probabilidad de errores al modificar el código.
+   **Ayuda a tener organizado el código.
+   Una función codifica una tarea en un lugar de nuestro sketch, así que la función solo debe ser pensada una sola vez.
+Reduce la probabilidad de errores al modificar el código.
 -   Hacen que el tamaño del sketch sea menor porque el código de la función es reutilizado.
 -   Facilita la lectura del código.
--   Hace más sencillo reutilizar código en otros sketches.
+-   Hace más sencillo reutilizar código en otros sketches.**
 
 Más información: [http://arduino.cc/en/Reference/FunctionDeclaration](http://arduino.cc/en/Reference/FunctionDeclaration)
 
@@ -50,5 +50,5 @@ En el caso de las clases, los nombres deben utilizar la convención “CapWords�
 
 Las funciones en Arduino pueden estar dentro del mismo fichero .ino o en otro fichero con extensión .ino dentro del directorio del sketch.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTkxNDYwMywtMTYwODEzNTQ4M119
+eyJoaXN0b3J5IjpbMTk2NzMyNzYwOCwtMTYwODEzNTQ4M119
 -->

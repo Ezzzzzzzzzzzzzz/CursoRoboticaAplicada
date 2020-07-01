@@ -17,14 +17,15 @@ void loop() {
 }
 
 void enciendo() {
-Serial.println("Enciendo...");
+	Serial.println("Enciendo...");
 }
 
 void apago(){
-Serial.println("Apago...");
+	Serial.println("Apago...");
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY5NDgwMjUsLTE5NzgzNzA4M119
+eyJoaXN0b3J5IjpbLTM2MjMxMzU0NSwtMTE3Njk0ODAyNSwtMT
+k3ODM3MDgzXX0=
 -->

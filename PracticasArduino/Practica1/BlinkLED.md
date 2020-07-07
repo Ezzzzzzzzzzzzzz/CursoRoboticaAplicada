@@ -50,10 +50,10 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 
 
-Written by  [@Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
+Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTEyNjYyLC0xMDIxMDU5NjIsMjAxMj
-cyMTY0MCwxMzE1NjU2MTM4LC0xNzMwODg0MTMxLC0yMDAzNTQ4
-ODk5LC0xNTQzMDM4MTI3LC01OTU3ODk2NTAsLTE0Njg4NTQ3ND
-BdfQ==
+eyJoaXN0b3J5IjpbMTkwNzk1MjU1MiwtMTAyMTA1OTYyLDIwMT
+I3MjE2NDAsMTMxNTY1NjEzOCwtMTczMDg4NDEzMSwtMjAwMzU0
+ODg5OSwtMTU0MzAzODEyNywtNTk1Nzg5NjUwLC0xNDY4ODU0Nz
+QwXX0=
 -->

@@ -2,7 +2,7 @@
 
 Pretendemos escribir dos funciones **enciendo()** y **apago()** que describan por el monitor serial si el led conectado al Arduino esta encendido o apagado. 
 
-```arduino
+```c
 void setup() {
  Serial.begin(9600);
  pinMode(13, OUTPUT);
@@ -51,6 +51,6 @@ int myMultiplyFunction(int x,  int y){
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODg1NTQ0NywtMTY1MTMzNTk0MCwyMj
-UyMTE3OTAsLTExNzY5NDgwMjUsLTE5NzgzNzA4M119
+eyJoaXN0b3J5IjpbLTE2NTEzMzU5NDAsLTE2NTEzMzU5NDAsMj
+I1MjExNzkwLC0xMTc2OTQ4MDI1LC0xOTc4MzcwODNdfQ==
 -->

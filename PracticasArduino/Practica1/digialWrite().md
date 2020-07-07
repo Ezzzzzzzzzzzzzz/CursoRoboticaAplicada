@@ -24,7 +24,17 @@ digitalWrite (pin, valor)
 
 
 
+
+
+
+
+
+
+
+
+
+
 > Written for [@Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzIwNDQxNSw2OTQ2ODE3NzNdfQ==
+eyJoaXN0b3J5IjpbMzU2NzA3MjEzLDY5NDY4MTc3M119
 -->

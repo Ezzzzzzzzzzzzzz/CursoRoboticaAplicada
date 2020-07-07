@@ -16,7 +16,8 @@ pinMode(pin, modo);
 
 
 
-Written by  [@Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
+Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjMxNTMzMywtMTE1Mjk2MTE5M119
+eyJoaXN0b3J5IjpbMTk2Nzc3MTk5MywxOTk2MzE1MzMzLC0xMT
+UyOTYxMTkzXX0=
 -->

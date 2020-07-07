@@ -32,6 +32,10 @@ void loop()
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T004.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T004.JPG)
 
 
+
+
+Written by  [@Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2MjUwNDYxLC0yMDUyNjU0MzIxXX0=
+eyJoaXN0b3J5IjpbLTE5MzUyMjE3ODUsLTIwNTI2NTQzMjFdfQ
+==
 -->

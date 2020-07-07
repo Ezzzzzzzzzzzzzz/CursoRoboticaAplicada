@@ -9,7 +9,7 @@ Si el pin se ha configurado como una SALIDA con `pinMode()`, su voltaje se estab
 Si el pin está configurado como **ENTRADA**, `digitalWrite()` habilitará (**HIGH**) o deshabilitará (**LOW**) el pullup interno en el pin de entrada. 
 
 ## Sintaxis
-```arduino 
+```c
 digitalWrite(pin, valor);
 ```
 
@@ -21,5 +21,5 @@ digitalWrite(pin, valor);
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY2ODY4OTMsNjk0NjgxNzczXX0=
+eyJoaXN0b3J5IjpbLTE4MTcwMDk0MjYsNjk0NjgxNzczXX0=
 -->

@@ -14,7 +14,7 @@ Comenzaremos haciendo el programa clásico del **Blink** que en otro lenguaje de
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T005.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T005.JPG)
 
 ## Código  
-```arduino
+```c++
 void setup()
 {
   pinMode(13, OUTPUT);
@@ -36,6 +36,5 @@ void loop()
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM2OTM5MzQsLTIwNTI2NTQzMjFdfQ
-==
+eyJoaXN0b3J5IjpbLTE3NTI0MDE2OSwtMjA1MjY1NDMyMV19
 -->

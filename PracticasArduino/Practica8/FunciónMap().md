@@ -21,7 +21,7 @@ La función **map()** usa  numeros enteros, por lo que no generará fracciones, 
 
 ## Código de ejemplo
 
-```arduino
+```arduino 
 /* Map an analog value to 8 bits (0 to 255) */
 void setup() {}
 
@@ -32,6 +32,6 @@ void loop() {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNDI1MTM1LC0xODM3MDUxNTkxLC0yMD
+eyJoaXN0b3J5IjpbNzM0MjU0MjMxLC0xODM3MDUxNTkxLC0yMD
 IyNTgxNTQ3LC0yMDg4NzQ2NjEyXX0=
 -->

@@ -19,7 +19,7 @@ Esto puede ser usado con tiras de leds o leds RGB de alta potencia, **uniendo es
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/RGBPots.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/RGBPots.JPG)
 
 ## Código
-```arduino
+```c
 #define pinRed 11
 #define pinGreen 9
 #define pinBlue 10
@@ -62,6 +62,6 @@ Juega con los valores de PWM  de los tres potenciómetros para obtener tus color
 
 ![](https://i.pinimg.com/originals/b9/51/8f/b9518febac2756828254365fbae0c007.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NTQ5NzEzLDEwMTUwNDg1MjQsODU5MD
-k4OTk2LDE0MzA1NDk0ODBdfQ==
+eyJoaXN0b3J5IjpbMTAxNTA0ODUyNCwxMDE1MDQ4NTI0LDg1OT
+A5ODk5NiwxNDMwNTQ5NDgwXX0=
 -->

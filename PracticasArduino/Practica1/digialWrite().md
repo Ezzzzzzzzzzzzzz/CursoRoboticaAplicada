@@ -10,7 +10,7 @@ Si el pin está configurado como **ENTRADA**, `digitalWrite()` habilitará (**HI
 
 ## Sintaxis
 ```c
-digitalWrite (pin, valor)
+digitalWrite(pin, valor);
 ```
 
 ## Parámetros
@@ -21,5 +21,5 @@ digitalWrite (pin, valor)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODUwMDUxNSw2OTQ2ODE3NzNdfQ==
+eyJoaXN0b3J5IjpbMTM3MTg4Njg5Miw2OTQ2ODE3NzNdfQ==
 -->

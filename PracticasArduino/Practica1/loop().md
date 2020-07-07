@@ -6,6 +6,9 @@ Después de crear una función `setup ()`, que inicializa y establece los valore
 ![](https://media.giphy.com/media/87dGn81U6RvMSRYoRe/giphy.gif)
 
 Úselo para controlar activamente la placa Arduino.
+
+Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNjQ2Mzk5LC00OTM4NDA1NTFdfQ==
+eyJoaXN0b3J5IjpbMTM3MTY2NTYwMyw1MTA2NDYzOTksLTQ5Mz
+g0MDU1MV19
 -->

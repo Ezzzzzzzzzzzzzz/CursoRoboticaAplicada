@@ -14,12 +14,12 @@ digitalWrite(pin, valor);
 ```
 
 ## Parámetros
-**pin:** el número de pin de Arduino.
-**valor:** HIGH (ALTO) o LOW (BAJO).
+**Pin:** el número de pin de Arduino.
+**Valor:** **HIGH** (ALTO) o **LOW** (BAJO).
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTg4Njg5Miw2OTQ2ODE3NzNdfQ==
+eyJoaXN0b3J5IjpbLTEzNTM1NTA5Miw2OTQ2ODE3NzNdfQ==
 -->

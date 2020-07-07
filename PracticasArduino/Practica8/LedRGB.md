@@ -16,7 +16,7 @@ En esta práctica se implementa lo visto anteriormente para controlar un **led R
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/LedRGB.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/LedRGB.JPG)
 
 ## Código
-```c
+```arduino
 #define pinRed 11
 #define pinGreen 9
 #define pinBlue 10
@@ -69,6 +69,6 @@ Primero definimos los pines a usar, con ``#define``, esto se explicó en los tem
 
 Ya en el ``loop()``, mandamos llamar a la función varias veces para poder hacer funcionar el led **RGB**, hacemos mezcla de colores con los colores básicos, **rojo (red)**, **verde (green)** y **azul (blue)**.  Con esto ya deben saber cómo usar la función ``analogWrite()`` y hacer manipulación del **PWM**, también a unir los temas anteriores entre sí. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDI0MTIzMywtMTUzMzE1MjIzOSwtMT
-k4NzUyMDAzNSw5NzcwNDg0NTNdfQ==
+eyJoaXN0b3J5IjpbLTE4MjE5NjQzNiwxNDc0MjQxMjMzLC0xNT
+MzMTUyMjM5LC0xOTg3NTIwMDM1LDk3NzA0ODQ1M119
 -->

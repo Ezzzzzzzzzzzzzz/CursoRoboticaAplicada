@@ -18,6 +18,8 @@ La estructura **else if** se evalúa así:
 
 Si se cumple el primer caso **(condición 1)**, se ejecuta lo que se encuentra en la **sentencia 1** y **si no se cumple se examina secuencialmente los siguientes casos (condiciones) hasta llegar al último else if**. Si ninguna condición es verdadera entonces se ejecutara la sentencia **n** que corresponde al último **else**. 
 
+![](https://drive.google.com/file/d/1UihIbpxJDCnV9HnDDXHfSvvC2K-yY4Fr/view?usp=sharing)
+
 El siguiente ejemplo se muestra cómo funciona:
  ```c
  int a = 10, b = 5, c = 11;
@@ -34,5 +36,5 @@ if(a < b){
 ```
 En este ejemplo podemos observar que las condiciones son falsas porque así lo hemos hecho, pero primero se evalúa la **condición 1** que es **a < b** y si no se cumple sigue con la **condición 2** que es **a == b** hasta llegar a una **condición verdadera** que es el último **else** ya que las anteriores han sido falsas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ4NTY2MDNdfQ==
+eyJoaXN0b3J5IjpbLTEzNDIyNDc5MSwtMTk1NDg1NjYwM119
 -->

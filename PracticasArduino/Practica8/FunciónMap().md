@@ -1,13 +1,13 @@
 # Función map()
 
 Vuelve a **mapear** un número de un rango a otro. Tenga en cuenta que los "límites inferiores" de cualquiera de los rangos pueden ser mayores o menores que los "límites superiores", por lo que la función **map()** se puede utilizar para invertir un rango de números, por ejemplo:
-```c
+```arduino
 y = map (x, 1, 50, 50, 1);
 ```
 
 La función también maneja bien los números negativos, por lo que este ejemplo
 
-```c
+```arduino
 y = map(x, 1, 50, 50, -100);
 ```
 También es válido y funciona bien.
@@ -32,6 +32,6 @@ void loop() {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzcwNTE1OTEsLTIwMjI1ODE1NDcsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNDYxNDI1MTM1LC0xODM3MDUxNTkxLC0yMD
+IyNTgxNTQ3LC0yMDg4NzQ2NjEyXX0=
 -->

@@ -18,7 +18,13 @@ digitalWrite (pin, valor)
 **valor:** HIGH (ALTO) o LOW (BAJO).
 
 
+
+
+
+
+
+
 > Written for [@Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0NjgxNzczXX0=
+eyJoaXN0b3J5IjpbLTMyNzIwNDQxNSw2OTQ2ODE3NzNdfQ==
 -->

@@ -81,7 +81,7 @@ boolean retorno(boolean previo)
   boolean actual = digitalRead(BOTON);		// Leer el estado del boton 
   if(previo != actual)		// Si es diferente
   {
- 	delay(5);				// Espera 5ms
+    delay(5);				// Espera 5ms
     actual = digitalRead(BOTON);	// Lee de nuevo
   }
   return actual;		//retorna el valor actual
@@ -99,5 +99,5 @@ void lightSegments(int number){
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5MTYyNTg0LC02ODA1OTQ2MTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNDk4ODIyNjgsLTY4MDU5NDYxNl19
 -->

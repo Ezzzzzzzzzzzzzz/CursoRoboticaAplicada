@@ -25,8 +25,22 @@ Los operandos del operador **&&** son: **o != 0** y **p != 0**. El resultado de 
 La función de la puerta lógica **AND** es la multiplicación, y viene representada de la siguiente manera:
 
 ![](https://aristoteles2pc.files.wordpress.com/2011/03/and-ok.jpg?w=147&zoom=2)
+
+Para comprender mejor el funcionamiento de esta puerta lógica, nos podemos servir de la tabla de verdad:
+
 ![](https://aristoteles2pc.files.wordpress.com/2011/03/tabla-de-verdad.png?w=225&h=296&zoom=2)
+
+## OR 
+La función de la puerta lógica **OR** es la suma, y viene representada de la siguiente manera:
+
+![](https://aristoteles2pc.files.wordpress.com/2011/03/orok.jpg?w=140&zoom=2)
+
+Y la tabla de verdad de la puerta OR es la siguiente:
+
+![](https://aristoteles2pc.files.wordpress.com/2011/03/or1.png)
+
+## NOT
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3OTI3NDk3LDE1OTcxNDk0NjUsLTE2MT
-k1NjQzODBdfQ==
+eyJoaXN0b3J5IjpbLTIwNjQ4MjUwOCwxNTk3MTQ5NDY1LC0xNj
+E5NTY0MzgwXX0=
 -->

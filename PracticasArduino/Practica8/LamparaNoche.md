@@ -24,8 +24,8 @@ const int VLED = 9;	// Pin 9 LED Verde
 const int ALED = 10;	// Pin 10 LED Azul
 const int BOTON = 2;	// Pin 2 BOTON 
 
-boolean estadoAntBoton = LOW;	// Estado anterior del Boton  
-boolean actualEstBoton = LOW;	// Estado actual del Boton 
+boolean estadoAntBoton = false;	// Estado anterior del Boton  
+boolean actualEstBoton = false;	// Estado actual del Boton 
 
 int ledMode = 0;	// Ciclo entre los estados del Boton
 
@@ -139,5 +139,5 @@ void seleccionEstado(int modo)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTMzMDExNTAsNTQ4MDM0NDE3XX0=
+eyJoaXN0b3J5IjpbMTU5OTMyMzk3MCw1NDgwMzQ0MTddfQ==
 -->

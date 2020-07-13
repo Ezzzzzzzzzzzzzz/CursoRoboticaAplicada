@@ -39,7 +39,7 @@ void setup()
 
 void loop()
 {
-  actualEstBoton = retorno(estadoAntBoton);	// Leer el estado de retorno 
+  actualEstBoton = retorno(estadoAntBoton);		// Leer el estado de retorno 
   
   if(estadoAntBoton == LOW && actualEstBoton == HIGH)	// Si el BOTON es presionado
   {
@@ -139,5 +139,5 @@ void seleccionEstado(int modo)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM1NTQ1MjAsNTQ4MDM0NDE3XX0=
+eyJoaXN0b3J5IjpbLTM4NjYxMDE3Niw1NDgwMzQ0MTddfQ==
 -->

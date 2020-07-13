@@ -20,7 +20,7 @@ Con esas habilidades, ahora puede conectar un LED RGB y un botón sin rebote par
 ## Código
 ```c
 const int RLED = 11;	// Pin 11 LED Rojo
-const int VLED = 9;		// Pin 9 LED Verde
+const int VLED = 9;	// Pin 9 LED Verde
 const int ALED = 10;	// Pin 10 LED Azul
 const int BOTON = 2;	// Pin 2 BOTON 
 
@@ -139,5 +139,5 @@ void seleccionEstado(int modo)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjI2ODA4Niw1NDgwMzQ0MTddfQ==
+eyJoaXN0b3J5IjpbLTE0OTMzMDExNTAsNTQ4MDM0NDE3XX0=
 -->

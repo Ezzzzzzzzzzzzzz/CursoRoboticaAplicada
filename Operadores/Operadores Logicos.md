@@ -40,7 +40,16 @@ Y la tabla de verdad de la puerta OR es la siguiente:
 ![](https://aristoteles2pc.files.wordpress.com/2011/03/or1.png)
 
 ## NOT
+
+La función de la puerta lógica **NOT** es la inversa, es decir, lo que aparece en la salida es lo contrario de lo que aparece en la entrada.  
+Se representa de la siguiente manera:
+
+![](https://aristoteles2pc.files.wordpress.com/2011/03/notok1.jpg?w=138&zoom=2)
+
+Viendo esta tabla de verdad comprenderemos mucho mejor e funcionamiento de la puerta lógica NOT:
+
+![](https://aristoteles2pc.files.wordpress.com/2011/03/not1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ4MjUwOCwxNTk3MTQ5NDY1LC0xNj
+eyJoaXN0b3J5IjpbLTU2ODUwMDUzMSwxNTk3MTQ5NDY1LC0xNj
 E5NTY0MzgwXX0=
 -->

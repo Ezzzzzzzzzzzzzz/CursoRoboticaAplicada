@@ -20,7 +20,7 @@ q = (o != 0) && (p != 0); // q = 0 (falso)
 Los operandos del operador **&&** son: **o != 0** y **p != 0**. El resultado de la expresión **o != 0 es verdadero** porque **o** vale **10** y **p != 0 es falso** porque **p** es **0**. Por lo tanto, **el resultado de verdadero && falso es falso**.
 
 ## Tablas de verdad
-
+![](https://sites.google.com/site/historiadelacomputador/_/rsrc/1441248174255/la-tabla-de-la-verdad-de-cicuitos-logicos/maja.png?height=235&width=400)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzQxNTY5NCwtMTYxOTU2NDM4MF19
+eyJoaXN0b3J5IjpbMTU5NzE0OTQ2NSwtMTYxOTU2NDM4MF19
 -->

@@ -66,7 +66,7 @@ boolean retorno(boolean previo)
   boolean actual = digitalRead(BOTON);		// Leer el estado del boton 
   if(previo != actual)		// Si es diferente
   {
- 	delay(5);				// Espera 5ms
+    delay(5);				// Espera 5ms
     actual = digitalRead(BOTON);	// Lee de nuevo
   }
   return actual;		//retorna el valor actual
@@ -139,5 +139,5 @@ void seleccionEstado(int modo)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjYxMDE3Niw1NDgwMzQ0MTddfQ==
+eyJoaXN0b3J5IjpbLTE1Mjc3NTM2ODYsNTQ4MDM0NDE3XX0=
 -->

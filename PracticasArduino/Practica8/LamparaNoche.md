@@ -19,50 +19,125 @@ Con esas habilidades, ahora puede conectar un LED RGB y un botón sin rebote par
 
 ## Código
 ```c
-#define pinRed 11
-#define pinGreen 9
-#define pinBlue 10
+const int RLED = 11;	// Pin 11 LED Rojo
+const int VLED = 9;	// Pin 10 LED Verde
+const int ALED = 10;		// Pin 9 LED Azul
+const int BOTON = 2;	// Pin 2 BOTON 
 
-int pausa = 1000;
+boolean estadoAntBoton = LOW;	// Estado anterior del Boton  
+boolean actualEstBoton = LOW;	// Estado actual del Boton 
+
+int ledMode = 0;	// Ciclo entre los estados del Boton
 
 void setup()
 {
-  pinMode(pinRed, OUTPUT);
-  pinMode(pinGreen, OUTPUT);
-  pinMode(pinBlue, OUTPUT);
+  pinMode(RLED, OUTPUT);	// RLED como salida
+  pinMode(VLED, OUTPUT); 	// VLED como salida
+  pinMode(ALED, OUTPUT); 	// ALED como salida
+  pinMode(BOTON, INPUT); 	// BOTON como entrada
 }
+
 void loop()
 {
-  // Colores basicos
-  color(255, 0, 0);	//Rojo
-  delay(pausa);
-  color(0, 255, 0); //Verde
-  delay(pausa);
-  color(0, 0, 255);	//Azul
-  delay(pausa);
-  // Colores mezclados
-  color(255, 255, 255); //Blanco
-  delay(pausa);
-  color(255, 0, 255); //Magenta
-  delay(pausa);
-  color(0, 255, 255); //Cian
-  delay(pausa);
-  color(204, 0, 51); //#CC0033
-  delay(pausa);
-  color(0, 0, 0); //Apagado
-  delay(pausa);
+  actualEstBoton = retorno(estadoAntBoton);	// Leer el estado de retorno 
+  
+  if(estadoAntBoton == LOW && actualEstBoton == HIGH)	// Si el BOTON es presionado
+  {
+    ledMode++;	// Incrementa el valor 
+  }
+  
+  estadoAntBoton = actualEstBoton;		// Resetea el valor del boton 
+  
+  // Si ya has pasado atravez de las diferentes opciones 
+  // resetea el contador a 0
+  if(ledMode == 8)
+    ledMode = 0;
+  
+  seleccionEstado(ledMode);	// Selecciona el estado del LED
+} 
+
+/*
+ * Funcion de retorno
+ * Se le da el estado previo del estado del boton,
+ * y obtenemos de retorno el estado actual del boton 
+ */
+boolean retorno(boolean previo)
+{
+  boolean actual = digitalRead(BOTON);		// Leer el estado del boton 
+  if(previo != actual)		// Si es diferente
+  {
+ 	delay(5);				// Espera 5ms
+    actual = digitalRead(BOTON);	// Lee de nuevo
+  }
+  return actual;		//retorna el valor actual
 }
 
-// Función para generar colores
-void color(int red, int green, int blue)
+/*
+ * Seleccion de Estado
+ * Pasa un numero para que se ajuste el estado de el led deacuerdo a el
+ */
+void seleccionEstado(int modo)
 {
-  analogWrite(pinRed, red);
-  analogWrite(pinGreen, green);
-  analogWrite(pinBlue, blue);
+  // ROJO
+  if (modo == 1)
+  {
+    digitalWrite(RLED, HIGH);
+    digitalWrite(VLED, LOW);
+    digitalWrite(ALED, LOW);
+  }
+  // VERDE
+  else if(modo == 2)
+  {
+    digitalWrite(RLED, LOW);
+    digitalWrite(VLED, HIGH);
+    digitalWrite(ALED, LOW);
+  }
+  // AZUL
+  else if(modo == 3)
+  {
+    digitalWrite(RLED, LOW);
+    digitalWrite(VLED, LOW);
+    digitalWrite(ALED, HIGH);
+  }
+  // PURPURA (ROJO + AZUL)
+  else if(modo == 4)
+  {
+    analogWrite(RLED, 127);
+    analogWrite(VLED, 0);
+    analogWrite(ALED, 127);
+  }
+  // VERDE AZULADO (AZUL + VERDE)
+  else if(modo == 5)
+  {
+    analogWrite(RLED, 0);
+    analogWrite(VLED, 127);
+    analogWrite(ALED, 127);
+  }
+  // NARANJA (VERDE + ROJO)
+  else if(modo == 6)
+  {
+    analogWrite(RLED, 255);
+    analogWrite(VLED, 165);
+    analogWrite(ALED, 0);
+  }
+  // BLANCO (VERDE + ROJO + AZUL)
+  else if(modo == 7)
+  {
+    analogWrite(RLED, 255);
+    analogWrite(VLED, 255);
+    analogWrite(ALED, 255);
+  }
+  // APAGADO/OFF (modo == 0)
+  else
+  {
+    analogWrite(RLED, 0);
+    analogWrite(VLED, 0);
+    analogWrite(ALED, 0);
+  }
 }
+  
 ```
 
-## Explicación
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MDM0NDE3XX0=
+eyJoaXN0b3J5IjpbLTEzNzM1NTQ1MjAsNTQ4MDM0NDE3XX0=
 -->

@@ -25,9 +25,9 @@ A cada uno de los segmentos que forman el display se les denomina **a**, **b**, 
 ```c
 #define BOTON 8 		// BOTON en pin 8 
 
-const int pins[8] = {0, 1, 2, 3, 4, 5, 6, 7}; // Array de 8 elementos conectados
+const int pins[8] = {0, 1, 2, 3, 4, 5, 6, 7}; // Array de 8 elementos conectados de pin 0 a pin 7
 
-const byte numbers[11] =		// Array de numeros de 0 a 10 en binario
+const byte numbers[11] =		// Array de numeros de 0 a 10 escritos en binario
 {
  0b00111111, //0 
  0b00000110, //1
@@ -39,7 +39,7 @@ const byte numbers[11] =		// Array de numeros de 0 a 10 en binario
  0b00000111, //7
  0b01111111, //8
  0b01101111, //9
- 0b10000110, //10 
+ 0b10000110 //10 
 };
 
 boolean estadoAntBoton = false;	// Estado anterior del Boton  
@@ -49,13 +49,13 @@ int ledNumber = 0;	// Ciclo entre los estados del Boton
 
 void setup()
 {
-  pinMode(BOTON, INPUT);
+  pinMode(BOTON, INPUT);	// Boton conectado como entrada
   
-  for(int i = 0; i < 9; i++){
+  for(int i = 0; i < 9; i++){	// Configurar de pin 0 a pin 7 como SALIDA con un ciclo FOR
     pinMode(pins[i], OUTPUT);
   }
   
-  lightSegments(ledNumber);
+  lightSegments(ledNumber);		// Función para encender el display 
 }
 
 void loop()
@@ -72,8 +72,8 @@ void loop()
   // resetea el contador a 0
   if(ledNumber == 11)
     ledNumber = 0;
-  
-  lightSegments(ledNumber);	// Selecciona el estado del LED
+
+   lightSegments(ledNumber);	// Selecciona el estado del LED
 }
 
 boolean retorno(boolean previo)
@@ -99,5 +99,5 @@ void lightSegments(int number){
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDU5NDYxNl19
+eyJoaXN0b3J5IjpbMjk5MTYyNTg0LC02ODA1OTQ2MTZdfQ==
 -->

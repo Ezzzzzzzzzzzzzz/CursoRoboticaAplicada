@@ -11,7 +11,7 @@
 
 ## Ánodo común
 
-![]](https://hetpro-store.com/TUTORIALES/wp-content/uploads/2018/01/Display-7-segmentos-anodo-comun.jpg)
+![](https://hetpro-store.com/TUTORIALES/wp-content/uploads/2018/01/Display-7-segmentos-anodo-comun.jpg)
 
 ![](https://http2.mlstatic.com/display-7-segmentos-5611ah-catodo-comun-arduino-pic-arm-avr-D_NQ_NP_835181-MLV25645714860_062017-F.jpg)
 
@@ -24,5 +24,5 @@ La tabla indica que, si queremos que se muestre en nuestro **display ánodo com�
 
 Para mostrar números largos de más de un dígito se usan Display de 2, 3, 4, etc. dígitos, pero se usa el **multiplexado** que en simples palabras engaña a la vista prendiendo y apagando el display muy rápidamente para que se vea que se forma un número compuesto, aunque en verdad primero saca un numero en todos los display pero se apaga en los que no debe aparecer ese número y así sucesivamente con los demás.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk3NDg0MzVdfQ==
+eyJoaXN0b3J5IjpbMjEzOTcwODUzNiwtMTc1OTc0ODQzNV19
 -->

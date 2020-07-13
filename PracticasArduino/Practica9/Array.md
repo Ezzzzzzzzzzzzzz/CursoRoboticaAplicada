@@ -16,6 +16,10 @@ Todos los métodos a continuación son formas válidas de crear (declarar) una m
 > - Finalmente, puede inicializar y dimensionar su matriz, como en **mySensVals**. 
 > - Tenga en cuenta que al declarar una matriz de tipo **char**, se requiere un elemento más que su inicialización para contener el carácter nulo requerido.
 
+
+![](https://i0.wp.com/www.tutorialspoint.com/images/java_array.jpg?zoom=2)
+
+
 ## Accediendo a un Array
 
 Los **arrays** están indexadas a cero, **es decir, en referencia a la inicialización de la matriz anterior, el primer elemento de la matriz está en el índice 0, por lo tanto**
@@ -56,5 +60,6 @@ for (byte i = 0; i < 5; i = i + 1) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjY1NzMwMiwzMTI3ODQ2MTNdfQ==
+eyJoaXN0b3J5IjpbNDk0NDA2NzMyLDEzNjI2NTczMDIsMzEyNz
+g0NjEzXX0=
 -->

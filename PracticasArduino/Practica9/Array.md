@@ -2,6 +2,8 @@
 ## Descripción
 Una **array (matriz) es una colección de variables a las que se accede con un número de índice**. Los **array** en el lenguaje de programación C++ de los bocetos de Arduino pueden ser complicados, pero el uso de matrices simples es relativamente sencillo.
 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.claroshop.com%2Fproducto%2F1191049%2Fcomoda-cajonera-bertolini-565-4-cajones-caoba%2F&psig=AOvVaw1g16ODPuU6-IN5I79dbpWp&ust=1594995581329000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNicyN370eoCFQAAAAAdAAAAABAG)
+
 ## Crear (declarar) un Array (matriz)
 Todos los métodos a continuación son formas válidas de crear (declarar) una matriz.
 
@@ -60,6 +62,6 @@ for (byte i = 0; i < 5; i = i + 1) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0NDA2NzMyLDEzNjI2NTczMDIsMzEyNz
-g0NjEzXX0=
+eyJoaXN0b3J5IjpbMjg1ODc3NDYyLDQ5NDQwNjczMiwxMzYyNj
+U3MzAyLDMxMjc4NDYxM119
 -->

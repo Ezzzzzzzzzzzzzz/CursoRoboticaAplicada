@@ -1,4 +1,4 @@
-# Array´s (arreglos o matrices) Multidimensionales
+# Array´s (arreglos o matrices) 2-D y Multidimensionales
 
 Las matrices con dos dimensiones (es decir, subíndices) a menudo representan tablas de valores que consisten en información organizada en **filas** y **columnas**. 
 
@@ -6,7 +6,7 @@ Las siguientes son las características clave de las matrices multidimensionales
 
 > - Para identificar un elemento de tabla en particular, debemos especificar dos subíndices. 
 >- Por convención, **el primero identifica la fila del elemento y el segundo identifica la columna** del elemento. 
->- Las matrices que requieren dos subíndices para identificar un elemento en particular se denominan matrices bidimensionales. 
+>- Las matrices que requieren dos subíndices para identificar un elemento en particular se denominan matrices bidimensionales o Array 2-D . 
 >- Las matrices con dos o más dimensiones se conocen como matrices multidimensionales y pueden tener más de dos dimensiones.
 
 La siguiente figura ilustra una matriz bidimensional, **"a"**. La matriz contiene **tres filas y cuatro columnas, por lo que es una matriz de 3 por 4**. En general, **una matriz con m filas y n columnas** se denomina matriz **m** x **n**.
@@ -57,6 +57,6 @@ int miArregloMulti3[ 5 ][ 3 ] = { { 1, 5, 6}, { 88, 3, 7}, { 58, 74, 66}, { 75, 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDEwMzgwOTUsODI0MTc2OTM5LDEzMT
-c4Mjc0XX0=
+eyJoaXN0b3J5IjpbLTE3NzU0MjM0OTYsLTEwNDEwMzgwOTUsOD
+I0MTc2OTM5LDEzMTc4Mjc0XX0=
 -->

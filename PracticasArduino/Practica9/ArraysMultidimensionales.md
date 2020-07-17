@@ -64,7 +64,22 @@ Los **arrays** están indexadas a cero, **es decir, en referencia a la inicializ
 También significa que en una matriz con diez elementos, el índice nueve es el último elemento. 
 
 ```c
-int b[ 2 ][ 2 ] = { { 1, 2 }, { 3, 4 } };`
+int miArray[2][3] = {{1, 2, 3} , {4, 5, 6}};
+int i = 0;
+
+void setup()
+{
+	Serial.begin(9600);
+}
+
+void loop()
+{
+	i = miArray[1][1];
+  	Serial.print("El valor es: ");
+    Serial.println(i);
+ 	
+  	delay(10000);
+}
 ```
 
 Para asignar un valor a una matriz:
@@ -73,6 +88,7 @@ Para asignar un valor a una matriz:
 Para recuperar un valor de una matriz:
 `x = mySensVals [4];`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDI4OTI1OCwtMTc3NTQyMzQ5NiwtMT
-A0MTAzODA5NSw4MjQxNzY5MzksMTMxNzgyNzRdfQ==
+eyJoaXN0b3J5IjpbMTkzMDYzNTYsLTc4NDI4OTI1OCwtMTc3NT
+QyMzQ5NiwtMTA0MTAzODA5NSw4MjQxNzY5MzksMTMxNzgyNzRd
+fQ==
 -->

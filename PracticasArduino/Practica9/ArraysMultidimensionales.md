@@ -9,6 +9,8 @@ Las siguientes son las características clave de las matrices multidimensionales
 >- Las matrices que requieren dos subíndices para identificar un elemento en particular se denominan matrices bidimensionales. 
 >- Las matrices con dos o más dimensiones se conocen como matrices multidimensionales y pueden tener más de dos dimensiones.
 
+
+
 ![](https://manualidadesybellasartes.es/175094-home_default/cajonera-madera-artemio-415x11x325-mm.jpg)
 
 ![](https://static.lolahome.es/media/catalog/product/cache/1/image/600x/9df78eab33525d08d6e5fb8d27136e95/c/a/cajonera-6-cajones-blanco-122823.jpg)
@@ -17,5 +19,5 @@ Las siguientes son las características clave de las matrices multidimensionales
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzgyNzRdfQ==
+eyJoaXN0b3J5IjpbLTE4OTI2Mjg5OTQsMTMxNzgyNzRdfQ==
 -->

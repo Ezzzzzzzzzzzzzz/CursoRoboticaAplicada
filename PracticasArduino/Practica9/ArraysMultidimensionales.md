@@ -37,16 +37,24 @@ int b[ 2 ][ 2 ] = { { 1 }, { 3, 4 } };
 ## Ejemplos 
 
 ```c
-int miArregloMulti[ 3 ][ 4 ] = { { 1, 5, 6, 8 }, { 88, 3, 7, 9 }, { 58, 74, 66, 848} };
+int miArregloMulti1[ 3 ][ 4 ] = { { 1, 5, 6, 8 }, { 88, 3, 7, 9 }, { 58, 74, 66, 848} };
 ```
 ![](https://manualidadesybellasartes.es/175094-home_default/cajonera-madera-artemio-415x11x325-mm.jpg)
 
+```c
+int miArregloMulti2[ 2 ][ 3 ] = { { 1, 5, 6 }, { 88, 3, 7}};
+```
+
 ![](https://static.lolahome.es/media/catalog/product/cache/1/image/600x/9df78eab33525d08d6e5fb8d27136e95/c/a/cajonera-6-cajones-blanco-122823.jpg)
+
+```c
+int miArregloMulti3[ 5 ][ 3 ] = { { 1, 5, 6}, { 88, 3, 7, }, { 58, 74, 66, 848} };
+```
 
 ![](https://habitkasa.es/wp-content/uploads/2019/11/MB-150626_9-600x400.jpg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU5Mzk0NzMsODI0MTc2OTM5LDEzMT
+eyJoaXN0b3J5IjpbLTIwMTcwMjI4MDYsODI0MTc2OTM5LDEzMT
 c4Mjc0XX0=
 -->

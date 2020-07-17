@@ -11,6 +11,7 @@ Las siguientes son las características clave de las matrices multidimensionales
 
 La siguiente figura ilustra una matriz bidimensional, **"a"**. La matriz contiene **tres filas y cuatro columnas, por lo que es una matriz de 3 por 4**. En general, **una matriz con m filas y n columnas** se denomina matriz **m** x **n**.
 
+![](https://www.tutorialspoint.com/arduino/images/multidimensional_array.jpg)
 ![](https://manualidadesybellasartes.es/175094-home_default/cajonera-madera-artemio-415x11x325-mm.jpg)
 
 ![](https://static.lolahome.es/media/catalog/product/cache/1/image/600x/9df78eab33525d08d6e5fb8d27136e95/c/a/cajonera-6-cajones-blanco-122823.jpg)
@@ -19,5 +20,5 @@ La siguiente figura ilustra una matriz bidimensional, **"a"**. La matriz contien
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDY4MTQxMiwxMzE3ODI3NF19
+eyJoaXN0b3J5IjpbLTE5MjQ3MzAxMjIsMTMxNzgyNzRdfQ==
 -->

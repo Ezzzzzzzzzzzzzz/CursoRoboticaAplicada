@@ -23,6 +23,10 @@ Una matriz multidimensional se puede inicializar en su declaración de forma muy
 
 Por ejemplo, una matriz bidimensional **b con valores 1 y 2 en sus elementos de la fila 0 y valores 3 y 4 en sus elementos de la fila 1** podría declararse e inicializarse de la siguiente manera:
 
+```c
+int b[ 2 ][ 2 ] = { { 1, 2 }, { 3, 4 } };`
+```
+
 
 ![](https://manualidadesybellasartes.es/175094-home_default/cajonera-madera-artemio-415x11x325-mm.jpg)
 
@@ -32,5 +36,5 @@ Por ejemplo, una matriz bidimensional **b con valores 1 y 2 en sus elementos de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTM5ODE5MSwxMzE3ODI3NF19
+eyJoaXN0b3J5IjpbMTgyNTkzMjA0OSwxMzE3ODI3NF19
 -->

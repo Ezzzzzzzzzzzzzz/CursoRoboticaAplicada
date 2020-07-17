@@ -23,11 +23,17 @@ Una matriz multidimensional se puede inicializar en su declaración de forma muy
 
 Por ejemplo, una matriz bidimensional **b con valores 1 y 2 en sus elementos de la fila 0 y valores 3 y 4 en sus elementos de la fila 1** podría declararse e inicializarse de la siguiente manera:
 
->- **Los valores se agrupan por fila entre llaves. Por lo tanto, 1 y 2 inicializan b [0] [0] yb [0] [1], respectivamente, y 3 y 4 inicializan b [1] [0] yb [1] [1], respectivamente.**
+```c
+int b[ 2 ][ 2 ] = { { 1, 2 }, { 3, 4 } };`
+```
 
->- Si no hay suficientes inicializadores para una fila dada, los elementos restantes de esa fila se inicializan a 0. Por lo tanto, la siguiente declaración inicializa b [0] [0] a 1, b [0] [1] a 0, b [ 1] [0] a 3 yb [1] [1] a 4.
+>- Los valores se agrupan por fila entre llaves. Por lo tanto, 1 y 2 inicializan **b [0] [0] yb [0] [1], respectivamente, y 3 y 4 inicializan b [1] [0] yb [1] [1], respectivamente.**
 
+>- Si no hay suficientes inicializadores para una fila dada, los elementos restantes de esa fila se inicializan a 0. Por lo tanto, la siguiente declaración inicializa **b [0] [0] a 1, b [0] [1] a 0, b [ 1] [0] a 3 yb [1] [1] a 4**.
 
+```c
+int b[ 2 ][ 2 ] = { { 1 }, { 3, 4 } };
+```
 
 ![](https://manualidadesybellasartes.es/175094-home_default/cajonera-madera-artemio-415x11x325-mm.jpg)
 
@@ -37,5 +43,5 @@ Por ejemplo, una matriz bidimensional **b con valores 1 y 2 en sus elementos de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzUzMzUwODMsMTMxNzgyNzRdfQ==
+eyJoaXN0b3J5IjpbODI0MTc2OTM5LDEzMTc4Mjc0XX0=
 -->

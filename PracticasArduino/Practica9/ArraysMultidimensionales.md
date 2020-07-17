@@ -68,11 +68,11 @@ int b[ 2 ][ 2 ] = { { 1, 2 }, { 3, 4 } };`
 ```
 
 Para asignar un valor a una matriz:
-`b[0][2] = 10;`
+`b[0][1] = 10;`
 
 Para recuperar un valor de una matriz:
 `x = mySensVals [4];`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU5NjY0OSwtMTc3NTQyMzQ5NiwtMT
+eyJoaXN0b3J5IjpbLTc4NDI4OTI1OCwtMTc3NTQyMzQ5NiwtMT
 A0MTAzODA5NSw4MjQxNzY5MzksMTMxNzgyNzRdfQ==
 -->

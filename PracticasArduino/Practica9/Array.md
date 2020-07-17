@@ -1,10 +1,6 @@
 # Array
 ## Descripción
 Una **array (matriz) es una colección de variables a las que se accede con un número de índice**. Los **array** en el lenguaje de programación C++ de los bocetos de Arduino pueden ser complicados, pero el uso de matrices simples es relativamente sencillo.
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSh20y0eOURpuQ1RacZaIfxfV-s6hBdmJ7VHQ&usqp=CAU)
-
-
-![](https://cdn1.coppel.com/images/catalog/pm/3481713-1.jpg)
 
 ## Crear (declarar) un Array (matriz)
 Todos los métodos a continuación son formas válidas de crear (declarar) una matriz.
@@ -23,7 +19,11 @@ Todos los métodos a continuación son formas válidas de crear (declarar) una m
 
 ![](https://i0.wp.com/www.tutorialspoint.com/images/java_array.jpg?zoom=2)
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSh20y0eOURpuQ1RacZaIfxfV-s6hBdmJ7VHQ&usqp=CAU)
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyZyTn3eFO6yd7nyKQXOAh9GkY6sR2DLJt6w&usqp=CAU)
+
+![](https://cdn1.coppel.com/images/catalog/pm/3481713-1.jpg)
 ## Accediendo a un Array
 
 Los **arrays** están indexadas a cero, **es decir, en referencia a la inicialización de la matriz anterior, el primer elemento de la matriz está en el índice 0, por lo tanto**
@@ -64,7 +64,7 @@ for (byte i = 0; i < 5; i = i + 1) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODc2MDI0NCwtMTI1MDMxODc1NywyOD
-U4Nzc0NjIsNDk0NDA2NzMyLDEzNjI2NTczMDIsMzEyNzg0NjEz
-XX0=
+eyJoaXN0b3J5IjpbMjE0NjA4MTE4MywtMzQ4NzYwMjQ0LC0xMj
+UwMzE4NzU3LDI4NTg3NzQ2Miw0OTQ0MDY3MzIsMTM2MjY1NzMw
+MiwzMTI3ODQ2MTNdfQ==
 -->

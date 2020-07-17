@@ -116,13 +116,11 @@ void loop()
 	int i = 0;
 	int j = 0;
 
-    for (i = 0; i<2; i++)
+    for (i = 0; i < 2; i++)
     {
-        for (j=0; j<3; j++)
+        for (j = 0; j < 3; j++)
         {
-            //Serial.print("matriz[%d][%d] = ", i, j);
-            //Serial.print("%d \t", miArray[i][j]);
-          
+                   
           	Serial.print("Matriz[");
           	Serial.print(i);
           	Serial.print("][");
@@ -141,5 +139,5 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTIxMTA2NCw4MzA4NTYxMTJdfQ==
+eyJoaXN0b3J5IjpbLTEyNzA3MDQxNiw4MzA4NTYxMTJdfQ==
 -->

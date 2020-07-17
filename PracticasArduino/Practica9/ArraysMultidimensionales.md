@@ -55,8 +55,31 @@ int miArregloMulti3[ 5 ][ 3 ] = { { 1, 5, 6}, { 88, 3, 7}, { 58, 74, 66}, { 75, 
 
 ![](https://habitkasa.es/wp-content/uploads/2019/11/MB-150626_9-600x400.jpg)
 
+## Accediendo a un Array
 
+Los **arrays** están indexadas a cero, **es decir, en referencia a la inicialización de la matriz anterior, el primer elemento de la matriz está en el índice 0, por lo tanto** También significa que en una matriz con diez elementos, el índice nueve es el último elemento. 
+
+Por lo tanto:
+
+```c
+int myArray[10]={9, 3, 2, 4, 3, 2, 7, 8, 9, 11};
+// myArray[9]    contiene a 11
+// myArray[10]   es invalido y contiene cualquier tipo de información (otra dirección de memoria).
+```
+**Por esta razón, debe tener cuidado al acceder a las matrices**. 
+
+**Acceder más allá del final de una matriz (usando un número de índice mayor que el tamaño de matriz declarado - 1) es leer de la memoria que está en uso para otros fines**. 
+
+Leer desde estas ubicaciones probablemente no servirá de mucho, excepto generar datos no válidos. **Escribir en ubicaciones de memoria aleatorias es definitivamente una mala idea y a menudo puede conducir a resultados infelices, como bloqueos o mal funcionamiento del programa. Esto también puede ser un error difícil de rastrear.**
+
+A diferencia de BASIC o JAVA, el compilador de C ++ no verifica si el acceso a la matriz está dentro de los límites legales del tamaño de la matriz que usted ha declarado.
+
+Para asignar un valor a una matriz:
+`mySensVals [0] = 10;`
+
+Para recuperar un valor de una matriz:
+`x = mySensVals [4];`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU0MjM0OTYsLTEwNDEwMzgwOTUsOD
-I0MTc2OTM5LDEzMTc4Mjc0XX0=
+eyJoaXN0b3J5IjpbLTE3MTk0ODY3NjIsLTE3NzU0MjM0OTYsLT
+EwNDEwMzgwOTUsODI0MTc2OTM5LDEzMTc4Mjc0XX0=
 -->

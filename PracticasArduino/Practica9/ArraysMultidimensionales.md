@@ -34,7 +34,11 @@ int b[ 2 ][ 2 ] = { { 1, 2 }, { 3, 4 } };`
 ```c
 int b[ 2 ][ 2 ] = { { 1 }, { 3, 4 } };
 ```
+## Ejemplos 
 
+```c
+int miArreglo[ 2 ][ 2 ] = { { 1 }, { 3, 4 } };
+```
 ![](https://manualidadesybellasartes.es/175094-home_default/cajonera-madera-artemio-415x11x325-mm.jpg)
 
 ![](https://static.lolahome.es/media/catalog/product/cache/1/image/600x/9df78eab33525d08d6e5fb8d27136e95/c/a/cajonera-6-cajones-blanco-122823.jpg)
@@ -43,5 +47,6 @@ int b[ 2 ][ 2 ] = { { 1 }, { 3, 4 } };
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0MTc2OTM5LDEzMTc4Mjc0XX0=
+eyJoaXN0b3J5IjpbODA5MzMyNDIyLDgyNDE3NjkzOSwxMzE3OD
+I3NF19
 -->

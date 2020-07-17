@@ -63,6 +63,12 @@ Los **arrays** están indexadas a cero, **es decir, en referencia a la inicializ
 
 También significa que en una matriz con diez elementos, el índice nueve es el último elemento. 
 
+Para asignar un valor a una matriz:
+`b[0][1] = 10;	//[0] = Primera fila | [1] = Segundo cajon de la primera fila`
+
+Para recuperar un valor de una matriz:
+`x = b[0][1];  // x --> Almacena el valor de la primera fila cajon 2`
+
 ```c
 int miArray[2][3] = {{1, 2, 3} , {4, 5, 6}};
 int i = 0;
@@ -87,14 +93,8 @@ void loop()
   	delay(10000);
 }
 ```
-
-Para asignar un valor a una matriz:
-`b[0][1] = 10;	//[0] = Primera fila | [1] = Segundo cajon de la primera fila`
-
-Para recuperar un valor de una matriz:
-`x = b[0][1];  // x --> Almacena el valor de la primera fila cajon 2`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDAyNjkwNCwxOTMwNjM1NiwtNzg0Mj
-g5MjU4LC0xNzc1NDIzNDk2LC0xMDQxMDM4MDk1LDgyNDE3Njkz
-OSwxMzE3ODI3NF19
+eyJoaXN0b3J5IjpbMTI4NzI4MzQ0LDE5MzA2MzU2LC03ODQyOD
+kyNTgsLTE3NzU0MjM0OTYsLTEwNDEwMzgwOTUsODI0MTc2OTM5
+LDEzMTc4Mjc0XX0=
 -->

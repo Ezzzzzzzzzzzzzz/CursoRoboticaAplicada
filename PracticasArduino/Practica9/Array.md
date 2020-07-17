@@ -20,11 +20,20 @@ Todos los métodos a continuación son formas válidas de crear (declarar) una m
 ![](https://i0.wp.com/www.tutorialspoint.com/images/java_array.jpg?zoom=2)
 
 ```c
-int miArray[3] = {1, 150, 632};
+int miArrayCajonera[3] = {1, 150, 632};
 ```
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSh20y0eOURpuQ1RacZaIfxfV-s6hBdmJ7VHQ&usqp=CAU)
 
+```c
+int miArrayCajonera[6] = {1, 150, 632, 5, 78, 987};
+```
+
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyZyTn3eFO6yd7nyKQXOAh9GkY6sR2DLJt6w&usqp=CAU)
+
+```c
+int miArrayCajonera[10] = {1, 150, 632, 5, 78, 987,1525, 8, 9664, 2};
+```
 
 ![](https://cdn1.coppel.com/images/catalog/pm/3481713-1.jpg)
 ## Accediendo a un Array
@@ -67,7 +76,7 @@ for (byte i = 0; i < 5; i = i + 1) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc3Njg3MjMsLTM0ODc2MDI0NCwtMT
-I1MDMxODc1NywyODU4Nzc0NjIsNDk0NDA2NzMyLDEzNjI2NTcz
-MDIsMzEyNzg0NjEzXX0=
+eyJoaXN0b3J5IjpbMTQ1NzMyMzA3MSwtMzQ4NzYwMjQ0LC0xMj
+UwMzE4NzU3LDI4NTg3NzQ2Miw0OTQ0MDY3MzIsMTM2MjY1NzMw
+MiwzMTI3ODQ2MTNdfQ==
 -->

@@ -97,6 +97,49 @@ void loop()
   	delay(10000);
 }
 ```
+
+## Ejercicio 2
+
+```c
+int miArray[2][3] = {{1, 2, 3} , {4, 5, 6}};
+
+int b = 0;
+
+void setup()
+{
+	Serial.begin(9600);
+}
+
+void loop()
+{
+	  
+	int i = 0;
+	int j = 0;
+
+    for (i = 0; i<2; i++)
+    {
+        for (j=0; j<3; j++)
+        {
+            //Serial.print("matriz[%d][%d] = ", i, j);
+            //Serial.print("%d \t", miArray[i][j]);
+          
+          	Serial.print("Matriz[");
+          	Serial.print(i);
+          	Serial.print("][");
+          	Serial.print(j);
+          	Serial.print("] = ");
+          	 
+          	b = miArray[i][j];
+          	
+          	Serial.print(b);
+          	Serial.print("\t");
+        }
+      Serial.println();
+    }
+  
+  	delay(10000);
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwODU2MTEyXX0=
+eyJoaXN0b3J5IjpbLTY1OTIxMTA2NCw4MzA4NTYxMTJdfQ==
 -->

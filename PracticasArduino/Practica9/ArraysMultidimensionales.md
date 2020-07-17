@@ -74,10 +74,16 @@ void setup()
 
 void loop()
 {
-	i = miArray[1][1];
+	i = miArray[0][2]; 	// Para recuperar el valor en una matriz 
   	Serial.print("El valor es: ");
     Serial.println(i);
- 	
+  
+ 	miArray[0][2] = 7;	// Asigno el valor de 7 en [0, 3]
+  	
+  	i = miArray[0][2];	// Para recuperar el valor en una matriz
+ 	Serial.print("El valor sustituido es: ");
+    Serial.println(i);
+  
   	delay(10000);
 }
 ```
@@ -88,7 +94,7 @@ Para asignar un valor a una matriz:
 Para recuperar un valor de una matriz:
 `x = mySensVals [4];`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDYzNTYsLTc4NDI4OTI1OCwtMTc3NT
-QyMzQ5NiwtMTA0MTAzODA5NSw4MjQxNzY5MzksMTMxNzgyNzRd
-fQ==
+eyJoaXN0b3J5IjpbMTEyMzYzMTA3LDE5MzA2MzU2LC03ODQyOD
+kyNTgsLTE3NzU0MjM0OTYsLTEwNDEwMzgwOTUsODI0MTc2OTM5
+LDEzMTc4Mjc0XX0=
 -->

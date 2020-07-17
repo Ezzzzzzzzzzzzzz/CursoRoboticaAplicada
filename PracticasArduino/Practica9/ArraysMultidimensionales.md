@@ -89,12 +89,12 @@ void loop()
 ```
 
 Para asignar un valor a una matriz:
-`b[0][1] = 10;`
+`b[0][1] = 10;	//[0] = Primera fila | [1] = Segundo valor de la fila 0`
 
 Para recuperar un valor de una matriz:
-`x = mySensVals [4];`
+`x = mySensVals [4];  // x --> Alma`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzYzMTA3LDE5MzA2MzU2LC03ODQyOD
-kyNTgsLTE3NzU0MjM0OTYsLTEwNDEwMzgwOTUsODI0MTc2OTM5
-LDEzMTc4Mjc0XX0=
+eyJoaXN0b3J5IjpbLTIwMTEzMTU1OTYsMTkzMDYzNTYsLTc4ND
+I4OTI1OCwtMTc3NTQyMzQ5NiwtMTA0MTAzODA5NSw4MjQxNzY5
+MzksMTMxNzgyNzRdfQ==
 -->

@@ -15,7 +15,9 @@ La siguiente figura ilustra una matriz bidimensional, **"a"**. La matriz contien
 
 Cada elemento en la matriz a se identifica por un nombre de elemento de la forma a **[i]** **[j]**. 
 
-Aquí, a es el nombre de la matriz, e **i** y **j son los subíndices que identifican de forma única cada elemento en a. Observe que los nombres de los elementos en la fila 0 tienen un primer subíndice de 0; Los nombres de los elementos en la columna 3 tienen un segundo subíndice de 3.
+Aquí, a es el nombre de la matriz, e **i** y **j** son los subíndices que identifican de forma única cada elemento en **a**. 
+
+**Observe que los nombres de los elementos en la fila 0 tienen un primer subíndice de 0; Los nombres de los elementos en la columna 3 tienen un segundo subíndice de 3.**
 
 Una matriz multidimensional se puede inicializar en su declaración de forma muy similar a una matriz unidimensional. Por ejemplo, una matriz bidimensional b con valores 1 y 2 en sus elementos de la fila 0 y valores 3 y 4 en sus elementos de la fila 1 podría declararse e inicializarse de la siguiente manera:
 
@@ -27,5 +29,5 @@ Una matriz multidimensional se puede inicializar en su declaración de forma muy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwODIwMzQ1LDEzMTc4Mjc0XX0=
+eyJoaXN0b3J5IjpbMTEzMTIxNjYwNSwxMzE3ODI3NF19
 -->

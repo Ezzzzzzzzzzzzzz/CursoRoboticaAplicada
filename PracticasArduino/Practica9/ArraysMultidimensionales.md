@@ -37,15 +37,17 @@ int b[ 2 ][ 2 ] = { { 1 }, { 3, 4 } };
 ## Ejemplos 
 
 ```c
-int miArregloMulti1[ 3 ][ 4 ] = { { 1, 5, 6, 8 }, { 88, 3, 7, 9 }, { 58, 74, 66, 848} };
-```
-![](https://manualidadesybellasartes.es/175094-home_default/cajonera-madera-artemio-415x11x325-mm.jpg)
-
-```c
 int miArregloMulti2[ 2 ][ 3 ] = { { 1, 5, 6 }, { 88, 3, 7} };
 ```
 
 ![](https://static.lolahome.es/media/catalog/product/cache/1/image/600x/9df78eab33525d08d6e5fb8d27136e95/c/a/cajonera-6-cajones-blanco-122823.jpg)
+
+
+```c
+int miArregloMulti1[ 3 ][ 4 ] = { { 1, 5, 6, 8 }, { 88, 3, 7, 9 }, { 58, 74, 66, 848} };
+```
+![](https://manualidadesybellasartes.es/175094-home_default/cajonera-madera-artemio-415x11x325-mm.jpg)
+
 
 ```c
 int miArregloMulti3[ 5 ][ 3 ] = { { 1, 5, 6}, { 88, 3, 7}, { 58, 74, 66}, { 75, 2, 85}, { 2, 7, 9} };
@@ -55,6 +57,6 @@ int miArregloMulti3[ 5 ][ 3 ] = { { 1, 5, 6}, { 88, 3, 7}, { 58, 74, 66}, { 75, 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3ODg4NjgzLDgyNDE3NjkzOSwxMzE3OD
-I3NF19
+eyJoaXN0b3J5IjpbLTEwNDEwMzgwOTUsODI0MTc2OTM5LDEzMT
+c4Mjc0XX0=
 -->

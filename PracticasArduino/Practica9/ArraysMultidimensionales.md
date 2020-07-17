@@ -9,7 +9,7 @@ Las siguientes son las características clave de las matrices multidimensionales
 >- Las matrices que requieren dos subíndices para identificar un elemento en particular se denominan matrices bidimensionales. 
 >- Las matrices con dos o más dimensiones se conocen como matrices multidimensionales y pueden tener más de dos dimensiones.
 
-La siguiente figura ilustra una matriz bidimensional, **"a"**. La matriz contiene **tres filas y cuatro columnas, por lo que es una matriz de 3 por 4**. En general, **una matriz con m filas y n columnas** se denomina matriz **mxn.
+La siguiente figura ilustra una matriz bidimensional, **"a"**. La matriz contiene **tres filas y cuatro columnas, por lo que es una matriz de 3 por 4**. En general, **una matriz con m filas y n columnas** se denomina matriz **m**x**n**.
 
 ![](https://manualidadesybellasartes.es/175094-home_default/cajonera-madera-artemio-415x11x325-mm.jpg)
 
@@ -19,5 +19,5 @@ La siguiente figura ilustra una matriz bidimensional, **"a"**. La matriz contien
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjYxNjg3NiwxMzE3ODI3NF19
+eyJoaXN0b3J5IjpbLTg0MjY4OTMyNCwxMzE3ODI3NF19
 -->

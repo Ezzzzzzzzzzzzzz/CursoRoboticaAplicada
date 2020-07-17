@@ -29,11 +29,13 @@ int b[ 2 ][ 2 ] = { { 1, 2 }, { 3, 4 } };`
 
 >- Los valores se agrupan por fila entre llaves. Por lo tanto, 1 y 2 inicializan **b [0] [0] yb [0] [1], respectivamente, y 3 y 4 inicializan b [1] [0] yb [1] [1], respectivamente.**
 
->- Si no hay suficientes inicializadores para una fila dada, los elementos restantes de esa fila se inicializan a 0. Por lo tanto, la siguiente declaración inicializa **b [0] [0] a 1, b [0] [1] a 0, b [ 1] [0] a 3 yb [1] [1] a 4**.
-
 ```c
 int b[ 2 ][ 2 ] = { { 1 }, { 3, 4 } };
 ```
+
+>- Si no hay suficientes inicializadores para una fila dada, los elementos restantes de esa fila se inicializan a 0. Por lo tanto, la siguiente declaración inicializa **b [0] [0] a 1, b [0] [1] a 0, b [ 1] [0] a 3 yb [1] [1] a 4**.
+
+
 ## Ejemplos 
 
 ```c
@@ -71,6 +73,6 @@ Para asignar un valor a una matriz:
 Para recuperar un valor de una matriz:
 `x = mySensVals [4];`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODA0MTc3NywtMTc3NTQyMzQ5NiwtMT
+eyJoaXN0b3J5IjpbLTEwODU5NjY0OSwtMTc3NTQyMzQ5NiwtMT
 A0MTAzODA5NSw4MjQxNzY5MzksMTMxNzgyNzRdfQ==
 -->

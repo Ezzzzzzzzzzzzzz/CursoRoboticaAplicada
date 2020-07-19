@@ -66,7 +66,6 @@ void loop()
   }
 }
 
-
 bool retorno(bool previo)
 {
   bool actual = digitalRead(BOTON);
@@ -94,5 +93,6 @@ bool reset(bool rPrevio)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2NzM3MjU2LC0xODE5NDY1MDU4XX0=
+eyJoaXN0b3J5IjpbLTIxMjgyODE2NzAsLTE4MTk0NjUwNThdfQ
+==
 -->

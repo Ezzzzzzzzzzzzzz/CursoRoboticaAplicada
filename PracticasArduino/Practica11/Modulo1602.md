@@ -16,7 +16,8 @@ Función   |    Descripción
 ![](https://http2.mlstatic.com/pantalla-lcd-16x2-1602-alfanumerica-ssdielect-D_NQ_NP_893478-MCO31110760412_062019-F.jpg)
 
 
-# Caracteres 
+# Caracteres Personalizados
+
 Cada carácter se define como un grupo de 8 bytes que se envían a la memoria CGRAM. Por ejemplo, podemos crear un icono con una carita feliz de la siguiente forma:![](https://www.geekfactory.mx/wp-content/uploads/2014/08/lcd_16x2_caracteres_CGRAM.jpg)
 
 Traducido a código en C quedaría de la siguiente forma:
@@ -166,5 +167,5 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTczMTg3MywtMTAyMzA3NjUyNV19
+eyJoaXN0b3J5IjpbMTczMzMzNzI2OSwtMTAyMzA3NjUyNV19
 -->

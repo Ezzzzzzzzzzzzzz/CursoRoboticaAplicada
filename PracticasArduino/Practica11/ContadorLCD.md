@@ -2,6 +2,8 @@
 
 Las pantallas de cristal líquido nos servirán para mostrar datos acerca de nuestros programas, ya sean mensajes o mediciones que nos mandan nuestros sensores u otra información que nosotros requerimos, la configuración que se verá con la **LCD** es la clásica, se le deja al lector la investigación de la **LCD con I2C**, enseguida se muestran la funciones necesarias para la LCD y sus pines de conexión, recordemos que para usar la LCD **es necesario importar la librería de la LCD que será ``#include <LiquidCrystal.h>``**.
 
+
+
 ## Material
 > - Arduino
 > - LCD 16x2
@@ -92,5 +94,5 @@ bool reset(bool rPrevio)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk0NjUwNThdfQ==
+eyJoaXN0b3J5IjpbMTI1MzQxODQzNCwtMTgxOTQ2NTA1OF19
 -->

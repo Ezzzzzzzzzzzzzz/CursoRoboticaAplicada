@@ -18,7 +18,7 @@ Las pantallas de cristal líquido nos servirán para mostrar datos acerca de nue
 ## Conexión
  ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCDContador.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCDContador.JPG)
 
-## Código #1
+## Código
 ```c
 #include<LiquidCrystal.h> //Importa la libreria
 
@@ -93,6 +93,5 @@ bool reset(bool rPrevio)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgyODE2NzAsLTE4MTk0NjUwNThdfQ
-==
+eyJoaXN0b3J5IjpbLTkzMjEzMDg0NCwtMTgxOTQ2NTA1OF19
 -->

@@ -14,6 +14,23 @@ Función   |    Descripción
 ``[nombre].setCursor([columna], [fila]);``  |  Función para posicionar el mensaje o dato que desea mostrar.
 
 ![](https://http2.mlstatic.com/pantalla-lcd-16x2-1602-alfanumerica-ssdielect-D_NQ_NP_893478-MCO31110760412_062019-F.jpg)
+
+
+# Caracteres 
+Cada carácter se define como un grupo de 8 bytes que se envían a la memoria CGRAM. Por ejemplo, podemos crear un icono con una carita feliz de la siguiente forma:![](https://www.geekfactory.mx/wp-content/uploads/2014/08/lcd_16x2_caracteres_CGRAM.jpg)
+
+Traducido a código en C quedaría de la siguiente forma:
+
+byte smile[8] = {
+	0b00000000,
+	0b00001010,
+	0b00001010,
+	0b00001010,
+	0b00000000,
+	0b00010001,
+	0b00001110,
+	0b00000000,
+};
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjMwNzY1MjVdfQ==
+eyJoaXN0b3J5IjpbMTM4OTY1NjYzNywtMTAyMzA3NjUyNV19
 -->

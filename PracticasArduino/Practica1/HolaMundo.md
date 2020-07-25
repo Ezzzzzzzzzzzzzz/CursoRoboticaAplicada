@@ -28,7 +28,7 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
-## Bloques 
+## MBlock 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T004.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T004.JPG)
 
 
@@ -36,5 +36,6 @@ void loop()
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDk0ODIxNSwtMjA1MjY1NDMyMV19
+eyJoaXN0b3J5IjpbLTE1MzQxNDMyNTIsLTIwNTI2NTQzMjFdfQ
+==
 -->

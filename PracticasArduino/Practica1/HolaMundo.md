@@ -5,6 +5,7 @@ Comenzaremos haciendo el programa clásico del **Blink** que en otro lenguaje de
 ## Materiales
 > - 1 Arduino
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - Mblock 
 
 ## Diagrama de bloques
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/DB001.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/DB001.JPG)
@@ -13,22 +14,8 @@ Comenzaremos haciendo el programa clásico del **Blink** que en otro lenguaje de
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T005.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T005.JPG)
 
-## Código  
-```c
-void setup()
-{
-  pinMode(13, OUTPUT);
-}
 
-void loop()
-{
-  digitalWrite(13, HIGH);
-  delay(1000); // Wait for 1000 millisecond(s)
-  digitalWrite(13, LOW);
-  delay(1000); // Wait for 1000 millisecond(s)
-}
-```
-## Bloques 
+## Mblock
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T004.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T004.JPG)
 
 
@@ -36,5 +23,6 @@ void loop()
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDk0ODIxNSwtMjA1MjY1NDMyMV19
+eyJoaXN0b3J5IjpbMTUwNzU3ODQxOSwxODQwOTQ4MjE1LC0yMD
+UyNjU0MzIxXX0=
 -->

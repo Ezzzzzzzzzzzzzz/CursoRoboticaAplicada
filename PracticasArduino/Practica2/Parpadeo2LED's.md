@@ -20,7 +20,7 @@ Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos led´
 ## Mblock
 
 
-## Código
+## C ++
 ```c
 #define LED1 4	// Damos un nombre a nuestro pin 4
 #define LED2 5	// Damos un nombre a nuestro pin 5
@@ -46,7 +46,7 @@ void loop() // Definimos nuestra secuencia.
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTk3MDE0Miw3OTc1Mjc2MDAsNTM3NT
-g5NzksLTEyMzE2NzYxNTAsMzU2NzYwNTU0LC0yMDg0NDUzNzMx
-LC0xNDI0MzY1OTI2LC03MzA3OTc4NjRdfQ==
+eyJoaXN0b3J5IjpbLTI2NTIyMTUwNiwxMzQ5OTcwMTQyLDc5Nz
+UyNzYwMCw1Mzc1ODk3OSwtMTIzMTY3NjE1MCwzNTY3NjA1NTQs
+LTIwODQ0NTM3MzEsLTE0MjQzNjU5MjYsLTczMDc5Nzg2NF19
 -->

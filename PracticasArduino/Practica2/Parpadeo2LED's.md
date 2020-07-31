@@ -18,7 +18,7 @@ Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos led´
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG)
 
 ## Mblock
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/blocks%20(7).png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/blocks%20(7).png)
 
 ## C ++
 ```c
@@ -34,10 +34,10 @@ void loop() // Definimos nuestra secuencia.
 {
   digitalWrite(LED1, HIGH); // Mandamos un ALTO a nuestro LED1
   digitalWrite(LED2, HIGH); // Mandamos un ALTO a nuestro LED2
-  delay(100); // Tiempo en el que los LED´s permanecen encendidos "un segundo".
+  delay(200); // Tiempo en el que los LED´s permanecen encendidos "un segundo".
   digitalWrite(LED1, LOW); // Mandamos un BAJO a nuestro LED1
   digitalWrite(LED2, LOW); // Mandamos un BAJO a nuestro LED2
-  delay(100); // Tiempo en el que los LED´s permanecen apagados "un segundo".
+  delay(200); // Tiempo en el que los LED´s permanecen apagados "un segundo".
 }
 ```
 ## Bloques
@@ -46,7 +46,8 @@ void loop() // Definimos nuestra secuencia.
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTIyMTUwNiwxMzQ5OTcwMTQyLDc5Nz
-UyNzYwMCw1Mzc1ODk3OSwtMTIzMTY3NjE1MCwzNTY3NjA1NTQs
-LTIwODQ0NTM3MzEsLTE0MjQzNjU5MjYsLTczMDc5Nzg2NF19
+eyJoaXN0b3J5IjpbLTU4NjcxNDk1OCwtMjY1MjIxNTA2LDEzND
+k5NzAxNDIsNzk3NTI3NjAwLDUzNzU4OTc5LC0xMjMxNjc2MTUw
+LDM1Njc2MDU1NCwtMjA4NDQ1MzczMSwtMTQyNDM2NTkyNiwtNz
+MwNzk3ODY0XX0=
 -->

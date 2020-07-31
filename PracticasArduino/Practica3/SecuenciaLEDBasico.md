@@ -80,13 +80,13 @@ void loop()
 }
 ```
 
-## Bloques
+## Mblock
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/Secuen_BloqA.PNG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/Secuen_BloqA.PNG)
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/Secuen_BloqB.PNG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/Secuen_BloqB.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3NzMwMTcxLC0xMTYzMjA5ODc5LDEwND
-IzMTc2MzUsMTU2MjAxODcyMywtMTAzODY0ODQ4OSwxMTEyMzg5
-NjYzLDEyMzY2NDY2MTgsLTEyNTAxMjI5MDMsNzI3MzYxMzc2LD
-czMzcwODY5NF19
+eyJoaXN0b3J5IjpbMTc1OTY0NDg0MiwyNDc3MzAxNzEsLTExNj
+MyMDk4NzksMTA0MjMxNzYzNSwxNTYyMDE4NzIzLC0xMDM4NjQ4
+NDg5LDExMTIzODk2NjMsMTIzNjY0NjYxOCwtMTI1MDEyMjkwMy
+w3MjczNjEzNzYsNzMzNzA4Njk0XX0=
 -->

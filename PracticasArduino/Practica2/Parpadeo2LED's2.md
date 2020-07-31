@@ -35,6 +35,7 @@ void loop() // Definimos nuestra secuencia.
 }
 ```
 ## Mblock
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/blocks%20(8).png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/blocks%20(8).png)
 
 ![](https://media1.giphy.com/media/cMVgEhDeKzPwI/giphy.gif?w=1400)
 
@@ -43,7 +44,7 @@ void loop() // Definimos nuestra secuencia.
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjUzMzQ1NCwtMTU4MzkwMzMyNywtMT
-g0ODc4MTU1OCwtNTY2ODgwNTcwLC0xOTMyMzYxOTkwLC0xODEy
-Mzg5MTI2LC02OTMxOTkzMV19
+eyJoaXN0b3J5IjpbLTE0NDA2MDIxODgsLTE1ODM5MDMzMjcsLT
+E4NDg3ODE1NTgsLTU2Njg4MDU3MCwtMTkzMjM2MTk5MCwtMTgx
+MjM4OTEyNiwtNjkzMTk5MzFdfQ==
 -->

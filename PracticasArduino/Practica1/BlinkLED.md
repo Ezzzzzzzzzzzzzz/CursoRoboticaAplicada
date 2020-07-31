@@ -13,6 +13,8 @@ Comenzaremos haciendo el programa clásico del **blink** que en otro lenguaje de
 > - Protoboard 
 > - Jumpers (cables) 
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> > - [https://www.mblock.cc/en-us/](https://www.mblock.cc/en-us/)
+
 
 ## Diagrama de bloques
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/DB001.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/DB001.JPG)
@@ -55,7 +57,7 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjA0Mjk1Myw3MjEzNjkxNTMsMTUzNz
+eyJoaXN0b3J5IjpbMTY4OTYwODcwNSw3MjEzNjkxNTMsMTUzNz
 A5OTg0NSwtMTQ5OTc1NTEsLTEwMjEwNTk2MiwyMDEyNzIxNjQw
 LDEzMTU2NTYxMzgsLTE3MzA4ODQxMzEsLTIwMDM1NDg4OTksLT
 E1NDMwMzgxMjcsLTU5NTc4OTY1MCwtMTQ2ODg1NDc0MF19

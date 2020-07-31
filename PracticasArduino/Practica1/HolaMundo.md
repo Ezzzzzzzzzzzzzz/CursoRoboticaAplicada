@@ -16,13 +16,13 @@ Comenzaremos haciendo el programa clásico del **Blink** que en otro lenguaje de
 
 
 ## Mblock
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks.png)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/HelloWorld.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/HelloWorld.JPG)
 
 
 
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjM5ODI0NiwtMjU0MzIzNzc0LDE1MD
+eyJoaXN0b3J5IjpbMTIwNTI5ODA1MCwtMjU0MzIzNzc0LDE1MD
 c1Nzg0MTksMTg0MDk0ODIxNSwtMjA1MjY1NDMyMV19
 -->

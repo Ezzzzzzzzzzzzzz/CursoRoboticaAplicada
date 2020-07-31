@@ -15,6 +15,9 @@ Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos led´
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG)
 
+## Mblock
+
+
 ## Código
 ```c
 #define LED1 4	// Damos un nombre a nuestro pin 4
@@ -41,7 +44,7 @@ void loop() // Definimos nuestra secuencia.
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNTc1MTE0LDc5NzUyNzYwMCw1Mzc1OD
-k3OSwtMTIzMTY3NjE1MCwzNTY3NjA1NTQsLTIwODQ0NTM3MzEs
-LTE0MjQzNjU5MjYsLTczMDc5Nzg2NF19
+eyJoaXN0b3J5IjpbLTM5OTI2MjA5NCw3OTc1Mjc2MDAsNTM3NT
+g5NzksLTEyMzE2NzYxNTAsMzU2NzYwNTU0LC0yMDg0NDUzNzMx
+LC0xNDI0MzY1OTI2LC03MzA3OTc4NjRdfQ==
 -->

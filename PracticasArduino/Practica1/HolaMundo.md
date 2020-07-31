@@ -5,7 +5,7 @@ Comenzaremos haciendo el programa clásico del **Blink** que en otro lenguaje de
 ## Materiales
 > - 1 Arduino
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
-> - Mblock 
+> - [https://www.mblock.cc/en-us/](https://www.mblock.cc/en-us/)
 
 ## Diagrama de bloques
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/DB001.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/DB001.JPG)
@@ -23,6 +23,6 @@ Comenzaremos haciendo el programa clásico del **Blink** que en otro lenguaje de
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzU3ODQxOSwxODQwOTQ4MjE1LC0yMD
-UyNjU0MzIxXX0=
+eyJoaXN0b3J5IjpbLTI1NDMyMzc3NCwxNTA3NTc4NDE5LDE4ND
+A5NDgyMTUsLTIwNTI2NTQzMjFdfQ==
 -->

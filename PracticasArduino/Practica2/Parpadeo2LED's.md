@@ -37,8 +37,11 @@ void loop() // Definimos nuestra secuencia.
 ```
 ## Bloques
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Prac2_bloq.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Prac2_bloq.JPG)
+
+
+Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwNzk5Mjc0LDc5NzUyNzYwMCw1Mzc1OD
+eyJoaXN0b3J5IjpbODYzNTc1MTE0LDc5NzUyNzYwMCw1Mzc1OD
 k3OSwtMTIzMTY3NjE1MCwzNTY3NjA1NTQsLTIwODQ0NTM3MzEs
 LTE0MjQzNjU5MjYsLTczMDc5Nzg2NF19
 -->

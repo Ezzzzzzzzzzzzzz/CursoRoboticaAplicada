@@ -13,7 +13,7 @@ Comenzaremos haciendo el programa clásico del **blink** que en otro lenguaje de
 > - Protoboard 
 > - Jumpers (cables) 
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
-> > - [https://www.mblock.cc/en-us/](https://www.mblock.cc/en-us/)
+> - [https://www.mblock.cc/en-us/](https://www.mblock.cc/en-us/)
 
 
 ## Diagrama de bloques
@@ -57,8 +57,8 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTYwODcwNSw3MjEzNjkxNTMsMTUzNz
-A5OTg0NSwtMTQ5OTc1NTEsLTEwMjEwNTk2MiwyMDEyNzIxNjQw
-LDEzMTU2NTYxMzgsLTE3MzA4ODQxMzEsLTIwMDM1NDg4OTksLT
-E1NDMwMzgxMjcsLTU5NTc4OTY1MCwtMTQ2ODg1NDc0MF19
+eyJoaXN0b3J5IjpbNTE1OTQ3NjgzLDcyMTM2OTE1MywxNTM3MD
+k5ODQ1LC0xNDk5NzU1MSwtMTAyMTA1OTYyLDIwMTI3MjE2NDAs
+MTMxNTY1NjEzOCwtMTczMDg4NDEzMSwtMjAwMzU0ODg5OSwtMT
+U0MzAzODEyNywtNTk1Nzg5NjUwLC0xNDY4ODU0NzQwXX0=
 -->

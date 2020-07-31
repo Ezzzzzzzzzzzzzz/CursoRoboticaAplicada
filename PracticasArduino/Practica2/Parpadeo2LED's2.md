@@ -37,8 +37,13 @@ void loop() // Definimos nuestra secuencia.
 ## Bloques 
 
 ![](https://media1.giphy.com/media/cMVgEhDeKzPwI/giphy.gif?w=1400)
+
+
+
+
+Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM5MDMzMjcsLTE4NDg3ODE1NTgsLT
-U2Njg4MDU3MCwtMTkzMjM2MTk5MCwtMTgxMjM4OTEyNiwtNjkz
-MTk5MzFdfQ==
+eyJoaXN0b3J5IjpbLTE1NDk3MzE2MjUsLTE1ODM5MDMzMjcsLT
+E4NDg3ODE1NTgsLTU2Njg4MDU3MCwtMTkzMjM2MTk5MCwtMTgx
+MjM4OTEyNiwtNjkzMTk5MzFdfQ==
 -->

@@ -38,7 +38,7 @@ void loop()
 }
 ```
 ## Mblock
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/Pract1_Bloq.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/Pract1_Bloq.JPG)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks.png)
 
 ## Explicación 
 
@@ -52,8 +52,8 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk3NTUxLC0xMDIxMDU5NjIsMjAxMj
-cyMTY0MCwxMzE1NjU2MTM4LC0xNzMwODg0MTMxLC0yMDAzNTQ4
-ODk5LC0xNTQzMDM4MTI3LC01OTU3ODk2NTAsLTE0Njg4NTQ3ND
-BdfQ==
+eyJoaXN0b3J5IjpbMTUzNzA5OTg0NSwtMTQ5OTc1NTEsLTEwMj
+EwNTk2MiwyMDEyNzIxNjQwLDEzMTU2NTYxMzgsLTE3MzA4ODQx
+MzEsLTIwMDM1NDg4OTksLTE1NDMwMzgxMjcsLTU5NTc4OTY1MC
+wtMTQ2ODg1NDc0MF19
 -->

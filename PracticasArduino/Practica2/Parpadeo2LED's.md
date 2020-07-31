@@ -40,14 +40,11 @@ void loop() // Definimos nuestra secuencia.
   delay(200); // Tiempo en el que los LED´s permanecen apagados "un segundo".
 }
 ```
-## Bloques
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Prac2_bloq.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Prac2_bloq.JPG)
-
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjcxNDk1OCwtMjY1MjIxNTA2LDEzND
-k5NzAxNDIsNzk3NTI3NjAwLDUzNzU4OTc5LC0xMjMxNjc2MTUw
-LDM1Njc2MDU1NCwtMjA4NDQ1MzczMSwtMTQyNDM2NTkyNiwtNz
-MwNzk3ODY0XX0=
+eyJoaXN0b3J5IjpbNTE0MDE3MDMxLC0yNjUyMjE1MDYsMTM0OT
+k3MDE0Miw3OTc1Mjc2MDAsNTM3NTg5NzksLTEyMzE2NzYxNTAs
+MzU2NzYwNTU0LC0yMDg0NDUzNzMxLC0xNDI0MzY1OTI2LC03Mz
+A3OTc4NjRdfQ==
 -->

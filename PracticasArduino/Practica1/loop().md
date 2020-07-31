@@ -8,10 +8,10 @@ Después de crear una función `setup ()`, que inicializa y establece los valore
 Úselo para controlar activamente la placa Arduino.
 
 ## Mblock
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/HelloWorld.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/HelloWorld.JPG)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/loop().md](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/loop().md)
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTI3OTI2MywxOTMyMDM5MTkwLDEzNz
-E2NjU2MDMsNTEwNjQ2Mzk5LC00OTM4NDA1NTFdfQ==
+eyJoaXN0b3J5IjpbLTIwNzkzMTYwNDksMTkzMjAzOTE5MCwxMz
+cxNjY1NjAzLDUxMDY0NjM5OSwtNDkzODQwNTUxXX0=
 -->

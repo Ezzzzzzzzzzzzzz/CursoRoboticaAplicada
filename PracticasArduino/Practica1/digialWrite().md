@@ -21,9 +21,12 @@ digitalWrite(pin, valor);
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks%20(2).png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks%20(2).png)
 
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks%20(3).png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks%20(3).png)
+
+
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTgyNDU5NCwtMTgxNzAwOTQyNiw2OT
-Q2ODE3NzNdfQ==
+eyJoaXN0b3J5IjpbNDMxMDczOTIwLC0xODE3MDA5NDI2LDY5ND
+Y4MTc3M119
 -->

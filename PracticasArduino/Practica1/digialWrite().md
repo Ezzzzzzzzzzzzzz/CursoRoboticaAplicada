@@ -17,9 +17,13 @@ digitalWrite(pin, valor);
 **Pin:** el número de pin de Arduino.
 **Valor:** **HIGH** (ALTO) o **LOW** (BAJO).
 
+## Mblock
+
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks%20(2).png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks%20(2).png)
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTcwMDk0MjYsNjk0NjgxNzczXX0=
+eyJoaXN0b3J5IjpbMTUyMTgyNDU5NCwtMTgxNzAwOTQyNiw2OT
+Q2ODE3NzNdfQ==
 -->

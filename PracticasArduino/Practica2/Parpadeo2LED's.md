@@ -11,6 +11,8 @@ Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos led´
 > - Protoboard 
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/) 
+> - [https://www.mblock.cc/en-us/](https://www.mblock.cc/en-us/)
+
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG)
@@ -44,7 +46,7 @@ void loop() // Definimos nuestra secuencia.
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTI2MjA5NCw3OTc1Mjc2MDAsNTM3NT
+eyJoaXN0b3J5IjpbMTM0OTk3MDE0Miw3OTc1Mjc2MDAsNTM3NT
 g5NzksLTEyMzE2NzYxNTAsMzU2NzYwNTU0LC0yMDg0NDUzNzMx
 LC0xNDI0MzY1OTI2LC03MzA3OTc4NjRdfQ==
 -->

@@ -21,7 +21,7 @@ Comenzaremos haciendo el programa clásico del **blink** que en otro lenguaje de
 
 ![BlinkLED](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/BlinkLED.JPG)
 
-## Código  
+## C ++
 ```c
 #define LED 4 //Damos un nombre a nuestro pin 4.
 
@@ -52,8 +52,8 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzA5OTg0NSwtMTQ5OTc1NTEsLTEwMj
-EwNTk2MiwyMDEyNzIxNjQwLDEzMTU2NTYxMzgsLTE3MzA4ODQx
-MzEsLTIwMDM1NDg4OTksLTE1NDMwMzgxMjcsLTU5NTc4OTY1MC
-wtMTQ2ODg1NDc0MF19
+eyJoaXN0b3J5IjpbMTcwNDY3MTIwNSwxNTM3MDk5ODQ1LC0xND
+k5NzU1MSwtMTAyMTA1OTYyLDIwMTI3MjE2NDAsMTMxNTY1NjEz
+OCwtMTczMDg4NDEzMSwtMjAwMzU0ODg5OSwtMTU0MzAzODEyNy
+wtNTk1Nzg5NjUwLC0xNDY4ODU0NzQwXX0=
 -->

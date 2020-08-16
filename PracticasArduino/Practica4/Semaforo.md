@@ -16,7 +16,7 @@ Esta práctica tiene como objetivo conocer salidas digitales para la creación d
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo1.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo1.JPG)
 
 ## Blockly@rduino
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo1Bloques.PNG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo1Bloques.PNG)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/capture1597615496062.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/capture1597615496062.png)
 
 ## C ++
 
@@ -62,7 +62,7 @@ void loop()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk1OTk2NDQsLTE3NTc3NDAyNzIsND
-g4OTU5MzEzLDIwNzk2MTk2MzIsMTg2Nzk4NDY3LC0xODU1ODUy
-MTA5LDk5MjU3MDY1OV19
+eyJoaXN0b3J5IjpbNDkwMjc5NzcwLC0xODU5NTk5NjQ0LC0xNz
+U3NzQwMjcyLDQ4ODk1OTMxMywyMDc5NjE5NjMyLDE4Njc5ODQ2
+NywtMTg1NTg1MjEwOSw5OTI1NzA2NTldfQ==
 -->

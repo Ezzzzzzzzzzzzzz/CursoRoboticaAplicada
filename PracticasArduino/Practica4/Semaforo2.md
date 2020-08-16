@@ -18,7 +18,7 @@ Esta práctica tiene como objetivo crear el control para dos semáforos en un cr
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo2.JPG)
 
-## Código
+## C++
 
 ```c 
 #define Rojo1 4
@@ -44,11 +44,11 @@ void loop()
    ***************************/
 }
 ```
-## Bloques
+## Blockly@rduino
 ![](https://media1.giphy.com/media/cMVgEhDeKzPwI/giphy.gif?w=1400)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzAxMDUwNCwxMTg1ODI2NDQyLDc1OT
-UyMDE2MSwzMzU2MzMwNjMsLTYzODQxNzcwMSwtMTk3NjA1MDM2
-MSwtMTY0OTg3NjE3NiwtOTQxNDA0MDcsLTc2NDIyNDA4MywxNT
-MwMjQ1OTQ0XX0=
+eyJoaXN0b3J5IjpbLTEwNzg2MzE4ODQsLTQzNzAxMDUwNCwxMT
+g1ODI2NDQyLDc1OTUyMDE2MSwzMzU2MzMwNjMsLTYzODQxNzcw
+MSwtMTk3NjA1MDM2MSwtMTY0OTg3NjE3NiwtOTQxNDA0MDcsLT
+c2NDIyNDA4MywxNTMwMjQ1OTQ0XX0=
 -->

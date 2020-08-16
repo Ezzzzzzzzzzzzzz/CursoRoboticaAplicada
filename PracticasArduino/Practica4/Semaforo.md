@@ -9,11 +9,13 @@ Esta práctica tiene como objetivo conocer salidas digitales para la creación d
 > - Protoboard
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
+
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo1.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo1.JPG)
 
-## Mblock
+## Blockly@rduino
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo1Bloques.PNG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica4/Semaforo1Bloques.PNG)
 
 ## C ++
@@ -60,7 +62,7 @@ void loop()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc3NDAyNzIsNDg4OTU5MzEzLDIwNz
-k2MTk2MzIsMTg2Nzk4NDY3LC0xODU1ODUyMTA5LDk5MjU3MDY1
-OV19
+eyJoaXN0b3J5IjpbLTE4NTk1OTk2NDQsLTE3NTc3NDAyNzIsND
+g4OTU5MzEzLDIwNzk2MTk2MzIsMTg2Nzk4NDY3LC0xODU1ODUy
+MTA5LDk5MjU3MDY1OV19
 -->

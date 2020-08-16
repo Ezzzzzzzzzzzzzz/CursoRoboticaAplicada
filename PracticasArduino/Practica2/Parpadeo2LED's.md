@@ -11,13 +11,12 @@ Ahora lo que realizaremos en esta segunda práctica es hacer parpadear dos led´
 > - Protoboard 
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/) 
-> - [https://www.mblock.cc/en-us/](https://www.mblock.cc/en-us/)
-
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG)
 
-## Mblock
+## Blockly@rduino
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/blocks%20(7).png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/blocks%20(7).png)
 
 ## C ++
@@ -43,8 +42,8 @@ void loop() // Definimos nuestra secuencia.
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MDE3MDMxLC0yNjUyMjE1MDYsMTM0OT
-k3MDE0Miw3OTc1Mjc2MDAsNTM3NTg5NzksLTEyMzE2NzYxNTAs
-MzU2NzYwNTU0LC0yMDg0NDUzNzMxLC0xNDI0MzY1OTI2LC03Mz
-A3OTc4NjRdfQ==
+eyJoaXN0b3J5IjpbMjExMTU0MTMxMyw1MTQwMTcwMzEsLTI2NT
+IyMTUwNiwxMzQ5OTcwMTQyLDc5NzUyNzYwMCw1Mzc1ODk3OSwt
+MTIzMTY3NjE1MCwzNTY3NjA1NTQsLTIwODQ0NTM3MzEsLTE0Mj
+QzNjU5MjYsLTczMDc5Nzg2NF19
 -->

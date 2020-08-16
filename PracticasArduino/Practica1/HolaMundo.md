@@ -5,7 +5,7 @@ Comenzaremos haciendo el programa clásico del **Blink** que en otro lenguaje de
 ## Materiales
 > - 1 Arduino
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
-> - [https://www.mblock.cc/en-us/](https://www.mblock.cc/en-us/)
+> - [Block](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Diagrama de bloques
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/DB001.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/DB001.JPG)
@@ -23,7 +23,7 @@ Comenzaremos haciendo el programa clásico del **Blink** que en otro lenguaje de
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTY3NjEyNTUsMTc4MjM5ODI0NiwtMj
-U0MzIzNzc0LDE1MDc1Nzg0MTksMTg0MDk0ODIxNSwtMjA1MjY1
-NDMyMV19
+eyJoaXN0b3J5IjpbLTkzNjM5NTkxNiwtMTgxNjc2MTI1NSwxNz
+gyMzk4MjQ2LC0yNTQzMjM3NzQsMTUwNzU3ODQxOSwxODQwOTQ4
+MjE1LC0yMDUyNjU0MzIxXX0=
 -->

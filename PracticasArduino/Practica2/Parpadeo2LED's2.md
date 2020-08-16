@@ -11,6 +11,7 @@ Ahora, con lo aprendido anteriormente lo que realizaremos en esta segunda práct
 > - Protoboard 
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica2/Practica2.JPG)
@@ -43,7 +44,7 @@ void loop() // Definimos nuestra secuencia.
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NDg0MjgzLC0xNDQwNjAyMTg4LC0xNT
-gzOTAzMzI3LC0xODQ4NzgxNTU4LC01NjY4ODA1NzAsLTE5MzIz
-NjE5OTAsLTE4MTIzODkxMjYsLTY5MzE5OTMxXX0=
+eyJoaXN0b3J5IjpbLTEwNDUyNzQyMDYsLTE0NDA2MDIxODgsLT
+E1ODM5MDMzMjcsLTE4NDg3ODE1NTgsLTU2Njg4MDU3MCwtMTkz
+MjM2MTk5MCwtMTgxMjM4OTEyNiwtNjkzMTk5MzFdfQ==
 -->

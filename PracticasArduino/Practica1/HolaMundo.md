@@ -15,7 +15,7 @@ Comenzaremos haciendo el programa clásico del **Blink** que en otro lenguaje de
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T005.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/T005.JPG)
 
 
-## Blockly
+## Blockly@rduino
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks.png)
 
 
@@ -23,7 +23,7 @@ Comenzaremos haciendo el programa clásico del **Blink** que en otro lenguaje de
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODU5MjIzNiwxNzgyMzk4MjQ2LC0yNT
-QzMjM3NzQsMTUwNzU3ODQxOSwxODQwOTQ4MjE1LC0yMDUyNjU0
-MzIxXX0=
+eyJoaXN0b3J5IjpbLTE4MTY3NjEyNTUsMTc4MjM5ODI0NiwtMj
+U0MzIzNzc0LDE1MDc1Nzg0MTksMTg0MDk0ODIxNSwtMjA1MjY1
+NDMyMV19
 -->

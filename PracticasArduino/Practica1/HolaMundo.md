@@ -16,14 +16,14 @@ Comenzaremos haciendo el programa clásico del **Blink** que en otro lenguaje de
 
 
 ## Blockly@rduino
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks.png)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/capture1597606042714.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/capture1597606042714.png)
 
 
 
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY0MzA2MzYsLTE4MTY3NjEyNTUsMT
-c4MjM5ODI0NiwtMjU0MzIzNzc0LDE1MDc1Nzg0MTksMTg0MDk0
-ODIxNSwtMjA1MjY1NDMyMV19
+eyJoaXN0b3J5IjpbLTIwMTE3MjU5MjAsLTE1MTY0MzA2MzYsLT
+E4MTY3NjEyNTUsMTc4MjM5ODI0NiwtMjU0MzIzNzc0LDE1MDc1
+Nzg0MTksMTg0MDk0ODIxNSwtMjA1MjY1NDMyMV19
 -->

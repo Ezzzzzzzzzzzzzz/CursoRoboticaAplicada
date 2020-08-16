@@ -16,8 +16,8 @@ En esta práctica se harán las famosas luces del auto fantástico, este nombre 
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/SecBasic.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/SecBasic.JPG)
 
-## Mblock
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/blocks%20(9).png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/blocks%20(9).png)
+## Blockly@rduino
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/capture1597612422872.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica3/capture1597612422872.png)
 
 
 ## C ++
@@ -89,8 +89,8 @@ void loop()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTQ0NTAwNCwyNDc3MzAxNzEsLTExNj
-MyMDk4NzksMTA0MjMxNzYzNSwxNTYyMDE4NzIzLC0xMDM4NjQ4
-NDg5LDExMTIzODk2NjMsMTIzNjY0NjYxOCwtMTI1MDEyMjkwMy
-w3MjczNjEzNzYsNzMzNzA4Njk0XX0=
+eyJoaXN0b3J5IjpbLTk3MTg1NjEyNywtODYxNDQ1MDA0LDI0Nz
+czMDE3MSwtMTE2MzIwOTg3OSwxMDQyMzE3NjM1LDE1NjIwMTg3
+MjMsLTEwMzg2NDg0ODksMTExMjM4OTY2MywxMjM2NjQ2NjE4LC
+0xMjUwMTIyOTAzLDcyNzM2MTM3Niw3MzM3MDg2OTRdfQ==
 -->

@@ -19,14 +19,11 @@ digitalWrite(pin, valor);
 
 ## Blockly@rduino
 
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks%20(2).png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks%20(2).png)
-
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks%20(3).png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/blocks%20(3).png)
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/capture1597609252207.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/capture1597609252207.png)
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjgxMDU3OSwtMTgxNzAwOTQyNiw2OT
+eyJoaXN0b3J5IjpbMTM4ODg4NTEyNywtMTgxNzAwOTQyNiw2OT
 Q2ODE3NzNdfQ==
 -->

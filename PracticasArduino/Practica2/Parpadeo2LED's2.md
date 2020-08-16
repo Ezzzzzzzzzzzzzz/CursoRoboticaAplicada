@@ -21,7 +21,7 @@ Ahora, con lo aprendido anteriormente lo que realizaremos en esta segunda práct
 ![](https://media1.giphy.com/media/cMVgEhDeKzPwI/giphy.gif?w=1400)
 
 
-## Código
+## C ++
 ```c
 #define LED1 4	// Damos un nombre a nuestro pin 4
 #define LED2 5	// Damos un nombre a nuestro pin 5
@@ -47,7 +47,7 @@ void loop() // Definimos nuestra secuencia.
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDkxNzM2NCwtMTQ0MDYwMjE4OCwtMT
-U4MzkwMzMyNywtMTg0ODc4MTU1OCwtNTY2ODgwNTcwLC0xOTMy
-MzYxOTkwLC0xODEyMzg5MTI2LC02OTMxOTkzMV19
+eyJoaXN0b3J5IjpbLTE5NzkxMzYxNzIsLTE0NDA2MDIxODgsLT
+E1ODM5MDMzMjcsLTE4NDg3ODE1NTgsLTU2Njg4MDU3MCwtMTkz
+MjM2MTk5MCwtMTgxMjM4OTEyNiwtNjkzMTk5MzFdfQ==
 -->

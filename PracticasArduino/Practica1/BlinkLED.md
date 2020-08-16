@@ -26,7 +26,7 @@ Comenzaremos haciendo el programa clásico del **blink** que en otro lenguaje de
 
 
 ## Blockly@rduino
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/capture1597610150276.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/capture1597610150276.png)
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/capture1597611052182.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/capture1597611052182.png)
 
 
 ## C ++
@@ -58,9 +58,9 @@ Lo siguiente será configurar nuestro programa de ejecución, esto entra en ``vo
 
 Written by  [Ezzz](https://ezzzzzzzzzzzzzz.github.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQwMDQ1MzMsMTgwNDEwMjE5MSw3Mj
-EzNjkxNTMsMTUzNzA5OTg0NSwtMTQ5OTc1NTEsLTEwMjEwNTk2
-MiwyMDEyNzIxNjQwLDEzMTU2NTYxMzgsLTE3MzA4ODQxMzEsLT
-IwMDM1NDg4OTksLTE1NDMwMzgxMjcsLTU5NTc4OTY1MCwtMTQ2
-ODg1NDc0MF19
+eyJoaXN0b3J5IjpbMzAzOTE2MzksLTE4MTQwMDQ1MzMsMTgwND
+EwMjE5MSw3MjEzNjkxNTMsMTUzNzA5OTg0NSwtMTQ5OTc1NTEs
+LTEwMjEwNTk2MiwyMDEyNzIxNjQwLDEzMTU2NTYxMzgsLTE3Mz
+A4ODQxMzEsLTIwMDM1NDg4OTksLTE1NDMwMzgxMjcsLTU5NTc4
+OTY1MCwtMTQ2ODg1NDc0MF19
 -->

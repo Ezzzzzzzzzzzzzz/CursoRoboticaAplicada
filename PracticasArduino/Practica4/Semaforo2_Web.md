@@ -62,8 +62,6 @@ void loop() {
 
 }
 ```
-## Bloques
-![](https://media1.giphy.com/media/cMVgEhDeKzPwI/giphy.gif?w=1400)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Njk4OTI3Nl19
+eyJoaXN0b3J5IjpbLTE2NTk0MjgwMDMsMTQ1Njk4OTI3Nl19
 -->

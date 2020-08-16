@@ -11,6 +11,7 @@ En esta práctica se harán las famosas luces del auto fantástico, este nombre 
 > - Protoboard
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Circuito
 
@@ -65,7 +66,7 @@ Lo siguiente es configurar los pines como salida y aquí vemos lo interesante, *
 Ahora en el **``loop`` ponemos nuestro programa de ejecución**, de nuevo usamos un [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md) como el del ``setup()``, y adentro del [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md) ponemos la sentencia que hace que prenda el led con ``digitalWrite()``, a esta función le pasamos como primer parámetro la variable del [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md) y enviamos un alto, el **led prenderá durante el tiempo de la variable pausa y después de ese tiempo se apagará** ese mismo pin, así sucesivamente, después se le da un tiempo con un ``delay()``, de nuevo le pasamos como parámetro la variable pausa y esto servirá para darle un tiempo para hacer el cambio al segundo [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md). En este segundo [``for()``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/Sentencia%20for.md) hacemos lo mismo pero ahora al revés, **empezamos en el led conectado en el pin 4 y así seguimos hasta el led 0, para que esto funcione en la _condición 1_ usamos un [``>=``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) y en la _condición 2_ se hace un decremento [``--``](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Asignaci%C3%B3n.md)**, esto ya se vio en un ejemplo de un tema anterior.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyMzM3MjIyLC0xNTk4NzE5MjI1LDE2MT
-U4OTgyNDcsMTg4Njk1MTUwNywtNTU1MDI0NzMyLDE5NTY0NzQ0
-MTYsMTg5MTA4MTMwNCwzNjA3NDY4MTZdfQ==
+eyJoaXN0b3J5IjpbMzM3MzQyMSwtMTU5ODcxOTIyNSwxNjE1OD
+k4MjQ3LDE4ODY5NTE1MDcsLTU1NTAyNDczMiwxOTU2NDc0NDE2
+LDE4OTEwODEzMDQsMzYwNzQ2ODE2XX0=
 -->

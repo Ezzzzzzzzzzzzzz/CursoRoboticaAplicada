@@ -13,6 +13,8 @@ Esta práctica tiene como objetivo crear el control para dos semáforos en un cr
 > - Protoboard
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
+ 
 
 ## Circuito
 
@@ -47,8 +49,8 @@ void loop()
 ## Blockly@rduino
 ![](https://media1.giphy.com/media/cMVgEhDeKzPwI/giphy.gif?w=1400)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg2MzE4ODQsLTQzNzAxMDUwNCwxMT
-g1ODI2NDQyLDc1OTUyMDE2MSwzMzU2MzMwNjMsLTYzODQxNzcw
-MSwtMTk3NjA1MDM2MSwtMTY0OTg3NjE3NiwtOTQxNDA0MDcsLT
-c2NDIyNDA4MywxNTMwMjQ1OTQ0XX0=
+eyJoaXN0b3J5IjpbLTI4NDYxNzMwMSwtNDM3MDEwNTA0LDExOD
+U4MjY0NDIsNzU5NTIwMTYxLDMzNTYzMzA2MywtNjM4NDE3NzAx
+LC0xOTc2MDUwMzYxLC0xNjQ5ODc2MTc2LC05NDE0MDQwNywtNz
+Y0MjI0MDgzLDE1MzAyNDU5NDRdfQ==
 -->

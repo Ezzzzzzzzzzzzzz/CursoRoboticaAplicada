@@ -32,10 +32,17 @@ void setup()  {
 }  
 void loop()  {
   for  (Brillo  =  0;  Brillo  <=  255;  Brillo++)  
-  { analogWrite(Led,  Brillo); delay(Tiempo);  }  for  (Brillo  =  255;  Brillo  >=  0;  Brillo--)  { analogWrite(Led,  Brillo); delay(Tiempo);  }  }
+  { 
+	  analogWrite(Led,  Brillo);
+	  delay(Tiempo);
+  }  
+  for  (Brillo  =  255;  Brillo  >=  0;  Brillo--)  { 
+	  analogWrite(Led,  Brillo); 
+	  delay(Tiempo);  
+	  }  
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjA3MTQyOSwtOTAzNTA5OTQ5XX0=
+eyJoaXN0b3J5IjpbLTEwOTE0MzY1MDYsLTkwMzUwOTk0OV19
 -->

@@ -20,6 +20,7 @@ Vamos a leer un pulsador y por medio de una condición vamos a prender y apagar 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/BotonLED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/BotonLED.JPG)
 
 ## Blockly@rduino
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/capture1597630242591.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/capture1597630242591.png)
 
 
 ## C++
@@ -46,7 +47,7 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI0MzE4NTEsLTEzNDAxMTg4NDcsNz
-I0MDA4MjE3LC0zMTM2MDkzOTUsMTY5NjcxMjU5OSwyMDE0MTI4
-MDM5LC01MTYyMDI5ODddfQ==
+eyJoaXN0b3J5IjpbODg4MjU2ODQ3LC0xMzkyNDMxODUxLC0xMz
+QwMTE4ODQ3LDcyNDAwODIxNywtMzEzNjA5Mzk1LDE2OTY3MTI1
+OTksMjAxNDEyODAzOSwtNTE2MjAyOTg3XX0=
 -->

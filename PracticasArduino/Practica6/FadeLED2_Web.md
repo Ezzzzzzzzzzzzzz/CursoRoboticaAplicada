@@ -22,33 +22,20 @@ En esta práctica  **COMPLETA** el código para poder controlar la luminiscencia
 
 ## C ++
 ```c
-#define Led 5
+#define  Led  5  
 
-int Brillo;
-int Tiempo = 15;
+int  Brillo  =  0;  
+int  Tiempo  =  15;
 
-void setup()
-{
-  pinMode(Led, OUTPUT);
-}
-void loop()
-{
-  for(Brillo = 0; Brillo < 256; Brillo++)
-  {
-    	analogWrite(Led, Brillo);
-    	delay(Tiempo);
-	
-	/*
-	 ****************************
-	 * Escribe tu codigo AQUI!! *
-	 ****************************
-	 */
-  }
+void setup()  { 
+	pinMode(Led, OUTPUT);
+}  
+void loop()  {
+  for  (Brillo  =  0;  Brillo  <=  255;  Brillo++)  
+  { analogWrite(Led,  Brillo); delay(Tiempo);  }  for  (Brillo  =  255;  Brillo  >=  0;  Brillo--)  { analogWrite(Led,  Brillo); delay(Tiempo);  }  }
 }
 ```
-![](https://media1.giphy.com/media/cMVgEhDeKzPwI/giphy.gif?w=1400)
 
-**Si necesitas ayuda**, revisa las **[sentencias de control](https://classroom.google.com/w/NDY3MjU0MTQyMDla/tc/NDY4MDUwNDkzMjBa?hl=es)** y los [**operadores de relación**](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) para poder completar la practica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk3NTI1OTMsLTkwMzUwOTk0OV19
+eyJoaXN0b3J5IjpbMTkwNjA3MTQyOSwtOTAzNTA5OTQ5XX0=
 -->

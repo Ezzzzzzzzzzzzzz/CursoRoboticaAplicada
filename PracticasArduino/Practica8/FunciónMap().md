@@ -34,8 +34,9 @@ void loop() {
 ```
 
 ## Blockly@rduino
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597708115337.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597708115337.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzY4Mzk3OSw0NzY0NDU3ODAsLTE4Mz
-cwNTE1OTEsLTIwMjI1ODE1NDcsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTI1MTg4NzgxNywtOTg3NjgzOTc5LDQ3Nj
+Q0NTc4MCwtMTgzNzA1MTU5MSwtMjAyMjU4MTU0NywtMjA4ODc0
+NjYxMl19
 -->

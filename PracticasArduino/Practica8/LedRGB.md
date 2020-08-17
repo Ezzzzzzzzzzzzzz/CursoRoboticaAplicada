@@ -11,11 +11,16 @@ En esta práctica se implementa lo visto anteriormente para controlar un **led R
 > - Protoboard
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
+
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/LedRGB.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/LedRGB.JPG)
 
-## Código
+## Blockly@rduino
+
+
+## C ++
 ```c
 #define pinRed 11
 #define pinGreen 9
@@ -69,6 +74,6 @@ Primero definimos los pines a usar, con ``#define``, esto se explicó en los tem
 
 Ya en el ``loop()``, mandamos llamar a la función varias veces para poder hacer funcionar el led **RGB**, hacemos mezcla de colores con los colores básicos, **rojo (red)**, **verde (green)** y **azul (blue)**.  Con esto ya deben saber cómo usar la función ``analogWrite()`` y hacer manipulación del **PWM**, también a unir los temas anteriores entre sí. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDI0MTIzMywxNDc0MjQxMjMzLC0xNT
+eyJoaXN0b3J5IjpbMTA0MDY2OTQ3NywxNDc0MjQxMjMzLC0xNT
 MzMTUyMjM5LC0xOTg3NTIwMDM1LDk3NzA0ODQ1M119
 -->

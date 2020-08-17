@@ -64,9 +64,9 @@ int myMultiplyFunction(int x,  int y){
 ```
 
 ## Blockly@arduino
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597695786610.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597695786610.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzE2NDEzNCw2MTA3NTA1MCwtMTY1MT
-MzNTk0MCwtMTY1MTMzNTk0MCwyMjUyMTE3OTAsLTExNzY5NDgw
-MjUsLTE5NzgzNzA4M119
+eyJoaXN0b3J5IjpbLTE1NjM0OTg2NTAsLTgzNzE2NDEzNCw2MT
+A3NTA1MCwtMTY1MTMzNTk0MCwtMTY1MTMzNTk0MCwyMjUyMTE3
+OTAsLTExNzY5NDgwMjUsLTE5NzgzNzA4M119
 -->

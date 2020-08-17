@@ -1,18 +1,24 @@
-# Ejercicio de funciones
+# Ejercicios de funciones
 
 Pretendemos escribir dos funciones **enciendo()** y **apago()** que describan por el monitor serial si el led conectado al Arduino esta encendido o apagado. 
 
+## C ++
+### Ejercicio 1
+
 ```c
+
+#define Led 13
+
 void setup() {
  Serial.begin(9600);
- pinMode(13, OUTPUT);
+ pinMode(Led, OUTPUT);
 }
 
 void loop() {
- digitalWrite(13, HIGH);
+ digitalWrite(Led, HIGH);
  enciendo();
  delay(1000);
- digitalWrite(13, LOW);
+ digitalWrite(Led, LOW);
  apago();
  delay(1000);
 }
@@ -27,7 +33,13 @@ void apago(){
  return;
 }
 ```
-# Ejercicio #2
+
+## Blockly@arduino
+!
+
+
+## C ++ 
+### Ejercicio #2 
 
 ```c
 void  setup(){  
@@ -51,6 +63,7 @@ int myMultiplyFunction(int x,  int y){
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTEzMzU5NDAsLTE2NTEzMzU5NDAsMj
-I1MjExNzkwLC0xMTc2OTQ4MDI1LC0xOTc4MzcwODNdfQ==
+eyJoaXN0b3J5IjpbMTMyMDI1NjgyOSw2MTA3NTA1MCwtMTY1MT
+MzNTk0MCwtMTY1MTMzNTk0MCwyMjUyMTE3OTAsLTExNzY5NDgw
+MjUsLTE5NzgzNzA4M119
 -->

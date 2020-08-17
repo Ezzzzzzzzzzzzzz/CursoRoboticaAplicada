@@ -16,7 +16,12 @@ bool var = val;
 **val:** el valor a asignar a esa variable.
 
 ## Blockly@rduino
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597694298039.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597694298039.png)
+
+### Parámetros
+
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597693437339.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597693437339.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3OTY1NzE4LC0yMTAxNzE0NzJdfQ==
+eyJoaXN0b3J5IjpbMTIyOTY5ODM5Nyw3Nzc5NjU3MTgsLTIxMD
+E3MTQ3Ml19
 -->

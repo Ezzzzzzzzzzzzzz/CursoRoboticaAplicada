@@ -52,7 +52,10 @@ Las funciones en Arduino pueden estar dentro del mismo fichero .ino o en otro fi
 
 ## Blockly@rduino
 
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597697707685.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597697707685.png)
+
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597697737342.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597697737342.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzA4MzE5MzIsLTc2NDY5MzYxMSwtMT
-YwODEzNTQ4M119
+eyJoaXN0b3J5IjpbMTQzNTk5ODM2MCwtMTIzMDgzMTkzMiwtNz
+Y0NjkzNjExLC0xNjA4MTM1NDgzXX0=
 -->

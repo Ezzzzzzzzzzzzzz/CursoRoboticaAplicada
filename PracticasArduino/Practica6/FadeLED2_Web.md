@@ -17,6 +17,7 @@ En esta práctica  **COMPLETA** el código para poder controlar la luminiscencia
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/FadeLED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/FadeLED.JPG)
 
 ## Blockly@rduino
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/capture1597677369136.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/capture1597677369136.png)
 
 
 ## C ++
@@ -49,5 +50,5 @@ void loop()
 
 **Si necesitas ayuda**, revisa las **[sentencias de control](https://classroom.google.com/w/NDY3MjU0MTQyMDla/tc/NDY4MDUwNDkzMjBa?hl=es)** y los [**operadores de relación**](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/Operadores%20Relacion.md) para poder completar la practica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzUwOTk0OV19
+eyJoaXN0b3J5IjpbLTE5NDk3NTI1OTMsLTkwMzUwOTk0OV19
 -->

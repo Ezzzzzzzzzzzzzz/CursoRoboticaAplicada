@@ -49,6 +49,10 @@ Generalmente los nombres de las funciones deben ser en minúscula, con las palab
 En el caso de las clases, los nombres deben utilizar la convención **“CapWords” (palabras que comienzan con mayúsculas).**
 
 Las funciones en Arduino pueden estar dentro del mismo fichero .ino o en otro fichero con extensión .ino dentro del directorio del sketch.
+
+## Blockly@rduino
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDY5MzYxMSwtMTYwODEzNTQ4M119
+eyJoaXN0b3J5IjpbLTEyMzA4MzE5MzIsLTc2NDY5MzYxMSwtMT
+YwODEzNTQ4M119
 -->

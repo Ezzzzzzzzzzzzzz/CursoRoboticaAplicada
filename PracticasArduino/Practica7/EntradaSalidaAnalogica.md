@@ -10,6 +10,7 @@ Ya se vio como aumentar o disminuir el brillo de un led con **PWM** y con el uso
 > - Protoboard
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/PWMPot.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/PWMPot.JPG)
@@ -57,6 +58,6 @@ En la función ``analogWrite()``, es donde enviaremos esos valores al **LED** pa
 
 Con esto vemos cómo podemos manipular el **PWM** con sensores, en este caso un potenciómetro y como siempre esto es la base para proyectos más avanzados.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODg1NDQxMCwtMTUyOTk0NjQzNSwtMT
-M4MjYzNjU5OV19
+eyJoaXN0b3J5IjpbNzQ1Mjc5OTAxLC03Mjg4NTQ0MTAsLTE1Mj
+k5NDY0MzUsLTEzODI2MzY1OTldfQ==
 -->

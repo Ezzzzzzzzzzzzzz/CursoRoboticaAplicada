@@ -15,10 +15,16 @@ Se trata de contar las veces que se pulsa un botón conectado en la **pin 7** de
 > - Protoboard
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
+
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT002.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT002.JPG)
 
-## Codigo
+## Blockly@rduino
+
+
+
+## C++
 ```c
 #define LED 13 //Damos un alias a nuestro pin 2
 #define Boton 7 //Damos un alias a nuestro pin 3
@@ -54,6 +60,6 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzEwNTYzMyw4OTAwOTIxNjgsMTg5OT
-gyMzk5MywxNzI5MzMyNDkxXX0=
+eyJoaXN0b3J5IjpbLTIwNTU2MjMxLDg5MDA5MjE2OCwxODk5OD
+IzOTkzLDE3MjkzMzI0OTFdfQ==
 -->

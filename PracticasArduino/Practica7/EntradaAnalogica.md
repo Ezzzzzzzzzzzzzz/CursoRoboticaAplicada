@@ -12,7 +12,7 @@ En esta práctica leeremos un potenciómetro e imprimiremos los datos, esto ya s
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/POT.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/POT.JPG)
 
 ## Blockly@rduino
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/capture1597679067001.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/capture1597679067001.png)
 
 ## C ++
 ```c
@@ -36,6 +36,6 @@ El código ya se vio en los temas anteriores, aquí solo se explicarán las part
 
 Ahora abriremos el monitor serial, verán que abajo dice 9600 baudio, recordemos que al principio del tema se mencionó que ambos extremos deben de tener la misma velocidad, al poner ``Serial.begin()`` en el ``setup()`` se configura el Arduino y su microcontrolador a la velocidad de 9600, ahora el otro extremo será la computadora en este caso se escoge nuevamente 9600 baudios en el monitor serial. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc0NDkyNTEsLTEzNzQxMjQ5OTJdfQ
-==
+eyJoaXN0b3J5IjpbLTE1MzI0NTQ0NTMsLTIxMjc0NDkyNTEsLT
+EzNzQxMjQ5OTJdfQ==
 -->

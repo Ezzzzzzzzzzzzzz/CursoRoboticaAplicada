@@ -25,7 +25,7 @@ Abajo se muestra el código, material y explicación de la práctica.
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/PWMPot.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/PWMPot.JPG)
 
 ## Blockly@rduino
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/capture1597693228222.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/capture1597693228222.png)
 
 ## C ++
 ```c
@@ -56,6 +56,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUwNzkzNzEsMTgwMjY0MTUwMiwtMT
-g4MTY3NzEyOSwtNzU1ODgwMTI1XX0=
+eyJoaXN0b3J5IjpbLTE2NjQ0NjUxMDEsLTEzOTUwNzkzNzEsMT
+gwMjY0MTUwMiwtMTg4MTY3NzEyOSwtNzU1ODgwMTI1XX0=
 -->

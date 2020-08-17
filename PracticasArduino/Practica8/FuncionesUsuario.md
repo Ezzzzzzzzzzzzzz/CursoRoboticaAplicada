@@ -52,12 +52,14 @@ Las funciones en Arduino pueden estar dentro del mismo fichero .ino o en otro fi
 
 ## Blockly@rduino
 
-Funciones que no devuelven ningun valor: 
+Funciones que no devuelven ningún valor: 
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597697707685.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597697707685.png)
 
+Funciones que devuelven un valor (resultado):
+
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597697737342.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597697737342.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTY1Nzg3NSwtMTIzMDgzMTkzMiwtNz
+eyJoaXN0b3J5IjpbMTIyMTE0MjYyMiwtMTIzMDgzMTkzMiwtNz
 Y0NjkzNjExLC0xNjA4MTM1NDgzXX0=
 -->

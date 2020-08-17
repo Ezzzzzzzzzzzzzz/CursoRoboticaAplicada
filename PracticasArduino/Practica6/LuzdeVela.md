@@ -9,11 +9,15 @@ Se trata de simular el movimiento de la llama de una vela. Hacemos uso de la ins
 > - Protoboard
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/PWMVela.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/PWMVela.JPG)
 
-## Código
+## Blockly@arduino
+
+
+## C ++
 ```c
 #define Led 5  // Selecciona un pin que contenga PWM
 
@@ -36,5 +40,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzYxNjEzOCw3NTYwNDc1M119
+eyJoaXN0b3J5IjpbLTEzNjQ4OTM4MTMsMTIxNzYxNjEzOCw3NT
+YwNDc1M119
 -->

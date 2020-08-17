@@ -19,6 +19,7 @@ Abajo se muestra el código, material y explicación de la práctica.
 > - Protoboard
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/PWMPot.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/PWMPot.JPG)
@@ -53,5 +54,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE2NzcxMjksLTc1NTg4MDEyNV19
+eyJoaXN0b3J5IjpbMTgwMjY0MTUwMiwtMTg4MTY3NzEyOSwtNz
+U1ODgwMTI1XX0=
 -->

@@ -35,7 +35,7 @@ void apago(){
 ```
 
 ## Blockly@arduino
-!
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597695019953.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597695019953.png)
 
 
 ## C ++ 
@@ -62,8 +62,11 @@ int myMultiplyFunction(int x,  int y){
  return result;  
 }
 ```
+
+## Blockly@arduino
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDI1NjgyOSw2MTA3NTA1MCwtMTY1MT
+eyJoaXN0b3J5IjpbLTgzNzE2NDEzNCw2MTA3NTA1MCwtMTY1MT
 MzNTk0MCwtMTY1MTMzNTk0MCwyMjUyMTE3OTAsLTExNzY5NDgw
 MjUsLTE5NzgzNzA4M119
 -->

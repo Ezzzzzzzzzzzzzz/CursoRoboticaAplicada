@@ -24,8 +24,10 @@ Abajo se muestra el código, material y explicación de la práctica.
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/PWMPot.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica7/PWMPot.JPG)
 
+## Blockly@rduino
 
-## Código
+
+## C ++
 ```c
 #define LED 5
 #define POT A1
@@ -54,6 +56,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjY0MTUwMiwtMTg4MTY3NzEyOSwtNz
-U1ODgwMTI1XX0=
+eyJoaXN0b3J5IjpbLTEzOTUwNzkzNzEsMTgwMjY0MTUwMiwtMT
+g4MTY3NzEyOSwtNzU1ODgwMTI1XX0=
 -->

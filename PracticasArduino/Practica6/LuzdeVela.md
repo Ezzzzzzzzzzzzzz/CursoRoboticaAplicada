@@ -15,7 +15,7 @@ Se trata de simular el movimiento de la llama de una vela. Hacemos uso de la ins
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/PWMVela.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/PWMVela.JPG)
 
 ## Blockly@arduino
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/capture1597678281577.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/capture1597678281577.png)
 
 ## C ++
 ```c
@@ -40,6 +40,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ4OTM4MTMsMTIxNzYxNjEzOCw3NT
-YwNDc1M119
+eyJoaXN0b3J5IjpbMTgyNTk0MTA0OSwtMTM2NDg5MzgxMywxMj
+E3NjE2MTM4LDc1NjA0NzUzXX0=
 -->

@@ -11,7 +11,10 @@ En esta práctica leeremos un potenciómetro e imprimiremos los datos, esto ya s
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/POT.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/POT.JPG)
 
-## Código
+## Blockly@rduino
+
+
+## C ++
 ```c
 #define POT A0
 int valor;
@@ -33,5 +36,6 @@ El código ya se vio en los temas anteriores, aquí solo se explicarán las part
 
 Ahora abriremos el monitor serial, verán que abajo dice 9600 baudio, recordemos que al principio del tema se mencionó que ambos extremos deben de tener la misma velocidad, al poner ``Serial.begin()`` en el ``setup()`` se configura el Arduino y su microcontrolador a la velocidad de 9600, ahora el otro extremo será la computadora en este caso se escoge nuevamente 9600 baudios en el monitor serial. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQxMjQ5OTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMjc0NDkyNTEsLTEzNzQxMjQ5OTJdfQ
+==
 -->

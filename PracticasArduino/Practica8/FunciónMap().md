@@ -19,7 +19,8 @@ La función **map()** usa  numeros enteros, por lo que no generará fracciones, 
 
 `map(value, fromLow, fromHigh, toLow, toHigh)`
 
-## Código de ejemplo
+## C ++
+### Ejemplo
 
 ```c
 /* Map an analog value to 8 bits (0 to 255) */
@@ -31,7 +32,10 @@ void loop() {
   analogWrite(9, val);
 }
 ```
+
+## Blockly@rduino
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2NDQ1NzgwLC0xODM3MDUxNTkxLC0yMD
-IyNTgxNTQ3LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTk4NzY4Mzk3OSw0NzY0NDU3ODAsLTE4Mz
+cwNTE1OTEsLTIwMjI1ODE1NDcsLTIwODg3NDY2MTJdfQ==
 -->

@@ -7,6 +7,8 @@ En esta práctica leeremos un potenciómetro e imprimiremos los datos, esto ya s
 > - Potenciometro 10kOhm's
 > - Protoboard
 > - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/POT.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/POT.JPG)
@@ -36,6 +38,6 @@ El código ya se vio en los temas anteriores, aquí solo se explicarán las part
 
 Ahora abriremos el monitor serial, verán que abajo dice 9600 baudio, recordemos que al principio del tema se mencionó que ambos extremos deben de tener la misma velocidad, al poner ``Serial.begin()`` en el ``setup()`` se configura el Arduino y su microcontrolador a la velocidad de 9600, ahora el otro extremo será la computadora en este caso se escoge nuevamente 9600 baudios en el monitor serial. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI0NTQ0NTMsLTIxMjc0NDkyNTEsLT
-EzNzQxMjQ5OTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMDEwNjMzODYsLTE1MzI0NTQ0NTMsLT
+IxMjc0NDkyNTEsLTEzNzQxMjQ5OTJdfQ==
 -->

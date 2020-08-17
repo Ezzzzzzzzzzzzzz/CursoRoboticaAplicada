@@ -1,6 +1,7 @@
 # Contador de Pulsos de 0 a 10
 
 Se trata de realizar una variación sobre el ejemplo anterior de tal manera que **cuando el valor del contador llegue a 10 se ponga a cero y comience de nuevo**.
+
 ![](https://media.giphy.com/media/3o7aCXOWeyrF3Kt3LW/giphy.gif)
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT003.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT003.JPG)
@@ -65,6 +66,6 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDkzNDg1LC0xMDY3NjQxNTk1LC0xMz
-c5NDg2MjkzLDE1NjIyNzAzMTVdfQ==
+eyJoaXN0b3J5IjpbLTE4OTA5NDE3MSwtMTA2NzY0MTU5NSwtMT
+M3OTQ4NjI5MywxNTYyMjcwMzE1XX0=
 -->

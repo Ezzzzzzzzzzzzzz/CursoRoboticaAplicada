@@ -21,7 +21,7 @@ Se trata de contar las veces que se pulsa un botón conectado en la **pin 7** de
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT002.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT002.JPG)
 
 ## Blockly@rduino
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/capture1597635063937.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/capture1597635063937.png)
 
 
 ## C++
@@ -60,6 +60,6 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU2MjMxLDg5MDA5MjE2OCwxODk5OD
-IzOTkzLDE3MjkzMzI0OTFdfQ==
+eyJoaXN0b3J5IjpbLTQ0MTA1MzMsLTIwNTU2MjMxLDg5MDA5Mj
+E2OCwxODk5ODIzOTkzLDE3MjkzMzI0OTFdfQ==
 -->

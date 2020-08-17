@@ -31,18 +31,17 @@ void setup()  {
 	pinMode(Led, OUTPUT);
 }  
 void loop()  {
-  for  (Brillo  =  0;  Brillo  <=  255;  Brillo++)  
-  { 
+  for  (Brillo  =  0;  Brillo  <=  255;  Brillo++)  { 
 	  analogWrite(Led,  Brillo);
 	  delay(Tiempo);
   }  
   for  (Brillo  =  255;  Brillo  >=  0;  Brillo--)  { 
 	  analogWrite(Led,  Brillo); 
 	  delay(Tiempo);  
-	  }  
+  }  
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE0MzY1MDYsLTkwMzUwOTk0OV19
+eyJoaXN0b3J5IjpbMTU0ODQ2Mzg2OCwtOTAzNTA5OTQ5XX0=
 -->

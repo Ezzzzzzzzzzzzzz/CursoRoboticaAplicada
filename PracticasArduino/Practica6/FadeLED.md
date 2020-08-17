@@ -15,7 +15,7 @@ En esta práctica **enviaremos valores analógicos para poder controlar la lumin
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/FadeLED.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/FadeLED.JPG)
 
 ## Blockly@rduino
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/capture1597676967363.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/capture1597676967363.png)
 
 
 ## C ++
@@ -49,7 +49,7 @@ Gracias al  ``for()`` vemos como incrementa el brillo del led, si usamos un mult
 
 Y es así como manejamos el **PWM**, **lo que hace es que envía pulsos muy rápidos y eso hace que se emule un valor analógico** y eso se hace como ya vimos con ``analogWrite()``.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDg1NTU5MywtMzIxNTU2NzEsLTk2Nz
-I2MzA0NSwtODI5OTAzNjExLC0xMDQ0MDc1NjIwLC0xNjc3MDE4
-MTAyLC0yMTgwNTUxMzFdfQ==
+eyJoaXN0b3J5IjpbLTE4MjkwMzM5MTcsMTkxMDg1NTU5MywtMz
+IxNTU2NzEsLTk2NzI2MzA0NSwtODI5OTAzNjExLC0xMDQ0MDc1
+NjIwLC0xNjc3MDE4MTAyLC0yMTgwNTUxMzFdfQ==
 -->

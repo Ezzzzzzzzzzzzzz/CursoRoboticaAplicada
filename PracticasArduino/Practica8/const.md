@@ -8,10 +8,11 @@ La palabra clave `const` **significa constante**. Es un calificador de variable 
 const int i = 0;
 ```
 ## Blockly@rduino
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597693529039.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597693529039.png)
 
 ## Notas y advertencias `#define` o `const`
 
 Puede usar `const` o `#define` para crear constantes numéricas o de cadena. Para las matrices, deberá usar `const`. En general, se prefiere `const` sobre `#define` para definir constantes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDc2NTk3MSwxNjkzNTg4MTk3XX0=
+eyJoaXN0b3J5IjpbMzEzNTI4NTEsMTY5MzU4ODE5N119
 -->

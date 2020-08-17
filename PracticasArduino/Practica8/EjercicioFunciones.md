@@ -6,16 +6,19 @@ Pretendemos escribir dos funciones **enciendo()** y **apago()** que describan po
 ### Ejercicio 1
 
 ```c
+
+#define Led 13
+
 void setup() {
  Serial.begin(9600);
- pinMode(13, OUTPUT);
+ pinMode(Led, OUTPUT);
 }
 
 void loop() {
- digitalWrite(13, HIGH);
+ digitalWrite(Led, HIGH);
  enciendo();
  delay(1000);
- digitalWrite(13, LOW);
+ digitalWrite(Led, LOW);
  apago();
  delay(1000);
 }
@@ -59,7 +62,7 @@ int myMultiplyFunction(int x,  int y){
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Njc3MTA1NiwtMTY1MTMzNTk0MCwtMT
-Y1MTMzNTk0MCwyMjUyMTE3OTAsLTExNzY5NDgwMjUsLTE5Nzgz
-NzA4M119
+eyJoaXN0b3J5IjpbNjEwNzUwNTAsLTE2NTEzMzU5NDAsLTE2NT
+EzMzU5NDAsMjI1MjExNzkwLC0xMTc2OTQ4MDI1LC0xOTc4Mzcw
+ODNdfQ==
 -->

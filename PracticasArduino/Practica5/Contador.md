@@ -1,6 +1,7 @@
 # Contador de Pulsos
 
 Se trata de contar las veces que se pulsa un botón conectado en la **pin 7** de **Arduino** a la vez que cada vez que contamos **encendemos el LED conectado en la salida 13**. El valor de la variable que almacena el número de impulsos generados se envía al PC para que se visualice en la pantalla.
+
 ![](https://media.giphy.com/media/8z2mlSy0xxwkw/giphy.gif)
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT001.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT001.JPG)
@@ -14,10 +15,16 @@ Se trata de contar las veces que se pulsa un botón conectado en la **pin 7** de
 > - Protoboard
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
+
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT002.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica5/CONT002.JPG)
 
-## Codigo
+## Blockly@rduino
+
+
+
+## C++
 ```c
 #define LED 13 //Damos un alias a nuestro pin 2
 #define Boton 7 //Damos un alias a nuestro pin 3
@@ -53,6 +60,6 @@ void loop()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDUzMTYwMTksODkwMDkyMTY4LDE4OT
-k4MjM5OTMsMTcyOTMzMjQ5MV19
+eyJoaXN0b3J5IjpbLTIwNTU2MjMxLDg5MDA5MjE2OCwxODk5OD
+IzOTkzLDE3MjkzMzI0OTFdfQ==
 -->

@@ -73,7 +73,9 @@ Para recuperar un valor de una matriz:
 `x = mySensVals [4];`
 
 ## Blockly@rduino
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758869420.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758869420.png)
 
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758883294.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758883294.png)
 
 
 ## Matrices y bucles FOR
@@ -87,7 +89,7 @@ for (byte i = 0; i < 5; i = i + 1) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzIxOTI3OTMsMTIzOTE1NjAzNiwxND
+eyJoaXN0b3J5IjpbLTE2ODYwNzUxMzksMTIzOTE1NjAzNiwxND
 U3MzIzMDcxLC0zNDg3NjAyNDQsLTEyNTAzMTg3NTcsMjg1ODc3
 NDYyLDQ5NDQwNjczMiwxMzYyNjU3MzAyLDMxMjc4NDYxM119
 -->

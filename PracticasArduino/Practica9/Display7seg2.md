@@ -15,11 +15,16 @@ A cada uno de los segmentos que forman el display se les denomina **a**, **b**, 
 > - Protoboard
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
+
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/Disp7seg.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/Disp7seg.JPG)
 
-## Código
+## Blockly@rduino
+
+
+## C ++
 ```c
 const int pins[7] = {0, 1, 2, 3, 4, 5, 6 };
 
@@ -70,6 +75,6 @@ void lightSegments(int number)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDMzMDYzNiwxNTA0MzMwNjM2LDY5OT
-A3NzE2MiwtMTAyNDA4NjYyNl19
+eyJoaXN0b3J5IjpbMTIyNzI3MTE5NCwxNTA0MzMwNjM2LDE1MD
+QzMzA2MzYsNjk5MDc3MTYyLC0xMDI0MDg2NjI2XX0=
 -->

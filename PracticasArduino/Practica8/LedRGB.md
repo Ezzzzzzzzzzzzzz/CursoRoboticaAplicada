@@ -64,6 +64,7 @@ void color(int red, int green, int blue)
   analogWrite(pinBlue, blue);
 }
 ```
+![](https://i.pinimg.com/originals/b9/51/8f/b9518febac2756828254365fbae0c007.png)
 
 ## Explicación
 El código es bastante simple, pero hemos agregado unas cuantas cosas extras, como por ejemplo **usar una función**.
@@ -74,7 +75,7 @@ Primero definimos los pines a usar, con ``#define``, esto se explicó en los tem
 
 Ya en el ``loop()``, mandamos llamar a la función varias veces para poder hacer funcionar el led **RGB**, hacemos mezcla de colores con los colores básicos, **rojo (red)**, **verde (green)** y **azul (blue)**.  Con esto ya deben saber cómo usar la función ``analogWrite()`` y hacer manipulación del **PWM**, también a unir los temas anteriores entre sí. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3OTM4MjEzLDE2NjE5MTk3MjgsMTA0MD
+eyJoaXN0b3J5IjpbODAyMzc4NzY0LDE2NjE5MTk3MjgsMTA0MD
 Y2OTQ3NywxNDc0MjQxMjMzLC0xNTMzMTUyMjM5LC0xOTg3NTIw
 MDM1LDk3NzA0ODQ1M119
 -->

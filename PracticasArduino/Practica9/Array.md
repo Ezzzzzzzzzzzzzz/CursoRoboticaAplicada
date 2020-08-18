@@ -36,6 +36,12 @@ int miArrayCajonera[10] = {1, 150, 632, 5, 78, 987,1525, 8, 9664, 2};
 ```
 
 ![](https://cdn1.coppel.com/images/catalog/pm/3481713-1.jpg)
+
+## Blockly@rduino
+
+
+
+
 ## Accediendo a un Array
 
 Los **arrays** están indexadas a cero, **es decir, en referencia a la inicialización de la matriz anterior, el primer elemento de la matriz está en el índice 0, por lo tanto**
@@ -76,7 +82,7 @@ for (byte i = 0; i < 5; i = i + 1) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzMyMzA3MSwtMzQ4NzYwMjQ0LC0xMj
-UwMzE4NzU3LDI4NTg3NzQ2Miw0OTQ0MDY3MzIsMTM2MjY1NzMw
-MiwzMTI3ODQ2MTNdfQ==
+eyJoaXN0b3J5IjpbMTIzOTE1NjAzNiwxNDU3MzIzMDcxLC0zND
+g3NjAyNDQsLTEyNTAzMTg3NTcsMjg1ODc3NDYyLDQ5NDQwNjcz
+MiwxMzYyNjU3MzAyLDMxMjc4NDYxM119
 -->

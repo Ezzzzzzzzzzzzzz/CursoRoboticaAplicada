@@ -37,7 +37,9 @@ int miArrayCajonera[10] = {1, 150, 632, 5, 78, 987,1525, 8, 9664, 2};
 
 ![](https://cdn1.coppel.com/images/catalog/pm/3481713-1.jpg)
 
-### Blockly@rduino
+## Blockly@rduino
+### Creación o Declaración 
+
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758735553.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758735553.png)
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758777222.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758777222.png)
@@ -73,6 +75,10 @@ Para recuperar un valor de una matriz:
 `x = mySensVals [4];`
 
 ### Blockly@rduino
+Para asignar un valor a una matriz:
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597759169340.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597759169340.png)
+
+Para recuperar un valor de una matriz:
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758869420.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758869420.png)
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758883294.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758883294.png)
@@ -89,7 +95,8 @@ for (byte i = 0; i < 5; i = i + 1) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM1NzQxNzEsMTIzOTE1NjAzNiwxND
-U3MzIzMDcxLC0zNDg3NjAyNDQsLTEyNTAzMTg3NTcsMjg1ODc3
-NDYyLDQ5NDQwNjczMiwxMzYyNjU3MzAyLDMxMjc4NDYxM119
+eyJoaXN0b3J5IjpbOTEyNTgwNjA3LC0xMjQzNTc0MTcxLDEyMz
+kxNTYwMzYsMTQ1NzMyMzA3MSwtMzQ4NzYwMjQ0LC0xMjUwMzE4
+NzU3LDI4NTg3NzQ2Miw0OTQ0MDY3MzIsMTM2MjY1NzMwMiwzMT
+I3ODQ2MTNdfQ==
 -->

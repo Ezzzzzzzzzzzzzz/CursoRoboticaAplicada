@@ -36,15 +36,12 @@ int potValR;
 int potValA;
 int potValV;
 
-
 // Describe esta función
 void color(char rojo, char verde, char azul) {
   analogWrite(pinRojo, rojo);
   analogWrite(pinVerde, verde);
   analogWrite(pinAzul, azul);
 }
-
-
 
 void setup() {
   pinMode(pinRojo, OUTPUT);
@@ -66,5 +63,5 @@ Juega con los valores de PWM  de los tres potenciómetros para obtener tus color
 
 ![](https://i.pinimg.com/originals/b9/51/8f/b9518febac2756828254365fbae0c007.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDIzODgwMywtMTY4MzYxNDQ2Ml19
+eyJoaXN0b3J5IjpbMjAyNDUwMjAyNSwtMTY4MzYxNDQ2Ml19
 -->

@@ -37,6 +37,7 @@ Para mostrar números largos de más de un dígito se usan Display de 2, 3, 4, e
 
 ## Blockly@rduino
 
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597761090878.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597761090878.png)
 
 ## C ++
 ```c
@@ -91,8 +92,8 @@ void loop()
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg3MjQ3MjksNTcwMzMzNzQxLDE0Nz
-E3MjI5MTMsLTI0Njg3Nzg2NywtMzE1OTUxMjM2LC0xNjQ2ODEy
-ODQwLDM2MjYwMDA3NywtOTc4MjM2ODk1LDE3NTg5MDM3MDVdfQ
-==
+eyJoaXN0b3J5IjpbODQ2NDg5NDQxLC0yMTI4NzI0NzI5LDU3MD
+MzMzc0MSwxNDcxNzIyOTEzLC0yNDY4Nzc4NjcsLTMxNTk1MTIz
+NiwtMTY0NjgxMjg0MCwzNjI2MDAwNzcsLTk3ODIzNjg5NSwxNz
+U4OTAzNzA1XX0=
 -->

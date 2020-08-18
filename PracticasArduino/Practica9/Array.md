@@ -37,7 +37,7 @@ int miArrayCajonera[10] = {1, 150, 632, 5, 78, 987,1525, 8, 9664, 2};
 
 ![](https://cdn1.coppel.com/images/catalog/pm/3481713-1.jpg)
 
-## Blockly@rduino
+### Blockly@rduino
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758735553.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758735553.png)
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758777222.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758777222.png)
@@ -72,7 +72,7 @@ Para asignar un valor a una matriz:
 Para recuperar un valor de una matriz:
 `x = mySensVals [4];`
 
-## Blockly@rduino
+### Blockly@rduino
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758869420.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758869420.png)
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758883294.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758883294.png)
@@ -89,7 +89,7 @@ for (byte i = 0; i < 5; i = i + 1) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYwNzUxMzksMTIzOTE1NjAzNiwxND
+eyJoaXN0b3J5IjpbLTEyNDM1NzQxNzEsMTIzOTE1NjAzNiwxND
 U3MzIzMDcxLC0zNDg3NjAyNDQsLTEyNTAzMTg3NTcsMjg1ODc3
 NDYyLDQ5NDQwNjczMiwxMzYyNjU3MzAyLDMxMjc4NDYxM119
 -->

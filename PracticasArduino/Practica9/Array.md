@@ -38,8 +38,9 @@ int miArrayCajonera[10] = {1, 150, 632, 5, 78, 987,1525, 8, 9664, 2};
 ![](https://cdn1.coppel.com/images/catalog/pm/3481713-1.jpg)
 
 ## Blockly@rduino
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758735553.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758735553.png)
 
-
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758777222.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758777222.png)
 
 
 ## Accediendo a un Array
@@ -86,7 +87,7 @@ for (byte i = 0; i < 5; i = i + 1) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NTIxMzkxLDEyMzkxNTYwMzYsMTQ1Nz
-MyMzA3MSwtMzQ4NzYwMjQ0LC0xMjUwMzE4NzU3LDI4NTg3NzQ2
-Miw0OTQ0MDY3MzIsMTM2MjY1NzMwMiwzMTI3ODQ2MTNdfQ==
+eyJoaXN0b3J5IjpbLTE5MzIxOTI3OTMsMTIzOTE1NjAzNiwxND
+U3MzIzMDcxLC0zNDg3NjAyNDQsLTEyNTAzMTg3NTcsMjg1ODc3
+NDYyLDQ5NDQwNjczMiwxMzYyNjU3MzAyLDMxMjc4NDYxM119
 -->

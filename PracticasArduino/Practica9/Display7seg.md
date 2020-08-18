@@ -30,11 +30,15 @@ Para mostrar números largos de más de un dígito se usan Display de 2, 3, 4, e
 > - Protoboard
 > - Jumpers
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/Disp7seg.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/Disp7seg.JPG)
 
-## Código
+## Blockly@rduino
+
+
+## C ++
 ```c
 const int a = 0;
 const int b = 1;
@@ -87,7 +91,8 @@ void loop()
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwMzMzNzQxLDE0NzE3MjI5MTMsLTI0Nj
-g3Nzg2NywtMzE1OTUxMjM2LC0xNjQ2ODEyODQwLDM2MjYwMDA3
-NywtOTc4MjM2ODk1LDE3NTg5MDM3MDVdfQ==
+eyJoaXN0b3J5IjpbLTIxMjg3MjQ3MjksNTcwMzMzNzQxLDE0Nz
+E3MjI5MTMsLTI0Njg3Nzg2NywtMzE1OTUxMjM2LC0xNjQ2ODEy
+ODQwLDM2MjYwMDA3NywtOTc4MjM2ODk1LDE3NTg5MDM3MDVdfQ
+==
 -->

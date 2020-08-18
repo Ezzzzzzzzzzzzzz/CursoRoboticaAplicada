@@ -25,41 +25,40 @@ Esto puede ser usado con tiras de leds o leds RGB de alta potencia, **uniendo es
 
 ## C ++
 ```c
-#define pinRed 11
-#define pinGreen 9
-#define pinBlue 10
-#define potRed A2
-#define potBlue A1
-#define potGreen A0
+#define pinRojo 11
+#define pinAzul 10
+#define pinVerde 9
+#define potRojo A2
+#define potAzul A1
+#define potVerde A0
 
-int potValR = 0;
-int potValG = 0;
-int potValB = 0;
+int potValR;
+int potValA;
+int potValV;
 
-void setup()
-{
-  /*
-  ***************************
-  * Agrega la configuración *
-  ***************************
-  */
+
+// Describe esta función
+void color(char rojo, char verde, char azul) {
+  analogWrite(pinRojo, rojo);
+  analogWrite(pinVerde, verde);
+  analogWrite(pinAzul, azul);
 }
 
-void loop()
-{
-   /*
-   **************************
-   * Escribe tu código aqui *
-   **************************
-   */
+
+
+void setup() {
+  pinMode(pinRojo, OUTPUT);
+  pinMode(pinVerde, OUTPUT);
+  pinMode(pinAzul, OUTPUT);
 }
 
-// Función para generar colores
-void color(int red, int green, int blue)
-{
-  analogWrite(pinRed, red);
-  analogWrite(pinGreen, green);
-  analogWrite(pinBlue, blue);
+void loop() {
+  potValR = map(analogRead(potRojo), 0, 1023, 0, 255);
+  potValA = map(analogRead(potAzul), 0, 1023, 0, 255);
+  potValV = map(analogRead(potVerde), 0, 1023, 0, 255);
+  color(potValR, potValV, potValA);
+  delay(10);
+
 }
 ```
 
@@ -67,5 +66,5 @@ Juega con los valores de PWM  de los tres potenciómetros para obtener tus color
 
 ![](https://i.pinimg.com/originals/b9/51/8f/b9518febac2756828254365fbae0c007.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM2MTQ0NjJdfQ==
+eyJoaXN0b3J5IjpbMTc5NDIzODgwMywtMTY4MzYxNDQ2Ml19
 -->

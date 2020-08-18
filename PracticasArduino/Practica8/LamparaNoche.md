@@ -17,7 +17,11 @@ Con esas habilidades, ahora puede conectar un LED RGB y un botón sin rebote par
 ## Circuito
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/LamparaRGB.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/LamparaRGB.JPG)
 
-## Código
+## Blockly@rduino
+
+
+
+## C ++
 ```c
 const int RLED = 11;	// Pin 11 LED Rojo
 const int VLED = 9;	// Pin 9 LED Verde
@@ -139,5 +143,6 @@ void seleccionEstado(int modo)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTMyMzk3MCw1NDgwMzQ0MTddfQ==
+eyJoaXN0b3J5IjpbMTUxMjY0ODkwMywxNTk5MzIzOTcwLDU0OD
+AzNDQxN119
 -->

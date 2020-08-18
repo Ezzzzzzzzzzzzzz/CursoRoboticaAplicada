@@ -1,0 +1,71 @@
+# Control de color de un LED RGB y la función ``map()``
+
+En esta práctica implementaras lo visto anteriormente para controlar un **led RGB** y la función ``map()``. 
+
+Esto puede ser usado con tiras de leds o leds RGB de alta potencia, **uniendo este tema con control de cargas**.
+
+![](https://www.ebotics.com/wp-content/uploads/2018/06/proyecto2-255753.gif)
+
+## Material
+> - Arduino
+> - LED RGB 5mm Cátodo común
+> - Potenciómetros de 10 kOhms
+> - Resistencias de 220 Ohm's
+> - Protoboard
+> - Jumpers
+> - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
+
+
+## Circuito
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/RGBPots.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/RGBPots.JPG)
+
+## Blockly@rduino
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597710640475.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597710640475.png)
+
+## C ++
+```c
+#define pinRed 11
+#define pinGreen 9
+#define pinBlue 10
+#define potRed A2
+#define potBlue A1
+#define potGreen A0
+
+int potValR = 0;
+int potValG = 0;
+int potValB = 0;
+
+void setup()
+{
+  /*
+  ***************************
+  * Agrega la configuración *
+  ***************************
+  */
+}
+
+void loop()
+{
+   /*
+   **************************
+   * Escribe tu código aqui *
+   **************************
+   */
+}
+
+// Función para generar colores
+void color(int red, int green, int blue)
+{
+  analogWrite(pinRed, red);
+  analogWrite(pinGreen, green);
+  analogWrite(pinBlue, blue);
+}
+```
+
+Juega con los valores de PWM  de los tres potenciómetros para obtener tus colores preferidos, junto con la siguiente tabla.
+
+![](https://i.pinimg.com/originals/b9/51/8f/b9518febac2756828254365fbae0c007.png)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2ODM2MTQ0NjJdfQ==
+-->

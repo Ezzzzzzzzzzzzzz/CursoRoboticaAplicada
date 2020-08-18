@@ -74,7 +74,7 @@ Para asignar un valor a una matriz:
 Para recuperar un valor de una matriz:
 `x = mySensVals [4];`
 
-### Blockly@rduino
+## Blockly@rduino
 Para asignar un valor a una matriz:
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597759169340.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597759169340.png)
 
@@ -95,7 +95,7 @@ for (byte i = 0; i < 5; i = i + 1) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNTgwNjA3LC0xMjQzNTc0MTcxLDEyMz
+eyJoaXN0b3J5IjpbNzM5NjA1MzYyLC0xMjQzNTc0MTcxLDEyMz
 kxNTYwMzYsMTQ1NzMyMzA3MSwtMzQ4NzYwMjQ0LC0xMjUwMzE4
 NzU3LDI4NTg3NzQ2Miw0OTQ0MDY3MzIsMTM2MjY1NzMwMiwzMT
 I3ODQ2MTNdfQ==

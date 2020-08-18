@@ -71,6 +71,10 @@ Para asignar un valor a una matriz:
 Para recuperar un valor de una matriz:
 `x = mySensVals [4];`
 
+## Blockly@rduino
+
+
+
 ## Matrices y bucles FOR
 Los **array** a menudo se manipulan en el interior para bucles, donde el contador de bucles se usa como índice para cada elemento de la matriz. 
 
@@ -82,7 +86,7 @@ for (byte i = 0; i < 5; i = i + 1) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTE1NjAzNiwxNDU3MzIzMDcxLC0zND
-g3NjAyNDQsLTEyNTAzMTg3NTcsMjg1ODc3NDYyLDQ5NDQwNjcz
-MiwxMzYyNjU3MzAyLDMxMjc4NDYxM119
+eyJoaXN0b3J5IjpbMzE4NTIxMzkxLDEyMzkxNTYwMzYsMTQ1Nz
+MyMzA3MSwtMzQ4NzYwMjQ0LC0xMjUwMzE4NzU3LDI4NTg3NzQ2
+Miw0OTQ0MDY3MzIsMTM2MjY1NzMwMiwzMTI3ODQ2MTNdfQ==
 -->

@@ -76,9 +76,11 @@ Para recuperar un valor de una matriz:
 
 ## Blockly@rduino
 Para asignar un valor a una matriz:
+
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597759169340.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597759169340.png)
 
 Para recuperar un valor de una matriz:
+
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758869420.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758869420.png)
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758883294.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica9/capture1597758883294.png)
@@ -95,8 +97,8 @@ for (byte i = 0; i < 5; i = i + 1) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5NjA1MzYyLC0xMjQzNTc0MTcxLDEyMz
-kxNTYwMzYsMTQ1NzMyMzA3MSwtMzQ4NzYwMjQ0LC0xMjUwMzE4
-NzU3LDI4NTg3NzQ2Miw0OTQ0MDY3MzIsMTM2MjY1NzMwMiwzMT
-I3ODQ2MTNdfQ==
+eyJoaXN0b3J5IjpbMTk1NDYyNjIyNiwtMTI0MzU3NDE3MSwxMj
+M5MTU2MDM2LDE0NTczMjMwNzEsLTM0ODc2MDI0NCwtMTI1MDMx
+ODc1NywyODU4Nzc0NjIsNDk0NDA2NzMyLDEzNjI2NTczMDIsMz
+EyNzg0NjEzXX0=
 -->

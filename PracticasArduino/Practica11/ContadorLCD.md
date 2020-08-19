@@ -20,7 +20,7 @@ Las pantallas de cristal líquido nos servirán para mostrar datos acerca de nue
  ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCDContador.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCDContador.JPG)
 
 ## Blockly@rduino
-
+	
 
 ## C ++
 ```c
@@ -97,6 +97,6 @@ bool reset(bool rPrevio)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxMTE4MDcyLC05MzIxMzA4NDQsLTE4MT
-k0NjUwNThdfQ==
+eyJoaXN0b3J5IjpbLTU0MzI5NTIwLDU0MTExODA3MiwtOTMyMT
+MwODQ0LC0xODE5NDY1MDU4XX0=
 -->

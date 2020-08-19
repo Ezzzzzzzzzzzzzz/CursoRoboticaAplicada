@@ -37,6 +37,7 @@ bool estadoActReset = false;
 int contador = 0;
 
 LiquidCrystal lcd(7, 6, 5, 4, 3, 2); // Pines donde esta conectado el modulo LCD
+//LiquidCrystal lcd(8, 9, 4, 5, 6, 7);
 
 void setup()
 {
@@ -97,6 +98,6 @@ bool reset(bool rPrevio)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzI5NTIwLDU0MTExODA3MiwtOTMyMT
-MwODQ0LC0xODE5NDY1MDU4XX0=
+eyJoaXN0b3J5IjpbLTEzNjM2NzU5MDgsLTU0MzI5NTIwLDU0MT
+ExODA3MiwtOTMyMTMwODQ0LC0xODE5NDY1MDU4XX0=
 -->

@@ -14,8 +14,8 @@ Las pantallas de cristal líquido nos servirán para mostrar datos acerca de nue
 
 ## Conexión
  ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCD.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCD.JPG)
-
-## Código #1
+## C ++
+### Código #1
 ```c
 #include<LiquidCrystal.h> //Importa la libreria
 
@@ -34,6 +34,8 @@ void loop()
   lcd.print(" seg."); // Imprime a continuación la abreviatura de segundos.
 }
 ```
+### Blockly@rduino
+
 
 ## Código #2
 ```c
@@ -121,7 +123,7 @@ void loop()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTg4Mzg1MiwtNjg2MDgxNDI0LC00MT
-k0MTQwODQsNTk3NTQwMzIwLC0xMTAxMjY4NTAzLDI4MzMyMTc0
-NCwtODkwOTc1NzAwLDEzNjc3ODA1MjRdfQ==
+eyJoaXN0b3J5IjpbMTU3OTgwMjkwOCwxMzcxODgzODUyLC02OD
+YwODE0MjQsLTQxOTQxNDA4NCw1OTc1NDAzMjAsLTExMDEyNjg1
+MDMsMjgzMzIxNzQ0LC04OTA5NzU3MDAsMTM2Nzc4MDUyNF19
 -->

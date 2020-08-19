@@ -14,11 +14,15 @@ Las pantallas de cristal líquido nos servirán para mostrar datos acerca de nue
 > - Jumpers
 > - Protoboard
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Conexión
  ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCDContador.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica11/LCDContador.JPG)
 
-## Código
+## Blockly@rduino
+
+
+## C ++
 ```c
 #include<LiquidCrystal.h> //Importa la libreria
 
@@ -93,5 +97,6 @@ bool reset(bool rPrevio)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjEzMDg0NCwtMTgxOTQ2NTA1OF19
+eyJoaXN0b3J5IjpbNTQxMTE4MDcyLC05MzIxMzA4NDQsLTE4MT
+k0NjUwNThdfQ==
 -->

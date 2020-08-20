@@ -16,7 +16,12 @@ Muy bien, ahora veremos cómo censar un **[TMP36](http://ctms.engin.umich.edu/CT
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensorTEMP.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensorTEMP.JPG)
 
-## Código
+## Blockly@rduino
+
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/capture1597934250459.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/capture1597934250459.png)
+
+
+## C ++
 ```c
 #define TMP36 A0
 #define LED 2
@@ -104,8 +109,8 @@ double Thermistor(int RawADC){
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODYwMzk2NTcsLTEzOTE3MTg2ODUsLT
-E4NjcyNjMyMzMsMjAyNDg0OTEzOCwyODU5NzU0MTIsMTk5NzM1
-MDM4OCw0ODQwOTM2MjUsMTk4Mjk1NDYxNSwtMTU2MDkwODYzNy
-wtMTA2NzA0NDQ3MV19
+eyJoaXN0b3J5IjpbMTMwMDY5MTczNCwtMTE4NjAzOTY1NywtMT
+M5MTcxODY4NSwtMTg2NzI2MzIzMywyMDI0ODQ5MTM4LDI4NTk3
+NTQxMiwxOTk3MzUwMzg4LDQ4NDA5MzYyNSwxOTgyOTU0NjE1LC
+0xNTYwOTA4NjM3LC0xMDY3MDQ0NDcxXX0=
 -->

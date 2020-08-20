@@ -16,7 +16,10 @@ Muy bien, ahora veremos cómo censar un **[TMP36](http://ctms.engin.umich.edu/CT
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensTemp.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensTemp.JPG)
 
-## Código
+## Blockly@rduino
+
+
+## C ++
 ```c
 /*
   Este programa faz com que o Arduino monitore a
@@ -48,6 +51,6 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTA1MjYwMSwtMzQ4NzQxMTE1LC03Mz
-I1MDA1NzZdfQ==
+eyJoaXN0b3J5IjpbMTAzMjYwMTg2OCwxNjgxMDUyNjAxLC0zND
+g3NDExMTUsLTczMjUwMDU3Nl19
 -->

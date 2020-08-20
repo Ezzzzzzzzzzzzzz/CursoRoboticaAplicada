@@ -12,6 +12,7 @@ Muy bien, ahora veremos cómo censar un **[TMP36](http://ctms.engin.umich.edu/CT
 > - Jumpers
 > - Protoboard
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensorTEMP.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensorTEMP.JPG)
@@ -109,8 +110,8 @@ double Thermistor(int RawADC){
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDY5MTczNCwtMTE4NjAzOTY1NywtMT
-M5MTcxODY4NSwtMTg2NzI2MzIzMywyMDI0ODQ5MTM4LDI4NTk3
-NTQxMiwxOTk3MzUwMzg4LDQ4NDA5MzYyNSwxOTgyOTU0NjE1LC
-0xNTYwOTA4NjM3LC0xMDY3MDQ0NDcxXX0=
+eyJoaXN0b3J5IjpbLTIwMjkyNzY4MDMsLTExODYwMzk2NTcsLT
+EzOTE3MTg2ODUsLTE4NjcyNjMyMzMsMjAyNDg0OTEzOCwyODU5
+NzU0MTIsMTk5NzM1MDM4OCw0ODQwOTM2MjUsMTk4Mjk1NDYxNS
+wtMTU2MDkwODYzNywtMTA2NzA0NDQ3MV19
 -->

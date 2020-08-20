@@ -12,6 +12,7 @@ Muy bien, ahora veremos cómo censar un **[TMP36](http://ctms.engin.umich.edu/CT
 > - Jumpers
 > - Protoboard
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensTemp.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica12/SensTemp.JPG)
@@ -52,6 +53,7 @@ void loop()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYyNTU0NzgsMTAzMjYwMTg2OCwxNj
-gxMDUyNjAxLC0zNDg3NDExMTUsLTczMjUwMDU3Nl19
+eyJoaXN0b3J5IjpbLTY5ODgyNjMxOSwtMTE0NjI1NTQ3OCwxMD
+MyNjAxODY4LDE2ODEwNTI2MDEsLTM0ODc0MTExNSwtNzMyNTAw
+NTc2XX0=
 -->

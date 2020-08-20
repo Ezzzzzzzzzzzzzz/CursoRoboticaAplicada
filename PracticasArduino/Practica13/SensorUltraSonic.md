@@ -14,11 +14,15 @@ El funcionamiento interno del sensor ultrasónico es bastante complejo, pero exp
 > - Jumpers
 > - Protoboard
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
+> - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 ## Conexión
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica13/SensorUltra.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica13/SensorUltra.JPG)
 
-## Código 
+## Blockly@rduino
+
+
+## C ++
 ```c
 #define trig 10 // Trigger pin 10
 #define eco 9 // Echo pin 9
@@ -63,7 +67,7 @@ Como dice la hoja de datos del sensor, **necesitamos enviar un pulso por 10 micr
 
 Después con la función ``Serial.println()``, imprimimos el valor de la distancia, ahora solo queda abrir el monitor serial en **Herramientas > Monitor Serie** en la IDE de Arduino. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTY3ODQyNyw2NTQ5NzA3NjcsLTI4Nz
-E3MjU0MCwtMTI3MzcwODAzNiwtOTc5MzI0NTI2LDE2ODIyMDQ1
-NjEsMTI4MjU5MDMwN119
+eyJoaXN0b3J5IjpbMjAwNTM4OTk0OSwxMjA5Njc4NDI3LDY1ND
+k3MDc2NywtMjg3MTcyNTQwLC0xMjczNzA4MDM2LC05NzkzMjQ1
+MjYsMTY4MjIwNDU2MSwxMjgyNTkwMzA3XX0=
 -->

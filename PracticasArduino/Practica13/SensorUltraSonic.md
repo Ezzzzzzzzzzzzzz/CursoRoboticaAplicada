@@ -21,6 +21,7 @@ El funcionamiento interno del sensor ultrasónico es bastante complejo, pero exp
 
 ## Blockly@rduino
 
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica13/capture1597940363049.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica13/capture1597940363049.png)
 
 ## C ++
 ```c
@@ -67,7 +68,8 @@ Como dice la hoja de datos del sensor, **necesitamos enviar un pulso por 10 micr
 
 Después con la función ``Serial.println()``, imprimimos el valor de la distancia, ahora solo queda abrir el monitor serial en **Herramientas > Monitor Serie** en la IDE de Arduino. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTM4OTk0OSwxMjA5Njc4NDI3LDY1ND
-k3MDc2NywtMjg3MTcyNTQwLC0xMjczNzA4MDM2LC05NzkzMjQ1
-MjYsMTY4MjIwNDU2MSwxMjgyNTkwMzA3XX0=
+eyJoaXN0b3J5IjpbLTE0MDcwMTEyMDcsMjAwNTM4OTk0OSwxMj
+A5Njc4NDI3LDY1NDk3MDc2NywtMjg3MTcyNTQwLC0xMjczNzA4
+MDM2LC05NzkzMjQ1MjYsMTY4MjIwNDU2MSwxMjgyNTkwMzA3XX
+0=
 -->

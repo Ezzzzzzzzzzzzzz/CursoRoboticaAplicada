@@ -68,10 +68,10 @@ void loop()
   analogWrite(pinBlue, 255);
   delay(pausa);
 }
-
+```
 
 ![](https://i.pinimg.com/originals/b9/51/8f/b9518febac2756828254365fbae0c007.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwODA1Njg5LC0xNzQyNzA5MzM3LC04Mj
-c2ODA4MjBdfQ==
+eyJoaXN0b3J5IjpbMjA2NTczMjQ4NSwtMTc0MjcwOTMzNywtOD
+I3NjgwODIwXX0=
 -->

@@ -18,7 +18,7 @@ En esta práctica se implementa lo visto anteriormente para controlar un **led R
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/LedRGB.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/LedRGB.JPG)
 
 ## Blockly@rduino
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597709591707.png](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica8/capture1597709591707.png)
+!
 
 ## C ++
 ```c
@@ -71,5 +71,5 @@ void loop()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzY4MDgyMF19
+eyJoaXN0b3J5IjpbMjA3MzEwOTg0NywtODI3NjgwODIwXX0=
 -->

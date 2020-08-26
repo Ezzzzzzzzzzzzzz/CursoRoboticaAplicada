@@ -1,4 +1,4 @@
-# Control de un LED RGB
+# Control de un LED RGB con funciones.
 
 En esta práctica se implementa lo visto anteriormente para controlar un **led RGB**, _esto puede ser usado con tiras de leds o leds RGB de alta potencia, claro queda uniendo este tema con control de cargas_, este es un ejemplo para la base de lo ya comentado. Abajo se muestra el código, material y explicación de la de la práctica.
 
@@ -75,7 +75,7 @@ Primero definimos los pines a usar, con ``#define``, esto se explicó en los tem
 
 Ya en el ``loop()``, mandamos llamar a la función varias veces para poder hacer funcionar el led **RGB**, hacemos mezcla de colores con los colores básicos, **rojo (red)**, **verde (green)** y **azul (blue)**.  Con esto ya deben saber cómo usar la función ``analogWrite()`` y hacer manipulación del **PWM**, también a unir los temas anteriores entre sí. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMzc4NzY0LDE2NjE5MTk3MjgsMTA0MD
-Y2OTQ3NywxNDc0MjQxMjMzLC0xNTMzMTUyMjM5LC0xOTg3NTIw
-MDM1LDk3NzA0ODQ1M119
+eyJoaXN0b3J5IjpbMTMxMzI1NzY1NCwxNjYxOTE5NzI4LDEwND
+A2Njk0NzcsMTQ3NDI0MTIzMywtMTUzMzE1MjIzOSwtMTk4NzUy
+MDAzNSw5NzcwNDg0NTNdfQ==
 -->

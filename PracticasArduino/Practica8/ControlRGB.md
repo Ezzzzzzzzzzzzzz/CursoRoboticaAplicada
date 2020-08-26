@@ -69,7 +69,9 @@ void loop()
   delay(pausa);
 }
 
+
 ![](https://i.pinimg.com/originals/b9/51/8f/b9518febac2756828254365fbae0c007.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDI3MDkzMzcsLTgyNzY4MDgyMF19
+eyJoaXN0b3J5IjpbNzkwODA1Njg5LC0xNzQyNzA5MzM3LC04Mj
+c2ODA4MjBdfQ==
 -->

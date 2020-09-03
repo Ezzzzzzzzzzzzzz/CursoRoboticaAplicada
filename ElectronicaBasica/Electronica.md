@@ -24,6 +24,8 @@ La corriente alterna es el tipo de corriente más **empleado en la industria** y
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_2.jpg)
 
+![](https://i.pinimg.com/originals/12/d6/1a/12d61ad8fd8344609ad9d5caee99dc1b.gif)
+
 Medida en **amperios (A)**, la corriente mide la cantidad de carga en un circuito durante un período de tiempo. El símbolo de corriente es **I**, que proviene de la *intensité de courant* francesa (que significa "intensidad de corriente").
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec003.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec003.JPG)
@@ -50,7 +52,7 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY1NzYxNjMsMTk0NDc5NzU0MSw0NT
-YwNzU2OTMsLTc0NzE1NTIxOSwtMjA5ODg5NTc5OSwzNzI4MDIx
-MDVdfQ==
+eyJoaXN0b3J5IjpbLTE1NDgzOTcxNjgsLTEyNDY1NzYxNjMsMT
+k0NDc5NzU0MSw0NTYwNzU2OTMsLTc0NzE1NTIxOSwtMjA5ODg5
+NTc5OSwzNzI4MDIxMDVdfQ==
 -->

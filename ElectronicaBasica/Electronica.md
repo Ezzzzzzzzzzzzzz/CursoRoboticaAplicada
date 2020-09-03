@@ -40,7 +40,7 @@ Cuando le da a la energía de la batería una forma de salir, fluirá en una dir
 Medido en **voltios (V)**, **el voltaje mide la fuerza que hace que los electrones viajen. Dicho de otra manera, mide cuánta energía potencial existe entre dos puntos en un circuito.**
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec002.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec002.JPG)
-
+![](https://3.bp.blogspot.com/-M5VOqy-nzH4/VJ9QiquRv2I/AAAAAAAAAKA/TNqSuZAjxWM/s1600/Imagen-animada-Electricidad-15.gif)
 # Resistencia
 
 Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza para medir la electricidad y se define como: **la oposición que se presenta al paso de la corriente**. La unidad que se utiliza para medir la resistencia es el **ohmio (Ω)** y se se representa con la letra **R**.
@@ -52,7 +52,7 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgzOTcxNjgsLTEyNDY1NzYxNjMsMT
-k0NDc5NzU0MSw0NTYwNzU2OTMsLTc0NzE1NTIxOSwtMjA5ODg5
-NTc5OSwzNzI4MDIxMDVdfQ==
+eyJoaXN0b3J5IjpbLTE4MTI3OTMxNTMsLTE1NDgzOTcxNjgsLT
+EyNDY1NzYxNjMsMTk0NDc5NzU0MSw0NTYwNzU2OTMsLTc0NzE1
+NTIxOSwtMjA5ODg5NTc5OSwzNzI4MDIxMDVdfQ==
 -->

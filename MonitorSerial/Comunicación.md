@@ -58,6 +58,7 @@ __``Serial.print(dato); o Serial.println(dato);``__
   + Lo envía como ASCII.
 
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/capture1600722858881.png)
+
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/capture1600722883975.png)
 
 Como siempre se ha mencionado, esta es la base para el aprendizaje, si el lector quiere más información la podrá encontrar en la página oficial de Arduino, en las siguientes prácticas se mostrará cómo usar la comunicación serial, si usted une esto con lo ya aprendido podrá realizar muchos proyectos, por ejemplo control de domótica de los aparatos eléctricos de su casa, aplicando esto y control de cargas.
@@ -65,6 +66,6 @@ Como siempre se ha mencionado, esta es la base para el aprendizaje, si el lector
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODIxNjk5MywtMTk0MjY4MTY2NCw5OD
-A1MDQ3NzIsLTEyNTQ1NTcxMjZdfQ==
+eyJoaXN0b3J5IjpbLTY0NDEyNDg3NywxNTM4MjE2OTkzLC0xOT
+QyNjgxNjY0LDk4MDUwNDc3MiwtMTI1NDU1NzEyNl19
 -->

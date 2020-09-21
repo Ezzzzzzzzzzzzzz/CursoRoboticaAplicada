@@ -49,17 +49,22 @@ __``Serial.read();``__
 - Podemos usarlo en una asignación:
   + ``dato = Serial.read();``
 
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/capture1600722826459.png)
+
 __``Serial.print(dato); o Serial.println(dato);``__
 - Para enviar un dato:
   + Envía el dato por el serial.
   + El dato puede ser de cualquier tipo.
   + Lo envía como ASCII.
 
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/capture1600722858881.png)
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/capture1600722883975.png)
+
 Como siempre se ha mencionado, esta es la base para el aprendizaje, si el lector quiere más información la podrá encontrar en la página oficial de Arduino, en las siguientes prácticas se mostrará cómo usar la comunicación serial, si usted une esto con lo ya aprendido podrá realizar muchos proyectos, por ejemplo control de domótica de los aparatos eléctricos de su casa, aplicando esto y control de cargas.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTgxODgxMSwtMTk0MjY4MTY2NCw5OD
+eyJoaXN0b3J5IjpbMTUzODIxNjk5MywtMTk0MjY4MTY2NCw5OD
 A1MDQ3NzIsLTEyNTQ1NTcxMjZdfQ==
 -->

@@ -21,6 +21,8 @@ Para comunicarnos con Arduino usaremos el puerto serie como ya se mencionó, Ard
 Se debe mencionar que solo recibe datos en ASCII, la librería hace una conversión interna al tipo de dato
 usado, abajo se explican un poco más a fondo las funciones de la librería que se usarán.
 
+https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/Captura.JPG
+
 __``Serial.begin([velocidad]);``__
 - Se usa para inicializar la comunicación.
 - Abre el puerto serie con la velocidad indicada.
@@ -66,6 +68,7 @@ Como siempre se ha mencionado, esta es la base para el aprendizaje, si el lector
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDEyNDg3NywxNTM4MjE2OTkzLC0xOT
-QyNjgxNjY0LDk4MDUwNDc3MiwtMTI1NDU1NzEyNl19
+eyJoaXN0b3J5IjpbLTcyNDk4NzA0NywtNjQ0MTI0ODc3LDE1Mz
+gyMTY5OTMsLTE5NDI2ODE2NjQsOTgwNTA0NzcyLC0xMjU0NTU3
+MTI2XX0=
 -->

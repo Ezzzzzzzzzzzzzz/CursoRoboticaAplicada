@@ -14,10 +14,7 @@ Nuestro Arduino puede funcionar conectado a una computadora o independientemente
 Para comunicarnos con Arduino usaremos el puerto serie como ya se mencionó, Arduino ya tiene una librería para esta comunicación que se llama ``Serial()``, incorpora varias funciones pero las esenciales y que se usarán se nombran a continuación:
 
 - ``Serial.begin([baudios]);`` - para iniciar la comunicación, recibe un parámetro del tipo entero que será la velocidad de comunicación, todo dependerá de sus módulos, en general son 9600.
-
-![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/capture1600722748962.png)
-
-- ``Serial.available();`` - para saber si hay datos en el buffer que leer, si no hay datos envía un cero.
+- ``Serial.available();`` - para saber si hay datos en el buffer que leer, si no hay datos envía un cero. 
 - ``Serial.read();`` - para leer los datos de entrada.
 - ``Serial.print([dato]);`` - para imprimir los datos.
 
@@ -31,6 +28,8 @@ __``Serial.begin([velocidad]);``__
 - Ambos extremos deben usar los mismos baudios.
   + ``Serial.begin(9600) ;``
 
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/capture1600722748962.png)
+
 __``Serial.available();``__
 - Para poder saber si hay datos en el buffer:
   + Devuelve el número de bytes en el buffer.
@@ -40,6 +39,8 @@ __``Serial.available();``__
   if(Serial.available() > 0)
   {//ejecucion}
   ```
+
+
 
 __``Serial.read();``__
 - Para leer los datos en el buffer:
@@ -59,6 +60,6 @@ Como siempre se ha mencionado, esta es la base para el aprendizaje, si el lector
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI2ODE2NjQsOTgwNTA0NzcyLC0xMj
-U0NTU3MTI2XX0=
+eyJoaXN0b3J5IjpbMjMxNjE4MzI4LC0xOTQyNjgxNjY0LDk4MD
+UwNDc3MiwtMTI1NDU1NzEyNl19
 -->

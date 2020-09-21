@@ -40,7 +40,7 @@ __``Serial.available();``__
   {//ejecucion}
   ```
 
-
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/capture1600722811740.png)
 
 __``Serial.read();``__
 - Para leer los datos en el buffer:
@@ -60,6 +60,6 @@ Como siempre se ha mencionado, esta es la base para el aprendizaje, si el lector
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNjE4MzI4LC0xOTQyNjgxNjY0LDk4MD
-UwNDc3MiwtMTI1NDU1NzEyNl19
+eyJoaXN0b3J5IjpbLTE2NTgxODgxMSwtMTk0MjY4MTY2NCw5OD
+A1MDQ3NzIsLTEyNTQ1NTcxMjZdfQ==
 -->

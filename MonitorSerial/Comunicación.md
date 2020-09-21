@@ -14,6 +14,9 @@ Nuestro Arduino puede funcionar conectado a una computadora o independientemente
 Para comunicarnos con Arduino usaremos el puerto serie como ya se mencionó, Arduino ya tiene una librería para esta comunicación que se llama ``Serial()``, incorpora varias funciones pero las esenciales y que se usarán se nombran a continuación:
 
 - ``Serial.begin([baudios]);`` - para iniciar la comunicación, recibe un parámetro del tipo entero que será la velocidad de comunicación, todo dependerá de sus módulos, en general son 9600.
+
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/MonitorSerial/capture1600722748962.png)
+
 - ``Serial.available();`` - para saber si hay datos en el buffer que leer, si no hay datos envía un cero.
 - ``Serial.read();`` - para leer los datos de entrada.
 - ``Serial.print([dato]);`` - para imprimir los datos.
@@ -56,5 +59,6 @@ Como siempre se ha mencionado, esta es la base para el aprendizaje, si el lector
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwNTA0NzcyLC0xMjU0NTU3MTI2XX0=
+eyJoaXN0b3J5IjpbLTE5NDI2ODE2NjQsOTgwNTA0NzcyLC0xMj
+U0NTU3MTI2XX0=
 -->

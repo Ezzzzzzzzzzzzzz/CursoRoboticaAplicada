@@ -39,7 +39,12 @@ o con **~**.
 
 Para escribir con estos pines usamos la función ``analogWrite([pin/alias],[valor/variable]);``, en valor o variable como bien comentamos solo recibe valores que estén entre **0** y **255**.
 
+
+## Blockly@rduino
+![]()
+
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/capture1601328691926.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA4MDkzNTgsLTkwMDAyMzU5NCwyNz
-A1NDk3MjIsLTE2MjY2NDU0NzddfQ==
+eyJoaXN0b3J5IjpbLTE5MDkzNDc0MzMsLTE0NTA4MDkzNTgsLT
+kwMDAyMzU5NCwyNzA1NDk3MjIsLTE2MjY2NDU0NzddfQ==
 -->

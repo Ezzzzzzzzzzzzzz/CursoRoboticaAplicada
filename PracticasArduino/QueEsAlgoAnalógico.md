@@ -11,7 +11,13 @@
 
 ![](https://cursos.mcielectronics.cl/wp-content/uploads/2014/09/022.png)
 
-# ConverDAC 
+# Convertidor analógico digital (DAC) 
+
+En la siguiente figura podemos ver una señal analógica, que representa una función sinusoidal junto con una aproximación discreta.
+
+![analogo digital](https://controlautomaticoeducacion.com/wp-content/uploads/2015/07/digital-e1512868601107.gif)
+
+
 # Modulación por ancho de pulso (PWM) 
 
 **Arduino no tiene salidas propiamente analógicas ya que los microcontroladores son dispositivos digitales.**
@@ -38,6 +44,6 @@ o con **~**.
 Para escribir con estos pines usamos la función ``analogWrite([pin/alias],[valor/variable]);``, en valor o variable como bien comentamos solo recibe valores que estén entre **0** y **255**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzI4NzQwNCwyNzA1NDk3MjIsLTE2Mj
-Y2NDU0NzddfQ==
+eyJoaXN0b3J5IjpbNDg3ODE1NTM4LDI3MDU0OTcyMiwtMTYyNj
+Y0NTQ3N119
 -->

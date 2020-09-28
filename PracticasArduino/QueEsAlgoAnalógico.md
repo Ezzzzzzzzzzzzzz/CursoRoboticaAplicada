@@ -11,6 +11,8 @@
 
 ![](https://cursos.mcielectronics.cl/wp-content/uploads/2014/09/022.png)
 
+# Modulación por ancho de pulso (PWM) 
+
 **Arduino no tiene salidas propiamente analógicas ya que los microcontroladores son dispositivos digitales.**
 - Se utiliza **PWM**, **Modulación por Ancho de Pulso** que es:
   + Una señal cuadrada entre 0 y 5 volts.
@@ -35,5 +37,5 @@ o con **~**.
 Para escribir con estos pines usamos la función ``analogWrite([pin/alias],[valor/variable]);``, en valor o variable como bien comentamos solo recibe valores que estén entre **0** y **255**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY2NDU0NzddfQ==
+eyJoaXN0b3J5IjpbMTU1NjQ0NDQ1NCwtMTYyNjY0NTQ3N119
 -->

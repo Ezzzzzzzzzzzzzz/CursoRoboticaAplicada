@@ -2,7 +2,7 @@
 
 **¿Qué pasa con nuestras formas cuando se salen de un borde y ya no están en nuestra pantalla? ¿Han desaparecido para siempre?**
 
-La respuesta es no. 
+La respuesta es **no**. 
 
 Puede pensar en nuestra ventana como una ventana real en su casa. Si miras por la ventana y ves a un peatón que luego se mueve más abajo en la calle para que ya no puedas verlo, no ha dejado de existir. Están más allá de su línea de visión. 
 
@@ -15,5 +15,5 @@ Esto se debe a que la variable blueSquareVX ha ingresado números negativos, per
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTE0NDU5Ml19
+eyJoaXN0b3J5IjpbNjQ2NjI1NTg0LC00NDkxNDQ1OTJdfQ==
 -->

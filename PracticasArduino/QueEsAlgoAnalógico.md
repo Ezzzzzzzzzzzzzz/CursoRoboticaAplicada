@@ -41,8 +41,10 @@ Para escribir con estos pines usamos la función ``analogWrite([pin/alias],[valo
 
 
 ## Blockly@rduino
-![](
+![]()
+
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica6/capture1601328691926.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTA0MTk1NCwtMTQ1MDgwOTM1OCwtOT
-AwMDIzNTk0LDI3MDU0OTcyMiwtMTYyNjY0NTQ3N119
+eyJoaXN0b3J5IjpbLTE5MDkzNDc0MzMsLTE0NTA4MDkzNTgsLT
+kwMDAyMzU5NCwyNzA1NDk3MjIsLTE2MjY2NDU0NzddfQ==
 -->

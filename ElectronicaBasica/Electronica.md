@@ -52,9 +52,13 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 ![](https://www.areatecnologia.com/electricidad/imagenes/codigo-colores-resistencias.jpg)
 
 [Calculadora de resistencias](https://www.toro-valle.com/resistencias/4-bandas.html)
+
+# Ley de Ohm
+
+![](https://phet.colorado.edu/sims/cheerpj/battery-resistor-circuit/latest/battery-resistor-circuit.html?simulation=battery-resistor-circuit&locale=es)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjA3NjU1OSwtMjAxODQ5OTUyMSwtMT
-gxMjc5MzE1MywtMTU0ODM5NzE2OCwtMTI0NjU3NjE2MywxOTQ0
-Nzk3NTQxLDQ1NjA3NTY5MywtNzQ3MTU1MjE5LC0yMDk4ODk1Nz
-k5LDM3MjgwMjEwNV19
+eyJoaXN0b3J5IjpbMjA0MTk1MDgxNSwxMzMyMDc2NTU5LC0yMD
+E4NDk5NTIxLC0xODEyNzkzMTUzLC0xNTQ4Mzk3MTY4LC0xMjQ2
+NTc2MTYzLDE5NDQ3OTc1NDEsNDU2MDc1NjkzLC03NDcxNTUyMT
+ksLTIwOTg4OTU3OTksMzcyODAyMTA1XX0=
 -->

@@ -1,10 +1,10 @@
-# ¿Que es un LED?
+# ¿Qué es un LED?
 
 El LED, acrónimo de **“Light Emitting Diode”**, o diodo emisor de luz de estado sólido (solid state), constituye un tipo especial de semiconductor, cuya **característica principal es convertir en luz la corriente eléctrica de bajo voltaje** que atraviesa su chip.
 
 ![](http://robolution.mx/clases/electronica_basica/electronica_8.jpg)
 
-# ¿Que es una Protobard?
+# ¿Qué es una Protobard?
 
 Una Protoboard o tabla de pruebas, **es un instrumento que permite probar el diseño de un circuito sin la necesidad de soldar o desoldar componentes.** Las conexiones en una Protoboard se hacen con solo insertar los componentes lo que permite construir y modificar circuitos con mayor velocidad.
 
@@ -17,7 +17,9 @@ Una Protoboard o tabla de pruebas, **es un instrumento que permite probar el dis
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec008.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec008.JPG)
 
 # ¿Cómo funciona la Protoboard? 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTg1MTQwMSw0NjY1OTkzNiwxMjA5MD
-I4NTEyLC0yNjkwMjA1OTZdfQ==
+eyJoaXN0b3J5IjpbLTE3ODc4MTQ2ODMsNDY2NTk5MzYsMTIwOT
+AyODUxMiwtMjY5MDIwNTk2XX0=
 -->

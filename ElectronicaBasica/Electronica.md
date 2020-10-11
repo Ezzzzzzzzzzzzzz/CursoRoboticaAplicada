@@ -45,7 +45,6 @@ Medido en **voltios (V)**, **el voltaje mide la fuerza que hace que los electron
 
 Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza para medir la electricidad y se define como: **la oposición que se presenta al paso de la corriente**. La unidad que se utiliza para medir la resistencia es el **ohmio (Ω)** y se se representa con la letra **R**.
 
-![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG)
 
 ![](https://www.electrokit.com/uploads/productimage/41011/41011682.png)
 
@@ -54,11 +53,12 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 [Calculadora de resistencias](https://www.toro-valle.com/resistencias/4-bandas.html)
 
 # Ley de Ohm
+![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG)
 
 ![Ley de ohm](https://phet.colorado.edu/sims/cheerpj/battery-resistor-circuit/latest/battery-resistor-circuit.html?simulation=battery-resistor-circuit&locale=es)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzkyNzY2MCwxMzMyMDc2NTU5LC0yMD
-E4NDk5NTIxLC0xODEyNzkzMTUzLC0xNTQ4Mzk3MTY4LC0xMjQ2
-NTc2MTYzLDE5NDQ3OTc1NDEsNDU2MDc1NjkzLC03NDcxNTUyMT
-ksLTIwOTg4OTU3OTksMzcyODAyMTA1XX0=
+eyJoaXN0b3J5IjpbLTE5NjI4MDgzNjQsMTMzMjA3NjU1OSwtMj
+AxODQ5OTUyMSwtMTgxMjc5MzE1MywtMTU0ODM5NzE2OCwtMTI0
+NjU3NjE2MywxOTQ0Nzk3NTQxLDQ1NjA3NTY5MywtNzQ3MTU1Mj
+E5LC0yMDk4ODk1Nzk5LDM3MjgwMjEwNV19
 -->

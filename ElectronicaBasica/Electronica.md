@@ -55,10 +55,10 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 # Ley de Ohm
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG)
 
-![Ley de ohm](https://phet.colorado.edu/sims/cheerpj/battery-resistor-circuit/latest/battery-resistor-circuit.html?simulation=battery-resistor-circuit&locale=es)
+[Ley de ohm](https://phet.colorado.edu/sims/cheerpj/battery-resistor-circuit/latest/battery-resistor-circuit.html?simulation=battery-resistor-circuit&locale=es)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI4MDgzNjQsMTMzMjA3NjU1OSwtMj
-AxODQ5OTUyMSwtMTgxMjc5MzE1MywtMTU0ODM5NzE2OCwtMTI0
-NjU3NjE2MywxOTQ0Nzk3NTQxLDQ1NjA3NTY5MywtNzQ3MTU1Mj
-E5LC0yMDk4ODk1Nzk5LDM3MjgwMjEwNV19
+eyJoaXN0b3J5IjpbLTYwMDY3MTYwNSwxMzMyMDc2NTU5LC0yMD
+E4NDk5NTIxLC0xODEyNzkzMTUzLC0xNTQ4Mzk3MTY4LC0xMjQ2
+NTc2MTYzLDE5NDQ3OTc1NDEsNDU2MDc1NjkzLC03NDcxNTUyMT
+ksLTIwOTg4OTU3OTksMzcyODAyMTA1XX0=
 -->

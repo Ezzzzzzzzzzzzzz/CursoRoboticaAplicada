@@ -47,12 +47,13 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec006.JPG)
 
-
+![](https://www.electrokit.com/uploads/productimage/41011/41011682.png)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTI3OTMxNTMsLTE1NDgzOTcxNjgsLT
-EyNDY1NzYxNjMsMTk0NDc5NzU0MSw0NTYwNzU2OTMsLTc0NzE1
-NTIxOSwtMjA5ODg5NTc5OSwzNzI4MDIxMDVdfQ==
+eyJoaXN0b3J5IjpbLTEwODkxMDY3NjUsLTE4MTI3OTMxNTMsLT
+E1NDgzOTcxNjgsLTEyNDY1NzYxNjMsMTk0NDc5NzU0MSw0NTYw
+NzU2OTMsLTc0NzE1NTIxOSwtMjA5ODg5NTc5OSwzNzI4MDIxMD
+VdfQ==
 -->

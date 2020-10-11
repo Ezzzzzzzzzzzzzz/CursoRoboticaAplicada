@@ -55,9 +55,9 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 
 # Ley de Ohm
 
-![](https://phet.colorado.edu/sims/cheerpj/battery-resistor-circuit/latest/battery-resistor-circuit.html?simulation=battery-resistor-circuit&locale=es)
+![Ley de ohm](https://phet.colorado.edu/sims/cheerpj/battery-resistor-circuit/latest/battery-resistor-circuit.html?simulation=battery-resistor-circuit&locale=es)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTk1MDgxNSwxMzMyMDc2NTU5LC0yMD
+eyJoaXN0b3J5IjpbLTc3MzkyNzY2MCwxMzMyMDc2NTU5LC0yMD
 E4NDk5NTIxLC0xODEyNzkzMTUzLC0xNTQ4Mzk3MTY4LC0xMjQ2
 NTc2MTYzLDE5NDQ3OTc1NDEsNDU2MDc1NjkzLC03NDcxNTUyMT
 ksLTIwOTg4OTU3OTksMzcyODAyMTA1XX0=

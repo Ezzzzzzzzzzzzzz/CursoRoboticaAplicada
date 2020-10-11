@@ -15,7 +15,9 @@ Una Protoboard o tabla de pruebas, **es un instrumento que permite probar el dis
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec007.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec007.JPG)
 
 ![https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec008.JPG](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/ElectronicaBasica/Elec008.JPG)
+
+# ¿Cómo funciona la Protoboard? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2NTk5MzYsMTIwOTAyODUxMiwtMjY5MD
-IwNTk2XX0=
+eyJoaXN0b3J5IjpbMTI2NTg1MTQwMSw0NjY1OTkzNiwxMjA5MD
+I4NTEyLC0yNjkwMjA1OTZdfQ==
 -->

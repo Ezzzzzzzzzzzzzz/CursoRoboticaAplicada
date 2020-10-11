@@ -49,10 +49,9 @@ Las resistencia eléctrica es una de las magnitudes fundamentales que se utiliza
 
 ![](https://www.electrokit.com/uploads/productimage/41011/41011682.png)
 
-
-
+![](https://www.areatecnologia.com/electricidad/imagenes/codigo-colores-resistencias.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkxMDY3NjUsLTE4MTI3OTMxNTMsLT
+eyJoaXN0b3J5IjpbLTIwMTg0OTk1MjEsLTE4MTI3OTMxNTMsLT
 E1NDgzOTcxNjgsLTEyNDY1NzYxNjMsMTk0NDc5NzU0MSw0NTYw
 NzU2OTMsLTc0NzE1NTIxOSwtMjA5ODg5NTc5OSwzNzI4MDIxMD
 VdfQ==

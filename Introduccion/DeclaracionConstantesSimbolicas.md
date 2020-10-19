@@ -4,6 +4,9 @@ Declarar una constante simbólica significa decirle al compilador el nombre de l
 ```c
 #define NOMBRE VALOR
 ```
+### Blockly@rduino 
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Introduccion/capture1603127407281.png)
+
 El siguiente ejemplo declara la **constante real PI** con el valor de **3.14159**, la **constante de un solo carácter NL** con el valor **‘\n’** y la **constante de caracteres MENSAJE** con el valor **“Pulse una tecla para continuar\n”**:
 
 ```c
@@ -15,6 +18,9 @@ El siguiente ejemplo declara la **constante real PI** con el valor de **3.14159*
 
 _Suele ser habitual escribir el nombre de una constante en mayúsculas_.
 
+### Blockly@rduino
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Introduccion/capture1603127676392.png)
+
 # Constantes
 Otra de las características incorporadas por los compiladores es la palabra reservada **const**. _Utilizándola disponemos de una forma adicional para declarar una constante; basta con anteponer el calificador const al nombre de la constante seguido del tipo de la misma_; si el tipo se omite, se supone int. 
 
@@ -23,6 +29,10 @@ Por ejemplo, la siguiente línea declara la constante real **Pi** con el valor *
 const double E = 2.71;
 ```
 **Una vez declarada e iniciada una constante, ya no se puede modificar su valor**. ***Por ello, al declararla debes ser iniciada.***
+
+### Blockly@rduino
+
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Introduccion/capture1603127915590.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMzUwODAwXX0=
+eyJoaXN0b3J5IjpbLTEzNjU1NTI0MjksNDIxMzUwODAwXX0=
 -->

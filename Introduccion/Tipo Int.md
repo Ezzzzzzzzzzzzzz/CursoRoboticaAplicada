@@ -6,6 +6,9 @@ int n = -30;
 int c = 0XF003 // valor en hexadecimal
 ```
 En general, el uso de enteros de cualquier tipo produce un __código compacto__ y __rápido__.
+
+### Blocklyqrduino
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Introduccion/capture1603128301005.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NzE1NzcyXX0=
+eyJoaXN0b3J5IjpbLTcxMjI1NTgyNCwyNDQ3MTU3NzJdfQ==
 -->

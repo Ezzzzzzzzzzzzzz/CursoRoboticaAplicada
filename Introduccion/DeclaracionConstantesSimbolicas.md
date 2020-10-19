@@ -23,6 +23,10 @@ Por ejemplo, la siguiente línea declara la constante real **Pi** con el valor *
 const double E = 2.71;
 ```
 **Una vez declarada e iniciada una constante, ya no se puede modificar su valor**. ***Por ello, al declararla debes ser iniciada.***
+
+### Blockly@rduino
+
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Introduccion/capture1603127915590.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMzUwODAwXX0=
+eyJoaXN0b3J5IjpbODI3ODE1OTQ2LDQyMTM1MDgwMF19
 -->

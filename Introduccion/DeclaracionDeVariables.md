@@ -30,7 +30,7 @@ Una _variable declarada fuera de todo bloque_ se dice que es **global** porque e
 __Según lo expuesto, la variable c es global y las variables y, f y d son locales.__
 
 ### Blockly@rduino
-	
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Introduccion/capture1603128792768.png)
 
 ## Iniciación de una variable
 
@@ -49,7 +49,10 @@ cantidad * precio
 x = 7 * sqrt(t) – x / 2
 ```
 
+### Blockly@rduino
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjY1NTg1NywxODQyMDM0NTA1LC0xOD
-A2ODQ2Nzc1LDEwNTY3OTExMDVdfQ==
+eyJoaXN0b3J5IjpbMTAwMTU0MTU4MCwxMzY4NzcyOTg2LDE2NT
+I2NTU4NTcsMTg0MjAzNDUwNSwtMTgwNjg0Njc3NSwxMDU2Nzkx
+MTA1XX0=
 -->

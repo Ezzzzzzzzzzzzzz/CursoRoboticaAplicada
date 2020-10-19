@@ -29,6 +29,9 @@ Una _variable declarada fuera de todo bloque_ se dice que es **global** porque e
 
 __Según lo expuesto, la variable c es global y las variables y, f y d son locales.__
 
+### Blockly@rduino
+	
+
 ## Iniciación de una variable
 
 Las **variables globales son iniciadas por omisión por el compilador**: las variables numéricas con **0** y los caracteres con **‘/0’**. También pueden ser iniciadas explícitamente, como hemos hecho en el ejemplo anterior con la variable **c**. En cambio, las **variables locales no son inicializadas por el compilador, por lo tanto, depende de nosotros iniciarlas o no**.
@@ -47,5 +50,6 @@ x = 7 * sqrt(t) – x / 2
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY4NDY3NzUsMTA1Njc5MTEwNV19
+eyJoaXN0b3J5IjpbMTY1MjY1NTg1NywxODQyMDM0NTA1LC0xOD
+A2ODQ2Nzc1LDEwNTY3OTExMDVdfQ==
 -->

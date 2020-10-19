@@ -53,8 +53,10 @@ x = 7 * sqrt(t) – x / 2
 
 ### Blockly@rduino
 
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Introduccion/capture1603129827437.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMzY1NDI2LDEwMDE1NDE1ODAsMTM2OD
-c3Mjk4NiwxNjUyNjU1ODU3LDE4NDIwMzQ1MDUsLTE4MDY4NDY3
-NzUsMTA1Njc5MTEwNV19
+eyJoaXN0b3J5IjpbMjA1MzYzODQyMiwtOTkzNDM4ODExLDk3Mj
+M2NTQyNiwxMDAxNTQxNTgwLDEzNjg3NzI5ODYsMTY1MjY1NTg1
+NywxODQyMDM0NTA1LC0xODA2ODQ2Nzc1LDEwNTY3OTExMDVdfQ
+==
 -->

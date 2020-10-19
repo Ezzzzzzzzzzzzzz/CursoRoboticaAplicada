@@ -49,7 +49,10 @@ cantidad * precio
 x = 7 * sqrt(t) – x / 2
 ```
 
+### Blockly@rduino
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODc3Mjk4NiwxNjUyNjU1ODU3LDE4ND
-IwMzQ1MDUsLTE4MDY4NDY3NzUsMTA1Njc5MTEwNV19
+eyJoaXN0b3J5IjpbMTAwMTU0MTU4MCwxMzY4NzcyOTg2LDE2NT
+I2NTU4NTcsMTg0MjAzNDUwNSwtMTgwNjg0Njc3NSwxMDU2Nzkx
+MTA1XX0=
 -->

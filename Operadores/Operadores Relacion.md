@@ -13,6 +13,9 @@ __>=__        | El primer operando **mayor o igual que** el segundo.
 __!=__         | El primer operando **distinto que** el segundo.
 __==__         | El primer operando **igual que** el segundo.
 
+## Blockly@rduino
+
+
 Los operandos tienen que ser de un tipo primitivo. Por ejemplo:
 
 ```c
@@ -23,5 +26,5 @@ y = r != t; // y = 1 (verdadero) porque r no es igual a t
 ```
 Un operador de relación equivale a una pregunta relativa sobre como son dos operandos entre sí. Por ejemplo, la expresión **r == t** equivale a la pregunta **¿x es exactamente igual a y?** Una **respuesta si** equivale a un valor **verdadero (1)** y una **respuesta no** equivale a un valor **falso (0)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMyMDc4MjldfQ==
+eyJoaXN0b3J5IjpbOTI3MTU4MTYyLC0xNTUzMjA3ODI5XX0=
 -->

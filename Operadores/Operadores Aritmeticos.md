@@ -13,6 +13,11 @@ ___*___                   |      ***Multiplicación.***   Los operandos pueden s
 
 ## Blokly@rduino
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604425275195.png)
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604425702232.png)
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604425705226.png)
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604425707958.png)
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604425711898.png)
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604425739277.png)
 
 El siguiente ejemplo muestra cómo utilizar estos operadores.
 ```c
@@ -26,6 +31,10 @@ para ser asignado a y
 n = x / y; // El resultado es 0.666667 de tipo float. Se convierte a int para asignarlo a n (n = 0)
 ```
 Cuando en una operación aritmética los operandos son de diferentes tipos, ambos son convertidos al tipo del operando de precisión más alta.
+
+## Blokly@rduino
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTQxODg4NV19
+eyJoaXN0b3J5IjpbMzUyOTI0MDE2LDE4NjIyMzM0MDIsMTA2MT
+QxODg4NV19
 -->

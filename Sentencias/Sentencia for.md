@@ -15,6 +15,9 @@ La sentencia **for** se evalúa de la siguiente forma:
 
 >b. **Si la condición 1 es falsa respecto a val1**, la sentencia for termina.
 
+## Blockly@rduino
+
+
 Ahora veremos algunos ejemplos, _el primer ejemplo nos imprimirá los valores desde el 0 al 100_, existen dos modos de hacer esto y depende de la **condición 1**.
 ```c 
 for(int i = 0; i <= 100 ; i++){
@@ -40,6 +43,7 @@ for(int i = 100; i >= 1 ; i--){
 Este ejemplo es similar a los anteriores pero al revés, **empieza en el número 100 y se hace un decremento en 1 cuando se evalúa la condición 1**, como en las explicaciones anteriores.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg0MTc3MDIsLTE5MjU4MzExNjAsND
-c5Mjg1Nzg1LC0zNjkyMzM3MjIsLTE4NTE2OTkyNzZdfQ==
+eyJoaXN0b3J5IjpbNjYzMTI1ODY5LC0yMDk4NDE3NzAyLC0xOT
+I1ODMxMTYwLDQ3OTI4NTc4NSwtMzY5MjMzNzIyLC0xODUxNjk5
+Mjc2XX0=
 -->

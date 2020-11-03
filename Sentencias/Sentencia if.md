@@ -12,7 +12,7 @@ Donde la **condición** es una expresión lógica o relacional y **sentencia 1**
 ![](http://robolution.mx/clases/programacion/prpgramacion1.png)
 
 ## Blockly@rduino
-![]()
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/capture1604428356178.png)
 
 Una sentencia **if** se ejecuta de la forma siguiente:
 1. Se evalúa la expresión condición.
@@ -21,7 +21,7 @@ Una sentencia **if** se ejecuta de la forma siguiente:
 4. Si el resultado de la condición es falso y no se ha puesto la cláusula **else**, la **sentencia 1 será ignorada**.
 
 ## Blockly@rduino
-![]()
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/capture1604428399431.png)
 
 ![](http://robolution.mx/clases/programacion/prpgramacion2.png)
 
@@ -39,7 +39,7 @@ else{
 ```
 En este ejemplo, la condición esta impuesta por una expresión de relación. Si al evaluar la condición se cumple que **a es menor que b** (lo cual es falso), entonces **imprimirá** un mensaje el cual es **“a es menor que b”**, **como sabemos que la condición es falsa se ejecuta la sentencia dos que imprime el mensaje “a no es menor que b”**. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTUzMzg5NSwxNTMyMDI2NTEyLDY3NT
-g2ODI2NywtNzUwNDc4NTYyLC02MzUwMjA2ODgsLTExNTI0MjU4
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTIxMzAzMjQxOTIsMjExNTUzMzg5NSwxNT
+MyMDI2NTEyLDY3NTg2ODI2NywtNzUwNDc4NTYyLC02MzUwMjA2
+ODgsLTExNTI0MjU4NDNdfQ==
 -->

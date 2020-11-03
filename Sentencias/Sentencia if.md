@@ -40,9 +40,10 @@ else{
 En este ejemplo, la condición esta impuesta por una expresión de relación. Si al evaluar la condición se cumple que **a es menor que b** (lo cual es falso), entonces **imprimirá** un mensaje el cual es **“a es menor que b”**, **como sabemos que la condición es falsa se ejecuta la sentencia dos que imprime el mensaje “a no es menor que b”**. 
 
 ## Blockly@rduino
-![]()
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/capture1604429254070.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ5MjEwNjUsLTIxMzAzMjQxOTIsMj
-ExNTUzMzg5NSwxNTMyMDI2NTEyLDY3NTg2ODI2NywtNzUwNDc4
-NTYyLC02MzUwMjA2ODgsLTExNTI0MjU4NDNdfQ==
+eyJoaXN0b3J5IjpbLTEzNjYxMTYwMiwtMTU2NDkyMTA2NSwtMj
+EzMDMyNDE5MiwyMTE1NTMzODk1LDE1MzIwMjY1MTIsNjc1ODY4
+MjY3LC03NTA0Nzg1NjIsLTYzNTAyMDY4OCwtMTE1MjQyNTg0M1
+19
 -->

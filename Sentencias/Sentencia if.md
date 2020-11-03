@@ -11,6 +11,9 @@ Donde la **condición** es una expresión lógica o relacional y **sentencia 1**
 
 ![](http://robolution.mx/clases/programacion/prpgramacion1.png)
 
+## Blockly@rduino
+![]()
+
 Una sentencia **if** se ejecuta de la forma siguiente:
 1. Se evalúa la expresión condición.
 2. Si el resultado de la evaluación de la condición es verdadera se ejecutará la **sentencia 1**.
@@ -36,6 +39,7 @@ else{
 ```
 En este ejemplo, la condición esta impuesta por una expresión de relación. Si al evaluar la condición se cumple que **a es menor que b** (lo cual es falso), entonces **imprimirá** un mensaje el cual es **“a es menor que b”**, **como sabemos que la condición es falsa se ejecuta la sentencia dos que imprime el mensaje “a no es menor que b”**. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjAyNjUxMiw2NzU4NjgyNjcsLTc1MD
-Q3ODU2MiwtNjM1MDIwNjg4LC0xMTUyNDI1ODQzXX0=
+eyJoaXN0b3J5IjpbMjExNTUzMzg5NSwxNTMyMDI2NTEyLDY3NT
+g2ODI2NywtNzUwNDc4NTYyLC02MzUwMjA2ODgsLTExNTI0MjU4
+NDNdfQ==
 -->

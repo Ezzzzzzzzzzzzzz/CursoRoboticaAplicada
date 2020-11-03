@@ -37,6 +37,7 @@ for(int i = 0; i < 101 ; i++){
 }
 ```
 La explicación es igual a la anterior solo que en la **condición 1 se evalúa un < explicito**, o sea que imprimirá hasta el número 100, pero **cuando llegue a 101 se detiene la sentencia for**.
+
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/capture1604427906155.png)
 
 ```c 
@@ -45,9 +46,10 @@ for(int i = 100; i >= 1 ; i--){
 }
 ```
 Este ejemplo es similar a los anteriores pero al revés, **empieza en el número 100 y se hace un decremento en 1 cuando se evalúa la condición 1**, como en las explicaciones anteriores.
+
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/capture1604427941534.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzYwODY2NywtNDcwNDM5MTMwLC0yMD
+eyJoaXN0b3J5IjpbMTc1NzMyNTg1MSwtNDcwNDM5MTMwLC0yMD
 k4NDE3NzAyLC0xOTI1ODMxMTYwLDQ3OTI4NTc4NSwtMzY5MjMz
 NzIyLC0xODUxNjk5Mjc2XX0=
 -->

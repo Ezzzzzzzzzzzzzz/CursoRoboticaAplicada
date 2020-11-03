@@ -28,7 +28,7 @@ for(int i = 0; i <= 100 ; i++){
 
 Como podemos ver en este ejemplo la variable **i** comienza en el valor constante **0**, **la primera condición declara que tiene que ser menor o igual a 100**, o sea que llegará al valor a 100, ahora en la **condición 2** que ya se ve vio anteriormente **hace un incremento en 1**. 
 
-![]()
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/capture1604427812445.png)
 
 Ahora en el siguiente ejemplo la **condición 1** cambia pero hace lo mismo que el primer ejemplo.
 ```c
@@ -37,6 +37,9 @@ for(int i = 0; i < 101 ; i++){
 }
 ```
 La explicación es igual a la anterior solo que en la **condición 1 se evalúa un < explicito**, o sea que imprimirá hasta el número 100, pero **cuando llegue a 101 se detiene la sentencia for**.
+
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/capture1604427906155.png)
+
 ```c 
 for(int i = 100; i >= 1 ; i--){
 	printf(“%d”, i);
@@ -44,8 +47,9 @@ for(int i = 100; i >= 1 ; i--){
 ```
 Este ejemplo es similar a los anteriores pero al revés, **empieza en el número 100 y se hace un decremento en 1 cuando se evalúa la condición 1**, como en las explicaciones anteriores.
 
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/capture1604427941534.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDQzOTEzMCwtMjA5ODQxNzcwMiwtMT
-kyNTgzMTE2MCw0NzkyODU3ODUsLTM2OTIzMzcyMiwtMTg1MTY5
-OTI3Nl19
+eyJoaXN0b3J5IjpbMTc1NzMyNTg1MSwtNDcwNDM5MTMwLC0yMD
+k4NDE3NzAyLC0xOTI1ODMxMTYwLDQ3OTI4NTc4NSwtMzY5MjMz
+NzIyLC0xODUxNjk5Mjc2XX0=
 -->

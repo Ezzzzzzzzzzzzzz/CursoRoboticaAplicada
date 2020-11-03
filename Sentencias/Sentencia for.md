@@ -16,7 +16,7 @@ La sentencia **for** se evalúa de la siguiente forma:
 >b. **Si la condición 1 es falsa respecto a val1**, la sentencia for termina.
 
 ## Blockly@rduino
-
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Sentencias/capture1604427641487.png)
 
 Ahora veremos algunos ejemplos, _el primer ejemplo nos imprimirá los valores desde el 0 al 100_, existen dos modos de hacer esto y depende de la **condición 1**.
 ```c 
@@ -27,6 +27,8 @@ for(int i = 0; i <= 100 ; i++){
 ![](https://www.okpedia.it/data/okpedia/algoritmo-funzione-for-linguaggio-c.gif)
 
 Como podemos ver en este ejemplo la variable **i** comienza en el valor constante **0**, **la primera condición declara que tiene que ser menor o igual a 100**, o sea que llegará al valor a 100, ahora en la **condición 2** que ya se ve vio anteriormente **hace un incremento en 1**. 
+
+![]()
 
 Ahora en el siguiente ejemplo la **condición 1** cambia pero hace lo mismo que el primer ejemplo.
 ```c
@@ -43,7 +45,7 @@ for(int i = 100; i >= 1 ; i--){
 Este ejemplo es similar a los anteriores pero al revés, **empieza en el número 100 y se hace un decremento en 1 cuando se evalúa la condición 1**, como en las explicaciones anteriores.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzMTI1ODY5LC0yMDk4NDE3NzAyLC0xOT
-I1ODMxMTYwLDQ3OTI4NTc4NSwtMzY5MjMzNzIyLC0xODUxNjk5
-Mjc2XX0=
+eyJoaXN0b3J5IjpbLTQ3MDQzOTEzMCwtMjA5ODQxNzcwMiwtMT
+kyNTgzMTE2MCw0NzkyODU3ODUsLTM2OTIzMzcyMiwtMTg1MTY5
+OTI3Nl19
 -->

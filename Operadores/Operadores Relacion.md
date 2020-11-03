@@ -27,7 +27,8 @@ y = r != t; // y = 1 (verdadero) porque r no es igual a t
 Un operador de relación equivale a una pregunta relativa sobre como son dos operandos entre sí. Por ejemplo, la expresión **r == t** equivale a la pregunta **¿x es exactamente igual a y?** Una **respuesta si** equivale a un valor **verdadero (1)** y una **respuesta no** equivale a un valor **falso (0)**.
 
 ## Blockly@rduino
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604427191622.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDEzOTkwMzIsLTE1NTMyMDc4MjldfQ
-==
+eyJoaXN0b3J5IjpbNTEwNzgwNjk5LC0xNjAxMzk5MDMyLC0xNT
+UzMjA3ODI5XX0=
 -->

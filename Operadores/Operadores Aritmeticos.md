@@ -26,8 +26,7 @@ float x = 2.0F, y;
 y = x + t; // El resultado es 12.0 de tipo float
 n = t / b; // El resultado es 3 del tipo int
 n = t % b; // El resultado es 1 del tipo int
-y = t / b; // El resultado es 3 de tipo int. Se convierte a float
-para ser asignado a y
+y = t / b; // El resultado es 3 de tipo int. Se convierte a float para ser asignado a y
 n = x / y; // El resultado es 0.666667 de tipo float. Se convierte a int para asignarlo a n (n = 0)
 ```
 Cuando en una operación aritmética los operandos son de diferentes tipos, ambos son convertidos al tipo del operando de precisión más alta.
@@ -35,6 +34,6 @@ Cuando en una operación aritmética los operandos son de diferentes tipos, ambo
 ## Blokly@rduino
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyOTI0MDE2LDE4NjIyMzM0MDIsMTA2MT
-QxODg4NV19
+eyJoaXN0b3J5IjpbLTEzNzI0MTEyMDIsMzUyOTI0MDE2LDE4Nj
+IyMzM0MDIsMTA2MTQxODg4NV19
 -->

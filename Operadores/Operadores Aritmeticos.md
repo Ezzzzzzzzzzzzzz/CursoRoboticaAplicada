@@ -17,7 +17,7 @@ ___*___                   |      ***Multiplicación.***   Los operandos pueden s
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604425705226.png)
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604425707958.png)
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604425711898.png)
-![]()
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604425739277.png)
 El siguiente ejemplo muestra cómo utilizar estos operadores.
 ```c
 int t =10, b = 3, n;
@@ -31,5 +31,5 @@ n = x / y; // El resultado es 0.666667 de tipo float. Se convierte a int para as
 ```
 Cuando en una operación aritmética los operandos son de diferentes tipos, ambos son convertidos al tipo del operando de precisión más alta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjA0MDI3MSwxMDYxNDE4ODg1XX0=
+eyJoaXN0b3J5IjpbLTE3ODIzMDQwODgsMTA2MTQxODg4NV19
 -->

@@ -18,7 +18,8 @@ __==__         | El primer operando **igual que** el segundo.
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604427246708.png)
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604427249579.png)
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604427252528.png)
-![]()
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604427255567.png)
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604427259059.png)
 
 Los operandos tienen que ser de un tipo primitivo. Por ejemplo:
 
@@ -33,6 +34,6 @@ Un operador de relación equivale a una pregunta relativa sobre como son dos ope
 ## Blockly@rduino
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/Operadores/capture1604427191622.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTA2NzU4MCwtMTYwMTM5OTAzMiwtMT
-U1MzIwNzgyOV19
+eyJoaXN0b3J5IjpbLTE4MjQ4NDM1NDYsLTE2MDEzOTkwMzIsLT
+E1NTMyMDc4MjldfQ==
 -->

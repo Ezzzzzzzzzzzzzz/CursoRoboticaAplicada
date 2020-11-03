@@ -25,6 +25,9 @@ y = r > t; // y = 1 (verdadero) porque r es mayor que t
 y = r != t; // y = 1 (verdadero) porque r no es igual a t
 ```
 Un operador de relación equivale a una pregunta relativa sobre como son dos operandos entre sí. Por ejemplo, la expresión **r == t** equivale a la pregunta **¿x es exactamente igual a y?** Una **respuesta si** equivale a un valor **verdadero (1)** y una **respuesta no** equivale a un valor **falso (0)**.
+
+## Blockly@rduino
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg3NzA5LC0xNTUzMjA3ODI5XX0=
+eyJoaXN0b3J5IjpbLTE2MDEzOTkwMzIsLTE1NTMyMDc4MjldfQ
+==
 -->

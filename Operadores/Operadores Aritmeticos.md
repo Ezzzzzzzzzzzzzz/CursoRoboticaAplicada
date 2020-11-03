@@ -31,6 +31,10 @@ para ser asignado a y
 n = x / y; // El resultado es 0.666667 de tipo float. Se convierte a int para asignarlo a n (n = 0)
 ```
 Cuando en una operación aritmética los operandos son de diferentes tipos, ambos son convertidos al tipo del operando de precisión más alta.
+
+## Blokly@rduino
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjIzMzQwMiwxMDYxNDE4ODg1XX0=
+eyJoaXN0b3J5IjpbMzUyOTI0MDE2LDE4NjIyMzM0MDIsMTA2MT
+QxODg4NV19
 -->

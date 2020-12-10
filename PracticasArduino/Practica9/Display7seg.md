@@ -6,15 +6,29 @@ El display de 7 segmentos es un componente que se utiliza para la representació
 
 ![](https://thumbs.gfycat.com/FaroffGratefulAsianlion-size_restricted.gif)
 
-A cada uno de los segmentos que forman el display se les denomina **a**, **b**, **c**, **d**, **e**, **f** y **g**, están ensamblados de forma que se permita activar cada segmento por separado consiguiendo formar cualquier dígito numérico. Muchas veces aparece un octavo segmento denominado **p.d. (punto decimal)**.
+A cada uno de los segmentos que forman el display se les denomina **a**, **b**, **c**, **d**, **e**, **f** y **g**, están ensamblados de forma que se permita activar cada segmento por separa
 
 **Existen dos tipos de display de 7 segmentos:**
 
 - Ánodo común
 -  Cátodo común
+ 
+## Cátodo común 
+
+![](https://hetpro-store.com/TUTORIALES/wp-content/uploads/2018/01/Display-7-segmentos-catodo -consiguiendo formar cualquier dígito numérico. Muchas veces aparece un octavo segmento denominado **p.d. (punto decimal)**.
+
+**Existen dos tipos de display de 7 segmentos:**
+
+- Ánodo común
+-  Cátodo comúnmun-1.jpg)
+
+## Ánodo común
+
+![](https://hetpro-store.com/TUTORIALES/wp-content/uploads/2018/01/Display-7-segmentos-anodo-comun.jpg)
 
 ![](https://http2.mlstatic.com/display-7-segmentos-5611ah-catodo-comun-arduino-pic-arm-avr-D_NQ_NP_835181-MLV25645714860_062017-F.jpg)
  
+
 ![](https://http2.mlstatic.com/display-7-segmentos-1-digito-catodo-comun-rojo-arduino-D_NQ_NP_942204-MLA27477084127_062018-F.jpg)
 
 Como puede ver es muy simple entender los diagramas, en **cátodo común** para que prenda cada uno de los segmentos tiene que enviarse un alto (**HIGH**) y en ánodo común se envía un bajo (**LOW**).
@@ -92,8 +106,8 @@ void loop()
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2NDg5NDQxLC0yMTI4NzI0NzI5LDU3MD
-MzMzc0MSwxNDcxNzIyOTEzLC0yNDY4Nzc4NjcsLTMxNTk1MTIz
-NiwtMTY0NjgxMjg0MCwzNjI2MDAwNzcsLTk3ODIzNjg5NSwxNz
-U4OTAzNzA1XX0=
+eyJoaXN0b3J5IjpbLTIwMTczNzg4MjAsODQ2NDg5NDQxLC0yMT
+I4NzI0NzI5LDU3MDMzMzc0MSwxNDcxNzIyOTEzLC0yNDY4Nzc4
+NjcsLTMxNTk1MTIzNiwtMTY0NjgxMjg0MCwzNjI2MDAwNzcsLT
+k3ODIzNjg5NSwxNzU4OTAzNzA1XX0=
 -->

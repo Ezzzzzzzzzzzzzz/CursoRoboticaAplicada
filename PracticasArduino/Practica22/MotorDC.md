@@ -23,21 +23,23 @@ Es muy importante también considerar la tabla de verdad del puente H la cual se
 | H | L | Gira hacia atrás |
 
 ### Diagrama de conexión 
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica22/Captura.JPG)
 
-
-
+En esta práctica emplearemos un motor DC con un transistor, con el cual también podemos controlar el PWM, pero solo puede ir en una dirección dependiendo de la “polaridad” de los cables del motor, no se entrará en ninguna explicación del código pues ya se vio en control de cargas, solo se explicará un detalle de la parte electrónica, abajo se muestra el código, material y explicación de la práctica.
 
 ## Materiales
 > - 1 Arduino
-> - LED 5 mm
-> - Resistencia 220 Ohm's
+> - Motorreductor Amarillo 6 v
+> - Fuente de poder 6 v, pueden ser 4 pilas AA
+> - TIP 120
+> - Resistencia de 4.7 kOhms
+> - Resistencia de 10 kOhms
+> - Pulsador de 4 pines
+> - 1 Diodo 1N4004
 > - Protoboard 
 > - Jumpers (cables) 
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
 > - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
-
-
-
 
 
 ## Circuito
@@ -52,11 +54,34 @@ Es muy importante también considerar la tabla de verdad del puente H la cual se
 
 ## C ++
 ```c
+//Definimos pines a usar
+#define Motor 2
+#define Pulsador 3
 
+//Variables a usar
+int Push;
+
+void setup() {
+//Configuramos los pines como entrada o salida
+pinMode(Motor, OUTPUT);
+pinMode(Pulsador, INPUT);
+digitalWrite(Motor,LOW);
+}
+
+void loop() {
+Push = digitalRead(Pulsador);
+if (Push == HIGH) {
+	digitalWrite(Motor, HIGH);
+} 
+else {
+	digitalWrite(Motor, LOW);
+}
+}
 ```
 
 ## Explicación 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjY4NzQxNSw3MTg5NTQ4MDFdfQ==
+eyJoaXN0b3J5IjpbLTE1MjQ5ODMzOTEsNzUzNTgwMDQ2LC03Mz
+I2ODc0MTUsNzE4OTU0ODAxXX0=
 -->

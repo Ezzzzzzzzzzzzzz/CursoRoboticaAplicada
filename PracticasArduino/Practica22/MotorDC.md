@@ -16,7 +16,11 @@ La alimentación de los motores o sea el positivo se conecta en el **pin 9, los 
 Es muy importante también considerar la tabla de verdad del puente H la cual se pone más abajo con un diagrama del L293D y su forma de conexión.
 
 | 1A - 4A | 2A - 3A | Función |
-| :--------: | --------- |
+| :--------: | :---------: | :------: |
+| L | H | Gira hacia delante |
+| H | L | Gira hacia atrás |
+
+
 
 
 ## Materiales
@@ -50,5 +54,5 @@ Es muy importante también considerar la tabla de verdad del puente H la cual se
 ## Explicación 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkyNzY1ODYsNzE4OTU0ODAxXX0=
+eyJoaXN0b3J5IjpbLTE5MDc5NDEzODQsNzE4OTU0ODAxXX0=
 -->

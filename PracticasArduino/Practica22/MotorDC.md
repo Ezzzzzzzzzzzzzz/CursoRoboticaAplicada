@@ -29,8 +29,10 @@ En esta práctica emplearemos un motor DC con un transistor, con el cual tambié
 
 ## Materiales
 > - 1 Arduino
-> - Motorreductor 
-> - Resistencia 220 Ohm's
+> - Motorreductor Amarillo 6 v
+> - Fuente de poder 6 v, pueden ser 4 pilas AA
+> - TIP 120
+> - 
 > - Protoboard 
 > - Jumpers (cables) 
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
@@ -58,6 +60,6 @@ En esta práctica emplearemos un motor DC con un transistor, con el cual tambié
 ## Explicación 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDIxNzE4MywtNzMyNjg3NDE1LDcxOD
-k1NDgwMV19
+eyJoaXN0b3J5IjpbLTE0MDQ5NTgxMDAsLTczMjY4NzQxNSw3MT
+g5NTQ4MDFdfQ==
 -->

@@ -83,9 +83,9 @@ else {
 
 El código es bastante simple, debido a que ya se vio todo esto en temas anteriores no se entrará en detalles, lo único que tiene extra es la lectura de un pulsador con una sentencia de control if, para que prenda o no el motor. 
 
-El cambio está en la parte electrónica, lo único diferente a lo ya explicado es que usamos un diodo 1N4004 entre la salida del colector del TIP120 que está unida a un pin del motor y el voltaje de alimentación que está unido al otro pin del motor, esto se hace porque el motor genera un campo electromagnético para que pueda girar. Cuando se deja de alimentar o se le quita el voltaje, este campo se convierte en voltaje y corriente que deben de fluir hacia algún lado, por eso el uso del diodo, gracias a este componente ese flujo no va a ningún lado y no estropeará nuestro Arduino. En la siguiente práctica se muestra también como controlar un motor pero con un puente H.
+El cambio está en la parte electrónica, lo único diferente a lo ya explicado es que usamos un diodo 1N4004 entre la salida del colector del TIP120 que está unida a un pin del motor y el voltaje de alimentación que está unido al otro pin del motor, esto se hace porque el motor genera un campo electromagnético para que pueda girar. Cuando se deja de alimentar o se le quita el voltaje, este campo se convierte en voltaje y corriente que deben de fluir hacia algún lado, por eso el uso del diodo, gracias a este componente ese flujo no va a ningún lado y no estropeará nuestro Arduino. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk4MTE4OTQsOTU3NTgwNTAzLC0xNT
-I0OTgzMzkxLDc1MzU4MDA0NiwtNzMyNjg3NDE1LDcxODk1NDgw
-MV19
+eyJoaXN0b3J5IjpbLTIyOTA4NTY4Myw5NTc1ODA1MDMsLTE1Mj
+Q5ODMzOTEsNzUzNTgwMDQ2LC03MzI2ODc0MTUsNzE4OTU0ODAx
+XX0=
 -->

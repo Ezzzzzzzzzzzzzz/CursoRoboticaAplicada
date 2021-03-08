@@ -26,7 +26,6 @@ Es muy importante también considerar la tabla de verdad del puente H la cual se
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica22/Captura.JPG)
 
 
-
 ## Materiales
 > - 1 Arduino
 > - LED 5 mm
@@ -58,6 +57,6 @@ Es muy importante también considerar la tabla de verdad del puente H la cual se
 ## Explicación 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzIyNTE0NSwtNzMyNjg3NDE1LDcxOD
-k1NDgwMV19
+eyJoaXN0b3J5IjpbNTcxMDQzMzAzLC03MzI2ODc0MTUsNzE4OT
+U0ODAxXX0=
 -->

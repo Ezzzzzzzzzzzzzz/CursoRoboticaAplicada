@@ -2,7 +2,7 @@
 
 ## Motores DC con Arduino
 
-El uso de motores de DC requieren una forma de controlarlos, lo cual puede ser un transistor como vimos en control de cargas, el transistor puede manejar altos voltajes y corrientes, también si quiere un control un poco más preciso es necesario el uso de un puente H, existen dos puentes H muy usados; el L293D y el L298N, el puente H a usar dependerá del voltaje y consumo de corriente de sus motores, en este caso usaremos un motor reductor de 6 voltios y 200mA pico, que es el común amarillo muy usado, a continuación se verá el puente H ya que el uso del transistor ya se vio en temas anteriores.
+El uso de motores de DC requieren una forma de controlarlos, lo cual puede ser un transistor como vimos en control de cargas, el transistor puede manejar altos voltajes y corrientes, también si quiere un control un poco más preciso es necesario el uso de un **puente H**, existen dos puentes H muy usados; el *L293D* y el *L298N*, **el puente H a usar dependerá del voltaje y consumo de corriente de sus motores**, en este caso usaremos un motor reductor de 6 [v] y 200 [mA pico, que es el común amarillo muy usado, a continuación se verá el puente H ya que el uso del transistor ya se vio en temas anteriores.
 
 **Es muy importante que usted escriba el código para que pueda aprender correctamente y se vaya acostumbrando a la programación:**
 
@@ -36,6 +36,6 @@ El uso de motores de DC requieren una forma de controlarlos, lo cual puede ser u
 ## Explicación 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4OTU0ODAxLC0xMzk4NDQ2MTI5LC0xNT
-Q1MDUyNTkzXX0=
+eyJoaXN0b3J5IjpbNzk1NTUzNTc4LDcxODk1NDgwMSwtMTM5OD
+Q0NjEyOSwtMTU0NTA1MjU5M119
 -->

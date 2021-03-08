@@ -32,7 +32,10 @@ En esta práctica emplearemos un motor DC con un transistor, con el cual tambié
 > - Motorreductor Amarillo 6 v
 > - Fuente de poder 6 v, pueden ser 4 pilas AA
 > - TIP 120
-> - 
+> - Resistencia de 4.7 kOhms
+> - Resistencia de 10 kOhms
+> - Pulsador de 4 pines
+> - 1 Diodo 1N4004
 > - Protoboard 
 > - Jumpers (cables) 
 > - [https://www.tinkercad.com/](https://www.tinkercad.com/)
@@ -60,6 +63,6 @@ En esta práctica emplearemos un motor DC con un transistor, con el cual tambié
 ## Explicación 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ5NTgxMDAsLTczMjY4NzQxNSw3MT
-g5NTQ4MDFdfQ==
+eyJoaXN0b3J5IjpbMjE0NzY2MTY4LC03MzI2ODc0MTUsNzE4OT
+U0ODAxXX0=
 -->

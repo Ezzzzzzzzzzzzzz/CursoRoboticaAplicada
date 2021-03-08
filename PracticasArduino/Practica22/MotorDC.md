@@ -54,12 +54,34 @@ En esta práctica emplearemos un motor DC con un transistor, con el cual tambié
 
 ## C ++
 ```c
+//Definimos pines a usar
+#define Motor 2
+#define Pulsador 3
 
+//Variables a usar
+int Push;
+
+void setup() {
+//Configuramos los pines como entrada o salida
+pinMode(Motor, OUTPUT);
+pinMode(Pulsador, INPUT);
+digitalWrite(Motor,LOW);
+}
+
+void loop() {
+Push = digitalRead(Pulsador);
+if (Push == HIGH) {
+	digitalWrite(Motor, HIGH);
+} 
+else {
+	digitalWrite(Motor, LOW);
+}
+}
 ```
 
 ## Explicación 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNTgwMDQ2LC03MzI2ODc0MTUsNzE4OT
-U0ODAxXX0=
+eyJoaXN0b3J5IjpbLTE1MjQ5ODMzOTEsNzUzNTgwMDQ2LC03Mz
+I2ODc0MTUsNzE4OTU0ODAxXX0=
 -->

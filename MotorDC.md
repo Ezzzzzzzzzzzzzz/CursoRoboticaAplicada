@@ -11,7 +11,9 @@ Se recomienda leer como siempre la hoja de datos de este componente (*Datasheet*
 
 El **puente H L293D** soporta **400mA por canal**, o sea **800mA en total y 1000mA pico, la lógica del puente H es de 5 voltios, este voltaje se conecta en el pin 1, 16 y 9**. 
 
-La alimentación de los motores o sea el positivo se conecta en el **pin 9, los pines 4, 5, 12 y 13 van conectados a GND**, recuerde que GND es común así que se conectan tanto el GND del Arduino como el de la alimentación exterior, en los pines 3 y 6 se conecta un motor, en los pines 11 y 14 se conecta un segundo motor y finalmente en los pines 2, 7 y también los pines 10 y 15 se conectan al microcontrolador, esto es para mover el motor, más adelante en la práctica se verá más a fondo.
+La alimentación de los motores o sea el positivo se conecta en el **pin 9, los pines 4, 5, 12 y 13 van conectados a GND**, recuerde que GND es común así que se conectan tanto el GND del Arduino como el de la alimentación exterior, **en los pines 3 y 6 se conecta un motor, en los pines 11 y 14 se conecta un segundo motor y finalmente en los pines 2, 7 y también los pines 10 y 15 se conectan al microcontrolador**, esto es para mover el motor, más adelante en la práctica se verá más a fondo.
+
+
 
 **Es muy importante que usted escriba el código para que pueda aprender correctamente y se vaya acostumbrando a la programación:**
 
@@ -45,6 +47,6 @@ La alimentación de los motores o sea el positivo se conecta en el **pin 9, los 
 ## Explicación 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgzMTgzMyw3MTg5NTQ4MDEsLTEzOT
+eyJoaXN0b3J5IjpbLTY3MDQwODk0OSw3MTg5NTQ4MDEsLTEzOT
 g0NDYxMjksLTE1NDUwNTI1OTNdfQ==
 -->

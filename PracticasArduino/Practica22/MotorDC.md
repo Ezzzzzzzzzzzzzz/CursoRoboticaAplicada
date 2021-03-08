@@ -23,7 +23,7 @@ Es muy importante también considerar la tabla de verdad del puente H la cual se
 | H | L | Gira hacia atrás |
 
 ### Diagrama de conexión 
-
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica22/Captura.JPG)
 
 
 
@@ -58,5 +58,6 @@ Es muy importante también considerar la tabla de verdad del puente H la cual se
 ## Explicación 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjY4NzQxNSw3MTg5NTQ4MDFdfQ==
+eyJoaXN0b3J5IjpbMTA2MzIyNTE0NSwtNzMyNjg3NDE1LDcxOD
+k1NDgwMV19
 -->

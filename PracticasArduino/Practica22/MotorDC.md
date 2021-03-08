@@ -42,9 +42,6 @@ En esta práctica emplearemos un motor DC con un transistor, con el cual tambié
 > - [Blockly@rduino](https://technologiescollege.github.io/Blockly-at-rduino/index.html)
 
 
-
-
-
 ## Circuito
 
 ![BlinkLED](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/BlinkLED.JPG)
@@ -63,6 +60,6 @@ En esta práctica emplearemos un motor DC con un transistor, con el cual tambié
 ## Explicación 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzY2MTY4LC03MzI2ODc0MTUsNzE4OT
+eyJoaXN0b3J5IjpbNzUzNTgwMDQ2LC03MzI2ODc0MTUsNzE4OT
 U0ODAxXX0=
 -->

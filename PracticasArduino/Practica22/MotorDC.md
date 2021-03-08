@@ -44,7 +44,7 @@ En esta práctica emplearemos un motor DC con un transistor, con el cual tambié
 
 ## Circuito
 
-![BlinkLED](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica1/BlinkLED.JPG)
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica22/Captura_2.JPG)
 
 
 ## Blockly@rduino
@@ -82,6 +82,6 @@ else {
 ## Explicación 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ5ODMzOTEsNzUzNTgwMDQ2LC03Mz
-I2ODc0MTUsNzE4OTU0ODAxXX0=
+eyJoaXN0b3J5IjpbOTU3NTgwNTAzLC0xNTI0OTgzMzkxLDc1Mz
+U4MDA0NiwtNzMyNjg3NDE1LDcxODk1NDgwMV19
 -->

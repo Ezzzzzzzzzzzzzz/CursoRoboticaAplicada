@@ -25,10 +25,11 @@ Es muy importante también considerar la tabla de verdad del puente H la cual se
 ### Diagrama de conexión 
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica22/Captura.JPG)
 
+En esta práctica emplearemos un motor DC con un transistor, con el cual también podemos controlar el PWM, pero solo puede ir en una dirección dependiendo de la “polaridad” de los cables del motor, no se entrará en ninguna explicación del código pues ya se vio en control de cargas, solo se explicará un detalle de la parte electrónica, abajo se muestra el código, material y explicación de la práctica.
 
 ## Materiales
 > - 1 Arduino
-> - LED 5 mm
+> - Motorreductor 
 > - Resistencia 220 Ohm's
 > - Protoboard 
 > - Jumpers (cables) 
@@ -57,6 +58,6 @@ Es muy importante también considerar la tabla de verdad del puente H la cual se
 ## Explicación 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMDQzMzAzLC03MzI2ODc0MTUsNzE4OT
-U0ODAxXX0=
+eyJoaXN0b3J5IjpbMTI2NDIxNzE4MywtNzMyNjg3NDE1LDcxOD
+k1NDgwMV19
 -->

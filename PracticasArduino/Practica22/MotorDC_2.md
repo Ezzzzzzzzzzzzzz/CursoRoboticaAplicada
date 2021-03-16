@@ -53,36 +53,60 @@ Es muy importante también considerar la tabla de verdad del puente H la cual se
 ## C ++
 ```c
 //Definimos pines a usar
-#define Motor 2
-#define Pulsador 3
+#define Motor_1 2
+#define Motor_2 3
+
+#define Pulsador_1 4
+#define Pulsador_2 5
 
 //Variables a usar
-int Push;
+int pulsador_UR;
+int pulsador_DR;
 
 void setup() {
 //Configuramos los pines como entrada o salida
-pinMode(Motor, OUTPUT);
-pinMode(Pulsador, INPUT);
-digitalWrite(Motor,LOW);
+pinMode(Motor_1, OUTPUT);
+pinMode(Motor_2, OUTPUT);
+pinMode(Pulsador_1, INPUT);
+pinMode(Pulsador_2, INPUT);
+
+//Iniciamos el motor en apagado
+digitalWrite(Motor_1,LOW);
+digitalWrite(Motor_2,LOW);
 }
 
 void loop() {
-Push = digitalRead(Pulsador);
-if (Push == HIGH) {
-	digitalWrite(Motor, HIGH);
-} 
-else {
-	digitalWrite(Motor, LOW);
-}
+  pulsador_UR = digitalRead(Pulsador_1);
+  pulsador_DR = digitalRead(Pulsador_2);
+  
+  if(pulsador_UR == HIGH){
+    digitalWrite(Motor_1, HIGH);
+    digitalWrite(Motor_2, LOW);  
+  }
+  if(pulsador_DR == HIGH){
+    digitalWrite(Motor_1, LOW);
+    digitalWrite(Motor_2, HIGH);  
+  }
+  if(pulsador_UR == LOW && pulsador_DR == LOW){
+    digitalWrite(Motor_1, LOW);
+    digitalWrite(Motor_2, LOW);  
+  }
 }
 ```
 
 ## Explicación 
 
-El código es bastante simple, debido a que ya se vio todo esto en temas anteriores no se entrará en detalles, lo único que tiene extra es la lectura de un pulsador con una sentencia de control if, para que prenda o no el motor. 
 
-El cambio está en la parte electrónica, lo único diferente a lo ya explicado es que usamos un diodo 1N4004 entre la salida del colector del TIP120 que está unida a un pin del motor y el voltaje de alimentación que está unido al otro pin del motor, esto se hace porque el motor genera un campo electromagnético para que pueda girar. Cuando se deja de alimentar o se le quita el voltaje, este campo se convierte en voltaje y corriente que deben de fluir hacia algún lado, por eso el uso del diodo, gracias a este componente ese flujo no va a ningún lado y no estropeará nuestro Arduino. 
+El código es bastante fácil de entender si ha prestado atención y aprendido los temas anteriores. Se
+definen los pines que se usarán, utilizaremos dos pulsadores; cada uno para cambiar el movimiento del
+motor. En el setup se inicializan los pines, además de enviar un pulso bajo a los pines 2 y 3 para que no
+haya ninguna interferencia de ruido externo. En el loop tenemos tres sentencias if; en la primera si
+presionamos el primer pulsador el motor se moverá a un lado, eso lo hacemos usando el digitalWrite
+además aplicando la tabla de verdad del L293D vista anteriormente, en el segundo if cambiamos la
+dirección del motor, simplemente cambiando el valor del pulso que se envía al motor por los pines 2 y 3
+como usted lo puede notar, y eso se ejecutará cuando presionemos el segundo pulsador. 
+Lo interesante está en el tercer if pues tenemos una operación “Y” con sintaxis en programación “&&”, esto implica que deben ser verdaderas las condiciones antes y después del “&&” para que se ejecuten las sentencias que están dentro del if, se recomienda al lector que investigue la tabla de verdad de la operación conjunción, bueno, esto quiere decir que ambos pulsadores no deben presionarse para que el motor esté apagado, o sea deben enviar un LOW, si una de estas condiciones no se cumple no entra al if.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTY1MDMxNCw0NzI3MDA3ODAsLTEzOT
-gyNzA2ODBdfQ==
+eyJoaXN0b3J5IjpbLTExMTQyMjYwMTYsNDcyNzAwNzgwLC0xMz
+k4MjcwNjgwXX0=
 -->

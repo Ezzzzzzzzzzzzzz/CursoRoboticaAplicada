@@ -4,9 +4,6 @@
 
 El uso de motores de DC requieren una forma de controlarlos, lo cual puede ser un transistor como vimos en control de cargas, el transistor puede manejar altos voltajes y corrientes, también si quiere un control un poco más preciso es necesario el uso de un **puente H**, existen dos puentes H muy usados; el *L293D* y el *L298N*, **el puente H a usar dependerá del voltaje y consumo de corriente de sus motores**, en este caso usaremos un motor reductor de **6 [v]** y **200 [mA]** pico, que es el común amarillo muy usado, a continuación se verá el puente H ya que el uso del transistor ya se vio en temas anteriores.
 
-### Diagrama de conexión 
-![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica22/Captura.JPG)
-
 En esta práctica emplearemos un motor DC con un transistor, con el cual también podemos controlar el PWM, pero solo puede ir en una dirección dependiendo de la “polaridad” de los cables del motor, no se entrará en ninguna explicación del código pues ya se vio en control de cargas, solo se explicará un detalle de la parte electrónica, abajo se muestra el código, material y explicación de la práctica.
 
 ## Materiales
@@ -67,7 +64,7 @@ El código es bastante simple, debido a que ya se vio todo esto en temas anterio
 
 El cambio está en la parte electrónica, lo único diferente a lo ya explicado es que usamos un diodo 1N4004 entre la salida del colector del TIP120 que está unida a un pin del motor y el voltaje de alimentación que está unido al otro pin del motor, esto se hace porque el motor genera un campo electromagnético para que pueda girar. Cuando se deja de alimentar o se le quita el voltaje, este campo se convierte en voltaje y corriente que deben de fluir hacia algún lado, por eso el uso del diodo, gracias a este componente ese flujo no va a ningún lado y no estropeará nuestro Arduino. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODUyNjM5MCwtMjI5MDg1NjgzLDk1Nz
+eyJoaXN0b3J5IjpbMTQ3MDMzNDE3MywtMjI5MDg1NjgzLDk1Nz
 U4MDUwMywtMTUyNDk4MzM5MSw3NTM1ODAwNDYsLTczMjY4NzQx
 NSw3MTg5NTQ4MDFdfQ==
 -->

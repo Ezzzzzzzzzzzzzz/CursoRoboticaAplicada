@@ -45,9 +45,6 @@ Es muy importante también considerar la tabla de verdad del puente H la cual se
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica22/Motor_puenteH.JPG)
 
 
-## Blockly@rduino
-
-
 **Es muy importante que usted escriba el código para que pueda aprender correctamente y se vaya acostumbrando a la programación:**
 
 ## C ++
@@ -99,6 +96,6 @@ void loop() {
 El código es bastante fácil de entender si ha prestado atención y aprendido los temas anteriores. Se definen los pines que se usarán, utilizaremos dos pulsadores; cada uno para cambiar el movimiento del motor. En el *setup* se inicializan los pines, además de enviar un pulso bajo a los pines 2 y 3 para que no haya ninguna interferencia de ruido externo. En el *loop* tenemos tres sentencias **if**; en la primera si presionamos el primer pulsador el motor se moverá a un lado, eso lo hacemos usando el **digitalWrite** además aplicando la tabla de verdad del L293D vista anteriormente, en el segundo **if** cambiamos la dirección del motor, simplemente cambiando el valor del pulso que se envía al motor por los pines 2 y 3 como usted lo puede notar, y eso se ejecutará cuando presionemos el segundo pulsador. 
 Lo interesante está en el tercer **if** pues tenemos una operación **“Y”** con sintaxis en programación **“&&”**, **esto implica que deben ser verdaderas las condiciones antes y después del “&&” para que se ejecuten las sentencias que están dentro del if,** se recomienda al lector que investigue la tabla de verdad de la operación conjunción, bueno, esto quiere decir que ambos pulsadores no deben presionarse para que el motor esté apagado, o sea deben enviar un **LOW**, si una de estas condiciones no se cumple no entra al **if.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDg1NzUyMiw0NzI3MDA3ODAsLTEzOT
-gyNzA2ODBdfQ==
+eyJoaXN0b3J5IjpbLTM2OTE0NDY5OSwyMDAwODU3NTIyLDQ3Mj
+cwMDc4MCwtMTM5ODI3MDY4MF19
 -->

@@ -26,9 +26,6 @@ En esta práctica emplearemos un motor DC con un transistor, con el cual tambié
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica22/Captura_2.JPG)
 
 
-## Blockly@rduino
-
-
 **Es muy importante que usted escriba el código para que pueda aprender correctamente y se vaya acostumbrando a la programación:**
 
 ## C ++
@@ -64,7 +61,7 @@ El código es bastante simple, debido a que ya se vio todo esto en temas anterio
 
 El cambio está en la parte electrónica, lo único diferente a lo ya explicado es que usamos un diodo 1N4004 entre la salida del colector del TIP120 que está unida a un pin del motor y el voltaje de alimentación que está unido al otro pin del motor, esto se hace porque el motor genera un campo electromagnético para que pueda girar. Cuando se deja de alimentar o se le quita el voltaje, este campo se convierte en voltaje y corriente que deben de fluir hacia algún lado, por eso el uso del diodo, gracias a este componente ese flujo no va a ningún lado y no estropeará nuestro Arduino. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwNDE4MjksLTIyOTA4NTY4Myw5NTc1OD
-A1MDMsLTE1MjQ5ODMzOTEsNzUzNTgwMDQ2LC03MzI2ODc0MTUs
-NzE4OTU0ODAxXX0=
+eyJoaXN0b3J5IjpbLTIwNjM4Nzc0NzgsLTIyOTA4NTY4Myw5NT
+c1ODA1MDMsLTE1MjQ5ODMzOTEsNzUzNTgwMDQ2LC03MzI2ODc0
+MTUsNzE4OTU0ODAxXX0=
 -->

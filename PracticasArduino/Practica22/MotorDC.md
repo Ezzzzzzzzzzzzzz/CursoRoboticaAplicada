@@ -49,12 +49,12 @@ digitalWrite(Motor,LOW);
 
 void loop() {
 Push = digitalRead(Pulsador);
-	if (Push == HIGH) {
-		digitalWrite(Motor, HIGH);
-	} 
-	else {
-	digitalWrite(Motor, LOW);
-	}
+  if (Push == HIGH) {
+    digitalWrite(Motor, HIGH);
+  } 
+  else {
+    digitalWrite(Motor, LOW);
+  ]
 }
 ```
 
@@ -64,7 +64,7 @@ El código es bastante simple, debido a que ya se vio todo esto en temas anterio
 
 El cambio está en la parte electrónica, lo único diferente a lo ya explicado es que usamos un diodo 1N4004 entre la salida del colector del TIP120 que está unida a un pin del motor y el voltaje de alimentación que está unido al otro pin del motor, esto se hace porque el motor genera un campo electromagnético para que pueda girar. Cuando se deja de alimentar o se le quita el voltaje, este campo se convierte en voltaje y corriente que deben de fluir hacia algún lado, por eso el uso del diodo, gracias a este componente ese flujo no va a ningún lado y no estropeará nuestro Arduino. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDMzNDE3MywtMjI5MDg1NjgzLDk1Nz
-U4MDUwMywtMTUyNDk4MzM5MSw3NTM1ODAwNDYsLTczMjY4NzQx
-NSw3MTg5NTQ4MDFdfQ==
+eyJoaXN0b3J5IjpbLTEzMzkwNjkxMTUsLTIyOTA4NTY4Myw5NT
+c1ODA1MDMsLTE1MjQ5ODMzOTEsNzUzNTgwMDQ2LC03MzI2ODc0
+MTUsNzE4OTU0ODAxXX0=
 -->

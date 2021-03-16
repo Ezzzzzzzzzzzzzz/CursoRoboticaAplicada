@@ -42,7 +42,7 @@ Es muy importante también considerar la tabla de verdad del puente H la cual se
 
 ## Circuito
 
-![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica22/Captura_2.JPG)
+![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica22/Motor_puenteH.JPG)
 
 
 ## Blockly@rduino
@@ -83,5 +83,6 @@ El código es bastante simple, debido a que ya se vio todo esto en temas anterio
 
 El cambio está en la parte electrónica, lo único diferente a lo ya explicado es que usamos un diodo 1N4004 entre la salida del colector del TIP120 que está unida a un pin del motor y el voltaje de alimentación que está unido al otro pin del motor, esto se hace porque el motor genera un campo electromagnético para que pueda girar. Cuando se deja de alimentar o se le quita el voltaje, este campo se convierte en voltaje y corriente que deben de fluir hacia algún lado, por eso el uso del diodo, gracias a este componente ese flujo no va a ningún lado y no estropeará nuestro Arduino. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyNzAwNzgwLC0xMzk4MjcwNjgwXX0=
+eyJoaXN0b3J5IjpbLTYzNTY1MDMxNCw0NzI3MDA3ODAsLTEzOT
+gyNzA2ODBdfQ==
 -->

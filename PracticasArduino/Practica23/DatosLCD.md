@@ -19,11 +19,6 @@ Como lo dice el título, en esta práctica mostraremos lecturas en nuestra LCD d
 
 ![](https://github.com/Ezzzzzzzzzzzzzz/CursoRoboticaAplicada/blob/master/PracticasArduino/Practica23/DatosenLCD.JPG)
 
-
-## Blockly@rduino
-
-**Es muy importante que usted escriba el código para que pueda aprender correctamente y se vaya acostumbrando a la programación:**
-
 ## C ++
 ```c
 #include<LiquidCrystal.h> //Importa la libreria
@@ -63,5 +58,5 @@ void loop()
 
 El código es bastante simple, primero que nada, incluimos la Liberia de la LCD y se define esta misma, después se definen los pines a utilizar para el sensor ultrasónico y las variables necesarias. En el ***setup*** se inicializa la LCD con `lcd.begin` y también los pines, ya en nuestro ***loop*** se hacen los cálculos para medir la distancia. El uso de la LCD está un poco más abajo, usando `setCursor` queremos que nuestro mensaje aparezca en la primera fila y primera columna, después usamos `lcd.print` e imprimimos **“Distancia”**, volvemos a utilizar `lcd.print` pero ahora pasamos como parámetro la variable `Distancia` a donde se almacena la distancia que nos arroja el sensor ultrasónico, como ven, ahora para imprimir la distancia no usamos *`**setCursor***`, si no se usa la impresión será seguida cuando se definió el primer `setCursor`, después simplemente se usa un **delay** de **10** para tener un tiempo en que cambien las medidas de la distancia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MTYzNjI4LDE0MDAxNzQ0ODBdfQ==
+eyJoaXN0b3J5IjpbLTE2NzA1NzM2NjksMTQwMDE3NDQ4MF19
 -->

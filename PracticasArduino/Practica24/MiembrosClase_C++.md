@@ -8,9 +8,13 @@ Los métodos se declaran y definen de la misma manera que una función cualquier
 
 **Usualmente se hace la declaración de los métodos al interior de la clase, mientras que la definición se hace por fuera de la clase ayudándose del operador de resolución de ámbito `::` para indicar que el método que se está definiendo pertenece a la clase en cuestión.**
 ```c++
-class MiClase {
+class MiClase{
 	int var1; //Variable de clase
-	const double var2 = 3.416; //
+	const double var2 = 3.416; //Variable de clase
+	
+	void cambiarVar1(int a){ //Declaración de un metodo de clase
+		double calcularArea(const double)
+	}
 }
 ```
 
@@ -20,6 +24,6 @@ class MiClase {
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODU3ODU1NiwxMTY0MDYxODkyLC0xMj
+eyJoaXN0b3J5IjpbLTU3NTE5MDAxNSwxMTY0MDYxODkyLC0xMj
 U5NTM3NDQxXX0=
 -->

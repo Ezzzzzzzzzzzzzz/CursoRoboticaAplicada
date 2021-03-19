@@ -39,7 +39,7 @@ Luego, **para declarar un objeto primero se utiliza el nombre de la clase a la q
 ```C++
 MiClase objetoGlobal;
 
-int main(){
+int main() {
 	MiClase objetoLocal;
 }
 ```
@@ -62,5 +62,5 @@ int main(){
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NDc1ODIsLTE1MTczMTY4MzBdfQ==
+eyJoaXN0b3J5IjpbLTc4Nzg0NjUxMCwtMTUxNzMxNjgzMF19
 -->

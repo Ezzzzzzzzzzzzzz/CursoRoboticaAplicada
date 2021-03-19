@@ -29,7 +29,12 @@ class MiClase {
 	//Aqui van los miembros de la clase: Varables y Funciones
 }; //<------ No olvidar el ;
 ```
+Los objetos, tal como se había mencionado con anterioridad, son variables (instancias) del tipo de dato definido por una clase. 
 
+> - Por tanto, los objetos se pueden declarar al interior o por fuera de funciones, tal y como una variable local o global respectivamente. 
+> - Pueden ser declarados como miembros de otras clases, es decir al interior de otras clases. 
+
+Luego, para declarar un objeto primero se utiliza el mobre de la clase a la que pertenece el objeto seguido de un nombre para el objeto y de una lista opcional de inicialización entre paréntesis.
 
  
 
@@ -49,5 +54,6 @@ class MiClase {
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODg1MjY4MywtMTUxNzMxNjgzMF19
+eyJoaXN0b3J5IjpbLTE4NjY5NDIwNjgsLTE1MTczMTY4MzBdfQ
+==
 -->

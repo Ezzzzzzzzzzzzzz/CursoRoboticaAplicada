@@ -18,9 +18,10 @@ Una analogía para entender las clases y los objetos puede ser una fabrica ensam
 > - Hay un **modelo o diseño (clase)** especifico de un auto, pero este modelo en si no es un carro, es solo una descripción de que características y funcionalidades deben tener los carros que sean de ese modelo. 
 > - **Los carros ensamblados en la fabrica de acuerdo a dicho modelo serían los objetos**, es decir entidades tangibles que se construyeron a partir de las descripciones y especificaciones consignadas en el diseño o modelo (o sea la clase).
 | **Clase:** | **Objeto:** |
-| :-----------: | :---------: | ![clase](https://i.pinimg.com/474x/fc/02/a9/fc02a954d72ad6b75828b61f6d316d81.jpg)
+| :-----------: | :---------: | 
+| ![clase](https://i.pinimg.com/474x/fc/02/a9/fc02a954d72ad6b75828b61f6d316d81.jpg) |  
 
-![objeto](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lamborghini-aventador-svj-roadster-1579720277.jpg?crop=0.763xw:0.572xh;0.237xw,0.318xh&resize=640:*)
+![objeto](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lamborghini-aventador-svj-roadster-1579720277.jpg?crop=0.763xw:0.572xh;0.237xw,0.318xh&resize=640:*) |
 
 
 
@@ -38,6 +39,5 @@ Una analogía para entender las clases y los objetos puede ser una fabrica ensam
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDI4MjM4MTEsLTE1MTczMTY4MzBdfQ
-==
+eyJoaXN0b3J5IjpbNTIxMDA3ODcsLTE1MTczMTY4MzBdfQ==
 -->

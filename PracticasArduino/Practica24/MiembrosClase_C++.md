@@ -35,12 +35,14 @@ int main(){
 	double var = miObjeto.calcularArea(34.6, 23.9); //Accediendo a un miembro con el operador punto 
 }
 ```
+### Acceso público (public) y acceso privado (private)
+
 
 
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTU3MjYwMiwtNDc3ODE5NjUsNTgzNj
-UwNzk5LDYzMDg3OTkwOCwtOTA2MzY2MDEzLDExNjQwNjE4OTIs
-LTEyNTk1Mzc0NDFdfQ==
+eyJoaXN0b3J5IjpbOTMzOTg3MjY2LC03NzE1NzI2MDIsLTQ3Nz
+gxOTY1LDU4MzY1MDc5OSw2MzA4Nzk5MDgsLTkwNjM2NjAxMywx
+MTY0MDYxODkyLC0xMjU5NTM3NDQxXX0=
 -->

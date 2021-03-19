@@ -26,7 +26,7 @@ Para declarar una clase en C++ se utiliza la palabra reservada `class`, se da un
 
 ```C++
 class MiClase{
-//Aqui van los miembros de la clase: Varables y Funciones
+	//Aqui van los miembros de la clase: Varables y Funciones
 }; //<------ No olvidar el ;
 ```
 
@@ -49,6 +49,6 @@ class MiClase{
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk4MDg4MTksLTE1MTczMTY4MzBdfQ
+eyJoaXN0b3J5IjpbLTEwNTQwMjM0OTksLTE1MTczMTY4MzBdfQ
 ==
 -->

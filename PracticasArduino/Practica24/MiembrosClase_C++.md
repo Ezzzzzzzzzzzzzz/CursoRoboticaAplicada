@@ -67,10 +67,14 @@ int main(){
 }
 ```
 
+## Métodos Get y Set
+
+
+
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ3OTk3OTgsLTE5NjU5MDE0NzMsOT
-MzOTg3MjY2LC03NzE1NzI2MDIsLTQ3NzgxOTY1LDU4MzY1MDc5
-OSw2MzA4Nzk5MDgsLTkwNjM2NjAxMywxMTY0MDYxODkyLC0xMj
-U5NTM3NDQxXX0=
+eyJoaXN0b3J5IjpbNTA0NDkyMzcyLC0xOTY1OTAxNDczLDkzMz
+k4NzI2NiwtNzcxNTcyNjAyLC00Nzc4MTk2NSw1ODM2NTA3OTks
+NjMwODc5OTA4LC05MDYzNjYwMTMsMTE2NDA2MTg5MiwtMTI1OT
+UzNzQ0MV19
 -->

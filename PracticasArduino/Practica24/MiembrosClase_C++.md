@@ -15,6 +15,7 @@ class MiClase{
 	void cambiarVar1(int a){ //Declaración de un metodo de clase
 		double calcularArea(const double& x, const double& y); //Declaración de un metodo de clase
 };
+
 void MiClase::cambiarVar1(int a){ //Definición del metodo por fuera de la clase
 	var1 = a;
 }
@@ -38,7 +39,7 @@ int main(){
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzgxOTY1LDU4MzY1MDc5OSw2MzA4Nz
-k5MDgsLTkwNjM2NjAxMywxMTY0MDYxODkyLC0xMjU5NTM3NDQx
-XX0=
+eyJoaXN0b3J5IjpbMjA3MzU4NzU1MywtNDc3ODE5NjUsNTgzNj
+UwNzk5LDYzMDg3OTkwOCwtOTA2MzY2MDEzLDExNjQwNjE4OTIs
+LTEyNTk1Mzc0NDFdfQ==
 -->

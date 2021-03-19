@@ -22,13 +22,15 @@ double MiClase::calcularArea(const double& x,const double& y){ //Definición del
 	return x*y*var2;
 }
 ```
+## Encapsulamiento y nivel de acceso a miembros de la clase
 
+El acceso a los miembros de una clase solo puede lograrse a través de una instancia de esa clase, es decir, de un objeto de dicha clase. De modo que para acceder a un miembro en específico de una clase se llama al objeto recién declarado y con ayuda del operador punto `.` se hace el llamado a la variable o método al cual se requiere acceder.
 
 
 
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwODc5OTA4LC05MDYzNjYwMTMsMTE2ND
-A2MTg5MiwtMTI1OTUzNzQ0MV19
+eyJoaXN0b3J5IjpbNTgzNjUwNzk5LDYzMDg3OTkwOCwtOTA2Mz
+Y2MDEzLDExNjQwNjE4OTIsLTEyNTk1Mzc0NDFdfQ==
 -->

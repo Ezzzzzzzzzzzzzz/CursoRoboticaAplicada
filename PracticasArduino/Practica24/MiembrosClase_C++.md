@@ -51,7 +51,12 @@ class MiClase{
 	double calcularArea(const double& x, const double& y); //Acceso público
 };
 
-void MiClase
+void MiClase::cambiarVar1(int a){
+	var1 = a;
+}
+double MiClase::clcularArea(const double& x, const double& y){
+	return x*y*var2;
+}
 ```
 
 
@@ -59,7 +64,7 @@ void MiClase
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDI2MTk4MiwtMTk2NTkwMTQ3Myw5Mz
+eyJoaXN0b3J5IjpbMTczNTIzNDYxMiwtMTk2NTkwMTQ3Myw5Mz
 M5ODcyNjYsLTc3MTU3MjYwMiwtNDc3ODE5NjUsNTgzNjUwNzk5
 LDYzMDg3OTkwOCwtOTA2MzY2MDEzLDExNjQwNjE4OTIsLTEyNT
 k1Mzc0NDFdfQ==

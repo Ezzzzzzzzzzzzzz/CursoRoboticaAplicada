@@ -29,15 +29,16 @@ El acceso a los miembros de una clase solo puede lograrse a través de una insta
 ```c++
 int main(){
 	MiClase miObjeto;	//Declarando un objeto de la clase
-	miObjeto.cambiarVar1(5)
-;}
+	miObjeto.cambiarVar1(5);
+	double var = miObjeto.calcularArea(34.6, 23.9); //Accediendo a un miembro con el operador punto 
+}
 ```
 
 
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM2Mjg2NjMsNTgzNjUwNzk5LDYzMD
-g3OTkwOCwtOTA2MzY2MDEzLDExNjQwNjE4OTIsLTEyNTk1Mzc0
-NDFdfQ==
+eyJoaXN0b3J5IjpbLTQ3NzgxOTY1LDU4MzY1MDc5OSw2MzA4Nz
+k5MDgsLTkwNjM2NjAxMywxMTY0MDYxODkyLC0xMjU5NTM3NDQx
+XX0=
 -->

@@ -36,7 +36,7 @@ int main(){
 }
 ```
 ### Acceso público (public) y acceso privado (private)
-De momento se va a hacer enfasis en los niveles de acceso público y privado. 
+De momento se va a hacer énfasis en los niveles de acceso público y privado. 
 
 >- El nivel de acceso **público** se expresa en la declaración de la clase con la palabra reservada `public` y permite que un miembro de clase sea accedido directamente a través del operador punto, usualmente los métodos de una clase tienen este nivel acceso. 
 >- El nivel de acceso **privado** permite la ocultación de ciertos miembros de la clase y restringe el acceso a dichos miembros a solo otros miembros de la misma clase, es decir solo puede accederse a un miembro privado de una clase mediante un miembro público que acceda directamente a ese miembro. **En este caso, al hacer un llamado directo del miembro privado con el operador punto resultará en un error de compilación de la aplicación.** EL nivel de acceso privado es el nivel de acceso por defecto de los miembros de una clase en C++ y se expresa con el uso de la palabra reservada `private`.
@@ -73,8 +73,8 @@ int main(){
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzUyMzI2MDcsNTA0NDkyMzcyLC0xOT
-Y1OTAxNDczLDkzMzk4NzI2NiwtNzcxNTcyNjAyLC00Nzc4MTk2
-NSw1ODM2NTA3OTksNjMwODc5OTA4LC05MDYzNjYwMTMsMTE2ND
-A2MTg5MiwtMTI1OTUzNzQ0MV19
+eyJoaXN0b3J5IjpbLTEyODg1Nzk1NSwtMjEzNTIzMjYwNyw1MD
+Q0OTIzNzIsLTE5NjU5MDE0NzMsOTMzOTg3MjY2LC03NzE1NzI2
+MDIsLTQ3NzgxOTY1LDU4MzY1MDc5OSw2MzA4Nzk5MDgsLTkwNj
+M2NjAxMywxMTY0MDYxODkyLC0xMjU5NTM3NDQxXX0=
 -->

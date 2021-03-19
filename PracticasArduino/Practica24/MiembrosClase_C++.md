@@ -41,14 +41,20 @@ De momento se va a hacer enfasis en los niveles de acceso público y privado.
 >- El nivel de acceso **público** se expresa en la declaración de la clase con la palabra reservada `public` y permite que un miembro de clase sea accedido directamente a través del operador punto, usualmente los métodos de una clase tienen este nivel acceso. 
 >- El nivel de acceso **privado** permite la ocultación de ciertos miembros de la clase y restringe el acceso a dichos miembros a solo otros miembros de la misma clase, es decir solo puede accederse a un miembro privado de una clase mediante un miembro público que acceda directamente a ese miembro. **En este caso, al hacer un llamado directo del miembro privado con el operador punto resultará en un error de compilación de la aplicación.** EL nivel de acceso privado es el nivel de acceso por defecto de los miembros de una clase en C++ y se expresa con el uso de la palabra reservada `private`.
 
+```c++
+class MiClase{
+	int var1;
+	const double var2 = 
+};
+```
 
 
 
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTk5NDUxNiwtMTk2NTkwMTQ3Myw5Mz
-M5ODcyNjYsLTc3MTU3MjYwMiwtNDc3ODE5NjUsNTgzNjUwNzk5
-LDYzMDg3OTkwOCwtOTA2MzY2MDEzLDExNjQwNjE4OTIsLTEyNT
-k1Mzc0NDFdfQ==
+eyJoaXN0b3J5IjpbLTg3OTUyNjcyLC0xOTY1OTAxNDczLDkzMz
+k4NzI2NiwtNzcxNTcyNjAyLC00Nzc4MTk2NSw1ODM2NTA3OTks
+NjMwODc5OTA4LC05MDYzNjYwMTMsMTE2NDA2MTg5MiwtMTI1OT
+UzNzQ0MV19
 -->

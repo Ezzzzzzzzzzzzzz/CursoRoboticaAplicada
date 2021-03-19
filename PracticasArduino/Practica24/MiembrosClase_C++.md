@@ -43,8 +43,12 @@ De momento se va a hacer enfasis en los niveles de acceso público y privado.
 
 ```c++
 class MiClase{
-	int var1;
-	const double var2 = 
+	int var1; //Acceso privado por defecto
+	const double var2 = 3.14159; //Acceso privado por defecto
+	
+	public: //De aqui en adelante los miembros son públicos a no ser que se exprese lo contrario
+	void cambiarVar
+	
 };
 ```
 
@@ -53,8 +57,8 @@ class MiClase{
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTUyNjcyLC0xOTY1OTAxNDczLDkzMz
-k4NzI2NiwtNzcxNTcyNjAyLC00Nzc4MTk2NSw1ODM2NTA3OTks
-NjMwODc5OTA4LC05MDYzNjYwMTMsMTE2NDA2MTg5MiwtMTI1OT
-UzNzQ0MV19
+eyJoaXN0b3J5IjpbMTYwODIxODMxOCwtMTk2NTkwMTQ3Myw5Mz
+M5ODcyNjYsLTc3MTU3MjYwMiwtNDc3ODE5NjUsNTgzNjUwNzk5
+LDYzMDg3OTkwOCwtOTA2MzY2MDEzLDExNjQwNjE4OTIsLTEyNT
+k1Mzc0NDFdfQ==
 -->

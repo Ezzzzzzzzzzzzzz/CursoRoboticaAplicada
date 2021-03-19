@@ -26,11 +26,18 @@ double MiClase::calcularArea(const double& x,const double& y){ //Definición del
 
 El acceso a los miembros de una clase solo puede lograrse a través de una instancia de esa clase, es decir, de un objeto de dicha clase. De modo que para acceder a un miembro en específico de una clase se llama al objeto recién declarado y con ayuda del operador punto `.` se hace el llamado a la variable o método al cual se requiere acceder.
 
+```c++
+int main(){
+	MiClase miObjeto;	//Declarando un objeto de la clase
+	miObjeto.cambiarVar1(5)
+;}
+```
 
 
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNjUwNzk5LDYzMDg3OTkwOCwtOTA2Mz
-Y2MDEzLDExNjQwNjE4OTIsLTEyNTk1Mzc0NDFdfQ==
+eyJoaXN0b3J5IjpbLTE0MTM2Mjg2NjMsNTgzNjUwNzk5LDYzMD
+g3OTkwOCwtOTA2MzY2MDEzLDExNjQwNjE4OTIsLTEyNTk1Mzc0
+NDFdfQ==
 -->

@@ -24,9 +24,11 @@ Una analogía para entender las clases y los objetos puede ser una fabrica ensam
 
 Para declarar una clase en C++ se utiliza la palabra reservada `class`, se da un nombre a la clase y luego entre llaves se declaran los miembros de la clase. **En general, las clases se declaran en bibliotecas (librerías) individuales cuyo nombre es usualmente el mismo nombre de la clase.**
 
-```c
-
-``
+```C++
+class MiClase{
+//Aqui van los miembros de la clase: Varables y Funciones
+}; //<------ No olvidar el ;
+```
 
 
  
@@ -47,5 +49,6 @@ Para declarar una clase en C++ se utiliza la palabra reservada `class`, se da un
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTkyMjE3MCwtMTUxNzMxNjgzMF19
+eyJoaXN0b3J5IjpbLTExMDk4MDg4MTksLTE1MTczMTY4MzBdfQ
+==
 -->

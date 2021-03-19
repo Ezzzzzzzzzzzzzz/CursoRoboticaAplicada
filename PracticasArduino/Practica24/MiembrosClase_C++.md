@@ -47,9 +47,11 @@ class MiClase{
 	const double var2 = 3.14159; //Acceso privado por defecto
 	
 	public: //De aqui en adelante los miembros son públicos a no ser que se exprese lo contrario
-	void cambiarVar
-	
+	void cambiarVar1(int a); //Acceso publico
+	double calcularArea(const double& x, const double& y); //Acceso público
 };
+
+void MiClase
 ```
 
 
@@ -57,7 +59,7 @@ class MiClase{
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODIxODMxOCwtMTk2NTkwMTQ3Myw5Mz
+eyJoaXN0b3J5IjpbLTU3NDI2MTk4MiwtMTk2NTkwMTQ3Myw5Mz
 M5ODcyNjYsLTc3MTU3MjYwMiwtNDc3ODE5NjUsNTgzNjUwNzk5
 LDYzMDg3OTkwOCwtOTA2MzY2MDEzLDExNjQwNjE4OTIsLTEyNT
 k1Mzc0NDFdfQ==

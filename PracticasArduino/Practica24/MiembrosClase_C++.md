@@ -62,7 +62,8 @@ int main(){
 	MiClase obj;
 	obj.cambiarVar1(100); //Ok!
 	obj.var1 = 200; // Error!!!
-	retun 0;
+	
+	return 0;
 }
 ```
 
@@ -71,7 +72,7 @@ int main(){
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3OTU3MzM4LC0xOTY1OTAxNDczLDkzMz
+eyJoaXN0b3J5IjpbNDIzMjY2MjQwLC0xOTY1OTAxNDczLDkzMz
 k4NzI2NiwtNzcxNTcyNjAyLC00Nzc4MTk2NSw1ODM2NTA3OTks
 NjMwODc5OTA4LC05MDYzNjYwMTMsMTE2NDA2MTg5MiwtMTI1OT
 UzNzQ0MV19

@@ -34,7 +34,12 @@ Los objetos, tal como se había mencionado con anterioridad, son variables (inst
 > - Por tanto, los objetos se pueden declarar al interior o por fuera de funciones, tal y como una variable local o global respectivamente. 
 > - Pueden ser declarados como miembros de otras clases, es decir al interior de otras clases. 
 
-Luego, para declarar un objeto primero se utiliza el mobre de la clase a la que pertenece el objeto seguido de un nombre para el objeto y de una lista opcional de inicialización entre paréntesis.
+Luego, **para declarar un objeto primero se utiliza el nombre de la clase a la que pertenece el objeto seguido de un nombre para el objeto y de una lista opcional de inicialización entre paréntesis**.
+
+```C++
+MiClase objetoGlobal;
+
+```
 
  
 
@@ -54,6 +59,5 @@ Luego, para declarar un objeto primero se utiliza el mobre de la clase a la que 
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY5NDIwNjgsLTE1MTczMTY4MzBdfQ
-==
+eyJoaXN0b3J5IjpbLTYzMTk1OTAwMiwtMTUxNzMxNjgzMF19
 -->

@@ -15,6 +15,12 @@ class MiClase{
 	void cambiarVar1(int a){ //Declaración de un metodo de clase
 		double calcularArea(const double& x, const double& y); //Declaración de un metodo de clase
 };
+void MiClase::cambiarVar1(int a){
+	var1 = a;
+}
+double MiClase::calcularArea(const double& x,onst double ){
+
+}
 ```
 
 
@@ -23,6 +29,6 @@ class MiClase{
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjM2NjAxMywxMTY0MDYxODkyLC0xMj
-U5NTM3NDQxXX0=
+eyJoaXN0b3J5IjpbMTkxNDM3NjEwMywtOTA2MzY2MDEzLDExNj
+QwNjE4OTIsLTEyNTk1Mzc0NDFdfQ==
 -->

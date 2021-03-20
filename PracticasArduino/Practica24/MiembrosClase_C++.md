@@ -71,14 +71,14 @@ int main(){
 **Los métodos `Get` y `Set` son métodos que usualmente se definen para el acceso a una variable privada de la clase, para obtener su estado actual (valor) y para modificarlo respectivamente.**
 
 >- Un método `Get` es por lo general un método con una sola línea de código que retorna el valor actual de la variable privada. Tiene valor de retorno del mismo tipo de la variable en cuestión y en general no tiene parámetros de entrada.
->
+>- Por otra parte, un método `Set` es un método en el cual por lo menos una de las líneas de código modifica directamente el valor de la variable privada. Es poco usual que tenga valor de retorno, pero sí debe tener por lo menos un parámetro de entrada para el valor con el que se modificará la variable.
 
 
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzkzNjIsLTEyODg1Nzk1NSwtMjEzNT
-IzMjYwNyw1MDQ0OTIzNzIsLTE5NjU5MDE0NzMsOTMzOTg3MjY2
-LC03NzE1NzI2MDIsLTQ3NzgxOTY1LDU4MzY1MDc5OSw2MzA4Nz
-k5MDgsLTkwNjM2NjAxMywxMTY0MDYxODkyLC0xMjU5NTM3NDQx
-XX0=
+eyJoaXN0b3J5IjpbMTM4NzU5Mzg3NywtMTI4ODU3OTU1LC0yMT
+M1MjMyNjA3LDUwNDQ5MjM3MiwtMTk2NTkwMTQ3Myw5MzM5ODcy
+NjYsLTc3MTU3MjYwMiwtNDc3ODE5NjUsNTgzNjUwNzk5LDYzMD
+g3OTkwOCwtOTA2MzY2MDEzLDExNjQwNjE4OTIsLTEyNTk1Mzc0
+NDFdfQ==
 -->

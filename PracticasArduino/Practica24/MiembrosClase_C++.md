@@ -74,9 +74,11 @@ int main(){
 >- Por otra parte, un método `Set` es un método en el cual por lo menos una de las líneas de código modifica directamente el valor de la variable privada. Es poco usual que tenga valor de retorno, pero sí debe tener por lo menos un parámetro de entrada para el valor con el que se modificará la variable.
 
 
+
+
 Fuente:[https://www.codingame.com/](https://www.codingame.com/playgrounds/50557/clases-y-objetos-en-c-practica-1/clases-y-objetos-en-c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzU5Mzg3NywtMTI4ODU3OTU1LC0yMT
+eyJoaXN0b3J5IjpbLTIzNTY5NTU1OSwtMTI4ODU3OTU1LC0yMT
 M1MjMyNjA3LDUwNDQ5MjM3MiwtMTk2NTkwMTQ3Myw5MzM5ODcy
 NjYsLTc3MTU3MjYwMiwtNDc3ODE5NjUsNTgzNjUwNzk5LDYzMD
 g3OTkwOCwtOTA2MzY2MDEzLDExNjQwNjE4OTIsLTEyNTk1Mzc0
